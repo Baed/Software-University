@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\17 - Array and List Algorithms - Lab\17_Array_List_Algorithm_Lab\06. InsertionSortUsingList\bin\Debug\_06.InsertionSortUsingList.exe.config
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\17 - Array and List Algorithms - Lab\17_Array_List_Algorithm_Lab\06. InsertionSortUsingList\bin\Debug\_06.InsertionSortUsingList.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\17 - Array and List Algorithms - Lab\17_Array_List_Algorithm_Lab\06. InsertionSortUsingList\bin\Debug\_06.InsertionSortUsingList.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\17 - Array and List Algorithms - Lab\17_Array_List_Algorithm_Lab\06. InsertionSortUsingList\obj\Debug\06. InsertionSortUsingList.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\17 - Array and List Algorithms - Lab\17_Array_List_Algorithm_Lab\06. InsertionSortUsingList\obj\Debug\06. InsertionSortUsingList.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\17 - Array and List Algorithms - Lab\17_Array_List_Algorithm_Lab\06. InsertionSortUsingList\obj\Debug\_06.InsertionSortUsingList.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\17 - Array and List Algorithms - Lab\17_Array_List_Algorithm_Lab\06. InsertionSortUsingList\obj\Debug\_06.InsertionSortUsingList.pdb

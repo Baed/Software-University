@@ -1,0 +1,6 @@
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\16 - Lists - More Exercises\16 - Lists - More Exercises\04. Ununion Lists\bin\Debug\_04.Ununion_Lists.exe.config
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\16 - Lists - More Exercises\16 - Lists - More Exercises\04. Ununion Lists\bin\Debug\_04.Ununion_Lists.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\16 - Lists - More Exercises\16 - Lists - More Exercises\04. Ununion Lists\bin\Debug\_04.Ununion_Lists.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\16 - Lists - More Exercises\16 - Lists - More Exercises\04. Ununion Lists\obj\Debug\04. Ununion Lists.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\16 - Lists - More Exercises\16 - Lists - More Exercises\04. Ununion Lists\obj\Debug\_04.Ununion_Lists.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\16 - Lists - More Exercises\16 - Lists - More Exercises\04. Ununion Lists\obj\Debug\_04.Ununion_Lists.pdb

@@ -1,0 +1,6 @@
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\19 - Array and List Algorithms - More Exercises\19 ArrayListAlgorithmsEx\03. Mirror Image\bin\Debug\_03.Mirror_Image.exe.config
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\19 - Array and List Algorithms - More Exercises\19 ArrayListAlgorithmsEx\03. Mirror Image\bin\Debug\_03.Mirror_Image.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\19 - Array and List Algorithms - More Exercises\19 ArrayListAlgorithmsEx\03. Mirror Image\bin\Debug\_03.Mirror_Image.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\19 - Array and List Algorithms - More Exercises\19 ArrayListAlgorithmsEx\03. Mirror Image\obj\Debug\03. Mirror Image.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\19 - Array and List Algorithms - More Exercises\19 ArrayListAlgorithmsEx\03. Mirror Image\obj\Debug\_03.Mirror_Image.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\19 - Array and List Algorithms - More Exercises\19 ArrayListAlgorithmsEx\03. Mirror Image\obj\Debug\_03.Mirror_Image.pdb

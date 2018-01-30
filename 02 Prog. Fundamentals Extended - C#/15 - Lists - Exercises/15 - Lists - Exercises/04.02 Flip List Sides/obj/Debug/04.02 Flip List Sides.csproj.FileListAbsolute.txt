@@ -1,0 +1,6 @@
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\15 - Lists - Exercises\15 - Lists - Exercises\04.02 Flip List Sides\bin\Debug\04.02 Flip List Sides.exe.config
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\15 - Lists - Exercises\15 - Lists - Exercises\04.02 Flip List Sides\bin\Debug\04.02 Flip List Sides.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\15 - Lists - Exercises\15 - Lists - Exercises\04.02 Flip List Sides\bin\Debug\04.02 Flip List Sides.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\15 - Lists - Exercises\15 - Lists - Exercises\04.02 Flip List Sides\obj\Debug\04.02 Flip List Sides.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\15 - Lists - Exercises\15 - Lists - Exercises\04.02 Flip List Sides\obj\Debug\04.02 Flip List Sides.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\15 - Lists - Exercises\15 - Lists - Exercises\04.02 Flip List Sides\obj\Debug\04.02 Flip List Sides.pdb

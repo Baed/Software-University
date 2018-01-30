@@ -1,0 +1,6 @@
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\17 - Array and List Algorithms - Lab\17_Array_List_Algorithm_Lab\07. Largest N Elements\bin\Debug\_07.Largest_N_Elements.exe.config
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\17 - Array and List Algorithms - Lab\17_Array_List_Algorithm_Lab\07. Largest N Elements\bin\Debug\_07.Largest_N_Elements.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\17 - Array and List Algorithms - Lab\17_Array_List_Algorithm_Lab\07. Largest N Elements\bin\Debug\_07.Largest_N_Elements.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\17 - Array and List Algorithms - Lab\17_Array_List_Algorithm_Lab\07. Largest N Elements\obj\Debug\07. Largest N Elements.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\17 - Array and List Algorithms - Lab\17_Array_List_Algorithm_Lab\07. Largest N Elements\obj\Debug\_07.Largest_N_Elements.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\17 - Array and List Algorithms - Lab\17_Array_List_Algorithm_Lab\07. Largest N Elements\obj\Debug\_07.Largest_N_Elements.pdb

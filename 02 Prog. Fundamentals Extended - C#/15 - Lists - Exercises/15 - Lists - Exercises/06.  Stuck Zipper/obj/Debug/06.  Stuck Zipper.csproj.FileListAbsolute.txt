@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\15 - Lists - Exercises\15 - Lists - Exercises\06.  Stuck Zipper\bin\Debug\_06.Stuck_Zipper.exe.config
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\15 - Lists - Exercises\15 - Lists - Exercises\06.  Stuck Zipper\bin\Debug\_06.Stuck_Zipper.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\15 - Lists - Exercises\15 - Lists - Exercises\06.  Stuck Zipper\bin\Debug\_06.Stuck_Zipper.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\15 - Lists - Exercises\15 - Lists - Exercises\06.  Stuck Zipper\obj\Debug\06.  Stuck Zipper.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\15 - Lists - Exercises\15 - Lists - Exercises\06.  Stuck Zipper\obj\Debug\06.  Stuck Zipper.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\15 - Lists - Exercises\15 - Lists - Exercises\06.  Stuck Zipper\obj\Debug\_06.Stuck_Zipper.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\15 - Lists - Exercises\15 - Lists - Exercises\06.  Stuck Zipper\obj\Debug\_06.Stuck_Zipper.pdb

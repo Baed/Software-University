@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\13 - Arrays - More Exercises\13 Arrays_More Exercises\04. Phone\bin\Debug\_04.Phone.exe.config
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\13 - Arrays - More Exercises\13 Arrays_More Exercises\04. Phone\bin\Debug\_04.Phone.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\13 - Arrays - More Exercises\13 Arrays_More Exercises\04. Phone\bin\Debug\_04.Phone.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\13 - Arrays - More Exercises\13 Arrays_More Exercises\04. Phone\obj\Debug\04. Phone.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\13 - Arrays - More Exercises\13 Arrays_More Exercises\04. Phone\obj\Debug\04. Phone.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\13 - Arrays - More Exercises\13 Arrays_More Exercises\04. Phone\obj\Debug\_04.Phone.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\13 - Arrays - More Exercises\13 Arrays_More Exercises\04. Phone\obj\Debug\_04.Phone.pdb

@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\19 - Array and List Algorithms - More Exercises\19 ArrayListAlgorithmsEx\02. Binary Search\bin\Debug\_02.Binary_Search.exe.config
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\19 - Array and List Algorithms - More Exercises\19 ArrayListAlgorithmsEx\02. Binary Search\bin\Debug\_02.Binary_Search.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\19 - Array and List Algorithms - More Exercises\19 ArrayListAlgorithmsEx\02. Binary Search\bin\Debug\_02.Binary_Search.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\19 - Array and List Algorithms - More Exercises\19 ArrayListAlgorithmsEx\02. Binary Search\obj\Debug\02. Binary Search.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\19 - Array and List Algorithms - More Exercises\19 ArrayListAlgorithmsEx\02. Binary Search\obj\Debug\02. Binary Search.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\19 - Array and List Algorithms - More Exercises\19 ArrayListAlgorithmsEx\02. Binary Search\obj\Debug\_02.Binary_Search.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\19 - Array and List Algorithms - More Exercises\19 ArrayListAlgorithmsEx\02. Binary Search\obj\Debug\_02.Binary_Search.pdb

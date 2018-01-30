@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\15 - Lists - Exercises\15 - Lists - Exercises\02.03 Track Downloader\bin\Debug\02.03 Track Downloader.exe.config
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\15 - Lists - Exercises\15 - Lists - Exercises\02.03 Track Downloader\bin\Debug\02.03 Track Downloader.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\15 - Lists - Exercises\15 - Lists - Exercises\02.03 Track Downloader\bin\Debug\02.03 Track Downloader.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\15 - Lists - Exercises\15 - Lists - Exercises\02.03 Track Downloader\obj\Debug\02.03 Track Downloader.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\15 - Lists - Exercises\15 - Lists - Exercises\02.03 Track Downloader\obj\Debug\02.03 Track Downloader.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\15 - Lists - Exercises\15 - Lists - Exercises\02.03 Track Downloader\obj\Debug\02.03 Track Downloader.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\15 - Lists - Exercises\15 - Lists - Exercises\02.03 Track Downloader\obj\Debug\02.03 Track Downloader.pdb

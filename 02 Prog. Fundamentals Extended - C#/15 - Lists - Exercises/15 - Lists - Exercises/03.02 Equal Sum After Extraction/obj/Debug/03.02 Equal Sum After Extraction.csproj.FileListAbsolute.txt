@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\15 - Lists - Exercises\15 - Lists - Exercises\03.02 Equal Sum After Extraction\bin\Debug\03.02 Equal Sum After Extraction.exe.config
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\15 - Lists - Exercises\15 - Lists - Exercises\03.02 Equal Sum After Extraction\bin\Debug\03.02 Equal Sum After Extraction.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\15 - Lists - Exercises\15 - Lists - Exercises\03.02 Equal Sum After Extraction\bin\Debug\03.02 Equal Sum After Extraction.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\15 - Lists - Exercises\15 - Lists - Exercises\03.02 Equal Sum After Extraction\obj\Debug\03.02 Equal Sum After Extraction.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\15 - Lists - Exercises\15 - Lists - Exercises\03.02 Equal Sum After Extraction\obj\Debug\03.02 Equal Sum After Extraction.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\15 - Lists - Exercises\15 - Lists - Exercises\03.02 Equal Sum After Extraction\obj\Debug\03.02 Equal Sum After Extraction.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\15 - Lists - Exercises\15 - Lists - Exercises\03.02 Equal Sum After Extraction\obj\Debug\03.02 Equal Sum After Extraction.pdb

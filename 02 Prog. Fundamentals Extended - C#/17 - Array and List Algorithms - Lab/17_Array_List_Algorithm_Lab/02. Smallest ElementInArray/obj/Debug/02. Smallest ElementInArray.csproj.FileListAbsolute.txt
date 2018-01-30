@@ -1,0 +1,6 @@
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\17 - Array and List Algorithms - Lab\17_Array_List_Algorithm_Lab\02. Smallest ElementInArray\bin\Debug\_02.Smallest_ElementInArray.exe.config
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\17 - Array and List Algorithms - Lab\17_Array_List_Algorithm_Lab\02. Smallest ElementInArray\bin\Debug\_02.Smallest_ElementInArray.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\17 - Array and List Algorithms - Lab\17_Array_List_Algorithm_Lab\02. Smallest ElementInArray\bin\Debug\_02.Smallest_ElementInArray.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\17 - Array and List Algorithms - Lab\17_Array_List_Algorithm_Lab\02. Smallest ElementInArray\obj\Debug\02. Smallest ElementInArray.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\17 - Array and List Algorithms - Lab\17_Array_List_Algorithm_Lab\02. Smallest ElementInArray\obj\Debug\_02.Smallest_ElementInArray.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\17 - Array and List Algorithms - Lab\17_Array_List_Algorithm_Lab\02. Smallest ElementInArray\obj\Debug\_02.Smallest_ElementInArray.pdb

@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\16 - Lists - More Exercises\16 - Lists - More Exercises\01. Distinct List\bin\Debug\_01.Distinct_List.exe.config
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\16 - Lists - More Exercises\16 - Lists - More Exercises\01. Distinct List\bin\Debug\_01.Distinct_List.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\16 - Lists - More Exercises\16 - Lists - More Exercises\01. Distinct List\bin\Debug\_01.Distinct_List.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\16 - Lists - More Exercises\16 - Lists - More Exercises\01. Distinct List\obj\Debug\01. Distinct List.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\16 - Lists - More Exercises\16 - Lists - More Exercises\01. Distinct List\obj\Debug\01. Distinct List.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\16 - Lists - More Exercises\16 - Lists - More Exercises\01. Distinct List\obj\Debug\_01.Distinct_List.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\16 - Lists - More Exercises\16 - Lists - More Exercises\01. Distinct List\obj\Debug\_01.Distinct_List.pdb
