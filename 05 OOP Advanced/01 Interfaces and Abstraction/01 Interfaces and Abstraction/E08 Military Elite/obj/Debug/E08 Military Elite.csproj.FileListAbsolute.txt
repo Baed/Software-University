@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\05 OOP Advanced\01 Interfaces and Abstraction\01 Interfaces and Abstraction\E08 Military Elite\bin\Debug\E08 Military Elite.exe.config
+C:\My Staff\SoftUni\05 OOP Advanced\01 Interfaces and Abstraction\01 Interfaces and Abstraction\E08 Military Elite\bin\Debug\E08 Military Elite.exe
+C:\My Staff\SoftUni\05 OOP Advanced\01 Interfaces and Abstraction\01 Interfaces and Abstraction\E08 Military Elite\bin\Debug\E08 Military Elite.pdb
+C:\My Staff\SoftUni\05 OOP Advanced\01 Interfaces and Abstraction\01 Interfaces and Abstraction\E08 Military Elite\obj\Debug\E08 Military Elite.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\05 OOP Advanced\01 Interfaces and Abstraction\01 Interfaces and Abstraction\E08 Military Elite\obj\Debug\E08 Military Elite.exe
+C:\My Staff\SoftUni\05 OOP Advanced\01 Interfaces and Abstraction\01 Interfaces and Abstraction\E08 Military Elite\obj\Debug\E08 Military Elite.pdb
+C:\My Staff\SoftUni\05 OOP Advanced\01 Interfaces and Abstraction\01 Interfaces and Abstraction\E08 Military Elite\obj\Debug\E08 Military Elite.csprojResolveAssemblyReference.cache

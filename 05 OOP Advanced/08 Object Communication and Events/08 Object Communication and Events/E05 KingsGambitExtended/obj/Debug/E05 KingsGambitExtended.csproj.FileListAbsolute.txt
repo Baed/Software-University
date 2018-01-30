@@ -1,0 +1,6 @@
+C:\My Staff\SoftUni\05 OOP Advanced\08 Object Communication and Events\08 Object Communication and Events\E05 KingsGambitExtended\bin\Debug\E05 KingsGambitExtended.exe.config
+C:\My Staff\SoftUni\05 OOP Advanced\08 Object Communication and Events\08 Object Communication and Events\E05 KingsGambitExtended\bin\Debug\E05 KingsGambitExtended.exe
+C:\My Staff\SoftUni\05 OOP Advanced\08 Object Communication and Events\08 Object Communication and Events\E05 KingsGambitExtended\bin\Debug\E05 KingsGambitExtended.pdb
+C:\My Staff\SoftUni\05 OOP Advanced\08 Object Communication and Events\08 Object Communication and Events\E05 KingsGambitExtended\obj\Debug\E05 KingsGambitExtended.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\05 OOP Advanced\08 Object Communication and Events\08 Object Communication and Events\E05 KingsGambitExtended\obj\Debug\E05 KingsGambitExtended.exe
+C:\My Staff\SoftUni\05 OOP Advanced\08 Object Communication and Events\08 Object Communication and Events\E05 KingsGambitExtended\obj\Debug\E05 KingsGambitExtended.pdb

@@ -1,0 +1,33 @@
+(snipets)
+
+(lesson_1 - Interfases and Abstraction) 
+
+от Е01 до Е07 не са решени
+
+(lesson_2 - Generics) 
+
+E11 не е решена, подобна на Е10
+
+
+(lesson_3 - Iterator and Comparator)
+
+L01 и L02 не са решени
+
+E01, E02, E05, E06 и Е09 не са решени
+
+(lesson_4 - Enum and Attributes)
+
+E10 и E11 не са решени
+
+(lesson_5 - Reflection)
+
+L02, L03 и L04 не са решени, но в документа са разписани решенията им. 
+
+(lesson_6 - Unit testing)
+
+(lesson_7 - Unit testing)
+
+
+(Exam_preparation)
+
+

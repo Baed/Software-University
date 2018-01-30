@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\05 OOP Advanced\05 Reflection\05 Reflection\L03 Mission Private Impossible\bin\Debug\L03 Mission Private Impossible.exe.config
+C:\My Staff\SoftUni\05 OOP Advanced\05 Reflection\05 Reflection\L03 Mission Private Impossible\bin\Debug\L03 Mission Private Impossible.exe
+C:\My Staff\SoftUni\05 OOP Advanced\05 Reflection\05 Reflection\L03 Mission Private Impossible\bin\Debug\L03 Mission Private Impossible.pdb
+C:\My Staff\SoftUni\05 OOP Advanced\05 Reflection\05 Reflection\L03 Mission Private Impossible\obj\Debug\L03 Mission Private Impossible.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\05 OOP Advanced\05 Reflection\05 Reflection\L03 Mission Private Impossible\obj\Debug\L03 Mission Private Impossible.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\05 OOP Advanced\05 Reflection\05 Reflection\L03 Mission Private Impossible\obj\Debug\L03 Mission Private Impossible.exe
+C:\My Staff\SoftUni\05 OOP Advanced\05 Reflection\05 Reflection\L03 Mission Private Impossible\obj\Debug\L03 Mission Private Impossible.pdb

@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\05 OOP Advanced\02 Generics\02 Generics\E07 Custom List\bin\Debug\E07 Custom List.exe.config
+C:\My Staff\SoftUni\05 OOP Advanced\02 Generics\02 Generics\E07 Custom List\bin\Debug\E07 Custom List.exe
+C:\My Staff\SoftUni\05 OOP Advanced\02 Generics\02 Generics\E07 Custom List\bin\Debug\E07 Custom List.pdb
+C:\My Staff\SoftUni\05 OOP Advanced\02 Generics\02 Generics\E07 Custom List\obj\Debug\E07 Custom List.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\05 OOP Advanced\02 Generics\02 Generics\E07 Custom List\obj\Debug\E07 Custom List.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\05 OOP Advanced\02 Generics\02 Generics\E07 Custom List\obj\Debug\E07 Custom List.exe
+C:\My Staff\SoftUni\05 OOP Advanced\02 Generics\02 Generics\E07 Custom List\obj\Debug\E07 Custom List.pdb

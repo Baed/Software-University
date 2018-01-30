@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\05 OOP Advanced\04 Enums and Attributes\04 Enums and Attributes\E09 Traffic Lights\bin\Debug\E09 Traffic Lights.exe.config
+C:\My Staff\SoftUni\05 OOP Advanced\04 Enums and Attributes\04 Enums and Attributes\E09 Traffic Lights\bin\Debug\E09 Traffic Lights.exe
+C:\My Staff\SoftUni\05 OOP Advanced\04 Enums and Attributes\04 Enums and Attributes\E09 Traffic Lights\bin\Debug\E09 Traffic Lights.pdb
+C:\My Staff\SoftUni\05 OOP Advanced\04 Enums and Attributes\04 Enums and Attributes\E09 Traffic Lights\obj\Debug\E09 Traffic Lights.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\05 OOP Advanced\04 Enums and Attributes\04 Enums and Attributes\E09 Traffic Lights\obj\Debug\E09 Traffic Lights.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\05 OOP Advanced\04 Enums and Attributes\04 Enums and Attributes\E09 Traffic Lights\obj\Debug\E09 Traffic Lights.exe
+C:\My Staff\SoftUni\05 OOP Advanced\04 Enums and Attributes\04 Enums and Attributes\E09 Traffic Lights\obj\Debug\E09 Traffic Lights.pdb

@@ -1,0 +1,1 @@
+G:\SoftUni\SoftUni Work\SoftUniSVN\OOP Advaned Exam\C# Skeleton\RecyclingStation\RecyclingStation\bin\Debug\RecyclingStation.exe.config

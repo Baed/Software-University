@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="_02.Blobs.Entities.Attacks.Attack">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Attacks\Attack.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="_02.Blobs.Entities.Attacks.PutridFart">
+    <Position X="4.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Attacks\PutridFart.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_02.Blobs.Entities.Behaviors.Aggressive">
+    <Position X="0.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAgAAAAABAAAAAAAAgAAAAAABAAAAAAAAAAAAg=</HashCode>
+      <FileName>Entities\Behaviors\Aggressive.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_02.Blobs.Entities.Behaviors.Behavior">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAAAAAAAAAAQAAAAAAAAABAAAg=</HashCode>
+      <FileName>Entities\Behaviors\Behavior.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_02.Blobs.Entities.Blob">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAQCCAKAAAAAAAAUCAAACAQAAIAAAACABIAAAABAAAg=</HashCode>
+      <FileName>Entities\Blob.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_02.Blobs.Program">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="_02.Blobs.Interfaces.IAttack">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IAttack.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="_02.Blobs.Interfaces.IBehavior">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IBehavior.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

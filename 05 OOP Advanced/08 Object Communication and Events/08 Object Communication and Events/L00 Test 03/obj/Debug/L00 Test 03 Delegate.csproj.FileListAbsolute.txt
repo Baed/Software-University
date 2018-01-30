@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\05 OOP Advanced\08 Object Communication and Events\08 Object Communication and Events\L00 Test 03\bin\Debug\L00 Test 03.exe.config
+C:\My Staff\SoftUni\05 OOP Advanced\08 Object Communication and Events\08 Object Communication and Events\L00 Test 03\bin\Debug\L00 Test 03.exe
+C:\My Staff\SoftUni\05 OOP Advanced\08 Object Communication and Events\08 Object Communication and Events\L00 Test 03\bin\Debug\L00 Test 03.pdb
+C:\My Staff\SoftUni\05 OOP Advanced\08 Object Communication and Events\08 Object Communication and Events\L00 Test 03\obj\Debug\L00 Test 03 Delegate.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\05 OOP Advanced\08 Object Communication and Events\08 Object Communication and Events\L00 Test 03\obj\Debug\L00 Test 03 Delegate.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\05 OOP Advanced\08 Object Communication and Events\08 Object Communication and Events\L00 Test 03\obj\Debug\L00 Test 03.exe
+C:\My Staff\SoftUni\05 OOP Advanced\08 Object Communication and Events\08 Object Communication and Events\L00 Test 03\obj\Debug\L00 Test 03.pdb

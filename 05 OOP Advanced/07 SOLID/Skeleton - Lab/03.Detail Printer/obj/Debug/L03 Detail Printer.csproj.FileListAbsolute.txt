@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\05 OOP Advanced\07 SOLID\03.Detail Printer\bin\Debug\03.Detail Printer.exe.config
+C:\My Staff\SoftUni\05 OOP Advanced\07 SOLID\03.Detail Printer\bin\Debug\03.Detail Printer.exe
+C:\My Staff\SoftUni\05 OOP Advanced\07 SOLID\03.Detail Printer\bin\Debug\03.Detail Printer.pdb
+C:\My Staff\SoftUni\05 OOP Advanced\07 SOLID\03.Detail Printer\obj\Debug\L03 Detail Printer.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\05 OOP Advanced\07 SOLID\03.Detail Printer\obj\Debug\L03 Detail Printer.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\05 OOP Advanced\07 SOLID\03.Detail Printer\obj\Debug\03.Detail Printer.exe
+C:\My Staff\SoftUni\05 OOP Advanced\07 SOLID\03.Detail Printer\obj\Debug\03.Detail Printer.pdb

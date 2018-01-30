@@ -1,0 +1,6 @@
+C:\My Staff\SoftUni\05 OOP Advanced\08 Object Communication and Events\08 Object Communication and Events\E04 WorkForce\bin\Debug\E04 WorkForce.exe.config
+C:\My Staff\SoftUni\05 OOP Advanced\08 Object Communication and Events\08 Object Communication and Events\E04 WorkForce\bin\Debug\E04 WorkForce.exe
+C:\My Staff\SoftUni\05 OOP Advanced\08 Object Communication and Events\08 Object Communication and Events\E04 WorkForce\bin\Debug\E04 WorkForce.pdb
+C:\My Staff\SoftUni\05 OOP Advanced\08 Object Communication and Events\08 Object Communication and Events\E04 WorkForce\obj\Debug\E04 WorkForce.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\05 OOP Advanced\08 Object Communication and Events\08 Object Communication and Events\E04 WorkForce\obj\Debug\E04 WorkForce.exe
+C:\My Staff\SoftUni\05 OOP Advanced\08 Object Communication and Events\08 Object Communication and Events\E04 WorkForce\obj\Debug\E04 WorkForce.pdb

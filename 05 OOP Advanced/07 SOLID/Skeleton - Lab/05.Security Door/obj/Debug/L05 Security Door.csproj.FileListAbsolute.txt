@@ -1,0 +1,14 @@
+C:\My Staff\SoftUni\05 OOP Advanced\07 SOLID\05.Security Door\bin\Debug\05.Security Door.exe.config
+C:\My Staff\SoftUni\05 OOP Advanced\07 SOLID\05.Security Door\bin\Debug\05.Security Door.exe
+C:\My Staff\SoftUni\05 OOP Advanced\07 SOLID\05.Security Door\bin\Debug\05.Security Door.pdb
+C:\My Staff\SoftUni\05 OOP Advanced\07 SOLID\05.Security Door\obj\Debug\L05 Security Door.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\05 OOP Advanced\07 SOLID\05.Security Door\obj\Debug\L05 Security Door.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\05 OOP Advanced\07 SOLID\05.Security Door\obj\Debug\05.Security Door.exe
+C:\My Staff\SoftUni\05 OOP Advanced\07 SOLID\05.Security Door\obj\Debug\05.Security Door.pdb
+C:\My Staff\SoftUni\05 OOP Advanced\07 SOLID\Skeleton - Lab\05.Security Door\bin\Debug\05.Security Door.exe.config
+C:\My Staff\SoftUni\05 OOP Advanced\07 SOLID\Skeleton - Lab\05.Security Door\bin\Debug\05.Security Door.exe
+C:\My Staff\SoftUni\05 OOP Advanced\07 SOLID\Skeleton - Lab\05.Security Door\bin\Debug\05.Security Door.pdb
+C:\My Staff\SoftUni\05 OOP Advanced\07 SOLID\Skeleton - Lab\05.Security Door\obj\Debug\L05 Security Door.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\05 OOP Advanced\07 SOLID\Skeleton - Lab\05.Security Door\obj\Debug\L05 Security Door.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\05 OOP Advanced\07 SOLID\Skeleton - Lab\05.Security Door\obj\Debug\05.Security Door.exe
+C:\My Staff\SoftUni\05 OOP Advanced\07 SOLID\Skeleton - Lab\05.Security Door\obj\Debug\05.Security Door.pdb

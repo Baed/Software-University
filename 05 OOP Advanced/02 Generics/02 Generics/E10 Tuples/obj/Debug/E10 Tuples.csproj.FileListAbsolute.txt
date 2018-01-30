@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\05 OOP Advanced\02 Generics\02 Generics\E10 Tuples\bin\Debug\E10 Tuples.exe.config
+C:\My Staff\SoftUni\05 OOP Advanced\02 Generics\02 Generics\E10 Tuples\bin\Debug\E10 Tuples.exe
+C:\My Staff\SoftUni\05 OOP Advanced\02 Generics\02 Generics\E10 Tuples\bin\Debug\E10 Tuples.pdb
+C:\My Staff\SoftUni\05 OOP Advanced\02 Generics\02 Generics\E10 Tuples\obj\Debug\E10 Tuples.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\05 OOP Advanced\02 Generics\02 Generics\E10 Tuples\obj\Debug\E10 Tuples.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\05 OOP Advanced\02 Generics\02 Generics\E10 Tuples\obj\Debug\E10 Tuples.exe
+C:\My Staff\SoftUni\05 OOP Advanced\02 Generics\02 Generics\E10 Tuples\obj\Debug\E10 Tuples.pdb

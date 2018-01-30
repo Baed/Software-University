@@ -1,0 +1,6 @@
+C:\My Staff\SoftUni\05 OOP Advanced\07 SOLID\04.Recharge\obj\Debug\L04 Recharge.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\05 OOP Advanced\07 SOLID\04.Recharge\obj\Debug\L04 Recharge.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\05 OOP Advanced\07 SOLID\04.Recharge\bin\Debug\04.Recharge.dll
+C:\My Staff\SoftUni\05 OOP Advanced\07 SOLID\04.Recharge\bin\Debug\04.Recharge.pdb
+C:\My Staff\SoftUni\05 OOP Advanced\07 SOLID\04.Recharge\obj\Debug\04.Recharge.dll
+C:\My Staff\SoftUni\05 OOP Advanced\07 SOLID\04.Recharge\obj\Debug\04.Recharge.pdb

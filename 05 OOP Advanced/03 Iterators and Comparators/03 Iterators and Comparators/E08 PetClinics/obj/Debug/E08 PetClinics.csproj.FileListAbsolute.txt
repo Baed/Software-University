@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\05 OOP Advanced\03 Iterators and Comparators\03 Iterators and Comparators\E08 PetClinics\obj\Debug\E08 PetClinics.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\05 OOP Advanced\03 Iterators and Comparators\03 Iterators and Comparators\E08 PetClinics\bin\Debug\E08 PetClinics.exe.config
+C:\My Staff\SoftUni\05 OOP Advanced\03 Iterators and Comparators\03 Iterators and Comparators\E08 PetClinics\bin\Debug\E08 PetClinics.exe
+C:\My Staff\SoftUni\05 OOP Advanced\03 Iterators and Comparators\03 Iterators and Comparators\E08 PetClinics\bin\Debug\E08 PetClinics.pdb
+C:\My Staff\SoftUni\05 OOP Advanced\03 Iterators and Comparators\03 Iterators and Comparators\E08 PetClinics\obj\Debug\E08 PetClinics.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\05 OOP Advanced\03 Iterators and Comparators\03 Iterators and Comparators\E08 PetClinics\obj\Debug\E08 PetClinics.exe
+C:\My Staff\SoftUni\05 OOP Advanced\03 Iterators and Comparators\03 Iterators and Comparators\E08 PetClinics\obj\Debug\E08 PetClinics.pdb

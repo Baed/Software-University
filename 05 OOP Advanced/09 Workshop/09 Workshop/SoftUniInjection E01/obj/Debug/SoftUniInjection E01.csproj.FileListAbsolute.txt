@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\05 OOP Advanced\09 Workshop\09 Workshop\SoftUniInjection E01\bin\Debug\SoftUniInjection E01.exe.config
+C:\My Staff\SoftUni\05 OOP Advanced\09 Workshop\09 Workshop\SoftUniInjection E01\bin\Debug\SoftUniInjection E01.exe
+C:\My Staff\SoftUni\05 OOP Advanced\09 Workshop\09 Workshop\SoftUniInjection E01\bin\Debug\SoftUniInjection E01.pdb
+C:\My Staff\SoftUni\05 OOP Advanced\09 Workshop\09 Workshop\SoftUniInjection E01\obj\Debug\SoftUniInjection E01.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\05 OOP Advanced\09 Workshop\09 Workshop\SoftUniInjection E01\obj\Debug\SoftUniInjection E01.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\05 OOP Advanced\09 Workshop\09 Workshop\SoftUniInjection E01\obj\Debug\SoftUniInjection E01.exe
+C:\My Staff\SoftUni\05 OOP Advanced\09 Workshop\09 Workshop\SoftUniInjection E01\obj\Debug\SoftUniInjection E01.pdb
