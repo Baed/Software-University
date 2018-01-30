@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\05 - Conditional Statements and Loops\Cond_Statements_Loops_Lab\03. Back in 30 Minutes\bin\Debug\_03.Back_in_30_Minutes.exe.config
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\05 - Conditional Statements and Loops\Cond_Statements_Loops_Lab\03. Back in 30 Minutes\bin\Debug\_03.Back_in_30_Minutes.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\05 - Conditional Statements and Loops\Cond_Statements_Loops_Lab\03. Back in 30 Minutes\bin\Debug\_03.Back_in_30_Minutes.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\05 - Conditional Statements and Loops\Cond_Statements_Loops_Lab\03. Back in 30 Minutes\obj\Debug\03. Back in 30 Minutes.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\05 - Conditional Statements and Loops\Cond_Statements_Loops_Lab\03. Back in 30 Minutes\obj\Debug\03. Back in 30 Minutes.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\05 - Conditional Statements and Loops\Cond_Statements_Loops_Lab\03. Back in 30 Minutes\obj\Debug\_03.Back_in_30_Minutes.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\05 - Conditional Statements and Loops\Cond_Statements_Loops_Lab\03. Back in 30 Minutes\obj\Debug\_03.Back_in_30_Minutes.pdb

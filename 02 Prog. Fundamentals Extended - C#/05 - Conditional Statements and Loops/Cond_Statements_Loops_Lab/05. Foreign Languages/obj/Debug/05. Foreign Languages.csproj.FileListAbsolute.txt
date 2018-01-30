@@ -1,0 +1,6 @@
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\05 - Conditional Statements and Loops\Cond_Statements_Loops_Lab\05. Foreign Languages\bin\Debug\_05.Foreign_Languages.exe.config
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\05 - Conditional Statements and Loops\Cond_Statements_Loops_Lab\05. Foreign Languages\bin\Debug\_05.Foreign_Languages.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\05 - Conditional Statements and Loops\Cond_Statements_Loops_Lab\05. Foreign Languages\bin\Debug\_05.Foreign_Languages.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\05 - Conditional Statements and Loops\Cond_Statements_Loops_Lab\05. Foreign Languages\obj\Debug\05. Foreign Languages.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\05 - Conditional Statements and Loops\Cond_Statements_Loops_Lab\05. Foreign Languages\obj\Debug\_05.Foreign_Languages.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\05 - Conditional Statements and Loops\Cond_Statements_Loops_Lab\05. Foreign Languages\obj\Debug\_05.Foreign_Languages.pdb
