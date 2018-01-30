@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\24 - Lambda and LINQ - Lab\24 - Lambda and LINQ - Lab\03. Short Words Sorted\bin\Debug\_03.Short_Words_Sorted.exe.config
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\24 - Lambda and LINQ - Lab\24 - Lambda and LINQ - Lab\03. Short Words Sorted\bin\Debug\_03.Short_Words_Sorted.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\24 - Lambda and LINQ - Lab\24 - Lambda and LINQ - Lab\03. Short Words Sorted\bin\Debug\_03.Short_Words_Sorted.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\24 - Lambda and LINQ - Lab\24 - Lambda and LINQ - Lab\03. Short Words Sorted\obj\Debug\03. Short Words Sorted.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\24 - Lambda and LINQ - Lab\24 - Lambda and LINQ - Lab\03. Short Words Sorted\obj\Debug\03. Short Words Sorted.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\24 - Lambda and LINQ - Lab\24 - Lambda and LINQ - Lab\03. Short Words Sorted\obj\Debug\_03.Short_Words_Sorted.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\24 - Lambda and LINQ - Lab\24 - Lambda and LINQ - Lab\03. Short Words Sorted\obj\Debug\_03.Short_Words_Sorted.pdb

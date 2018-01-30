@@ -1,0 +1,6 @@
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\22 - Nested Dictionaries - Lab\22 - Nested Dictionaries_Lab\04. Group_ContinentCountryCity\bin\Debug\_04.Group_ContinentCountryCity.exe.config
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\22 - Nested Dictionaries - Lab\22 - Nested Dictionaries_Lab\04. Group_ContinentCountryCity\bin\Debug\_04.Group_ContinentCountryCity.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\22 - Nested Dictionaries - Lab\22 - Nested Dictionaries_Lab\04. Group_ContinentCountryCity\bin\Debug\_04.Group_ContinentCountryCity.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\22 - Nested Dictionaries - Lab\22 - Nested Dictionaries_Lab\04. Group_ContinentCountryCity\obj\Debug\04. Group_ContinentCountryCity.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\22 - Nested Dictionaries - Lab\22 - Nested Dictionaries_Lab\04. Group_ContinentCountryCity\obj\Debug\_04.Group_ContinentCountryCity.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\22 - Nested Dictionaries - Lab\22 - Nested Dictionaries_Lab\04. Group_ContinentCountryCity\obj\Debug\_04.Group_ContinentCountryCity.pdb

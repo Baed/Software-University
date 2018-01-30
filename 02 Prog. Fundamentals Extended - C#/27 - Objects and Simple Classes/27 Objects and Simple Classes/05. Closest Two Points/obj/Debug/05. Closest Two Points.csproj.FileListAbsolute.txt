@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\27 - Objects and Simple Classes\27 Objects and Simple Classes\05. Closest Two Points\bin\Debug\_05.Closest_Two_Points.exe.config
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\27 - Objects and Simple Classes\27 Objects and Simple Classes\05. Closest Two Points\bin\Debug\_05.Closest_Two_Points.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\27 - Objects and Simple Classes\27 Objects and Simple Classes\05. Closest Two Points\bin\Debug\_05.Closest_Two_Points.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\27 - Objects and Simple Classes\27 Objects and Simple Classes\05. Closest Two Points\obj\Debug\05. Closest Two Points.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\27 - Objects and Simple Classes\27 Objects and Simple Classes\05. Closest Two Points\obj\Debug\05. Closest Two Points.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\27 - Objects and Simple Classes\27 Objects and Simple Classes\05. Closest Two Points\obj\Debug\_05.Closest_Two_Points.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\27 - Objects and Simple Classes\27 Objects and Simple Classes\05. Closest Two Points\obj\Debug\_05.Closest_Two_Points.pdb

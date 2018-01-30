@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\27 - Objects and Simple Classes\27 Objects and Simple Classes\04. Distance between Points\bin\Debug\_04.Distance_between_Points.exe.config
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\27 - Objects and Simple Classes\27 Objects and Simple Classes\04. Distance between Points\bin\Debug\_04.Distance_between_Points.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\27 - Objects and Simple Classes\27 Objects and Simple Classes\04. Distance between Points\bin\Debug\_04.Distance_between_Points.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\27 - Objects and Simple Classes\27 Objects and Simple Classes\04. Distance between Points\obj\Debug\04. Distance between Points.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\27 - Objects and Simple Classes\27 Objects and Simple Classes\04. Distance between Points\obj\Debug\04. Distance between Points.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\27 - Objects and Simple Classes\27 Objects and Simple Classes\04. Distance between Points\obj\Debug\_04.Distance_between_Points.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\27 - Objects and Simple Classes\27 Objects and Simple Classes\04. Distance between Points\obj\Debug\_04.Distance_between_Points.pdb

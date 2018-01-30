@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\23 - Nested Dictionaries - Exercises\23 NestedDictionariesExerc\05. Dict-Ref-Advanced\bin\Debug\_05.Dict_Ref_Advanced.exe.config
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\23 - Nested Dictionaries - Exercises\23 NestedDictionariesExerc\05. Dict-Ref-Advanced\bin\Debug\_05.Dict_Ref_Advanced.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\23 - Nested Dictionaries - Exercises\23 NestedDictionariesExerc\05. Dict-Ref-Advanced\bin\Debug\_05.Dict_Ref_Advanced.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\23 - Nested Dictionaries - Exercises\23 NestedDictionariesExerc\05. Dict-Ref-Advanced\obj\Debug\05. Dict-Ref-Advanced.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\23 - Nested Dictionaries - Exercises\23 NestedDictionariesExerc\05. Dict-Ref-Advanced\obj\Debug\05. Dict-Ref-Advanced.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\23 - Nested Dictionaries - Exercises\23 NestedDictionariesExerc\05. Dict-Ref-Advanced\obj\Debug\_05.Dict_Ref_Advanced.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\23 - Nested Dictionaries - Exercises\23 NestedDictionariesExerc\05. Dict-Ref-Advanced\obj\Debug\_05.Dict_Ref_Advanced.pdb

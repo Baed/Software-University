@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\24 - Lambda and LINQ - Lab\25 Lambda and LINQ - Exercises\06. CottageScraper\bin\Debug\_06.CottageScraper.exe.config
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\24 - Lambda and LINQ - Lab\25 Lambda and LINQ - Exercises\06. CottageScraper\bin\Debug\_06.CottageScraper.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\24 - Lambda and LINQ - Lab\25 Lambda and LINQ - Exercises\06. CottageScraper\bin\Debug\_06.CottageScraper.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\24 - Lambda and LINQ - Lab\25 Lambda and LINQ - Exercises\06. CottageScraper\obj\Debug\06. CottageScraper.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\24 - Lambda and LINQ - Lab\25 Lambda and LINQ - Exercises\06. CottageScraper\obj\Debug\06. CottageScraper.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\24 - Lambda and LINQ - Lab\25 Lambda and LINQ - Exercises\06. CottageScraper\obj\Debug\_06.CottageScraper.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\24 - Lambda and LINQ - Lab\25 Lambda and LINQ - Exercises\06. CottageScraper\obj\Debug\_06.CottageScraper.pdb

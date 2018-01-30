@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\26 - Lambda and LINQ - More Exercises\26 LambdaLINQMore Exercises\06. Ordered Banking System\bin\Debug\_06.Ordered_Banking_System.exe.config
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\26 - Lambda and LINQ - More Exercises\26 LambdaLINQMore Exercises\06. Ordered Banking System\bin\Debug\_06.Ordered_Banking_System.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\26 - Lambda and LINQ - More Exercises\26 LambdaLINQMore Exercises\06. Ordered Banking System\bin\Debug\_06.Ordered_Banking_System.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\26 - Lambda and LINQ - More Exercises\26 LambdaLINQMore Exercises\06. Ordered Banking System\obj\Debug\06. Ordered Banking System.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\26 - Lambda and LINQ - More Exercises\26 LambdaLINQMore Exercises\06. Ordered Banking System\obj\Debug\06. Ordered Banking System.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\26 - Lambda and LINQ - More Exercises\26 LambdaLINQMore Exercises\06. Ordered Banking System\obj\Debug\_06.Ordered_Banking_System.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\26 - Lambda and LINQ - More Exercises\26 LambdaLINQMore Exercises\06. Ordered Banking System\obj\Debug\_06.Ordered_Banking_System.pdb

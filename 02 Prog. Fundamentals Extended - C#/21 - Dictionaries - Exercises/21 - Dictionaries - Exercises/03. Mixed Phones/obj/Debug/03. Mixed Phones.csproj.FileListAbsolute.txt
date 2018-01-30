@@ -1,0 +1,6 @@
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\21 - Dictionaries - Exercises\21 - Dictionaries - Exercises\03. Mixed Phones\bin\Debug\_03.Mixed_Phones.exe.config
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\21 - Dictionaries - Exercises\21 - Dictionaries - Exercises\03. Mixed Phones\bin\Debug\_03.Mixed_Phones.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\21 - Dictionaries - Exercises\21 - Dictionaries - Exercises\03. Mixed Phones\bin\Debug\_03.Mixed_Phones.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\21 - Dictionaries - Exercises\21 - Dictionaries - Exercises\03. Mixed Phones\obj\Debug\03. Mixed Phones.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\21 - Dictionaries - Exercises\21 - Dictionaries - Exercises\03. Mixed Phones\obj\Debug\_03.Mixed_Phones.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\21 - Dictionaries - Exercises\21 - Dictionaries - Exercises\03. Mixed Phones\obj\Debug\_03.Mixed_Phones.pdb
