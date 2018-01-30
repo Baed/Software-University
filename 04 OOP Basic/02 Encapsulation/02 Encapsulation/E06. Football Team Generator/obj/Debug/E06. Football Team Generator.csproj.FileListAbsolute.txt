@@ -1,0 +1,6 @@
+C:\My Staff\SoftUni\04 OOP Basic\02 Encapsulation\02 Encapsulation\E06. Football Team Generator\bin\Debug\E06.Football_Team_Generator.exe.config
+C:\My Staff\SoftUni\04 OOP Basic\02 Encapsulation\02 Encapsulation\E06. Football Team Generator\bin\Debug\E06.Football_Team_Generator.exe
+C:\My Staff\SoftUni\04 OOP Basic\02 Encapsulation\02 Encapsulation\E06. Football Team Generator\bin\Debug\E06.Football_Team_Generator.pdb
+C:\My Staff\SoftUni\04 OOP Basic\02 Encapsulation\02 Encapsulation\E06. Football Team Generator\obj\Debug\E06. Football Team Generator.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\04 OOP Basic\02 Encapsulation\02 Encapsulation\E06. Football Team Generator\obj\Debug\E06.Football_Team_Generator.exe
+C:\My Staff\SoftUni\04 OOP Basic\02 Encapsulation\02 Encapsulation\E06. Football Team Generator\obj\Debug\E06.Football_Team_Generator.pdb

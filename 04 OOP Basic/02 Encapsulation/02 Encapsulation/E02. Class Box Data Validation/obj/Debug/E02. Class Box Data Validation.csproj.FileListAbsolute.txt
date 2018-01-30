@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\04 OOP Basic\02 Encapsulation\02 Encapsulation\E02. Class Box Data Validation\bin\Debug\E02.Class_Box_Data_Validation.exe.config
+C:\My Staff\SoftUni\04 OOP Basic\02 Encapsulation\02 Encapsulation\E02. Class Box Data Validation\bin\Debug\E02.Class_Box_Data_Validation.exe
+C:\My Staff\SoftUni\04 OOP Basic\02 Encapsulation\02 Encapsulation\E02. Class Box Data Validation\bin\Debug\E02.Class_Box_Data_Validation.pdb
+C:\My Staff\SoftUni\04 OOP Basic\02 Encapsulation\02 Encapsulation\E02. Class Box Data Validation\obj\Debug\E02. Class Box Data Validation.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\04 OOP Basic\02 Encapsulation\02 Encapsulation\E02. Class Box Data Validation\obj\Debug\E02. Class Box Data Validation.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\04 OOP Basic\02 Encapsulation\02 Encapsulation\E02. Class Box Data Validation\obj\Debug\E02.Class_Box_Data_Validation.exe
+C:\My Staff\SoftUni\04 OOP Basic\02 Encapsulation\02 Encapsulation\E02. Class Box Data Validation\obj\Debug\E02.Class_Box_Data_Validation.pdb

@@ -1,0 +1,6 @@
+C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\E10. Car Salesman\bin\Debug\E10.Car_Salesman.exe.config
+C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\E10. Car Salesman\bin\Debug\E10.Car_Salesman.exe
+C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\E10. Car Salesman\bin\Debug\E10.Car_Salesman.pdb
+C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\E10. Car Salesman\obj\Debug\E10. Car Salesman.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\E10. Car Salesman\obj\Debug\E10.Car_Salesman.exe
+C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\E10. Car Salesman\obj\Debug\E10.Car_Salesman.pdb

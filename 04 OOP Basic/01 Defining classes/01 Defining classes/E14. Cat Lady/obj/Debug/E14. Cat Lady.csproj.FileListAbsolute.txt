@@ -1,0 +1,6 @@
+C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\E14. Cat Lady\bin\Debug\E14.Cat_Lady.exe.config
+C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\E14. Cat Lady\bin\Debug\E14.Cat_Lady.exe
+C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\E14. Cat Lady\bin\Debug\E14.Cat_Lady.pdb
+C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\E14. Cat Lady\obj\Debug\E14. Cat Lady.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\E14. Cat Lady\obj\Debug\E14.Cat_Lady.exe
+C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\E14. Cat Lady\obj\Debug\E14.Cat_Lady.pdb

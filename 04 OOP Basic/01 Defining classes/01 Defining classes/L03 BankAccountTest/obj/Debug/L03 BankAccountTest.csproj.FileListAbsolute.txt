@@ -1,0 +1,6 @@
+C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\L03 BankAccountTest\bin\Debug\L03 BankAccountTest.exe.config
+C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\L03 BankAccountTest\bin\Debug\L03 BankAccountTest.exe
+C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\L03 BankAccountTest\bin\Debug\L03 BankAccountTest.pdb
+C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\L03 BankAccountTest\obj\Debug\L03 BankAccountTest.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\L03 BankAccountTest\obj\Debug\L03 BankAccountTest.exe
+C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\L03 BankAccountTest\obj\Debug\L03 BankAccountTest.pdb

@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\04 OOP Basic\02 Encapsulation\02 Encapsulation\E05. Pizza Calories\bin\Debug\E05.Pizza_Calories.exe.config
+C:\My Staff\SoftUni\04 OOP Basic\02 Encapsulation\02 Encapsulation\E05. Pizza Calories\bin\Debug\E05.Pizza_Calories.exe
+C:\My Staff\SoftUni\04 OOP Basic\02 Encapsulation\02 Encapsulation\E05. Pizza Calories\bin\Debug\E05.Pizza_Calories.pdb
+C:\My Staff\SoftUni\04 OOP Basic\02 Encapsulation\02 Encapsulation\E05. Pizza Calories\obj\Debug\E05. Pizza Calories.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\04 OOP Basic\02 Encapsulation\02 Encapsulation\E05. Pizza Calories\obj\Debug\E05.Pizza_Calories.exe
+C:\My Staff\SoftUni\04 OOP Basic\02 Encapsulation\02 Encapsulation\E05. Pizza Calories\obj\Debug\E05.Pizza_Calories.pdb
+C:\My Staff\SoftUni\04 OOP Basic\02 Encapsulation\02 Encapsulation\E05. Pizza Calories\obj\Debug\E05. Pizza Calories.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\04 OOP Basic\02 Encapsulation\02 Encapsulation\E03. Animal Farm\bin\Debug\E03.Animal_Farm.exe.config
+C:\My Staff\SoftUni\04 OOP Basic\02 Encapsulation\02 Encapsulation\E03. Animal Farm\bin\Debug\E03.Animal_Farm.exe
+C:\My Staff\SoftUni\04 OOP Basic\02 Encapsulation\02 Encapsulation\E03. Animal Farm\bin\Debug\E03.Animal_Farm.pdb
+C:\My Staff\SoftUni\04 OOP Basic\02 Encapsulation\02 Encapsulation\E03. Animal Farm\obj\Debug\E03. Animal Farm.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\04 OOP Basic\02 Encapsulation\02 Encapsulation\E03. Animal Farm\obj\Debug\E03. Animal Farm.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\04 OOP Basic\02 Encapsulation\02 Encapsulation\E03. Animal Farm\obj\Debug\E03.Animal_Farm.exe
+C:\My Staff\SoftUni\04 OOP Basic\02 Encapsulation\02 Encapsulation\E03. Animal Farm\obj\Debug\E03.Animal_Farm.pdb

@@ -1,0 +1,6 @@
+C:\My Staff\SoftUni\04 OOP Basic\02 Encapsulation\02 Encapsulation\L04 Team\bin\Debug\L04 Team.exe.config
+C:\My Staff\SoftUni\04 OOP Basic\02 Encapsulation\02 Encapsulation\L04 Team\bin\Debug\L04 Team.exe
+C:\My Staff\SoftUni\04 OOP Basic\02 Encapsulation\02 Encapsulation\L04 Team\bin\Debug\L04 Team.pdb
+C:\My Staff\SoftUni\04 OOP Basic\02 Encapsulation\02 Encapsulation\L04 Team\obj\Debug\L04 Team.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\04 OOP Basic\02 Encapsulation\02 Encapsulation\L04 Team\obj\Debug\L04 Team.exe
+C:\My Staff\SoftUni\04 OOP Basic\02 Encapsulation\02 Encapsulation\L04 Team\obj\Debug\L04 Team.pdb

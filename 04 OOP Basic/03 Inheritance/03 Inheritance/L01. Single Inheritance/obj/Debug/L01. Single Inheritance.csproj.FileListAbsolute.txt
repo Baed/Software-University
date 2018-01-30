@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\04 OOP Basic\03 Inheritance\03 Inheritance\L01. Single Inheritance\bin\Debug\L01.Single_Inheritance.exe.config
+C:\My Staff\SoftUni\04 OOP Basic\03 Inheritance\03 Inheritance\L01. Single Inheritance\bin\Debug\L01.Single_Inheritance.exe
+C:\My Staff\SoftUni\04 OOP Basic\03 Inheritance\03 Inheritance\L01. Single Inheritance\bin\Debug\L01.Single_Inheritance.pdb
+C:\My Staff\SoftUni\04 OOP Basic\03 Inheritance\03 Inheritance\L01. Single Inheritance\obj\Debug\L01. Single Inheritance.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\04 OOP Basic\03 Inheritance\03 Inheritance\L01. Single Inheritance\obj\Debug\L01.Single_Inheritance.exe
+C:\My Staff\SoftUni\04 OOP Basic\03 Inheritance\03 Inheritance\L01. Single Inheritance\obj\Debug\L01.Single_Inheritance.pdb
+C:\My Staff\SoftUni\04 OOP Basic\03 Inheritance\03 Inheritance\L01. Single Inheritance\obj\Debug\L01. Single Inheritance.csprojResolveAssemblyReference.cache

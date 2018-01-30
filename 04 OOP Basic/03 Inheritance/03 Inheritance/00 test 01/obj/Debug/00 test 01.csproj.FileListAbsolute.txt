@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\04 OOP Basic\03 Inheritance\03 Inheritance\00 test 01\bin\Debug\00 test 01.exe.config
+C:\My Staff\SoftUni\04 OOP Basic\03 Inheritance\03 Inheritance\00 test 01\bin\Debug\00 test 01.exe
+C:\My Staff\SoftUni\04 OOP Basic\03 Inheritance\03 Inheritance\00 test 01\bin\Debug\00 test 01.pdb
+C:\My Staff\SoftUni\04 OOP Basic\03 Inheritance\03 Inheritance\00 test 01\obj\Debug\00 test 01.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\04 OOP Basic\03 Inheritance\03 Inheritance\00 test 01\obj\Debug\00 test 01.exe
+C:\My Staff\SoftUni\04 OOP Basic\03 Inheritance\03 Inheritance\00 test 01\obj\Debug\00 test 01.pdb
+C:\My Staff\SoftUni\04 OOP Basic\03 Inheritance\03 Inheritance\00 test 01\obj\Debug\00 test 01.csprojResolveAssemblyReference.cache

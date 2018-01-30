@@ -1,0 +1,6 @@
+C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\E15.Drawing tool\bin\Debug\E15.Drawing tool.exe.config
+C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\E15.Drawing tool\bin\Debug\E15.Drawing tool.exe
+C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\E15.Drawing tool\bin\Debug\E15.Drawing tool.pdb
+C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\E15.Drawing tool\obj\Debug\E15.Drawing tool.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\E15.Drawing tool\obj\Debug\E15.Drawing tool.exe
+C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\E15.Drawing tool\obj\Debug\E15.Drawing tool.pdb

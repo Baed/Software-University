@@ -1,0 +1,6 @@
+C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\E05.Date Modifier\bin\Debug\E05.Date Modifier.exe.config
+C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\E05.Date Modifier\bin\Debug\E05.Date Modifier.exe
+C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\E05.Date Modifier\bin\Debug\E05.Date Modifier.pdb
+C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\E05.Date Modifier\obj\Debug\E05.Date Modifier.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\E05.Date Modifier\obj\Debug\E05.Date Modifier.exe
+C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\E05.Date Modifier\obj\Debug\E05.Date Modifier.pdb

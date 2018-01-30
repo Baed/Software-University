@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\04 OOP Basic\03 Inheritance\03 Inheritance\E02 Book shop\obj\Debug\E02 Book shop.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\04 OOP Basic\03 Inheritance\03 Inheritance\E02 Book shop\obj\Debug\E02 Book shop.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\04 OOP Basic\03 Inheritance\03 Inheritance\E02 Book shop\bin\Debug\E02 Book shop.exe.config
+C:\My Staff\SoftUni\04 OOP Basic\03 Inheritance\03 Inheritance\E02 Book shop\bin\Debug\E02 Book shop.exe
+C:\My Staff\SoftUni\04 OOP Basic\03 Inheritance\03 Inheritance\E02 Book shop\bin\Debug\E02 Book shop.pdb
+C:\My Staff\SoftUni\04 OOP Basic\03 Inheritance\03 Inheritance\E02 Book shop\obj\Debug\E02 Book shop.exe
+C:\My Staff\SoftUni\04 OOP Basic\03 Inheritance\03 Inheritance\E02 Book shop\obj\Debug\E02 Book shop.pdb

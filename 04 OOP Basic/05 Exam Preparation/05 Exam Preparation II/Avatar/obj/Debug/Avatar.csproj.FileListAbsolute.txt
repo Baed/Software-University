@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\04 OOP Basic\05 Exam Preparation\05 Exam Preparation II\Avatar\bin\Debug\Avatar.exe.config
+C:\My Staff\SoftUni\04 OOP Basic\05 Exam Preparation\05 Exam Preparation II\Avatar\bin\Debug\Avatar.exe
+C:\My Staff\SoftUni\04 OOP Basic\05 Exam Preparation\05 Exam Preparation II\Avatar\bin\Debug\Avatar.pdb
+C:\My Staff\SoftUni\04 OOP Basic\05 Exam Preparation\05 Exam Preparation II\Avatar\obj\Debug\Avatar.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\04 OOP Basic\05 Exam Preparation\05 Exam Preparation II\Avatar\obj\Debug\Avatar.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\04 OOP Basic\05 Exam Preparation\05 Exam Preparation II\Avatar\obj\Debug\Avatar.exe
+C:\My Staff\SoftUni\04 OOP Basic\05 Exam Preparation\05 Exam Preparation II\Avatar\obj\Debug\Avatar.pdb
