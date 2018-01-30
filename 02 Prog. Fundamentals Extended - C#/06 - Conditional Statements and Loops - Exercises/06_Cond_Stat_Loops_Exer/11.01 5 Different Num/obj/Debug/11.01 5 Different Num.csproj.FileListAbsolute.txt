@@ -1,0 +1,6 @@
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\06 - Conditional Statements and Loops - Exercises\06_Cond_Stat_Loops_Exer\11.01 5 Different Num\bin\Debug\11.01 5 Different Num.exe.config
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\06 - Conditional Statements and Loops - Exercises\06_Cond_Stat_Loops_Exer\11.01 5 Different Num\bin\Debug\11.01 5 Different Num.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\06 - Conditional Statements and Loops - Exercises\06_Cond_Stat_Loops_Exer\11.01 5 Different Num\bin\Debug\11.01 5 Different Num.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\06 - Conditional Statements and Loops - Exercises\06_Cond_Stat_Loops_Exer\11.01 5 Different Num\obj\Debug\11.01 5 Different Num.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\06 - Conditional Statements and Loops - Exercises\06_Cond_Stat_Loops_Exer\11.01 5 Different Num\obj\Debug\11.01 5 Different Num.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\06 - Conditional Statements and Loops - Exercises\06_Cond_Stat_Loops_Exer\11.01 5 Different Num\obj\Debug\11.01 5 Different Num.pdb
