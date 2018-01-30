@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\35 - Regular Expressions (RegEx) - Exercises\35 - (RegEx) - Exer\05. SoftUni Messages\bin\Debug\_05.SoftUni_Messages.exe.config
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\35 - Regular Expressions (RegEx) - Exercises\35 - (RegEx) - Exer\05. SoftUni Messages\bin\Debug\_05.SoftUni_Messages.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\35 - Regular Expressions (RegEx) - Exercises\35 - (RegEx) - Exer\05. SoftUni Messages\bin\Debug\_05.SoftUni_Messages.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\35 - Regular Expressions (RegEx) - Exercises\35 - (RegEx) - Exer\05. SoftUni Messages\obj\Debug\05. SoftUni Messages.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\35 - Regular Expressions (RegEx) - Exercises\35 - (RegEx) - Exer\05. SoftUni Messages\obj\Debug\05. SoftUni Messages.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\35 - Regular Expressions (RegEx) - Exercises\35 - (RegEx) - Exer\05. SoftUni Messages\obj\Debug\_05.SoftUni_Messages.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\35 - Regular Expressions (RegEx) - Exercises\35 - (RegEx) - Exer\05. SoftUni Messages\obj\Debug\_05.SoftUni_Messages.pdb

@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\39 - Preparation Practice - Extended Exams\20 August 2017 Part I\04. Trainlands\bin\Debug\_04.Trainlands.exe.config
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\39 - Preparation Practice - Extended Exams\20 August 2017 Part I\04. Trainlands\bin\Debug\_04.Trainlands.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\39 - Preparation Practice - Extended Exams\20 August 2017 Part I\04. Trainlands\bin\Debug\_04.Trainlands.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\39 - Preparation Practice - Extended Exams\20 August 2017 Part I\04. Trainlands\obj\Debug\04. Trainlands.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\39 - Preparation Practice - Extended Exams\20 August 2017 Part I\04. Trainlands\obj\Debug\04. Trainlands.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\39 - Preparation Practice - Extended Exams\20 August 2017 Part I\04. Trainlands\obj\Debug\_04.Trainlands.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\39 - Preparation Practice - Extended Exams\20 August 2017 Part I\04. Trainlands\obj\Debug\_04.Trainlands.pdb

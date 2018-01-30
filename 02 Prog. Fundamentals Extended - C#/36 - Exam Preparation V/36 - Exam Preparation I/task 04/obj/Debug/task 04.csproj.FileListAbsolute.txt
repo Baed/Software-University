@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\36 - Exam Preparation I\36 - Exam Preparation I\task 04\bin\Debug\task 04.exe.config
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\36 - Exam Preparation I\36 - Exam Preparation I\task 04\bin\Debug\task 04.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\36 - Exam Preparation I\36 - Exam Preparation I\task 04\bin\Debug\task 04.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\36 - Exam Preparation I\36 - Exam Preparation I\task 04\obj\Debug\task 04.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\36 - Exam Preparation I\36 - Exam Preparation I\task 04\obj\Debug\task 04.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\36 - Exam Preparation I\36 - Exam Preparation I\task 04\obj\Debug\task 04.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\36 - Exam Preparation I\36 - Exam Preparation I\task 04\obj\Debug\task 04.pdb

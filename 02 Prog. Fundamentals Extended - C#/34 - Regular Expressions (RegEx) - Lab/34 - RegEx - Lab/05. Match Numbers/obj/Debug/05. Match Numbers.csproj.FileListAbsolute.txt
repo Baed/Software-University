@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\34 - Regular Expressions (RegEx) - Lab\34 - RegEx - Lab\05. Match Numbers\bin\Debug\_05.Match_Numbers.exe.config
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\34 - Regular Expressions (RegEx) - Lab\34 - RegEx - Lab\05. Match Numbers\bin\Debug\_05.Match_Numbers.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\34 - Regular Expressions (RegEx) - Lab\34 - RegEx - Lab\05. Match Numbers\bin\Debug\_05.Match_Numbers.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\34 - Regular Expressions (RegEx) - Lab\34 - RegEx - Lab\05. Match Numbers\obj\Debug\05. Match Numbers.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\34 - Regular Expressions (RegEx) - Lab\34 - RegEx - Lab\05. Match Numbers\obj\Debug\05. Match Numbers.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\34 - Regular Expressions (RegEx) - Lab\34 - RegEx - Lab\05. Match Numbers\obj\Debug\_05.Match_Numbers.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\34 - Regular Expressions (RegEx) - Lab\34 - RegEx - Lab\05. Match Numbers\obj\Debug\_05.Match_Numbers.pdb

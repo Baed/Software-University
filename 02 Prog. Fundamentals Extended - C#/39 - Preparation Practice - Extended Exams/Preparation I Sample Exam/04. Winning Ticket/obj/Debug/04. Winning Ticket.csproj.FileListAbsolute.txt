@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\39 - Preparation Practice - Extended Exams\Preparation I Sample Exam\04. Winning Ticket\bin\Debug\_04.Winning_Ticket.exe.config
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\39 - Preparation Practice - Extended Exams\Preparation I Sample Exam\04. Winning Ticket\bin\Debug\_04.Winning_Ticket.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\39 - Preparation Practice - Extended Exams\Preparation I Sample Exam\04. Winning Ticket\bin\Debug\_04.Winning_Ticket.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\39 - Preparation Practice - Extended Exams\Preparation I Sample Exam\04. Winning Ticket\obj\Debug\04. Winning Ticket.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\39 - Preparation Practice - Extended Exams\Preparation I Sample Exam\04. Winning Ticket\obj\Debug\04. Winning Ticket.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\39 - Preparation Practice - Extended Exams\Preparation I Sample Exam\04. Winning Ticket\obj\Debug\_04.Winning_Ticket.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\39 - Preparation Practice - Extended Exams\Preparation I Sample Exam\04. Winning Ticket\obj\Debug\_04.Winning_Ticket.pdb
