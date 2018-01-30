@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\07 - Basic Syntax - More Exercises\07_Basic Syntax_More Exer\07. Training Hall Equipment\bin\Debug\_07.Training_Hall_Equipment.exe.config
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\07 - Basic Syntax - More Exercises\07_Basic Syntax_More Exer\07. Training Hall Equipment\bin\Debug\_07.Training_Hall_Equipment.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\07 - Basic Syntax - More Exercises\07_Basic Syntax_More Exer\07. Training Hall Equipment\bin\Debug\_07.Training_Hall_Equipment.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\07 - Basic Syntax - More Exercises\07_Basic Syntax_More Exer\07. Training Hall Equipment\obj\Debug\07. Training Hall Equipment.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\07 - Basic Syntax - More Exercises\07_Basic Syntax_More Exer\07. Training Hall Equipment\obj\Debug\_07.Training_Hall_Equipment.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\07 - Basic Syntax - More Exercises\07_Basic Syntax_More Exer\07. Training Hall Equipment\obj\Debug\_07.Training_Hall_Equipment.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\07 - Basic Syntax - More Exercises\07_Basic Syntax_More Exer\07. Training Hall Equipment\obj\Debug\07. Training Hall Equipment.csprojResolveAssemblyReference.cache

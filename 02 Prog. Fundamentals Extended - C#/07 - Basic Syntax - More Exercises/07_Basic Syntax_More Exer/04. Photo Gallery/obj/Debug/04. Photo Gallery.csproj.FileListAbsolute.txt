@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\07 - Basic Syntax - More Exercises\07_Basic Syntax_More Exer\04. Photo Gallery\bin\Debug\_04.Photo_Gallery.exe.config
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\07 - Basic Syntax - More Exercises\07_Basic Syntax_More Exer\04. Photo Gallery\bin\Debug\_04.Photo_Gallery.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\07 - Basic Syntax - More Exercises\07_Basic Syntax_More Exer\04. Photo Gallery\bin\Debug\_04.Photo_Gallery.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\07 - Basic Syntax - More Exercises\07_Basic Syntax_More Exer\04. Photo Gallery\obj\Debug\04. Photo Gallery.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\07 - Basic Syntax - More Exercises\07_Basic Syntax_More Exer\04. Photo Gallery\obj\Debug\04. Photo Gallery.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\07 - Basic Syntax - More Exercises\07_Basic Syntax_More Exer\04. Photo Gallery\obj\Debug\_04.Photo_Gallery.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\07 - Basic Syntax - More Exercises\07_Basic Syntax_More Exer\04. Photo Gallery\obj\Debug\_04.Photo_Gallery.pdb

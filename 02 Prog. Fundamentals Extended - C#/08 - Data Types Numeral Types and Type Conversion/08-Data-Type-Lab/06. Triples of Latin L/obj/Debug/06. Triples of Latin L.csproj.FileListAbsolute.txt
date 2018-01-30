@@ -1,0 +1,6 @@
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\08 - Data Types Numeral Types and Type Conversion\08-Data-Type-Lab\06. Triples of Latin L\bin\Debug\_06.Triples_of_Latin_L.exe.config
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\08 - Data Types Numeral Types and Type Conversion\08-Data-Type-Lab\06. Triples of Latin L\bin\Debug\_06.Triples_of_Latin_L.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\08 - Data Types Numeral Types and Type Conversion\08-Data-Type-Lab\06. Triples of Latin L\bin\Debug\_06.Triples_of_Latin_L.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\08 - Data Types Numeral Types and Type Conversion\08-Data-Type-Lab\06. Triples of Latin L\obj\Debug\06. Triples of Latin L.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\08 - Data Types Numeral Types and Type Conversion\08-Data-Type-Lab\06. Triples of Latin L\obj\Debug\_06.Triples_of_Latin_L.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\08 - Data Types Numeral Types and Type Conversion\08-Data-Type-Lab\06. Triples of Latin L\obj\Debug\_06.Triples_of_Latin_L.pdb

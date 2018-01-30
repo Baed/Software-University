@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\03. Exchange Variable Values\bin\Debug\_03.Exchange_Variable_Values.exe.config
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\03. Exchange Variable Values\bin\Debug\_03.Exchange_Variable_Values.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\03. Exchange Variable Values\bin\Debug\_03.Exchange_Variable_Values.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\03. Exchange Variable Values\obj\Debug\03. Exchange Variable Values.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\03. Exchange Variable Values\obj\Debug\03. Exchange Variable Values.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\03. Exchange Variable Values\obj\Debug\_03.Exchange_Variable_Values.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\03. Exchange Variable Values\obj\Debug\_03.Exchange_Variable_Values.pdb

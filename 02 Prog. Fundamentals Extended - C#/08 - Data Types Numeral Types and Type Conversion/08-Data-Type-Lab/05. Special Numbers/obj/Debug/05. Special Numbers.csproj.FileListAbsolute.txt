@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\08 - Data Types Numeral Types and Type Conversion\08-Data-Type-Lab\05. Special Numbers\bin\Debug\_05.Special_Numbers.exe.config
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\08 - Data Types Numeral Types and Type Conversion\08-Data-Type-Lab\05. Special Numbers\bin\Debug\_05.Special_Numbers.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\08 - Data Types Numeral Types and Type Conversion\08-Data-Type-Lab\05. Special Numbers\bin\Debug\_05.Special_Numbers.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\08 - Data Types Numeral Types and Type Conversion\08-Data-Type-Lab\05. Special Numbers\obj\Debug\05. Special Numbers.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\08 - Data Types Numeral Types and Type Conversion\08-Data-Type-Lab\05. Special Numbers\obj\Debug\05. Special Numbers.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\08 - Data Types Numeral Types and Type Conversion\08-Data-Type-Lab\05. Special Numbers\obj\Debug\_05.Special_Numbers.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\08 - Data Types Numeral Types and Type Conversion\08-Data-Type-Lab\05. Special Numbers\obj\Debug\_05.Special_Numbers.pdb

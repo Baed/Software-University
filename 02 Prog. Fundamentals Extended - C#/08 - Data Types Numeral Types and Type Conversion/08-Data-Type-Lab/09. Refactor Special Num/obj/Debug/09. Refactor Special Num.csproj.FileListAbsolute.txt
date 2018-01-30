@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\08 - Data Types Numeral Types and Type Conversion\08-Data-Type-Lab\09. Refactor Special Num\bin\Debug\_09.Refactor_Special_Num.exe.config
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\08 - Data Types Numeral Types and Type Conversion\08-Data-Type-Lab\09. Refactor Special Num\bin\Debug\_09.Refactor_Special_Num.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\08 - Data Types Numeral Types and Type Conversion\08-Data-Type-Lab\09. Refactor Special Num\bin\Debug\_09.Refactor_Special_Num.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\08 - Data Types Numeral Types and Type Conversion\08-Data-Type-Lab\09. Refactor Special Num\obj\Debug\09. Refactor Special Num.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\08 - Data Types Numeral Types and Type Conversion\08-Data-Type-Lab\09. Refactor Special Num\obj\Debug\09. Refactor Special Num.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\08 - Data Types Numeral Types and Type Conversion\08-Data-Type-Lab\09. Refactor Special Num\obj\Debug\_09.Refactor_Special_Num.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\08 - Data Types Numeral Types and Type Conversion\08-Data-Type-Lab\09. Refactor Special Num\obj\Debug\_09.Refactor_Special_Num.pdb

@@ -1,0 +1,6 @@
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\06. Increment Variable\bin\Debug\_06.Increment_Variable.exe.config
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\06. Increment Variable\bin\Debug\_06.Increment_Variable.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\06. Increment Variable\bin\Debug\_06.Increment_Variable.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\06. Increment Variable\obj\Debug\06. Increment Variable.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\06. Increment Variable\obj\Debug\_06.Increment_Variable.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\06. Increment Variable\obj\Debug\_06.Increment_Variable.pdb

@@ -1,0 +1,6 @@
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\08 - Data Types Numeral Types and Type Conversion\08-Data-Type-Lab\07. Greeting\bin\Debug\_07.Greeting.exe.config
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\08 - Data Types Numeral Types and Type Conversion\08-Data-Type-Lab\07. Greeting\bin\Debug\_07.Greeting.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\08 - Data Types Numeral Types and Type Conversion\08-Data-Type-Lab\07. Greeting\bin\Debug\_07.Greeting.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\08 - Data Types Numeral Types and Type Conversion\08-Data-Type-Lab\07. Greeting\obj\Debug\07. Greeting.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\08 - Data Types Numeral Types and Type Conversion\08-Data-Type-Lab\07. Greeting\obj\Debug\_07.Greeting.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\08 - Data Types Numeral Types and Type Conversion\08-Data-Type-Lab\07. Greeting\obj\Debug\_07.Greeting.pdb

@@ -1,0 +1,6 @@
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\05. Distance of the Stars\bin\Debug\_05.Distance_of_the_Stars.exe.config
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\05. Distance of the Stars\bin\Debug\_05.Distance_of_the_Stars.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\05. Distance of the Stars\bin\Debug\_05.Distance_of_the_Stars.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\05. Distance of the Stars\obj\Debug\05. Distance of the Stars.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\05. Distance of the Stars\obj\Debug\_05.Distance_of_the_Stars.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\05. Distance of the Stars\obj\Debug\_05.Distance_of_the_Stars.pdb
