@@ -1,0 +1,6 @@
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\12 - Arrays and Methods - Exercises\12_Arrays_Methods_Exercises\12.CountOccurrencesNumArr\bin\Debug\12.CountOccurrencesNumArr.exe.config
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\12 - Arrays and Methods - Exercises\12_Arrays_Methods_Exercises\12.CountOccurrencesNumArr\bin\Debug\12.CountOccurrencesNumArr.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\12 - Arrays and Methods - Exercises\12_Arrays_Methods_Exercises\12.CountOccurrencesNumArr\bin\Debug\12.CountOccurrencesNumArr.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\12 - Arrays and Methods - Exercises\12_Arrays_Methods_Exercises\12.CountOccurrencesNumArr\obj\Debug\12.CountOccurrencesNumArr.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\12 - Arrays and Methods - Exercises\12_Arrays_Methods_Exercises\12.CountOccurrencesNumArr\obj\Debug\12.CountOccurrencesNumArr.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\12 - Arrays and Methods - Exercises\12_Arrays_Methods_Exercises\12.CountOccurrencesNumArr\obj\Debug\12.CountOccurrencesNumArr.pdb

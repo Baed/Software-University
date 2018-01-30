@@ -1,0 +1,6 @@
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\10 - Methods and Debugging - Lab\10_Methods_Debugging_Lab\09. Debugging_Between Two Dates\bin\Debug\_09.Debugging_Between_Two_Dates.exe.config
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\10 - Methods and Debugging - Lab\10_Methods_Debugging_Lab\09. Debugging_Between Two Dates\bin\Debug\_09.Debugging_Between_Two_Dates.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\10 - Methods and Debugging - Lab\10_Methods_Debugging_Lab\09. Debugging_Between Two Dates\bin\Debug\_09.Debugging_Between_Two_Dates.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\10 - Methods and Debugging - Lab\10_Methods_Debugging_Lab\09. Debugging_Between Two Dates\obj\Debug\09. Debugging_Between Two Dates.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\10 - Methods and Debugging - Lab\10_Methods_Debugging_Lab\09. Debugging_Between Two Dates\obj\Debug\_09.Debugging_Between_Two_Dates.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\10 - Methods and Debugging - Lab\10_Methods_Debugging_Lab\09. Debugging_Between Two Dates\obj\Debug\_09.Debugging_Between_Two_Dates.pdb

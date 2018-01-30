@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\11 - Arrays - Lab\11 Arrays - Lab\04.03.VID - Rotate Array of Strings\bin\Debug\04.03.VID - Rotate Array of Strings.exe.config
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\11 - Arrays - Lab\11 Arrays - Lab\04.03.VID - Rotate Array of Strings\bin\Debug\04.03.VID - Rotate Array of Strings.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\11 - Arrays - Lab\11 Arrays - Lab\04.03.VID - Rotate Array of Strings\bin\Debug\04.03.VID - Rotate Array of Strings.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\11 - Arrays - Lab\11 Arrays - Lab\04.03.VID - Rotate Array of Strings\obj\Debug\04.03.VID - Rotate Array of Strings.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\11 - Arrays - Lab\11 Arrays - Lab\04.03.VID - Rotate Array of Strings\obj\Debug\04.03.VID - Rotate Array of Strings.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\11 - Arrays - Lab\11 Arrays - Lab\04.03.VID - Rotate Array of Strings\obj\Debug\04.03.VID - Rotate Array of Strings.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\11 - Arrays - Lab\11 Arrays - Lab\04.03.VID - Rotate Array of Strings\obj\Debug\04.03.VID - Rotate Array of Strings.pdb

@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\11 - Arrays - Lab\11 Arrays - Lab\01. Sum Array Elements\bin\Debug\_01.Sum_Array_Elements.exe.config
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\11 - Arrays - Lab\11 Arrays - Lab\01. Sum Array Elements\bin\Debug\_01.Sum_Array_Elements.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\11 - Arrays - Lab\11 Arrays - Lab\01. Sum Array Elements\bin\Debug\_01.Sum_Array_Elements.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\11 - Arrays - Lab\11 Arrays - Lab\01. Sum Array Elements\obj\Debug\01. Sum Array Elements.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\11 - Arrays - Lab\11 Arrays - Lab\01. Sum Array Elements\obj\Debug\01. Sum Array Elements.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\11 - Arrays - Lab\11 Arrays - Lab\01. Sum Array Elements\obj\Debug\_01.Sum_Array_Elements.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\11 - Arrays - Lab\11 Arrays - Lab\01. Sum Array Elements\obj\Debug\_01.Sum_Array_Elements.pdb

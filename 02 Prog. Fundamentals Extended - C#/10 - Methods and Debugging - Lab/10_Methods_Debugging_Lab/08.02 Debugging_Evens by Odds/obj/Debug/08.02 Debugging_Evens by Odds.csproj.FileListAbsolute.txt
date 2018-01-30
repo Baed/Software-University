@@ -1,0 +1,6 @@
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\10 - Methods and Debugging - Lab\10_Methods_Debugging_Lab\08.02 Debugging_Evens by Odds\bin\Debug\08.02 Debugging_Evens by Odds.exe.config
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\10 - Methods and Debugging - Lab\10_Methods_Debugging_Lab\08.02 Debugging_Evens by Odds\bin\Debug\08.02 Debugging_Evens by Odds.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\10 - Methods and Debugging - Lab\10_Methods_Debugging_Lab\08.02 Debugging_Evens by Odds\bin\Debug\08.02 Debugging_Evens by Odds.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\10 - Methods and Debugging - Lab\10_Methods_Debugging_Lab\08.02 Debugging_Evens by Odds\obj\Debug\08.02 Debugging_Evens by Odds.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\10 - Methods and Debugging - Lab\10_Methods_Debugging_Lab\08.02 Debugging_Evens by Odds\obj\Debug\08.02 Debugging_Evens by Odds.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\10 - Methods and Debugging - Lab\10_Methods_Debugging_Lab\08.02 Debugging_Evens by Odds\obj\Debug\08.02 Debugging_Evens by Odds.pdb

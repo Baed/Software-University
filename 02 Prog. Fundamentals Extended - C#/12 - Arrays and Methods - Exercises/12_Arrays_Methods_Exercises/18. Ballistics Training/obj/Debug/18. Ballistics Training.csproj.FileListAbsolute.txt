@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\12 - Arrays and Methods - Exercises\12_Arrays_Methods_Exercises\18. Ballistics Training\bin\Debug\_18.Ballistics_Training.exe.config
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\12 - Arrays and Methods - Exercises\12_Arrays_Methods_Exercises\18. Ballistics Training\bin\Debug\_18.Ballistics_Training.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\12 - Arrays and Methods - Exercises\12_Arrays_Methods_Exercises\18. Ballistics Training\bin\Debug\_18.Ballistics_Training.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\12 - Arrays and Methods - Exercises\12_Arrays_Methods_Exercises\18. Ballistics Training\obj\Debug\18. Ballistics Training.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\12 - Arrays and Methods - Exercises\12_Arrays_Methods_Exercises\18. Ballistics Training\obj\Debug\18. Ballistics Training.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\12 - Arrays and Methods - Exercises\12_Arrays_Methods_Exercises\18. Ballistics Training\obj\Debug\_18.Ballistics_Training.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\12 - Arrays and Methods - Exercises\12_Arrays_Methods_Exercises\18. Ballistics Training\obj\Debug\_18.Ballistics_Training.pdb

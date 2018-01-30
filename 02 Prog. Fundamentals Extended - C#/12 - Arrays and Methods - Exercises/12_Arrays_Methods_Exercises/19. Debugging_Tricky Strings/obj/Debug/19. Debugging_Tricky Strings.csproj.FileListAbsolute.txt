@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\12 - Arrays and Methods - Exercises\12_Arrays_Methods_Exercises\19. Debugging_Tricky Strings\bin\Debug\_19.Debugging_Tricky_Strings.exe.config
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\12 - Arrays and Methods - Exercises\12_Arrays_Methods_Exercises\19. Debugging_Tricky Strings\bin\Debug\_19.Debugging_Tricky_Strings.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\12 - Arrays and Methods - Exercises\12_Arrays_Methods_Exercises\19. Debugging_Tricky Strings\bin\Debug\_19.Debugging_Tricky_Strings.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\12 - Arrays and Methods - Exercises\12_Arrays_Methods_Exercises\19. Debugging_Tricky Strings\obj\Debug\19. Debugging_Tricky Strings.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\12 - Arrays and Methods - Exercises\12_Arrays_Methods_Exercises\19. Debugging_Tricky Strings\obj\Debug\19. Debugging_Tricky Strings.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\12 - Arrays and Methods - Exercises\12_Arrays_Methods_Exercises\19. Debugging_Tricky Strings\obj\Debug\_19.Debugging_Tricky_Strings.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\12 - Arrays and Methods - Exercises\12_Arrays_Methods_Exercises\19. Debugging_Tricky Strings\obj\Debug\_19.Debugging_Tricky_Strings.pdb

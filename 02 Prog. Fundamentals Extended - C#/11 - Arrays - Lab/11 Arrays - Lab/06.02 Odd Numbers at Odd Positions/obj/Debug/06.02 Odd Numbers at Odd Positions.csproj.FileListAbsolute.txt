@@ -1,0 +1,6 @@
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\11 - Arrays - Lab\11 Arrays - Lab\06.02 Odd Numbers at Odd Positions\bin\Debug\06.02 Odd Numbers at Odd Positions.exe.config
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\11 - Arrays - Lab\11 Arrays - Lab\06.02 Odd Numbers at Odd Positions\bin\Debug\06.02 Odd Numbers at Odd Positions.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\11 - Arrays - Lab\11 Arrays - Lab\06.02 Odd Numbers at Odd Positions\bin\Debug\06.02 Odd Numbers at Odd Positions.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\11 - Arrays - Lab\11 Arrays - Lab\06.02 Odd Numbers at Odd Positions\obj\Debug\06.02 Odd Numbers at Odd Positions.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\11 - Arrays - Lab\11 Arrays - Lab\06.02 Odd Numbers at Odd Positions\obj\Debug\06.02 Odd Numbers at Odd Positions.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\11 - Arrays - Lab\11 Arrays - Lab\06.02 Odd Numbers at Odd Positions\obj\Debug\06.02 Odd Numbers at Odd Positions.pdb
