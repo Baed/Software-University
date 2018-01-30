@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\03 C# Advanced\21 - Built-in Query methods - LINQ - Exercise\21 - LINQ - Exercise\11. Students Joined to Specialties\bin\Debug\_11.Students_Joined_to_Specialties.exe.config
+C:\My Staff\SoftUni\03 C# Advanced\21 - Built-in Query methods - LINQ - Exercise\21 - LINQ - Exercise\11. Students Joined to Specialties\bin\Debug\_11.Students_Joined_to_Specialties.exe
+C:\My Staff\SoftUni\03 C# Advanced\21 - Built-in Query methods - LINQ - Exercise\21 - LINQ - Exercise\11. Students Joined to Specialties\bin\Debug\_11.Students_Joined_to_Specialties.pdb
+C:\My Staff\SoftUni\03 C# Advanced\21 - Built-in Query methods - LINQ - Exercise\21 - LINQ - Exercise\11. Students Joined to Specialties\obj\Debug\11. Students Joined to Specialties.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\03 C# Advanced\21 - Built-in Query methods - LINQ - Exercise\21 - LINQ - Exercise\11. Students Joined to Specialties\obj\Debug\11. Students Joined to Specialties.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\03 C# Advanced\21 - Built-in Query methods - LINQ - Exercise\21 - LINQ - Exercise\11. Students Joined to Specialties\obj\Debug\_11.Students_Joined_to_Specialties.exe
+C:\My Staff\SoftUni\03 C# Advanced\21 - Built-in Query methods - LINQ - Exercise\21 - LINQ - Exercise\11. Students Joined to Specialties\obj\Debug\_11.Students_Joined_to_Specialties.pdb

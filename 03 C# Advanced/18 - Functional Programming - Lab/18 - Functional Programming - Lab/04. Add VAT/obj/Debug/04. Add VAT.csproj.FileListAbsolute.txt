@@ -1,0 +1,6 @@
+C:\My Staff\SoftUni\03 C# Advanced\18 - Functional Programming - Lab\18 - Functional Programming - Lab\04. Add VAT\bin\Debug\_04.Add_VAT.exe.config
+C:\My Staff\SoftUni\03 C# Advanced\18 - Functional Programming - Lab\18 - Functional Programming - Lab\04. Add VAT\bin\Debug\_04.Add_VAT.exe
+C:\My Staff\SoftUni\03 C# Advanced\18 - Functional Programming - Lab\18 - Functional Programming - Lab\04. Add VAT\bin\Debug\_04.Add_VAT.pdb
+C:\My Staff\SoftUni\03 C# Advanced\18 - Functional Programming - Lab\18 - Functional Programming - Lab\04. Add VAT\obj\Debug\04. Add VAT.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\03 C# Advanced\18 - Functional Programming - Lab\18 - Functional Programming - Lab\04. Add VAT\obj\Debug\_04.Add_VAT.exe
+C:\My Staff\SoftUni\03 C# Advanced\18 - Functional Programming - Lab\18 - Functional Programming - Lab\04. Add VAT\obj\Debug\_04.Add_VAT.pdb

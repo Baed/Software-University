@@ -1,0 +1,6 @@
+C:\My Staff\SoftUni\03 C# Advanced\20 - Built-in Query methods - LINQ - Lab\20 -LINQ - Lab\07. Bounded Numbers\bin\Debug\_07.Bounded_Numbers.exe.config
+C:\My Staff\SoftUni\03 C# Advanced\20 - Built-in Query methods - LINQ - Lab\20 -LINQ - Lab\07. Bounded Numbers\bin\Debug\_07.Bounded_Numbers.exe
+C:\My Staff\SoftUni\03 C# Advanced\20 - Built-in Query methods - LINQ - Lab\20 -LINQ - Lab\07. Bounded Numbers\bin\Debug\_07.Bounded_Numbers.pdb
+C:\My Staff\SoftUni\03 C# Advanced\20 - Built-in Query methods - LINQ - Lab\20 -LINQ - Lab\07. Bounded Numbers\obj\Debug\07. Bounded Numbers.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\03 C# Advanced\20 - Built-in Query methods - LINQ - Lab\20 -LINQ - Lab\07. Bounded Numbers\obj\Debug\_07.Bounded_Numbers.exe
+C:\My Staff\SoftUni\03 C# Advanced\20 - Built-in Query methods - LINQ - Lab\20 -LINQ - Lab\07. Bounded Numbers\obj\Debug\_07.Bounded_Numbers.pdb

@@ -1,0 +1,6 @@
+C:\My Staff\SoftUni\03 C# Advanced\21 - Built-in Query methods - LINQ - Exercise\21 - LINQ - Exercise\05. Filter Students by Email Domain\bin\Debug\_05.Filter_Students_by_Email_Domain.exe.config
+C:\My Staff\SoftUni\03 C# Advanced\21 - Built-in Query methods - LINQ - Exercise\21 - LINQ - Exercise\05. Filter Students by Email Domain\bin\Debug\_05.Filter_Students_by_Email_Domain.exe
+C:\My Staff\SoftUni\03 C# Advanced\21 - Built-in Query methods - LINQ - Exercise\21 - LINQ - Exercise\05. Filter Students by Email Domain\bin\Debug\_05.Filter_Students_by_Email_Domain.pdb
+C:\My Staff\SoftUni\03 C# Advanced\21 - Built-in Query methods - LINQ - Exercise\21 - LINQ - Exercise\05. Filter Students by Email Domain\obj\Debug\05. Filter Students by Email Domain.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\03 C# Advanced\21 - Built-in Query methods - LINQ - Exercise\21 - LINQ - Exercise\05. Filter Students by Email Domain\obj\Debug\_05.Filter_Students_by_Email_Domain.exe
+C:\My Staff\SoftUni\03 C# Advanced\21 - Built-in Query methods - LINQ - Exercise\21 - LINQ - Exercise\05. Filter Students by Email Domain\obj\Debug\_05.Filter_Students_by_Email_Domain.pdb

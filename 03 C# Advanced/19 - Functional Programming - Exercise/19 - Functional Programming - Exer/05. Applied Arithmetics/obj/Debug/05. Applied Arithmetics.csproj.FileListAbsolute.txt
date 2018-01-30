@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\03 C# Advanced\19 - Functional Programming - Exercise\19 - Functional Programming - Exer\05. Applied Arithmetics\bin\Debug\_05.Applied_Arithmetics.exe.config
+C:\My Staff\SoftUni\03 C# Advanced\19 - Functional Programming - Exercise\19 - Functional Programming - Exer\05. Applied Arithmetics\bin\Debug\_05.Applied_Arithmetics.exe
+C:\My Staff\SoftUni\03 C# Advanced\19 - Functional Programming - Exercise\19 - Functional Programming - Exer\05. Applied Arithmetics\bin\Debug\_05.Applied_Arithmetics.pdb
+C:\My Staff\SoftUni\03 C# Advanced\19 - Functional Programming - Exercise\19 - Functional Programming - Exer\05. Applied Arithmetics\obj\Debug\05. Applied Arithmetics.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\03 C# Advanced\19 - Functional Programming - Exercise\19 - Functional Programming - Exer\05. Applied Arithmetics\obj\Debug\05. Applied Arithmetics.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\03 C# Advanced\19 - Functional Programming - Exercise\19 - Functional Programming - Exer\05. Applied Arithmetics\obj\Debug\_05.Applied_Arithmetics.exe
+C:\My Staff\SoftUni\03 C# Advanced\19 - Functional Programming - Exercise\19 - Functional Programming - Exer\05. Applied Arithmetics\obj\Debug\_05.Applied_Arithmetics.pdb

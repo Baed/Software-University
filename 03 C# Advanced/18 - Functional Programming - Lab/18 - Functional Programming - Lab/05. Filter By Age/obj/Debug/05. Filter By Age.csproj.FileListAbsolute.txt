@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\03 C# Advanced\18 - Functional Programming - Lab\18 - Functional Programming - Lab\05. Filter By Age\bin\Debug\_05.Filter_By_Age.exe.config
+C:\My Staff\SoftUni\03 C# Advanced\18 - Functional Programming - Lab\18 - Functional Programming - Lab\05. Filter By Age\bin\Debug\_05.Filter_By_Age.exe
+C:\My Staff\SoftUni\03 C# Advanced\18 - Functional Programming - Lab\18 - Functional Programming - Lab\05. Filter By Age\bin\Debug\_05.Filter_By_Age.pdb
+C:\My Staff\SoftUni\03 C# Advanced\18 - Functional Programming - Lab\18 - Functional Programming - Lab\05. Filter By Age\obj\Debug\05. Filter By Age.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\03 C# Advanced\18 - Functional Programming - Lab\18 - Functional Programming - Lab\05. Filter By Age\obj\Debug\05. Filter By Age.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\03 C# Advanced\18 - Functional Programming - Lab\18 - Functional Programming - Lab\05. Filter By Age\obj\Debug\_05.Filter_By_Age.exe
+C:\My Staff\SoftUni\03 C# Advanced\18 - Functional Programming - Lab\18 - Functional Programming - Lab\05. Filter By Age\obj\Debug\_05.Filter_By_Age.pdb

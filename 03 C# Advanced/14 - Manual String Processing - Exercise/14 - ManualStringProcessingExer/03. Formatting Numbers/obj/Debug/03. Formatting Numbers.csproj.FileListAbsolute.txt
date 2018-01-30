@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\03 C# Advanced\14 - Manual String Processing - Exercise\14 - ManualStringProcessingExer\03. Formatting Numbers\bin\Debug\_03.Formatting_Numbers.exe.config
+C:\My Staff\SoftUni\03 C# Advanced\14 - Manual String Processing - Exercise\14 - ManualStringProcessingExer\03. Formatting Numbers\bin\Debug\_03.Formatting_Numbers.exe
+C:\My Staff\SoftUni\03 C# Advanced\14 - Manual String Processing - Exercise\14 - ManualStringProcessingExer\03. Formatting Numbers\bin\Debug\_03.Formatting_Numbers.pdb
+C:\My Staff\SoftUni\03 C# Advanced\14 - Manual String Processing - Exercise\14 - ManualStringProcessingExer\03. Formatting Numbers\obj\Debug\03. Formatting Numbers.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\03 C# Advanced\14 - Manual String Processing - Exercise\14 - ManualStringProcessingExer\03. Formatting Numbers\obj\Debug\03. Formatting Numbers.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\03 C# Advanced\14 - Manual String Processing - Exercise\14 - ManualStringProcessingExer\03. Formatting Numbers\obj\Debug\_03.Formatting_Numbers.exe
+C:\My Staff\SoftUni\03 C# Advanced\14 - Manual String Processing - Exercise\14 - ManualStringProcessingExer\03. Formatting Numbers\obj\Debug\_03.Formatting_Numbers.pdb

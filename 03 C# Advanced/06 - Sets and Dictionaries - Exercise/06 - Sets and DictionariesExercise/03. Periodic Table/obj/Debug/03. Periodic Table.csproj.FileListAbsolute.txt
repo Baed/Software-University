@@ -1,0 +1,6 @@
+C:\My Staff\SoftUni\03 C# Advanced\06 - Sets and Dictionaries - Exercise\06 - Sets and DictionariesExercise\03. Periodic Table\bin\Debug\_03.Periodic_Table.exe.config
+C:\My Staff\SoftUni\03 C# Advanced\06 - Sets and Dictionaries - Exercise\06 - Sets and DictionariesExercise\03. Periodic Table\bin\Debug\_03.Periodic_Table.exe
+C:\My Staff\SoftUni\03 C# Advanced\06 - Sets and Dictionaries - Exercise\06 - Sets and DictionariesExercise\03. Periodic Table\bin\Debug\_03.Periodic_Table.pdb
+C:\My Staff\SoftUni\03 C# Advanced\06 - Sets and Dictionaries - Exercise\06 - Sets and DictionariesExercise\03. Periodic Table\obj\Debug\03. Periodic Table.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\03 C# Advanced\06 - Sets and Dictionaries - Exercise\06 - Sets and DictionariesExercise\03. Periodic Table\obj\Debug\_03.Periodic_Table.exe
+C:\My Staff\SoftUni\03 C# Advanced\06 - Sets and Dictionaries - Exercise\06 - Sets and DictionariesExercise\03. Periodic Table\obj\Debug\_03.Periodic_Table.pdb

@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\03 C# Advanced\06 - Sets and Dictionaries - Exercise\06 - Sets and DictionariesExercise\08. Hands of Cards\bin\Debug\_08.Hands_of_Cards.exe.config
+C:\My Staff\SoftUni\03 C# Advanced\06 - Sets and Dictionaries - Exercise\06 - Sets and DictionariesExercise\08. Hands of Cards\bin\Debug\_08.Hands_of_Cards.exe
+C:\My Staff\SoftUni\03 C# Advanced\06 - Sets and Dictionaries - Exercise\06 - Sets and DictionariesExercise\08. Hands of Cards\bin\Debug\_08.Hands_of_Cards.pdb
+C:\My Staff\SoftUni\03 C# Advanced\06 - Sets and Dictionaries - Exercise\06 - Sets and DictionariesExercise\08. Hands of Cards\obj\Debug\08. Hands of Cards.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\03 C# Advanced\06 - Sets and Dictionaries - Exercise\06 - Sets and DictionariesExercise\08. Hands of Cards\obj\Debug\08. Hands of Cards.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\03 C# Advanced\06 - Sets and Dictionaries - Exercise\06 - Sets and DictionariesExercise\08. Hands of Cards\obj\Debug\_08.Hands_of_Cards.exe
+C:\My Staff\SoftUni\03 C# Advanced\06 - Sets and Dictionaries - Exercise\06 - Sets and DictionariesExercise\08. Hands of Cards\obj\Debug\_08.Hands_of_Cards.pdb

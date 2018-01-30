@@ -1,0 +1,6 @@
+D:\SoftUni\C#Advanced\May-2017\04. CSharp-Advanced-Streams\6. Advanced-CSharp-Streams-and-Files-Demos\6. Advanced-CSharp-Streams-and-Files-Demos\Stream-Writer\bin\Debug\Stream-Writer.exe.config
+D:\SoftUni\C#Advanced\May-2017\04. CSharp-Advanced-Streams\6. Advanced-CSharp-Streams-and-Files-Demos\6. Advanced-CSharp-Streams-and-Files-Demos\Stream-Writer\bin\Debug\Stream-Writer.exe
+D:\SoftUni\C#Advanced\May-2017\04. CSharp-Advanced-Streams\6. Advanced-CSharp-Streams-and-Files-Demos\6. Advanced-CSharp-Streams-and-Files-Demos\Stream-Writer\bin\Debug\Stream-Writer.pdb
+D:\SoftUni\C#Advanced\May-2017\04. CSharp-Advanced-Streams\6. Advanced-CSharp-Streams-and-Files-Demos\6. Advanced-CSharp-Streams-and-Files-Demos\Stream-Writer\obj\Debug\02. Stream-Writer.csprojResolveAssemblyReference.cache
+D:\SoftUni\C#Advanced\May-2017\04. CSharp-Advanced-Streams\6. Advanced-CSharp-Streams-and-Files-Demos\6. Advanced-CSharp-Streams-and-Files-Demos\Stream-Writer\obj\Debug\Stream-Writer.exe
+D:\SoftUni\C#Advanced\May-2017\04. CSharp-Advanced-Streams\6. Advanced-CSharp-Streams-and-Files-Demos\6. Advanced-CSharp-Streams-and-Files-Demos\Stream-Writer\obj\Debug\Stream-Writer.pdb

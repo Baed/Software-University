@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\03 C# Advanced\14 - Manual String Processing - Exercise\14 - ManualStringProcessingExer\15. Melrah Shake\bin\Debug\_15.Melrah_Shake.exe.config
+C:\My Staff\SoftUni\03 C# Advanced\14 - Manual String Processing - Exercise\14 - ManualStringProcessingExer\15. Melrah Shake\bin\Debug\_15.Melrah_Shake.exe
+C:\My Staff\SoftUni\03 C# Advanced\14 - Manual String Processing - Exercise\14 - ManualStringProcessingExer\15. Melrah Shake\bin\Debug\_15.Melrah_Shake.pdb
+C:\My Staff\SoftUni\03 C# Advanced\14 - Manual String Processing - Exercise\14 - ManualStringProcessingExer\15. Melrah Shake\obj\Debug\15. Melrah Shake.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\03 C# Advanced\14 - Manual String Processing - Exercise\14 - ManualStringProcessingExer\15. Melrah Shake\obj\Debug\15. Melrah Shake.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\03 C# Advanced\14 - Manual String Processing - Exercise\14 - ManualStringProcessingExer\15. Melrah Shake\obj\Debug\_15.Melrah_Shake.exe
+C:\My Staff\SoftUni\03 C# Advanced\14 - Manual String Processing - Exercise\14 - ManualStringProcessingExer\15. Melrah Shake\obj\Debug\_15.Melrah_Shake.pdb

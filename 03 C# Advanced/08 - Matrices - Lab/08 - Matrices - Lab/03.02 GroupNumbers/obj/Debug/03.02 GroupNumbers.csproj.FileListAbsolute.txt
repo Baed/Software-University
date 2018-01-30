@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\03 C# Advanced\08 - Matrices - Lab\08 - Matrices - Lab\03.02 GroupNumbers\bin\Debug\03.02 GroupNumbers.exe.config
+C:\My Staff\SoftUni\03 C# Advanced\08 - Matrices - Lab\08 - Matrices - Lab\03.02 GroupNumbers\bin\Debug\03.02 GroupNumbers.exe
+C:\My Staff\SoftUni\03 C# Advanced\08 - Matrices - Lab\08 - Matrices - Lab\03.02 GroupNumbers\bin\Debug\03.02 GroupNumbers.pdb
+C:\My Staff\SoftUni\03 C# Advanced\08 - Matrices - Lab\08 - Matrices - Lab\03.02 GroupNumbers\obj\Debug\03.02 GroupNumbers.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\03 C# Advanced\08 - Matrices - Lab\08 - Matrices - Lab\03.02 GroupNumbers\obj\Debug\03.02 GroupNumbers.exe
+C:\My Staff\SoftUni\03 C# Advanced\08 - Matrices - Lab\08 - Matrices - Lab\03.02 GroupNumbers\obj\Debug\03.02 GroupNumbers.pdb
+C:\My Staff\SoftUni\03 C# Advanced\08 - Matrices - Lab\08 - Matrices - Lab\03.02 GroupNumbers\obj\Debug\03.02 GroupNumbers.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\03 C# Advanced\09 - Matrices - Exercise\09 - Matrices - Exercise\05. Rubiks Matrix\bin\Debug\_05.Rubiks_Matrix.exe.config
+C:\My Staff\SoftUni\03 C# Advanced\09 - Matrices - Exercise\09 - Matrices - Exercise\05. Rubiks Matrix\bin\Debug\_05.Rubiks_Matrix.exe
+C:\My Staff\SoftUni\03 C# Advanced\09 - Matrices - Exercise\09 - Matrices - Exercise\05. Rubiks Matrix\bin\Debug\_05.Rubiks_Matrix.pdb
+C:\My Staff\SoftUni\03 C# Advanced\09 - Matrices - Exercise\09 - Matrices - Exercise\05. Rubiks Matrix\obj\Debug\05. Rubiks Matrix.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\03 C# Advanced\09 - Matrices - Exercise\09 - Matrices - Exercise\05. Rubiks Matrix\obj\Debug\05. Rubiks Matrix.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\03 C# Advanced\09 - Matrices - Exercise\09 - Matrices - Exercise\05. Rubiks Matrix\obj\Debug\_05.Rubiks_Matrix.exe
+C:\My Staff\SoftUni\03 C# Advanced\09 - Matrices - Exercise\09 - Matrices - Exercise\05. Rubiks Matrix\obj\Debug\_05.Rubiks_Matrix.pdb

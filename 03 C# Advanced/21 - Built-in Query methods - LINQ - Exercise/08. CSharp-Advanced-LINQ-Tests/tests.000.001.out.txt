@@ -1,0 +1,6 @@
+Asya Manova 203314 Web Developer
+Asya Manova 203314 QA Engineer
+Diana Petrova 203914 PHP Developer
+Diana Petrova 203914 Web Developer
+Ivan Ivanov 203814 PHP Developer
+Stefan Popov 203114 Web Developer

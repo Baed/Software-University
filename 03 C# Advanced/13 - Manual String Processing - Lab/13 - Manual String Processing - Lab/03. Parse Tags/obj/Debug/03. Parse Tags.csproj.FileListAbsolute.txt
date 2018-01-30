@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\03 C# Advanced\13 - Manual String Processing - Lab\13 - Manual String Processing - Lab\03. Parse Tags\bin\Debug\_03.Parse_Tags.exe.config
+C:\My Staff\SoftUni\03 C# Advanced\13 - Manual String Processing - Lab\13 - Manual String Processing - Lab\03. Parse Tags\bin\Debug\_03.Parse_Tags.exe
+C:\My Staff\SoftUni\03 C# Advanced\13 - Manual String Processing - Lab\13 - Manual String Processing - Lab\03. Parse Tags\bin\Debug\_03.Parse_Tags.pdb
+C:\My Staff\SoftUni\03 C# Advanced\13 - Manual String Processing - Lab\13 - Manual String Processing - Lab\03. Parse Tags\obj\Debug\03. Parse Tags.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\03 C# Advanced\13 - Manual String Processing - Lab\13 - Manual String Processing - Lab\03. Parse Tags\obj\Debug\03. Parse Tags.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\03 C# Advanced\13 - Manual String Processing - Lab\13 - Manual String Processing - Lab\03. Parse Tags\obj\Debug\_03.Parse_Tags.exe
+C:\My Staff\SoftUni\03 C# Advanced\13 - Manual String Processing - Lab\13 - Manual String Processing - Lab\03. Parse Tags\obj\Debug\_03.Parse_Tags.pdb

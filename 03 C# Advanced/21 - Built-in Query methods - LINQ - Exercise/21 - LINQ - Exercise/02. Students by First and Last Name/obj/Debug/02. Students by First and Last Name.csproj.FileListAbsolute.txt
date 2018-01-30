@@ -1,0 +1,6 @@
+C:\My Staff\SoftUni\03 C# Advanced\21 - Built-in Query methods - LINQ - Exercise\21 - LINQ - Exercise\02. Students by First and Last Name\bin\Debug\_02.Students_by_First_and_Last_Name.exe.config
+C:\My Staff\SoftUni\03 C# Advanced\21 - Built-in Query methods - LINQ - Exercise\21 - LINQ - Exercise\02. Students by First and Last Name\bin\Debug\_02.Students_by_First_and_Last_Name.exe
+C:\My Staff\SoftUni\03 C# Advanced\21 - Built-in Query methods - LINQ - Exercise\21 - LINQ - Exercise\02. Students by First and Last Name\bin\Debug\_02.Students_by_First_and_Last_Name.pdb
+C:\My Staff\SoftUni\03 C# Advanced\21 - Built-in Query methods - LINQ - Exercise\21 - LINQ - Exercise\02. Students by First and Last Name\obj\Debug\02. Students by First and Last Name.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\03 C# Advanced\21 - Built-in Query methods - LINQ - Exercise\21 - LINQ - Exercise\02. Students by First and Last Name\obj\Debug\_02.Students_by_First_and_Last_Name.exe
+C:\My Staff\SoftUni\03 C# Advanced\21 - Built-in Query methods - LINQ - Exercise\21 - LINQ - Exercise\02. Students by First and Last Name\obj\Debug\_02.Students_by_First_and_Last_Name.pdb

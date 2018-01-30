@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\03 C# Advanced\15 - Regular Expressions - Lab\15 - Regular Expressions - Lab\01. Match Count\bin\Debug\_01.Match_Count.exe.config
+C:\My Staff\SoftUni\03 C# Advanced\15 - Regular Expressions - Lab\15 - Regular Expressions - Lab\01. Match Count\bin\Debug\_01.Match_Count.exe
+C:\My Staff\SoftUni\03 C# Advanced\15 - Regular Expressions - Lab\15 - Regular Expressions - Lab\01. Match Count\bin\Debug\_01.Match_Count.pdb
+C:\My Staff\SoftUni\03 C# Advanced\15 - Regular Expressions - Lab\15 - Regular Expressions - Lab\01. Match Count\obj\Debug\01. Match Count.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\03 C# Advanced\15 - Regular Expressions - Lab\15 - Regular Expressions - Lab\01. Match Count\obj\Debug\01. Match Count.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\03 C# Advanced\15 - Regular Expressions - Lab\15 - Regular Expressions - Lab\01. Match Count\obj\Debug\_01.Match_Count.exe
+C:\My Staff\SoftUni\03 C# Advanced\15 - Regular Expressions - Lab\15 - Regular Expressions - Lab\01. Match Count\obj\Debug\_01.Match_Count.pdb

@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\03 C# Advanced\20 - Built-in Query methods - LINQ - Lab\20 -LINQ - Lab\08. Map Districts\bin\Debug\_08.Map_Districts.exe.config
+C:\My Staff\SoftUni\03 C# Advanced\20 - Built-in Query methods - LINQ - Lab\20 -LINQ - Lab\08. Map Districts\bin\Debug\_08.Map_Districts.exe
+C:\My Staff\SoftUni\03 C# Advanced\20 - Built-in Query methods - LINQ - Lab\20 -LINQ - Lab\08. Map Districts\bin\Debug\_08.Map_Districts.pdb
+C:\My Staff\SoftUni\03 C# Advanced\20 - Built-in Query methods - LINQ - Lab\20 -LINQ - Lab\08. Map Districts\obj\Debug\08. Map Districts.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\03 C# Advanced\20 - Built-in Query methods - LINQ - Lab\20 -LINQ - Lab\08. Map Districts\obj\Debug\08. Map Districts.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\03 C# Advanced\20 - Built-in Query methods - LINQ - Lab\20 -LINQ - Lab\08. Map Districts\obj\Debug\_08.Map_Districts.exe
+C:\My Staff\SoftUni\03 C# Advanced\20 - Built-in Query methods - LINQ - Lab\20 -LINQ - Lab\08. Map Districts\obj\Debug\_08.Map_Districts.pdb

@@ -1,0 +1,6 @@
+C:\My Staff\SoftUni\03 C# Advanced\21 - Built-in Query methods - LINQ - Exercise\21 - LINQ - Exercise\07. Excellent Students\bin\Debug\_07.Excellent_Students.exe.config
+C:\My Staff\SoftUni\03 C# Advanced\21 - Built-in Query methods - LINQ - Exercise\21 - LINQ - Exercise\07. Excellent Students\bin\Debug\_07.Excellent_Students.exe
+C:\My Staff\SoftUni\03 C# Advanced\21 - Built-in Query methods - LINQ - Exercise\21 - LINQ - Exercise\07. Excellent Students\bin\Debug\_07.Excellent_Students.pdb
+C:\My Staff\SoftUni\03 C# Advanced\21 - Built-in Query methods - LINQ - Exercise\21 - LINQ - Exercise\07. Excellent Students\obj\Debug\07. Excellent Students.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\03 C# Advanced\21 - Built-in Query methods - LINQ - Exercise\21 - LINQ - Exercise\07. Excellent Students\obj\Debug\_07.Excellent_Students.exe
+C:\My Staff\SoftUni\03 C# Advanced\21 - Built-in Query methods - LINQ - Exercise\21 - LINQ - Exercise\07. Excellent Students\obj\Debug\_07.Excellent_Students.pdb

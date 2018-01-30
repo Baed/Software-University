@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\03 C# Advanced\19 - Functional Programming - Exercise\19 - Functional Programming - Exer\09. List Of Predicates\bin\Debug\_09.List_Of_Predicates.exe.config
+C:\My Staff\SoftUni\03 C# Advanced\19 - Functional Programming - Exercise\19 - Functional Programming - Exer\09. List Of Predicates\bin\Debug\_09.List_Of_Predicates.exe
+C:\My Staff\SoftUni\03 C# Advanced\19 - Functional Programming - Exercise\19 - Functional Programming - Exer\09. List Of Predicates\bin\Debug\_09.List_Of_Predicates.pdb
+C:\My Staff\SoftUni\03 C# Advanced\19 - Functional Programming - Exercise\19 - Functional Programming - Exer\09. List Of Predicates\obj\Debug\09. List Of Predicates.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\03 C# Advanced\19 - Functional Programming - Exercise\19 - Functional Programming - Exer\09. List Of Predicates\obj\Debug\09. List Of Predicates.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\03 C# Advanced\19 - Functional Programming - Exercise\19 - Functional Programming - Exer\09. List Of Predicates\obj\Debug\_09.List_Of_Predicates.exe
+C:\My Staff\SoftUni\03 C# Advanced\19 - Functional Programming - Exercise\19 - Functional Programming - Exer\09. List Of Predicates\obj\Debug\_09.List_Of_Predicates.pdb

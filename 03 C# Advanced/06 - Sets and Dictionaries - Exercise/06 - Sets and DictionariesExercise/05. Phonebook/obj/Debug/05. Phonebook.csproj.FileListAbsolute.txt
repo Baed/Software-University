@@ -1,0 +1,6 @@
+C:\My Staff\SoftUni\03 C# Advanced\06 - Sets and Dictionaries - Exercise\06 - Sets and DictionariesExercise\05. Phonebook\bin\Debug\_05.Phonebook.exe.config
+C:\My Staff\SoftUni\03 C# Advanced\06 - Sets and Dictionaries - Exercise\06 - Sets and DictionariesExercise\05. Phonebook\bin\Debug\_05.Phonebook.exe
+C:\My Staff\SoftUni\03 C# Advanced\06 - Sets and Dictionaries - Exercise\06 - Sets and DictionariesExercise\05. Phonebook\bin\Debug\_05.Phonebook.pdb
+C:\My Staff\SoftUni\03 C# Advanced\06 - Sets and Dictionaries - Exercise\06 - Sets and DictionariesExercise\05. Phonebook\obj\Debug\05. Phonebook.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\03 C# Advanced\06 - Sets and Dictionaries - Exercise\06 - Sets and DictionariesExercise\05. Phonebook\obj\Debug\_05.Phonebook.exe
+C:\My Staff\SoftUni\03 C# Advanced\06 - Sets and Dictionaries - Exercise\06 - Sets and DictionariesExercise\05. Phonebook\obj\Debug\_05.Phonebook.pdb

@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\03 C# Advanced\16 - Regular Expressions - Exercise\16 - Regular Expressions - Exercise\07. Valid Usernames\bin\Debug\_07.Valid_Usernames.exe.config
+C:\My Staff\SoftUni\03 C# Advanced\16 - Regular Expressions - Exercise\16 - Regular Expressions - Exercise\07. Valid Usernames\bin\Debug\_07.Valid_Usernames.exe
+C:\My Staff\SoftUni\03 C# Advanced\16 - Regular Expressions - Exercise\16 - Regular Expressions - Exercise\07. Valid Usernames\bin\Debug\_07.Valid_Usernames.pdb
+C:\My Staff\SoftUni\03 C# Advanced\16 - Regular Expressions - Exercise\16 - Regular Expressions - Exercise\07. Valid Usernames\obj\Debug\07. Valid Usernames.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\03 C# Advanced\16 - Regular Expressions - Exercise\16 - Regular Expressions - Exercise\07. Valid Usernames\obj\Debug\07. Valid Usernames.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\03 C# Advanced\16 - Regular Expressions - Exercise\16 - Regular Expressions - Exercise\07. Valid Usernames\obj\Debug\_07.Valid_Usernames.exe
+C:\My Staff\SoftUni\03 C# Advanced\16 - Regular Expressions - Exercise\16 - Regular Expressions - Exercise\07. Valid Usernames\obj\Debug\_07.Valid_Usernames.pdb

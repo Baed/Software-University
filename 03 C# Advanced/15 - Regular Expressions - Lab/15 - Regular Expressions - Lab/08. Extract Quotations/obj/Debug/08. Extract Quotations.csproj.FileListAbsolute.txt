@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\03 C# Advanced\15 - Regular Expressions - Lab\15 - Regular Expressions - Lab\08. Extract Quotations\bin\Debug\_08.Extract_Quotations.exe.config
+C:\My Staff\SoftUni\03 C# Advanced\15 - Regular Expressions - Lab\15 - Regular Expressions - Lab\08. Extract Quotations\bin\Debug\_08.Extract_Quotations.exe
+C:\My Staff\SoftUni\03 C# Advanced\15 - Regular Expressions - Lab\15 - Regular Expressions - Lab\08. Extract Quotations\bin\Debug\_08.Extract_Quotations.pdb
+C:\My Staff\SoftUni\03 C# Advanced\15 - Regular Expressions - Lab\15 - Regular Expressions - Lab\08. Extract Quotations\obj\Debug\08. Extract Quotations.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\03 C# Advanced\15 - Regular Expressions - Lab\15 - Regular Expressions - Lab\08. Extract Quotations\obj\Debug\08. Extract Quotations.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\03 C# Advanced\15 - Regular Expressions - Lab\15 - Regular Expressions - Lab\08. Extract Quotations\obj\Debug\_08.Extract_Quotations.exe
+C:\My Staff\SoftUni\03 C# Advanced\15 - Regular Expressions - Lab\15 - Regular Expressions - Lab\08. Extract Quotations\obj\Debug\_08.Extract_Quotations.pdb

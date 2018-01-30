@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\03 C# Advanced\16 - Regular Expressions - Exercise\16 - Regular Expressions - Exercise\06. Sentence Extractor\bin\Debug\_06.Sentence_Extractor.exe.config
+C:\My Staff\SoftUni\03 C# Advanced\16 - Regular Expressions - Exercise\16 - Regular Expressions - Exercise\06. Sentence Extractor\bin\Debug\_06.Sentence_Extractor.exe
+C:\My Staff\SoftUni\03 C# Advanced\16 - Regular Expressions - Exercise\16 - Regular Expressions - Exercise\06. Sentence Extractor\bin\Debug\_06.Sentence_Extractor.pdb
+C:\My Staff\SoftUni\03 C# Advanced\16 - Regular Expressions - Exercise\16 - Regular Expressions - Exercise\06. Sentence Extractor\obj\Debug\06. Sentence Extractor.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\03 C# Advanced\16 - Regular Expressions - Exercise\16 - Regular Expressions - Exercise\06. Sentence Extractor\obj\Debug\06. Sentence Extractor.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\03 C# Advanced\16 - Regular Expressions - Exercise\16 - Regular Expressions - Exercise\06. Sentence Extractor\obj\Debug\_06.Sentence_Extractor.exe
+C:\My Staff\SoftUni\03 C# Advanced\16 - Regular Expressions - Exercise\16 - Regular Expressions - Exercise\06. Sentence Extractor\obj\Debug\_06.Sentence_Extractor.pdb

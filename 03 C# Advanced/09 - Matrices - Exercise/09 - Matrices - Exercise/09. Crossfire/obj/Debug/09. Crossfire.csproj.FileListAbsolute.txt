@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\03 C# Advanced\09 - Matrices - Exercise\09 - Matrices - Exercise\09. Crossfire\bin\Debug\_09.Crossfire.exe.config
+C:\My Staff\SoftUni\03 C# Advanced\09 - Matrices - Exercise\09 - Matrices - Exercise\09. Crossfire\bin\Debug\_09.Crossfire.exe
+C:\My Staff\SoftUni\03 C# Advanced\09 - Matrices - Exercise\09 - Matrices - Exercise\09. Crossfire\bin\Debug\_09.Crossfire.pdb
+C:\My Staff\SoftUni\03 C# Advanced\09 - Matrices - Exercise\09 - Matrices - Exercise\09. Crossfire\obj\Debug\09. Crossfire.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\03 C# Advanced\09 - Matrices - Exercise\09 - Matrices - Exercise\09. Crossfire\obj\Debug\09. Crossfire.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\03 C# Advanced\09 - Matrices - Exercise\09 - Matrices - Exercise\09. Crossfire\obj\Debug\_09.Crossfire.exe
+C:\My Staff\SoftUni\03 C# Advanced\09 - Matrices - Exercise\09 - Matrices - Exercise\09. Crossfire\obj\Debug\_09.Crossfire.pdb
