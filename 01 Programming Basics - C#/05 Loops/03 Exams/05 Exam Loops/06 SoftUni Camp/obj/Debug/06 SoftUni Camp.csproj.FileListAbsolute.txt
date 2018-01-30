@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\August C# Basics\UROK 5 Loops\03 Exams\05 Exam Loops\06 SoftUni Camp\bin\Debug\06 SoftUni Camp.exe.config
+C:\My Staff\SoftUni\August C# Basics\UROK 5 Loops\03 Exams\05 Exam Loops\06 SoftUni Camp\bin\Debug\06 SoftUni Camp.exe
+C:\My Staff\SoftUni\August C# Basics\UROK 5 Loops\03 Exams\05 Exam Loops\06 SoftUni Camp\bin\Debug\06 SoftUni Camp.pdb
+C:\My Staff\SoftUni\August C# Basics\UROK 5 Loops\03 Exams\05 Exam Loops\06 SoftUni Camp\obj\Debug\06 SoftUni Camp.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\August C# Basics\UROK 5 Loops\03 Exams\05 Exam Loops\06 SoftUni Camp\obj\Debug\06 SoftUni Camp.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\August C# Basics\UROK 5 Loops\03 Exams\05 Exam Loops\06 SoftUni Camp\obj\Debug\06 SoftUni Camp.exe
+C:\My Staff\SoftUni\August C# Basics\UROK 5 Loops\03 Exams\05 Exam Loops\06 SoftUni Camp\obj\Debug\06 SoftUni Camp.pdb

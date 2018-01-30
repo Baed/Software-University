@@ -1,0 +1,7 @@
+H:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\02 Exersice\01 Personal titles\02 Small shop\bin\Debug\02 Small shop.exe.config
+H:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\02 Exersice\01 Personal titles\02 Small shop\bin\Debug\02 Small shop.exe
+H:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\02 Exersice\01 Personal titles\02 Small shop\bin\Debug\02 Small shop.pdb
+H:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\02 Exersice\01 Personal titles\02 Small shop\obj\Debug\02 Small shop.csprojResolveAssemblyReference.cache
+H:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\02 Exersice\01 Personal titles\02 Small shop\obj\Debug\02 Small shop.csproj.CoreCompileInputs.cache
+H:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\02 Exersice\01 Personal titles\02 Small shop\obj\Debug\02 Small shop.exe
+H:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\02 Exersice\01 Personal titles\02 Small shop\obj\Debug\02 Small shop.pdb

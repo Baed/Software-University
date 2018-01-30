@@ -1,0 +1,6 @@
+D:\SOFTUNI\Programming basic c# august 2017\UROK 3 Simple Conditional Statements\03 School\03 Simple Conditions\04 po golqmo chislo\bin\Debug\04 po golqmo chislo.exe.config
+D:\SOFTUNI\Programming basic c# august 2017\UROK 3 Simple Conditional Statements\03 School\03 Simple Conditions\04 po golqmo chislo\bin\Debug\04 po golqmo chislo.exe
+D:\SOFTUNI\Programming basic c# august 2017\UROK 3 Simple Conditional Statements\03 School\03 Simple Conditions\04 po golqmo chislo\bin\Debug\04 po golqmo chislo.pdb
+D:\SOFTUNI\Programming basic c# august 2017\UROK 3 Simple Conditional Statements\03 School\03 Simple Conditions\04 po golqmo chislo\obj\Debug\04 po golqmo chislo.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\Programming basic c# august 2017\UROK 3 Simple Conditional Statements\03 School\03 Simple Conditions\04 po golqmo chislo\obj\Debug\04 po golqmo chislo.exe
+D:\SOFTUNI\Programming basic c# august 2017\UROK 3 Simple Conditional Statements\03 School\03 Simple Conditions\04 po golqmo chislo\obj\Debug\04 po golqmo chislo.pdb

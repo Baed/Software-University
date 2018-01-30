@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\01 Programming Basics - C#\UROK 9 - Preparation Mentor 29.10\Preparation 28_10\06. Letters Combinations\bin\Debug\_06.Letters_Combinations.exe.config
+C:\My Staff\SoftUni\01 Programming Basics - C#\UROK 9 - Preparation Mentor 29.10\Preparation 28_10\06. Letters Combinations\bin\Debug\_06.Letters_Combinations.exe
+C:\My Staff\SoftUni\01 Programming Basics - C#\UROK 9 - Preparation Mentor 29.10\Preparation 28_10\06. Letters Combinations\bin\Debug\_06.Letters_Combinations.pdb
+C:\My Staff\SoftUni\01 Programming Basics - C#\UROK 9 - Preparation Mentor 29.10\Preparation 28_10\06. Letters Combinations\obj\Debug\06. Letters Combinations.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\01 Programming Basics - C#\UROK 9 - Preparation Mentor 29.10\Preparation 28_10\06. Letters Combinations\obj\Debug\06. Letters Combinations.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\01 Programming Basics - C#\UROK 9 - Preparation Mentor 29.10\Preparation 28_10\06. Letters Combinations\obj\Debug\_06.Letters_Combinations.exe
+C:\My Staff\SoftUni\01 Programming Basics - C#\UROK 9 - Preparation Mentor 29.10\Preparation 28_10\06. Letters Combinations\obj\Debug\_06.Letters_Combinations.pdb

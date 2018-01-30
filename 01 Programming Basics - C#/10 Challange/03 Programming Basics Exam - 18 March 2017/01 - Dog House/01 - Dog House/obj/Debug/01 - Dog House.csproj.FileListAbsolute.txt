@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\August C# Basics\Challange\03 Programming Basics Exam - 18 March 2017\01 - Dog House\01 - Dog House\bin\Debug\01 - Dog House.exe.config
+C:\My Staff\SoftUni\August C# Basics\Challange\03 Programming Basics Exam - 18 March 2017\01 - Dog House\01 - Dog House\bin\Debug\01 - Dog House.exe
+C:\My Staff\SoftUni\August C# Basics\Challange\03 Programming Basics Exam - 18 March 2017\01 - Dog House\01 - Dog House\bin\Debug\01 - Dog House.pdb
+C:\My Staff\SoftUni\August C# Basics\Challange\03 Programming Basics Exam - 18 March 2017\01 - Dog House\01 - Dog House\obj\Debug\01 - Dog House.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\August C# Basics\Challange\03 Programming Basics Exam - 18 March 2017\01 - Dog House\01 - Dog House\obj\Debug\01 - Dog House.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\August C# Basics\Challange\03 Programming Basics Exam - 18 March 2017\01 - Dog House\01 - Dog House\obj\Debug\01 - Dog House.exe
+C:\My Staff\SoftUni\August C# Basics\Challange\03 Programming Basics Exam - 18 March 2017\01 - Dog House\01 - Dog House\obj\Debug\01 - Dog House.pdb

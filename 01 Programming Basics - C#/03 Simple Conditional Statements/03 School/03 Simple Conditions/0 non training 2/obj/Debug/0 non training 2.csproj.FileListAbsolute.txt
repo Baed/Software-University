@@ -1,0 +1,6 @@
+D:\SOFTUNI\Programming basic c# august 2017\UROK 3 Simple Conditional Statements\03 School\03 Simple Conditions\0 non training 2\bin\Debug\0 non training 2.exe.config
+D:\SOFTUNI\Programming basic c# august 2017\UROK 3 Simple Conditional Statements\03 School\03 Simple Conditions\0 non training 2\bin\Debug\0 non training 2.exe
+D:\SOFTUNI\Programming basic c# august 2017\UROK 3 Simple Conditional Statements\03 School\03 Simple Conditions\0 non training 2\bin\Debug\0 non training 2.pdb
+D:\SOFTUNI\Programming basic c# august 2017\UROK 3 Simple Conditional Statements\03 School\03 Simple Conditions\0 non training 2\obj\Debug\0 non training 2.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\Programming basic c# august 2017\UROK 3 Simple Conditional Statements\03 School\03 Simple Conditions\0 non training 2\obj\Debug\0 non training 2.exe
+D:\SOFTUNI\Programming basic c# august 2017\UROK 3 Simple Conditional Statements\03 School\03 Simple Conditions\0 non training 2\obj\Debug\0 non training 2.pdb

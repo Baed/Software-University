@@ -1,0 +1,10 @@
+D:\SOFTUNI\UROK 2\Mydesktopapp\Mydesktopapp\bin\Debug\Mydesktopapp.exe.config
+D:\SOFTUNI\UROK 2\Mydesktopapp\Mydesktopapp\bin\Debug\Mydesktopapp.exe
+D:\SOFTUNI\UROK 2\Mydesktopapp\Mydesktopapp\bin\Debug\Mydesktopapp.pdb
+D:\SOFTUNI\UROK 2\Mydesktopapp\Mydesktopapp\obj\Debug\Mydesktopapp.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\UROK 2\Mydesktopapp\Mydesktopapp\obj\Debug\Mydesktopapp.Form1.resources
+D:\SOFTUNI\UROK 2\Mydesktopapp\Mydesktopapp\obj\Debug\Mydesktopapp.Properties.Resources.resources
+D:\SOFTUNI\UROK 2\Mydesktopapp\Mydesktopapp\obj\Debug\Mydesktopapp.csproj.GenerateResource.Cache
+D:\SOFTUNI\UROK 2\Mydesktopapp\Mydesktopapp\obj\Debug\Mydesktopapp.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\UROK 2\Mydesktopapp\Mydesktopapp\obj\Debug\Mydesktopapp.exe
+D:\SOFTUNI\UROK 2\Mydesktopapp\Mydesktopapp\obj\Debug\Mydesktopapp.pdb

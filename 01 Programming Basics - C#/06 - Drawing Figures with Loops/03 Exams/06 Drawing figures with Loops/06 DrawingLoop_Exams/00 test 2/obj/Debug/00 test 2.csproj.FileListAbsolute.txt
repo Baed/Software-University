@@ -1,0 +1,6 @@
+C:\My Staff\SoftUni\August C# Basics\UROK 6 - Drawing Figures with Loops\03 Exams\06 Drawing figures with Loops\06 DrawingLoop_Exams\00 test 2\bin\Debug\00 test 2.exe.config
+C:\My Staff\SoftUni\August C# Basics\UROK 6 - Drawing Figures with Loops\03 Exams\06 Drawing figures with Loops\06 DrawingLoop_Exams\00 test 2\bin\Debug\00 test 2.exe
+C:\My Staff\SoftUni\August C# Basics\UROK 6 - Drawing Figures with Loops\03 Exams\06 Drawing figures with Loops\06 DrawingLoop_Exams\00 test 2\bin\Debug\00 test 2.pdb
+C:\My Staff\SoftUni\August C# Basics\UROK 6 - Drawing Figures with Loops\03 Exams\06 Drawing figures with Loops\06 DrawingLoop_Exams\00 test 2\obj\Debug\00 test 2.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\August C# Basics\UROK 6 - Drawing Figures with Loops\03 Exams\06 Drawing figures with Loops\06 DrawingLoop_Exams\00 test 2\obj\Debug\00 test 2.exe
+C:\My Staff\SoftUni\August C# Basics\UROK 6 - Drawing Figures with Loops\03 Exams\06 Drawing figures with Loops\06 DrawingLoop_Exams\00 test 2\obj\Debug\00 test 2.pdb

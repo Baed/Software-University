@@ -1,0 +1,7 @@
+D:\SOFTUNI\Programming basic c# august 2017\UROK 2 simple calculation\02 Simple Calculation\12 Currency Converter New\bin\Debug\12 Currency Converter New.exe.config
+D:\SOFTUNI\Programming basic c# august 2017\UROK 2 simple calculation\02 Simple Calculation\12 Currency Converter New\bin\Debug\12 Currency Converter New.exe
+D:\SOFTUNI\Programming basic c# august 2017\UROK 2 simple calculation\02 Simple Calculation\12 Currency Converter New\bin\Debug\12 Currency Converter New.pdb
+D:\SOFTUNI\Programming basic c# august 2017\UROK 2 simple calculation\02 Simple Calculation\12 Currency Converter New\obj\Debug\12 Currency Converter New.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Programming basic c# august 2017\UROK 2 simple calculation\02 Simple Calculation\12 Currency Converter New\obj\Debug\12 Currency Converter New.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\Programming basic c# august 2017\UROK 2 simple calculation\02 Simple Calculation\12 Currency Converter New\obj\Debug\12 Currency Converter New.exe
+D:\SOFTUNI\Programming basic c# august 2017\UROK 2 simple calculation\02 Simple Calculation\12 Currency Converter New\obj\Debug\12 Currency Converter New.pdb

@@ -1,0 +1,14 @@
+D:\SOFTUNI\UROK 2\02 Simple Calculation\12 02 CURRENCY converter\obj\Debug\12 02 CURRENCY converter.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\UROK 2\02 Simple Calculation\12 02 CURRENCY converter\obj\Debug\12 02 CURRENCY converter.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\UROK 2\02 Simple Calculation\12 02 CURRENCY converter\bin\Debug\12 02 CURRENCY converter.exe.config
+D:\SOFTUNI\UROK 2\02 Simple Calculation\12 02 CURRENCY converter\bin\Debug\12 02 CURRENCY converter.exe
+D:\SOFTUNI\UROK 2\02 Simple Calculation\12 02 CURRENCY converter\bin\Debug\12 02 CURRENCY converter.pdb
+D:\SOFTUNI\UROK 2\02 Simple Calculation\12 02 CURRENCY converter\obj\Debug\12 02 CURRENCY converter.exe
+D:\SOFTUNI\UROK 2\02 Simple Calculation\12 02 CURRENCY converter\obj\Debug\12 02 CURRENCY converter.pdb
+D:\SOFTUNI\Programming basic c# august 2017\UROK 2 simple calculation\02 Simple Calculation\12 02 CURRENCY converter\bin\Debug\12 02 CURRENCY converter.exe.config
+D:\SOFTUNI\Programming basic c# august 2017\UROK 2 simple calculation\02 Simple Calculation\12 02 CURRENCY converter\bin\Debug\12 02 CURRENCY converter.exe
+D:\SOFTUNI\Programming basic c# august 2017\UROK 2 simple calculation\02 Simple Calculation\12 02 CURRENCY converter\bin\Debug\12 02 CURRENCY converter.pdb
+D:\SOFTUNI\Programming basic c# august 2017\UROK 2 simple calculation\02 Simple Calculation\12 02 CURRENCY converter\obj\Debug\12 02 CURRENCY converter.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Programming basic c# august 2017\UROK 2 simple calculation\02 Simple Calculation\12 02 CURRENCY converter\obj\Debug\12 02 CURRENCY converter.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\Programming basic c# august 2017\UROK 2 simple calculation\02 Simple Calculation\12 02 CURRENCY converter\obj\Debug\12 02 CURRENCY converter.exe
+D:\SOFTUNI\Programming basic c# august 2017\UROK 2 simple calculation\02 Simple Calculation\12 02 CURRENCY converter\obj\Debug\12 02 CURRENCY converter.pdb

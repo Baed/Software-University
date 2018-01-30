@@ -1,0 +1,7 @@
+D:\SOFTUNI\Programming basic c# august 2017\UROK 3 Simple Conditional Statements\03 School\03 Simple Conditions\07 sum seconds\bin\Debug\07 sum seconds.exe.config
+D:\SOFTUNI\Programming basic c# august 2017\UROK 3 Simple Conditional Statements\03 School\03 Simple Conditions\07 sum seconds\bin\Debug\07 sum seconds.exe
+D:\SOFTUNI\Programming basic c# august 2017\UROK 3 Simple Conditional Statements\03 School\03 Simple Conditions\07 sum seconds\bin\Debug\07 sum seconds.pdb
+D:\SOFTUNI\Programming basic c# august 2017\UROK 3 Simple Conditional Statements\03 School\03 Simple Conditions\07 sum seconds\obj\Debug\07 sum seconds.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Programming basic c# august 2017\UROK 3 Simple Conditional Statements\03 School\03 Simple Conditions\07 sum seconds\obj\Debug\07 sum seconds.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\Programming basic c# august 2017\UROK 3 Simple Conditional Statements\03 School\03 Simple Conditions\07 sum seconds\obj\Debug\07 sum seconds.exe
+D:\SOFTUNI\Programming basic c# august 2017\UROK 3 Simple Conditional Statements\03 School\03 Simple Conditions\07 sum seconds\obj\Debug\07 sum seconds.pdb

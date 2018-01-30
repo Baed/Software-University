@@ -1,0 +1,7 @@
+D:\SOFTUNI\UROK 2\12 lice na pravougulnik v ravninata\12 lice na pravougulnik v ravninata\bin\Debug\12 lice na pravougulnik v ravninata.exe.config
+D:\SOFTUNI\UROK 2\12 lice na pravougulnik v ravninata\12 lice na pravougulnik v ravninata\bin\Debug\12 lice na pravougulnik v ravninata.exe
+D:\SOFTUNI\UROK 2\12 lice na pravougulnik v ravninata\12 lice na pravougulnik v ravninata\bin\Debug\12 lice na pravougulnik v ravninata.pdb
+D:\SOFTUNI\UROK 2\12 lice na pravougulnik v ravninata\12 lice na pravougulnik v ravninata\obj\Debug\12 lice na pravougulnik v ravninata.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\UROK 2\12 lice na pravougulnik v ravninata\12 lice na pravougulnik v ravninata\obj\Debug\12 lice na pravougulnik v ravninata.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\UROK 2\12 lice na pravougulnik v ravninata\12 lice na pravougulnik v ravninata\obj\Debug\12 lice na pravougulnik v ravninata.exe
+D:\SOFTUNI\UROK 2\12 lice na pravougulnik v ravninata\12 lice na pravougulnik v ravninata\obj\Debug\12 lice na pravougulnik v ravninata.pdb

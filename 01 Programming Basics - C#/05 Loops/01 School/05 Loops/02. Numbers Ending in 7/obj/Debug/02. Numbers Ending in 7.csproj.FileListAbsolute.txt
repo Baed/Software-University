@@ -1,0 +1,6 @@
+D:\SOFTUNI\Programming basic c# august 2017\UROK 5 Loops\01 School\05 Loops\02. Numbers Ending in 7\bin\Debug\_02.Numbers_Ending_in_7.exe.config
+D:\SOFTUNI\Programming basic c# august 2017\UROK 5 Loops\01 School\05 Loops\02. Numbers Ending in 7\bin\Debug\_02.Numbers_Ending_in_7.exe
+D:\SOFTUNI\Programming basic c# august 2017\UROK 5 Loops\01 School\05 Loops\02. Numbers Ending in 7\bin\Debug\_02.Numbers_Ending_in_7.pdb
+D:\SOFTUNI\Programming basic c# august 2017\UROK 5 Loops\01 School\05 Loops\02. Numbers Ending in 7\obj\Debug\02. Numbers Ending in 7.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\Programming basic c# august 2017\UROK 5 Loops\01 School\05 Loops\02. Numbers Ending in 7\obj\Debug\_02.Numbers_Ending_in_7.exe
+D:\SOFTUNI\Programming basic c# august 2017\UROK 5 Loops\01 School\05 Loops\02. Numbers Ending in 7\obj\Debug\_02.Numbers_Ending_in_7.pdb

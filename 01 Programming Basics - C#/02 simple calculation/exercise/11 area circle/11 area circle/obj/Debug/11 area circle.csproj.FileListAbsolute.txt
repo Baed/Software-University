@@ -1,0 +1,13 @@
+C:\Users\NIkola Grigorov\source\repos\11 area circle\11 area circle\bin\Debug\11 area circle.exe.config
+C:\Users\NIkola Grigorov\source\repos\11 area circle\11 area circle\bin\Debug\11 area circle.exe
+C:\Users\NIkola Grigorov\source\repos\11 area circle\11 area circle\bin\Debug\11 area circle.pdb
+C:\Users\NIkola Grigorov\source\repos\11 area circle\11 area circle\obj\Debug\11 area circle.csproj.CoreCompileInputs.cache
+C:\Users\NIkola Grigorov\source\repos\11 area circle\11 area circle\obj\Debug\11 area circle.exe
+C:\Users\NIkola Grigorov\source\repos\11 area circle\11 area circle\obj\Debug\11 area circle.pdb
+D:\SOFTUNI\UROK 2\11 area circle\11 area circle\bin\Debug\11 area circle.exe.config
+D:\SOFTUNI\UROK 2\11 area circle\11 area circle\bin\Debug\11 area circle.exe
+D:\SOFTUNI\UROK 2\11 area circle\11 area circle\bin\Debug\11 area circle.pdb
+D:\SOFTUNI\UROK 2\11 area circle\11 area circle\obj\Debug\11 area circle.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\UROK 2\11 area circle\11 area circle\obj\Debug\11 area circle.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\UROK 2\11 area circle\11 area circle\obj\Debug\11 area circle.exe
+D:\SOFTUNI\UROK 2\11 area circle\11 area circle\obj\Debug\11 area circle.pdb

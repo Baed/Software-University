@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\August C# Basics\Challange\02 Programming Basics Exam - 18 December 2016\Challange_18_Dec_2016\06. Letters Combinations\bin\Debug\_06.Letters_Combinations.exe.config
+C:\My Staff\SoftUni\August C# Basics\Challange\02 Programming Basics Exam - 18 December 2016\Challange_18_Dec_2016\06. Letters Combinations\bin\Debug\_06.Letters_Combinations.exe
+C:\My Staff\SoftUni\August C# Basics\Challange\02 Programming Basics Exam - 18 December 2016\Challange_18_Dec_2016\06. Letters Combinations\bin\Debug\_06.Letters_Combinations.pdb
+C:\My Staff\SoftUni\August C# Basics\Challange\02 Programming Basics Exam - 18 December 2016\Challange_18_Dec_2016\06. Letters Combinations\obj\Debug\06. Letters Combinations.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\August C# Basics\Challange\02 Programming Basics Exam - 18 December 2016\Challange_18_Dec_2016\06. Letters Combinations\obj\Debug\06. Letters Combinations.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\August C# Basics\Challange\02 Programming Basics Exam - 18 December 2016\Challange_18_Dec_2016\06. Letters Combinations\obj\Debug\_06.Letters_Combinations.exe
+C:\My Staff\SoftUni\August C# Basics\Challange\02 Programming Basics Exam - 18 December 2016\Challange_18_Dec_2016\06. Letters Combinations\obj\Debug\_06.Letters_Combinations.pdb

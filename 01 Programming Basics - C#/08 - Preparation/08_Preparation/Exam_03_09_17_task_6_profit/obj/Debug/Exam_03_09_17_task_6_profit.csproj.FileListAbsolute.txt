@@ -1,0 +1,6 @@
+C:\My Staff\SoftUni\August C# Basics\UROK 8 - Preparation\08_Preparation\Exam_03_09_17_task_6_profit\bin\Debug\Exam_03_09_17_task_6_profit.exe.config
+C:\My Staff\SoftUni\August C# Basics\UROK 8 - Preparation\08_Preparation\Exam_03_09_17_task_6_profit\bin\Debug\Exam_03_09_17_task_6_profit.exe
+C:\My Staff\SoftUni\August C# Basics\UROK 8 - Preparation\08_Preparation\Exam_03_09_17_task_6_profit\bin\Debug\Exam_03_09_17_task_6_profit.pdb
+C:\My Staff\SoftUni\August C# Basics\UROK 8 - Preparation\08_Preparation\Exam_03_09_17_task_6_profit\obj\Debug\Exam_03_09_17_task_6_profit.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\August C# Basics\UROK 8 - Preparation\08_Preparation\Exam_03_09_17_task_6_profit\obj\Debug\Exam_03_09_17_task_6_profit.exe
+C:\My Staff\SoftUni\August C# Basics\UROK 8 - Preparation\08_Preparation\Exam_03_09_17_task_6_profit\obj\Debug\Exam_03_09_17_task_6_profit.pdb

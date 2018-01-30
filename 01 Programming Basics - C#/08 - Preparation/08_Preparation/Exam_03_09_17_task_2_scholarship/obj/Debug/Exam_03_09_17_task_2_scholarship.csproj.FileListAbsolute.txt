@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\August C# Basics\UROK 8 - Preparation\08_Preparation\Exam_03_09_17_task_2_scholarship\bin\Debug\Exam_03_09_17_task_2_scholarship.exe.config
+C:\My Staff\SoftUni\August C# Basics\UROK 8 - Preparation\08_Preparation\Exam_03_09_17_task_2_scholarship\bin\Debug\Exam_03_09_17_task_2_scholarship.exe
+C:\My Staff\SoftUni\August C# Basics\UROK 8 - Preparation\08_Preparation\Exam_03_09_17_task_2_scholarship\bin\Debug\Exam_03_09_17_task_2_scholarship.pdb
+C:\My Staff\SoftUni\August C# Basics\UROK 8 - Preparation\08_Preparation\Exam_03_09_17_task_2_scholarship\obj\Debug\Exam_03_09_17_task_2_scholarship.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\August C# Basics\UROK 8 - Preparation\08_Preparation\Exam_03_09_17_task_2_scholarship\obj\Debug\Exam_03_09_17_task_2_scholarship.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\August C# Basics\UROK 8 - Preparation\08_Preparation\Exam_03_09_17_task_2_scholarship\obj\Debug\Exam_03_09_17_task_2_scholarship.exe
+C:\My Staff\SoftUni\August C# Basics\UROK 8 - Preparation\08_Preparation\Exam_03_09_17_task_2_scholarship\obj\Debug\Exam_03_09_17_task_2_scholarship.pdb

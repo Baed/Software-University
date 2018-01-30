@@ -1,0 +1,6 @@
+C:\My Staff\SoftUni\August C# Basics\UROK 7 - Advanced loops\01 Scool\07_Advanced_loops\01 Num_1to10_with_3steps\bin\Debug\01 Num_1to10_with_3steps.exe.config
+C:\My Staff\SoftUni\August C# Basics\UROK 7 - Advanced loops\01 Scool\07_Advanced_loops\01 Num_1to10_with_3steps\bin\Debug\01 Num_1to10_with_3steps.exe
+C:\My Staff\SoftUni\August C# Basics\UROK 7 - Advanced loops\01 Scool\07_Advanced_loops\01 Num_1to10_with_3steps\bin\Debug\01 Num_1to10_with_3steps.pdb
+C:\My Staff\SoftUni\August C# Basics\UROK 7 - Advanced loops\01 Scool\07_Advanced_loops\01 Num_1to10_with_3steps\obj\Debug\01 Num_1to10_with_3steps.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\August C# Basics\UROK 7 - Advanced loops\01 Scool\07_Advanced_loops\01 Num_1to10_with_3steps\obj\Debug\01 Num_1to10_with_3steps.exe
+C:\My Staff\SoftUni\August C# Basics\UROK 7 - Advanced loops\01 Scool\07_Advanced_loops\01 Num_1to10_with_3steps\obj\Debug\01 Num_1to10_with_3steps.pdb

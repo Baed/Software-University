@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\August C# Basics\Challange\02 Programming Basics Exam - 18 December 2016\Challange_18_Dec_2016\01. Distance\bin\Debug\_01.Distance.exe.config
+C:\My Staff\SoftUni\August C# Basics\Challange\02 Programming Basics Exam - 18 December 2016\Challange_18_Dec_2016\01. Distance\bin\Debug\_01.Distance.exe
+C:\My Staff\SoftUni\August C# Basics\Challange\02 Programming Basics Exam - 18 December 2016\Challange_18_Dec_2016\01. Distance\bin\Debug\_01.Distance.pdb
+C:\My Staff\SoftUni\August C# Basics\Challange\02 Programming Basics Exam - 18 December 2016\Challange_18_Dec_2016\01. Distance\obj\Debug\01. Distance.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\August C# Basics\Challange\02 Programming Basics Exam - 18 December 2016\Challange_18_Dec_2016\01. Distance\obj\Debug\01. Distance.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\August C# Basics\Challange\02 Programming Basics Exam - 18 December 2016\Challange_18_Dec_2016\01. Distance\obj\Debug\_01.Distance.exe
+C:\My Staff\SoftUni\August C# Basics\Challange\02 Programming Basics Exam - 18 December 2016\Challange_18_Dec_2016\01. Distance\obj\Debug\_01.Distance.pdb

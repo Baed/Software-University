@@ -1,0 +1,6 @@
+C:\My Staff\SoftUni\August C# Basics\UROK 7 - Advanced loops\02 Exercise\07_Exercise_adv_loops\05. Sequence 2k+1\bin\Debug\_05.Sequence_2k_1.exe.config
+C:\My Staff\SoftUni\August C# Basics\UROK 7 - Advanced loops\02 Exercise\07_Exercise_adv_loops\05. Sequence 2k+1\bin\Debug\_05.Sequence_2k_1.exe
+C:\My Staff\SoftUni\August C# Basics\UROK 7 - Advanced loops\02 Exercise\07_Exercise_adv_loops\05. Sequence 2k+1\bin\Debug\_05.Sequence_2k_1.pdb
+C:\My Staff\SoftUni\August C# Basics\UROK 7 - Advanced loops\02 Exercise\07_Exercise_adv_loops\05. Sequence 2k+1\obj\Debug\05. Sequence 2k+1.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\August C# Basics\UROK 7 - Advanced loops\02 Exercise\07_Exercise_adv_loops\05. Sequence 2k+1\obj\Debug\_05.Sequence_2k_1.exe
+C:\My Staff\SoftUni\August C# Basics\UROK 7 - Advanced loops\02 Exercise\07_Exercise_adv_loops\05. Sequence 2k+1\obj\Debug\_05.Sequence_2k_1.pdb

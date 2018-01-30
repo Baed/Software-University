@@ -1,0 +1,7 @@
+D:\SOFTUNI\Programming basic c# august 2017\UROK 3 Simple Conditional Statements\03 Exams\03 Exams Simple Conditions\01 Transport Price\bin\Debug\01 Transport Price.exe.config
+D:\SOFTUNI\Programming basic c# august 2017\UROK 3 Simple Conditional Statements\03 Exams\03 Exams Simple Conditions\01 Transport Price\bin\Debug\01 Transport Price.exe
+D:\SOFTUNI\Programming basic c# august 2017\UROK 3 Simple Conditional Statements\03 Exams\03 Exams Simple Conditions\01 Transport Price\bin\Debug\01 Transport Price.pdb
+D:\SOFTUNI\Programming basic c# august 2017\UROK 3 Simple Conditional Statements\03 Exams\03 Exams Simple Conditions\01 Transport Price\obj\Debug\01 Transport Price.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Programming basic c# august 2017\UROK 3 Simple Conditional Statements\03 Exams\03 Exams Simple Conditions\01 Transport Price\obj\Debug\01 Transport Price.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\Programming basic c# august 2017\UROK 3 Simple Conditional Statements\03 Exams\03 Exams Simple Conditions\01 Transport Price\obj\Debug\01 Transport Price.exe
+D:\SOFTUNI\Programming basic c# august 2017\UROK 3 Simple Conditional Statements\03 Exams\03 Exams Simple Conditions\01 Transport Price\obj\Debug\01 Transport Price.pdb

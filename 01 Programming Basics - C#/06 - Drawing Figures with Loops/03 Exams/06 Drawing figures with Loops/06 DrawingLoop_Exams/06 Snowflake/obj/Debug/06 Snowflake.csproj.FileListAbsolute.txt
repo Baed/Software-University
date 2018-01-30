@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\August C# Basics\UROK 6 - Drawing Figures with Loops\03 Exams\06 Drawing figures with Loops\06 DrawingLoop_Exams\06 Snowflake\bin\Debug\06 Snowflake.exe.config
+C:\My Staff\SoftUni\August C# Basics\UROK 6 - Drawing Figures with Loops\03 Exams\06 Drawing figures with Loops\06 DrawingLoop_Exams\06 Snowflake\bin\Debug\06 Snowflake.exe
+C:\My Staff\SoftUni\August C# Basics\UROK 6 - Drawing Figures with Loops\03 Exams\06 Drawing figures with Loops\06 DrawingLoop_Exams\06 Snowflake\bin\Debug\06 Snowflake.pdb
+C:\My Staff\SoftUni\August C# Basics\UROK 6 - Drawing Figures with Loops\03 Exams\06 Drawing figures with Loops\06 DrawingLoop_Exams\06 Snowflake\obj\Debug\06 Snowflake.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\August C# Basics\UROK 6 - Drawing Figures with Loops\03 Exams\06 Drawing figures with Loops\06 DrawingLoop_Exams\06 Snowflake\obj\Debug\06 Snowflake.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\August C# Basics\UROK 6 - Drawing Figures with Loops\03 Exams\06 Drawing figures with Loops\06 DrawingLoop_Exams\06 Snowflake\obj\Debug\06 Snowflake.exe
+C:\My Staff\SoftUni\August C# Basics\UROK 6 - Drawing Figures with Loops\03 Exams\06 Drawing figures with Loops\06 DrawingLoop_Exams\06 Snowflake\obj\Debug\06 Snowflake.pdb

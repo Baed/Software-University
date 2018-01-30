@@ -1,0 +1,7 @@
+D:\SOFTUNI\Programming basic c# august 2017\UROK 2 simple calculation\02 EXAMS - Simple Calculation\02 EXAMS - SC\04\bin\Debug\04.exe.config
+D:\SOFTUNI\Programming basic c# august 2017\UROK 2 simple calculation\02 EXAMS - Simple Calculation\02 EXAMS - SC\04\bin\Debug\04.exe
+D:\SOFTUNI\Programming basic c# august 2017\UROK 2 simple calculation\02 EXAMS - Simple Calculation\02 EXAMS - SC\04\bin\Debug\04.pdb
+D:\SOFTUNI\Programming basic c# august 2017\UROK 2 simple calculation\02 EXAMS - Simple Calculation\02 EXAMS - SC\04\obj\Debug\04 Money.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Programming basic c# august 2017\UROK 2 simple calculation\02 EXAMS - Simple Calculation\02 EXAMS - SC\04\obj\Debug\04 Money.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\Programming basic c# august 2017\UROK 2 simple calculation\02 EXAMS - Simple Calculation\02 EXAMS - SC\04\obj\Debug\04.exe
+D:\SOFTUNI\Programming basic c# august 2017\UROK 2 simple calculation\02 EXAMS - Simple Calculation\02 EXAMS - SC\04\obj\Debug\04.pdb

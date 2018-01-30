@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\August C# Basics\UROK 8 - Preparation\08_Preparation\Exam_03_09_17_task_5_snowflake\bin\Debug\Exam_03_09_17_task_5_snowflake.exe.config
+C:\My Staff\SoftUni\August C# Basics\UROK 8 - Preparation\08_Preparation\Exam_03_09_17_task_5_snowflake\bin\Debug\Exam_03_09_17_task_5_snowflake.exe
+C:\My Staff\SoftUni\August C# Basics\UROK 8 - Preparation\08_Preparation\Exam_03_09_17_task_5_snowflake\bin\Debug\Exam_03_09_17_task_5_snowflake.pdb
+C:\My Staff\SoftUni\August C# Basics\UROK 8 - Preparation\08_Preparation\Exam_03_09_17_task_5_snowflake\obj\Debug\Exam_03_09_17_task_5_snowflake.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\August C# Basics\UROK 8 - Preparation\08_Preparation\Exam_03_09_17_task_5_snowflake\obj\Debug\Exam_03_09_17_task_5_snowflake.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\August C# Basics\UROK 8 - Preparation\08_Preparation\Exam_03_09_17_task_5_snowflake\obj\Debug\Exam_03_09_17_task_5_snowflake.exe
+C:\My Staff\SoftUni\August C# Basics\UROK 8 - Preparation\08_Preparation\Exam_03_09_17_task_5_snowflake\obj\Debug\Exam_03_09_17_task_5_snowflake.pdb

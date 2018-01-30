@@ -1,0 +1,6 @@
+D:\SOFTUNI\UROK 2\02 unit name and num\02 unit name and num\bin\Debug\02 unit name and num.exe.config
+D:\SOFTUNI\UROK 2\02 unit name and num\02 unit name and num\bin\Debug\02 unit name and num.exe
+D:\SOFTUNI\UROK 2\02 unit name and num\02 unit name and num\bin\Debug\02 unit name and num.pdb
+D:\SOFTUNI\UROK 2\02 unit name and num\02 unit name and num\obj\Debug\02 unit name and num.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\UROK 2\02 unit name and num\02 unit name and num\obj\Debug\02 unit name and num.exe
+D:\SOFTUNI\UROK 2\02 unit name and num\02 unit name and num\obj\Debug\02 unit name and num.pdb

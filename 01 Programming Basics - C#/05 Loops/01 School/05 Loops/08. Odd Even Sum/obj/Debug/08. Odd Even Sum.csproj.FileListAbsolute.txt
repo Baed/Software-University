@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\August C# Basics\UROK 5 Loops\01 School\05 Loops\08. Odd Even Sum\bin\Debug\_08.Odd_Even_Sum.exe.config
+C:\My Staff\SoftUni\August C# Basics\UROK 5 Loops\01 School\05 Loops\08. Odd Even Sum\bin\Debug\_08.Odd_Even_Sum.exe
+C:\My Staff\SoftUni\August C# Basics\UROK 5 Loops\01 School\05 Loops\08. Odd Even Sum\bin\Debug\_08.Odd_Even_Sum.pdb
+C:\My Staff\SoftUni\August C# Basics\UROK 5 Loops\01 School\05 Loops\08. Odd Even Sum\obj\Debug\08. Odd Even Sum.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\August C# Basics\UROK 5 Loops\01 School\05 Loops\08. Odd Even Sum\obj\Debug\08. Odd Even Sum.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\August C# Basics\UROK 5 Loops\01 School\05 Loops\08. Odd Even Sum\obj\Debug\_08.Odd_Even_Sum.exe
+C:\My Staff\SoftUni\August C# Basics\UROK 5 Loops\01 School\05 Loops\08. Odd Even Sum\obj\Debug\_08.Odd_Even_Sum.pdb

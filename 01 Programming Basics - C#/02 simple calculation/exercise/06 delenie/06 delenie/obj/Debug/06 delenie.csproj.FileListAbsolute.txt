@@ -1,0 +1,6 @@
+D:\SOFTUNI\UROK 2\06 delenie\06 delenie\bin\Debug\06 delenie.exe.config
+D:\SOFTUNI\UROK 2\06 delenie\06 delenie\bin\Debug\06 delenie.exe
+D:\SOFTUNI\UROK 2\06 delenie\06 delenie\bin\Debug\06 delenie.pdb
+D:\SOFTUNI\UROK 2\06 delenie\06 delenie\obj\Debug\06 delenie.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\UROK 2\06 delenie\06 delenie\obj\Debug\06 delenie.exe
+D:\SOFTUNI\UROK 2\06 delenie\06 delenie\obj\Debug\06 delenie.pdb

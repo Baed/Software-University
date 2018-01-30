@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\August C# Basics\UROK 6 - Drawing Figures with Loops\01 School\06 Drawing figures with Loops\07 Christmas Tree\bin\Debug\07 Christmas Tree.exe.config
+C:\My Staff\SoftUni\August C# Basics\UROK 6 - Drawing Figures with Loops\01 School\06 Drawing figures with Loops\07 Christmas Tree\bin\Debug\07 Christmas Tree.exe
+C:\My Staff\SoftUni\August C# Basics\UROK 6 - Drawing Figures with Loops\01 School\06 Drawing figures with Loops\07 Christmas Tree\bin\Debug\07 Christmas Tree.pdb
+C:\My Staff\SoftUni\August C# Basics\UROK 6 - Drawing Figures with Loops\01 School\06 Drawing figures with Loops\07 Christmas Tree\obj\Debug\07 Christmas Tree.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\August C# Basics\UROK 6 - Drawing Figures with Loops\01 School\06 Drawing figures with Loops\07 Christmas Tree\obj\Debug\07 Christmas Tree.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\August C# Basics\UROK 6 - Drawing Figures with Loops\01 School\06 Drawing figures with Loops\07 Christmas Tree\obj\Debug\07 Christmas Tree.exe
+C:\My Staff\SoftUni\August C# Basics\UROK 6 - Drawing Figures with Loops\01 School\06 Drawing figures with Loops\07 Christmas Tree\obj\Debug\07 Christmas Tree.pdb

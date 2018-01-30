@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\August C# Basics\Challange\01 Programming Basics Exam - 20 November 2016 - Evening\Challange 20.nov.16\06 Max Combination\obj\Debug\06 Max Combination.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\August C# Basics\Challange\01 Programming Basics Exam - 20 November 2016 - Evening\Challange 20.nov.16\06 Max Combination\obj\Debug\06 Max Combination.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\August C# Basics\Challange\01 Programming Basics Exam - 20 November 2016 - Evening\Challange 20.nov.16\06 Max Combination\bin\Debug\06 Max Combination.exe.config
+C:\My Staff\SoftUni\August C# Basics\Challange\01 Programming Basics Exam - 20 November 2016 - Evening\Challange 20.nov.16\06 Max Combination\bin\Debug\06 Max Combination.exe
+C:\My Staff\SoftUni\August C# Basics\Challange\01 Programming Basics Exam - 20 November 2016 - Evening\Challange 20.nov.16\06 Max Combination\bin\Debug\06 Max Combination.pdb
+C:\My Staff\SoftUni\August C# Basics\Challange\01 Programming Basics Exam - 20 November 2016 - Evening\Challange 20.nov.16\06 Max Combination\obj\Debug\06 Max Combination.exe
+C:\My Staff\SoftUni\August C# Basics\Challange\01 Programming Basics Exam - 20 November 2016 - Evening\Challange 20.nov.16\06 Max Combination\obj\Debug\06 Max Combination.pdb

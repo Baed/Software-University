@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\August C# Basics\Challange\03 Programming Basics Exam - 18 March 2017\01 - Dog House\04 - Game Of Intervals\bin\Debug\04 - Game Of Intervals.exe.config
+C:\My Staff\SoftUni\August C# Basics\Challange\03 Programming Basics Exam - 18 March 2017\01 - Dog House\04 - Game Of Intervals\bin\Debug\04 - Game Of Intervals.exe
+C:\My Staff\SoftUni\August C# Basics\Challange\03 Programming Basics Exam - 18 March 2017\01 - Dog House\04 - Game Of Intervals\bin\Debug\04 - Game Of Intervals.pdb
+C:\My Staff\SoftUni\August C# Basics\Challange\03 Programming Basics Exam - 18 March 2017\01 - Dog House\04 - Game Of Intervals\obj\Debug\04 - Game Of Intervals.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\August C# Basics\Challange\03 Programming Basics Exam - 18 March 2017\01 - Dog House\04 - Game Of Intervals\obj\Debug\04 - Game Of Intervals.exe
+C:\My Staff\SoftUni\August C# Basics\Challange\03 Programming Basics Exam - 18 March 2017\01 - Dog House\04 - Game Of Intervals\obj\Debug\04 - Game Of Intervals.pdb
+C:\My Staff\SoftUni\August C# Basics\Challange\03 Programming Basics Exam - 18 March 2017\01 - Dog House\04 - Game Of Intervals\obj\Debug\04 - Game Of Intervals.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\August C# Basics\Challange\01 Programming Basics Exam - 20 November 2016 - Evening\Challange 20.nov.16\04. Logistics\bin\Debug\_04.Logistics.exe.config
+C:\My Staff\SoftUni\August C# Basics\Challange\01 Programming Basics Exam - 20 November 2016 - Evening\Challange 20.nov.16\04. Logistics\bin\Debug\_04.Logistics.exe
+C:\My Staff\SoftUni\August C# Basics\Challange\01 Programming Basics Exam - 20 November 2016 - Evening\Challange 20.nov.16\04. Logistics\bin\Debug\_04.Logistics.pdb
+C:\My Staff\SoftUni\August C# Basics\Challange\01 Programming Basics Exam - 20 November 2016 - Evening\Challange 20.nov.16\04. Logistics\obj\Debug\04. Logistics.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\August C# Basics\Challange\01 Programming Basics Exam - 20 November 2016 - Evening\Challange 20.nov.16\04. Logistics\obj\Debug\04. Logistics.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\August C# Basics\Challange\01 Programming Basics Exam - 20 November 2016 - Evening\Challange 20.nov.16\04. Logistics\obj\Debug\_04.Logistics.exe
+C:\My Staff\SoftUni\August C# Basics\Challange\01 Programming Basics Exam - 20 November 2016 - Evening\Challange 20.nov.16\04. Logistics\obj\Debug\_04.Logistics.pdb

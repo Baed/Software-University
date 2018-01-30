@@ -1,0 +1,7 @@
+D:\SOFTUNI\Programming basic c# august 2017\UROK 2 simple calculation\02 Simple Calculation\13 1000 days after birth\bin\Debug\13 1000 days after birth.exe.config
+D:\SOFTUNI\Programming basic c# august 2017\UROK 2 simple calculation\02 Simple Calculation\13 1000 days after birth\bin\Debug\13 1000 days after birth.exe
+D:\SOFTUNI\Programming basic c# august 2017\UROK 2 simple calculation\02 Simple Calculation\13 1000 days after birth\bin\Debug\13 1000 days after birth.pdb
+D:\SOFTUNI\Programming basic c# august 2017\UROK 2 simple calculation\02 Simple Calculation\13 1000 days after birth\obj\Debug\13 1000 days after birth.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Programming basic c# august 2017\UROK 2 simple calculation\02 Simple Calculation\13 1000 days after birth\obj\Debug\13 1000 days after birth.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\Programming basic c# august 2017\UROK 2 simple calculation\02 Simple Calculation\13 1000 days after birth\obj\Debug\13 1000 days after birth.exe
+D:\SOFTUNI\Programming basic c# august 2017\UROK 2 simple calculation\02 Simple Calculation\13 1000 days after birth\obj\Debug\13 1000 days after birth.pdb

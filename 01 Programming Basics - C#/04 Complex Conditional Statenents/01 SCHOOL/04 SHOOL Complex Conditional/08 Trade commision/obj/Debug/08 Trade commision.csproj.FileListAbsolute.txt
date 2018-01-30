@@ -1,0 +1,7 @@
+D:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\01 SCHOOL\04 SHOOL Complex Conditional\08 Trade commision\bin\Debug\08 Trade commision.exe.config
+D:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\01 SCHOOL\04 SHOOL Complex Conditional\08 Trade commision\bin\Debug\08 Trade commision.exe
+D:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\01 SCHOOL\04 SHOOL Complex Conditional\08 Trade commision\bin\Debug\08 Trade commision.pdb
+D:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\01 SCHOOL\04 SHOOL Complex Conditional\08 Trade commision\obj\Debug\08 Trade commision.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\01 SCHOOL\04 SHOOL Complex Conditional\08 Trade commision\obj\Debug\08 Trade commision.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\01 SCHOOL\04 SHOOL Complex Conditional\08 Trade commision\obj\Debug\08 Trade commision.exe
+D:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\01 SCHOOL\04 SHOOL Complex Conditional\08 Trade commision\obj\Debug\08 Trade commision.pdb
