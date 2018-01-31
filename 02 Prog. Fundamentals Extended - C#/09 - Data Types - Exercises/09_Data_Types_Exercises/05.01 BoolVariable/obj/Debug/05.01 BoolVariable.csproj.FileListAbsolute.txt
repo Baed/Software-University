@@ -1,0 +1,6 @@
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\05.01 BoolVariable\bin\Debug\05.01 BoolVariable.exe.config
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\05.01 BoolVariable\bin\Debug\05.01 BoolVariable.exe
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\05.01 BoolVariable\bin\Debug\05.01 BoolVariable.pdb
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\05.01 BoolVariable\obj\Debug\05.01 BoolVariable.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\05.01 BoolVariable\obj\Debug\05.01 BoolVariable.exe
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\05.01 BoolVariable\obj\Debug\05.01 BoolVariable.pdb
