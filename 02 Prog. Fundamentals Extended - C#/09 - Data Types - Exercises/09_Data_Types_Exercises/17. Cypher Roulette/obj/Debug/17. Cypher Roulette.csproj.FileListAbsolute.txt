@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\17. Cypher Roulette\bin\Debug\_17.Cypher_Roulette.exe.config
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\17. Cypher Roulette\bin\Debug\_17.Cypher_Roulette.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\17. Cypher Roulette\bin\Debug\_17.Cypher_Roulette.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\17. Cypher Roulette\obj\Debug\17. Cypher Roulette.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\17. Cypher Roulette\obj\Debug\17. Cypher Roulette.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\17. Cypher Roulette\obj\Debug\_17.Cypher_Roulette.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\17. Cypher Roulette\obj\Debug\_17.Cypher_Roulette.pdb
