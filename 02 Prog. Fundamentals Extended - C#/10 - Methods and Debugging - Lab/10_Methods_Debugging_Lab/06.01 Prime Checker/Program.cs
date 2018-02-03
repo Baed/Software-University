@@ -10,6 +10,7 @@ namespace _06._01_Prime_Checker
     {
         static void Main(string[] args)
         {
+            string result = "";
         }
     }
 }
