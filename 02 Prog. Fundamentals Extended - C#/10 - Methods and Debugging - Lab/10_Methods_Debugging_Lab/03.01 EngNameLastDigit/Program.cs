@@ -10,7 +10,7 @@ namespace _03._01_EngNameLastDigit
     {
         static void Main(string[] args)
         {
-            int number = Reader();
+            string number = Reader();
             string result = ExecuteProgram(number);
             Printer(result);
         }
@@ -20,22 +20,22 @@ namespace _03._01_EngNameLastDigit
             Console.WriteLine(result);
         }
 
-        private static string ExecuteProgram(int number)
-        {
-            string result = string.Empty;
+        private static string ExecuteProgram(string number)
+        {         
+            string[] digitName = new[] { "zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine" };
 
-            string[] digitName = new string[] { "zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine" };
+            string lastDigit = number.Substring(number.Length - 1);
 
-            int lastDigit = number % 10;
+            int index = int.Parse(lastDigit);
 
-            result = digitName[lastDigit];
+            string result = digitName[index];
 
             return result;
         }
 
-        private static int Reader()
+        private static string Reader()
         {
-            return int.Parse(Console.ReadLine());
+            return Console.ReadLine();
         }
     }
 }

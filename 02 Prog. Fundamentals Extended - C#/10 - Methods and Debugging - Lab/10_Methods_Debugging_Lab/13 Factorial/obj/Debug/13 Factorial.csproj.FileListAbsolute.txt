@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\10 - Methods and Debugging - Lab\10_Methods_Debugging_Lab\13 Factorial\bin\Debug\13 Factorial.exe.config
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\10 - Methods and Debugging - Lab\10_Methods_Debugging_Lab\13 Factorial\bin\Debug\13 Factorial.exe
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\10 - Methods and Debugging - Lab\10_Methods_Debugging_Lab\13 Factorial\bin\Debug\13 Factorial.pdb
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\10 - Methods and Debugging - Lab\10_Methods_Debugging_Lab\13 Factorial\obj\Debug\13 Factorial.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\10 - Methods and Debugging - Lab\10_Methods_Debugging_Lab\13 Factorial\obj\Debug\13 Factorial.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\10 - Methods and Debugging - Lab\10_Methods_Debugging_Lab\13 Factorial\obj\Debug\13 Factorial.exe
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\10 - Methods and Debugging - Lab\10_Methods_Debugging_Lab\13 Factorial\obj\Debug\13 Factorial.pdb
