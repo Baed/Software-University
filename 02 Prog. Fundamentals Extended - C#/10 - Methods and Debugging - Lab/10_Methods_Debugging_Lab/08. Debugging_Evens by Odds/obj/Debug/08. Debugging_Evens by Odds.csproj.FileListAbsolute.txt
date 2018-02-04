@@ -5,3 +5,10 @@ C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\10 - Methods and Debuggi
 C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\10 - Methods and Debugging - Lab\10_Methods_Debugging_Lab\08. Debugging_Evens by Odds\obj\Debug\08. Debugging_Evens by Odds.csproj.CoreCompileInputs.cache
 C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\10 - Methods and Debugging - Lab\10_Methods_Debugging_Lab\08. Debugging_Evens by Odds\obj\Debug\_08.Debugging_Evens_by_Odds.exe
 C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\10 - Methods and Debugging - Lab\10_Methods_Debugging_Lab\08. Debugging_Evens by Odds\obj\Debug\_08.Debugging_Evens_by_Odds.pdb
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\10 - Methods and Debugging - Lab\10_Methods_Debugging_Lab\08. Debugging_Evens by Odds\bin\Debug\_08.Debugging_Evens_by_Odds.exe.config
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\10 - Methods and Debugging - Lab\10_Methods_Debugging_Lab\08. Debugging_Evens by Odds\bin\Debug\_08.Debugging_Evens_by_Odds.exe
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\10 - Methods and Debugging - Lab\10_Methods_Debugging_Lab\08. Debugging_Evens by Odds\bin\Debug\_08.Debugging_Evens_by_Odds.pdb
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\10 - Methods and Debugging - Lab\10_Methods_Debugging_Lab\08. Debugging_Evens by Odds\obj\Debug\08. Debugging_Evens by Odds.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\10 - Methods and Debugging - Lab\10_Methods_Debugging_Lab\08. Debugging_Evens by Odds\obj\Debug\08. Debugging_Evens by Odds.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\10 - Methods and Debugging - Lab\10_Methods_Debugging_Lab\08. Debugging_Evens by Odds\obj\Debug\_08.Debugging_Evens_by_Odds.exe
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\10 - Methods and Debugging - Lab\10_Methods_Debugging_Lab\08. Debugging_Evens by Odds\obj\Debug\_08.Debugging_Evens_by_Odds.pdb
