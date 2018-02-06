@@ -1,0 +1,97 @@
+(snipets)
+
+(LESSON 1 - Introduction in DB ) 
+
+Identity Specification -> set to Yes
+ctr + s --> safe table
+refresh to table, next to click to right button and select to top 1000 rows
+select edit top 200 rows
+ctr + shift + r --> refresh at current cache
+
+CREATE VIEW
+go
+create view v_ClientAccounts as
+select Accounts.id, FirstName + ' ' + LastName as[Client Name],
+AccountTypes.Name as [AccountType], 
+Balance from Accounts
+join Clients on Clients.id = Accounts.ClientId
+join AccountTypes on AccountTypes.Id = Accounts.AccountTypeId 
+go
+
+INVOKE
+select * from v_ClientAccounts
+
+
+SELECT TOP (1000) [id]
+      ,[FirstName]
+      ,[LastName]
+  FROM [Bank].[dbo].[Clients]
+  
+  use Bank
+
+  CREATE TABLE
+create table AccountTypes
+(
+Id int primary key identity not null, 
+Name nvarchar(50) not null,
+
+)
+
+INSERT
+insert into AccountTypes (Name) values 
+('Checking'),
+('Savings')
+
+select * from AccountTypes
+
+drop table Accounts
+
+create table Accounts 
+(
+id int primary key identity not null,
+ClientId int foreign key references Clients(Id),
+AccountTypeId int foreign key references AccountTypes(Id),
+Balance decimal(15, 2) default 0
+)
+  
+  
+(LESSON 2 - Data definition and variable )
+
+digits, numbers
+bit(1-bit) --> bool
+integet
+bigint
+real
+float
+decimal(scale, precision)
+money --> don't using
+
+string
+char(size) --> fix size length string
+varchar(size) --> variable size length string
+nvarchar(size) – Unicode variable size string
+text / ntext – text data block (unlimited size) --> don't using
+
+Binary data
+binary(size) – fixed length sequence of bits
+varbinary(size) – a sequence of bits, 1-8000 bytes or max (2GB)
+Date and time
+date – date in range 0001-01-01 through 9999-12-31
+datetime – date and time with precision of 1/300 sec
+smalldatetime – date and time (1-minute precision)
+
+
+
+
+
+
+
+
+
+(LESSON 3 - )
+
+
+
+(Exam_preparation)
+
+

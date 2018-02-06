@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 14.00
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "03 Lab - CRUD", "..\03 Lab - CRUD\03 Lab - CRUD.ssmssqlproj", "{330D0833-16C8-40D1-96C9-E2BE193BF3C9}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "03 Exercise - CRUD", "03 Exercise - CRUD.ssmssqlproj", "{985AF98F-CC63-47A0-8AD1-2DABBD5CFF93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A2BDC98-EADA-4990-B57F-3C229217EC53}.Default|Default.ActiveCfg = Default
+		{330D0833-16C8-40D1-96C9-E2BE193BF3C9}.Default|Default.ActiveCfg = Default
+		{985AF98F-CC63-47A0-8AD1-2DABBD5CFF93}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
