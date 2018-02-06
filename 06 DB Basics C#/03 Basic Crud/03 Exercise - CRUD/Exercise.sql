@@ -62,7 +62,7 @@ ORDER BY salary DESC
 -- -----------14.Find All Employees Except Marketing-------------
 SELECT FirstName, LastName 
   FROM employees
- WHERE DepartmentID != 4
+ WHERE DepartmentID != 4 -- != is same like <>
 
 -- -----------15.Sort Employees Table-------------
 SELECT * FROM employees
@@ -72,12 +72,12 @@ ORDER BY salary DESC,
 	 MiddleName ASC; 
 
 -- -----------16.Create View Employees with Salaries-------------
-CREATE VIEW v_EmployeesSalaries  AS
+CREATE VIEW V_EmployeesSalaries  AS
 	 SELECT FirstName, LastName, Salary 
        FROM employees;
 	   
 	 SELECT * 
-	   FROM v_EmployeesSalaries
+	   FROM V_EmployeesSalaries
 
 -- -----------17.Create View Employees with Job Titles-------------
 UPDATE employees
@@ -85,7 +85,10 @@ UPDATE employees
  WHERE MiddleName IS NULL;
 	
 CREATE VIEW V_EmployeeNameJobTitle   AS
-	 SELECT CONCAT(FirstName, ' ', MiddleName, ' ', LastName) AS 'FullName' , JobTitle 
+	 SELECT CONCAT(FirstName, ' ', MiddleName, ' ', LastName)
+	     AS [Full Name], 
+		    JobTitle
+		 AS [Job Title]	 
        FROM employees;
 
 	 SELECT * 
@@ -107,17 +110,20 @@ ORDER BY StartDate, Name
 ORDER BY HireDate DESC
 
 -- -----------21.Increase Salaries---------------
+SELECT *
+  FROM Departments
+ WHERE Name IN('Engineering', 'Tool Design', 'Marketing', 'Information Services') 
+            --The DepartmentIDs of our choise are 1, 2, 4, 11
 UPDATE employees
-   SET salary = salary * 1.12
+   SET salary = salary * 1.12 -- salary *= 1.12
  WHERE DepartmentID IN(1, 2, 4, 11)
 -- WHERE DepartmentID = '1' or DepartmentID= '2' or DepartmentID = '4' or DepartmentID = '11'; --
-
 SELECT salary 
   FROM employees;
 
-
 -- -----------II Queries for Geography Database -----------------------
 USE Geography
+SELECT * FROM Countries
 -- -----------22.All Mountain Peaks---------------
   SELECT PeakName 
     FROM peaks 
@@ -126,20 +132,23 @@ ORDER BY PeakName
 -- -----------23. Biggest Countries by Population---------------
   SELECT TOP 30 CountryName, Population 
     FROM countries 
-   WHERE CountryCode = 'EU'
-ORDER BY population DESC, CountryName
+   WHERE ContinentCode = 'EU'
+ORDER BY Population DESC, CountryName
 
 -- -----------24.*Countries and Currency (Euro / Not Euro)---------------
-  SELECT CountryName, CountryCode 
-      IF (CurrencyCode = 'EUR', 'Euro', 'Not Euro') 
-	  AS currency 
+  SELECT CountryName, CountryCode,
+         CASE CurrencyCode
+              WHEN 'EUR' THEN 'Euro' 
+              ELSE 'Not Euro'
+       END AS [Currency] 	   
     FROM countries 
-ORDER BY country_name ASC
-GO
+ORDER BY CountryName ASC
 
 -- -----------II Queries for Geography Database -----------------------
 USE Diablo
+SELECT *
+FROM Characters
 -- -----------25.All Diablo Characters---------------
   SELECT Name 
     FROM Characters 
-ORDER BY Name asc;
+ORDER BY Name ASC;
