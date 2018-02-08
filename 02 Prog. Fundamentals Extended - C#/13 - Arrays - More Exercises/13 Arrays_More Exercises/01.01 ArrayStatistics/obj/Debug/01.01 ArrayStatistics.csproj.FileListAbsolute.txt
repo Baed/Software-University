@@ -1,0 +1,6 @@
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\13 - Arrays - More Exercises\13 Arrays_More Exercises\01.01 ArrayStatistics\bin\Debug\01.01 ArrayStatistics.exe.config
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\13 - Arrays - More Exercises\13 Arrays_More Exercises\01.01 ArrayStatistics\bin\Debug\01.01 ArrayStatistics.exe
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\13 - Arrays - More Exercises\13 Arrays_More Exercises\01.01 ArrayStatistics\bin\Debug\01.01 ArrayStatistics.pdb
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\13 - Arrays - More Exercises\13 Arrays_More Exercises\01.01 ArrayStatistics\obj\Debug\01.01 ArrayStatistics.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\13 - Arrays - More Exercises\13 Arrays_More Exercises\01.01 ArrayStatistics\obj\Debug\01.01 ArrayStatistics.exe
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\13 - Arrays - More Exercises\13 Arrays_More Exercises\01.01 ArrayStatistics\obj\Debug\01.01 ArrayStatistics.pdb

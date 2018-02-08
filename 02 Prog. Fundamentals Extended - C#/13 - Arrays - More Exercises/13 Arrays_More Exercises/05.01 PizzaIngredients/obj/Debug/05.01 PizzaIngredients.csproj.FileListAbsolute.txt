@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\13 - Arrays - More Exercises\13 Arrays_More Exercises\05.01 PizzaIngredients\bin\Debug\05.01 PizzaIngredients.exe.config
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\13 - Arrays - More Exercises\13 Arrays_More Exercises\05.01 PizzaIngredients\bin\Debug\05.01 PizzaIngredients.exe
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\13 - Arrays - More Exercises\13 Arrays_More Exercises\05.01 PizzaIngredients\bin\Debug\05.01 PizzaIngredients.pdb
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\13 - Arrays - More Exercises\13 Arrays_More Exercises\05.01 PizzaIngredients\obj\Debug\05.01 PizzaIngredients.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\13 - Arrays - More Exercises\13 Arrays_More Exercises\05.01 PizzaIngredients\obj\Debug\05.01 PizzaIngredients.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\13 - Arrays - More Exercises\13 Arrays_More Exercises\05.01 PizzaIngredients\obj\Debug\05.01 PizzaIngredients.exe
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\13 - Arrays - More Exercises\13 Arrays_More Exercises\05.01 PizzaIngredients\obj\Debug\05.01 PizzaIngredients.pdb
