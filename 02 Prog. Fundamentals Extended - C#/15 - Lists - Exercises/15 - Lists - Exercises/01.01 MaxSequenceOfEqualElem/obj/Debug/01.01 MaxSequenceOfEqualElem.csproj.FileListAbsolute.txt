@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\15 - Lists - Exercises\15 - Lists - Exercises\01.01 MaxSequenceOfEqualElem\bin\Debug\01.01 MaxSequenceOfEqualElem.exe.config
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\15 - Lists - Exercises\15 - Lists - Exercises\01.01 MaxSequenceOfEqualElem\bin\Debug\01.01 MaxSequenceOfEqualElem.exe
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\15 - Lists - Exercises\15 - Lists - Exercises\01.01 MaxSequenceOfEqualElem\bin\Debug\01.01 MaxSequenceOfEqualElem.pdb
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\15 - Lists - Exercises\15 - Lists - Exercises\01.01 MaxSequenceOfEqualElem\obj\Debug\01.01 MaxSequenceOfEqualElem.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\15 - Lists - Exercises\15 - Lists - Exercises\01.01 MaxSequenceOfEqualElem\obj\Debug\01.01 MaxSequenceOfEqualElem.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\15 - Lists - Exercises\15 - Lists - Exercises\01.01 MaxSequenceOfEqualElem\obj\Debug\01.01 MaxSequenceOfEqualElem.exe
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\15 - Lists - Exercises\15 - Lists - Exercises\01.01 MaxSequenceOfEqualElem\obj\Debug\01.01 MaxSequenceOfEqualElem.pdb
