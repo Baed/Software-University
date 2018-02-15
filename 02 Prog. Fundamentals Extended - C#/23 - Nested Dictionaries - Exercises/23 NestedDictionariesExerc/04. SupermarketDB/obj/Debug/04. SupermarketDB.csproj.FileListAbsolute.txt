@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\23 - Nested Dictionaries - Exercises\23 NestedDictionariesExerc\04. SupermarketDB\bin\Debug\_04.SupermarketDB.exe.config
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\23 - Nested Dictionaries - Exercises\23 NestedDictionariesExerc\04. SupermarketDB\bin\Debug\_04.SupermarketDB.exe
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\23 - Nested Dictionaries - Exercises\23 NestedDictionariesExerc\04. SupermarketDB\bin\Debug\_04.SupermarketDB.pdb
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\23 - Nested Dictionaries - Exercises\23 NestedDictionariesExerc\04. SupermarketDB\obj\Debug\04. SupermarketDB.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\23 - Nested Dictionaries - Exercises\23 NestedDictionariesExerc\04. SupermarketDB\obj\Debug\04. SupermarketDB.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\23 - Nested Dictionaries - Exercises\23 NestedDictionariesExerc\04. SupermarketDB\obj\Debug\_04.SupermarketDB.exe
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\23 - Nested Dictionaries - Exercises\23 NestedDictionariesExerc\04. SupermarketDB\obj\Debug\_04.SupermarketDB.pdb

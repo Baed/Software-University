@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\23 - Nested Dictionaries - Exercises\23 NestedDictionariesExerc\05.01 ParkingValid\bin\Debug\05.01 ParkingValid.exe.config
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\23 - Nested Dictionaries - Exercises\23 NestedDictionariesExerc\05.01 ParkingValid\bin\Debug\05.01 ParkingValid.exe
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\23 - Nested Dictionaries - Exercises\23 NestedDictionariesExerc\05.01 ParkingValid\bin\Debug\05.01 ParkingValid.pdb
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\23 - Nested Dictionaries - Exercises\23 NestedDictionariesExerc\05.01 ParkingValid\obj\Debug\05.01 ParkingValid.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\23 - Nested Dictionaries - Exercises\23 NestedDictionariesExerc\05.01 ParkingValid\obj\Debug\05.01 ParkingValid.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\23 - Nested Dictionaries - Exercises\23 NestedDictionariesExerc\05.01 ParkingValid\obj\Debug\05.01 ParkingValid.exe
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\23 - Nested Dictionaries - Exercises\23 NestedDictionariesExerc\05.01 ParkingValid\obj\Debug\05.01 ParkingValid.pdb

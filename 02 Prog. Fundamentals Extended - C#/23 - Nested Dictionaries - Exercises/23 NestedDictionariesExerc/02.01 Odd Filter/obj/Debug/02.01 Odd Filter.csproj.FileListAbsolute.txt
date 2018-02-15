@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\23 - Nested Dictionaries - Exercises\23 NestedDictionariesExerc\02.01 Odd Filter\bin\Debug\02.01 Odd Filter.exe.config
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\23 - Nested Dictionaries - Exercises\23 NestedDictionariesExerc\02.01 Odd Filter\bin\Debug\02.01 Odd Filter.exe
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\23 - Nested Dictionaries - Exercises\23 NestedDictionariesExerc\02.01 Odd Filter\bin\Debug\02.01 Odd Filter.pdb
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\23 - Nested Dictionaries - Exercises\23 NestedDictionariesExerc\02.01 Odd Filter\obj\Debug\02.01 Odd Filter.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\23 - Nested Dictionaries - Exercises\23 NestedDictionariesExerc\02.01 Odd Filter\obj\Debug\02.01 Odd Filter.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\23 - Nested Dictionaries - Exercises\23 NestedDictionariesExerc\02.01 Odd Filter\obj\Debug\02.01 Odd Filter.exe
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\23 - Nested Dictionaries - Exercises\23 NestedDictionariesExerc\02.01 Odd Filter\obj\Debug\02.01 Odd Filter.pdb
