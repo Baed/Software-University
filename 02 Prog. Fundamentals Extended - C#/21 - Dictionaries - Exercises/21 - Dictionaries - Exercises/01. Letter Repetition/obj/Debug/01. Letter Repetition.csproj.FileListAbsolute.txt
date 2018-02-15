@@ -5,3 +5,10 @@ C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\21 - Dictionaries - Exer
 C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\21 - Dictionaries - Exercises\21 - Dictionaries - Exercises\01. Letter Repetition\obj\Debug\01. Letter Repetition.csproj.CoreCompileInputs.cache
 C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\21 - Dictionaries - Exercises\21 - Dictionaries - Exercises\01. Letter Repetition\obj\Debug\_01.Letter_Repetition.exe
 C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\21 - Dictionaries - Exercises\21 - Dictionaries - Exercises\01. Letter Repetition\obj\Debug\_01.Letter_Repetition.pdb
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\21 - Dictionaries - Exercises\21 - Dictionaries - Exercises\01. Letter Repetition\bin\Debug\_01.Letter_Repetition.exe.config
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\21 - Dictionaries - Exercises\21 - Dictionaries - Exercises\01. Letter Repetition\bin\Debug\_01.Letter_Repetition.exe
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\21 - Dictionaries - Exercises\21 - Dictionaries - Exercises\01. Letter Repetition\bin\Debug\_01.Letter_Repetition.pdb
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\21 - Dictionaries - Exercises\21 - Dictionaries - Exercises\01. Letter Repetition\obj\Debug\01. Letter Repetition.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\21 - Dictionaries - Exercises\21 - Dictionaries - Exercises\01. Letter Repetition\obj\Debug\01. Letter Repetition.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\21 - Dictionaries - Exercises\21 - Dictionaries - Exercises\01. Letter Repetition\obj\Debug\_01.Letter_Repetition.exe
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\21 - Dictionaries - Exercises\21 - Dictionaries - Exercises\01. Letter Repetition\obj\Debug\_01.Letter_Repetition.pdb
