@@ -36,6 +36,7 @@ namespace _05._02_Points_Counter
                     teamName = tokens[0];
                     playerName = tokens[1];
                 }
+
                 int points = int.Parse(tokens[2]);
 
                 if (!teams.ContainsKey(teamName))
@@ -57,5 +58,6 @@ namespace _05._02_Points_Counter
                     Console.WriteLine($"Most points scored by {player.Key}");
                 }
             }
+        }
     }
 }
