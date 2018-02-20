@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\27 - Objects and Simple Classes\27 Objects and Simple Classes\08.01 MentorGroup\bin\Debug\08.01 MentorGroup.exe.config
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\27 - Objects and Simple Classes\27 Objects and Simple Classes\08.01 MentorGroup\bin\Debug\08.01 MentorGroup.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\27 - Objects and Simple Classes\27 Objects and Simple Classes\08.01 MentorGroup\bin\Debug\08.01 MentorGroup.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\27 - Objects and Simple Classes\27 Objects and Simple Classes\08.01 MentorGroup\obj\Debug\08.01 MentorGroup.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\27 - Objects and Simple Classes\27 Objects and Simple Classes\08.01 MentorGroup\obj\Debug\08.01 MentorGroup.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\27 - Objects and Simple Classes\27 Objects and Simple Classes\08.01 MentorGroup\obj\Debug\08.01 MentorGroup.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\27 - Objects and Simple Classes\27 Objects and Simple Classes\08.01 MentorGroup\obj\Debug\08.01 MentorGroup.pdb

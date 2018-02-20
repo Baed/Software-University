@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\27 - Objects and Simple Classes\27 Objects and Simple Classes\07.02 AndreyAndBilliard\bin\Debug\07.02 AndreyAndBilliard.exe.config
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\27 - Objects and Simple Classes\27 Objects and Simple Classes\07.02 AndreyAndBilliard\bin\Debug\07.02 AndreyAndBilliard.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\27 - Objects and Simple Classes\27 Objects and Simple Classes\07.02 AndreyAndBilliard\bin\Debug\07.02 AndreyAndBilliard.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\27 - Objects and Simple Classes\27 Objects and Simple Classes\07.02 AndreyAndBilliard\obj\Debug\07.02 AndreyAndBilliard.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\27 - Objects and Simple Classes\27 Objects and Simple Classes\07.02 AndreyAndBilliard\obj\Debug\07.02 AndreyAndBilliard.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\27 - Objects and Simple Classes\27 Objects and Simple Classes\07.02 AndreyAndBilliard\obj\Debug\07.02 AndreyAndBilliard.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\27 - Objects and Simple Classes\27 Objects and Simple Classes\07.02 AndreyAndBilliard\obj\Debug\07.02 AndreyAndBilliard.pdb
