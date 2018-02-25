@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\07 DB Advanced\01 Defining Classes\01 Defining Classes\01 Defining Classes\bin\Debug\01 Defining Classes.exe.config
+C:\My Staff\SoftUni\07 DB Advanced\01 Defining Classes\01 Defining Classes\01 Defining Classes\bin\Debug\01 Defining Classes.exe
+C:\My Staff\SoftUni\07 DB Advanced\01 Defining Classes\01 Defining Classes\01 Defining Classes\bin\Debug\01 Defining Classes.pdb
+C:\My Staff\SoftUni\07 DB Advanced\01 Defining Classes\01 Defining Classes\01 Defining Classes\obj\Debug\L01 Defining Classes.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\07 DB Advanced\01 Defining Classes\01 Defining Classes\01 Defining Classes\obj\Debug\L01 Defining Classes.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\07 DB Advanced\01 Defining Classes\01 Defining Classes\01 Defining Classes\obj\Debug\01 Defining Classes.exe
+C:\My Staff\SoftUni\07 DB Advanced\01 Defining Classes\01 Defining Classes\01 Defining Classes\obj\Debug\01 Defining Classes.pdb

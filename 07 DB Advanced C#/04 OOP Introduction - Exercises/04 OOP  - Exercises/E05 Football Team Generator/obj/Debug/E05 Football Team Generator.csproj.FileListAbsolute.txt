@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\07 DB Advanced\04 OOP Introduction - Exercises\04 OOP  - Exercises\E05 Football Team Generator\bin\Debug\E05 Football Team Generator.exe.config
+C:\My Staff\SoftUni\07 DB Advanced\04 OOP Introduction - Exercises\04 OOP  - Exercises\E05 Football Team Generator\bin\Debug\E05 Football Team Generator.exe
+C:\My Staff\SoftUni\07 DB Advanced\04 OOP Introduction - Exercises\04 OOP  - Exercises\E05 Football Team Generator\bin\Debug\E05 Football Team Generator.pdb
+C:\My Staff\SoftUni\07 DB Advanced\04 OOP Introduction - Exercises\04 OOP  - Exercises\E05 Football Team Generator\obj\Debug\E05 Football Team Generator.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\07 DB Advanced\04 OOP Introduction - Exercises\04 OOP  - Exercises\E05 Football Team Generator\obj\Debug\E05 Football Team Generator.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\07 DB Advanced\04 OOP Introduction - Exercises\04 OOP  - Exercises\E05 Football Team Generator\obj\Debug\E05 Football Team Generator.exe
+C:\My Staff\SoftUni\07 DB Advanced\04 OOP Introduction - Exercises\04 OOP  - Exercises\E05 Football Team Generator\obj\Debug\E05 Football Team Generator.pdb
