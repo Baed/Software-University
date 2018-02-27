@@ -1,0 +1,6 @@
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\35 - Regular Expressions (RegEx) - Exercises\35 - (RegEx) - Exer\02.01 Sentences by Keyword\bin\Debug\02.01 Sentences by Keyword.exe.config
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\35 - Regular Expressions (RegEx) - Exercises\35 - (RegEx) - Exer\02.01 Sentences by Keyword\bin\Debug\02.01 Sentences by Keyword.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\35 - Regular Expressions (RegEx) - Exercises\35 - (RegEx) - Exer\02.01 Sentences by Keyword\bin\Debug\02.01 Sentences by Keyword.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\35 - Regular Expressions (RegEx) - Exercises\35 - (RegEx) - Exer\02.01 Sentences by Keyword\obj\Debug\02.01 Sentences by Keyword.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\35 - Regular Expressions (RegEx) - Exercises\35 - (RegEx) - Exer\02.01 Sentences by Keyword\obj\Debug\02.01 Sentences by Keyword.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\35 - Regular Expressions (RegEx) - Exercises\35 - (RegEx) - Exer\02.01 Sentences by Keyword\obj\Debug\02.01 Sentences by Keyword.pdb
