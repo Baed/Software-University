@@ -1,0 +1,6 @@
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\09 - Exam - 11 September 2016\09 - 11 Sept. 2016\02. Trophon Grumpy\bin\Debug\_02.Trophon_Grumpy.exe.config
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\09 - Exam - 11 September 2016\09 - 11 Sept. 2016\02. Trophon Grumpy\bin\Debug\_02.Trophon_Grumpy.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\09 - Exam - 11 September 2016\09 - 11 Sept. 2016\02. Trophon Grumpy\bin\Debug\_02.Trophon_Grumpy.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\09 - Exam - 11 September 2016\09 - 11 Sept. 2016\02. Trophon Grumpy\obj\Debug\02. Trophon Grumpy.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\09 - Exam - 11 September 2016\09 - 11 Sept. 2016\02. Trophon Grumpy\obj\Debug\_02.Trophon_Grumpy.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\09 - Exam - 11 September 2016\09 - 11 Sept. 2016\02. Trophon Grumpy\obj\Debug\_02.Trophon_Grumpy.pdb

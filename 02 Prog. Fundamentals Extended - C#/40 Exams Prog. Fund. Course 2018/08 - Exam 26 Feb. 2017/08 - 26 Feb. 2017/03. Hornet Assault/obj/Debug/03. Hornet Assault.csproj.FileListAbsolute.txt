@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\08 - 26 Feb. 2017\08 - 26 Feb. 2017\03. Hornet Assault\bin\Debug\_03.Hornet_Assault.exe.config
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\08 - 26 Feb. 2017\08 - 26 Feb. 2017\03. Hornet Assault\bin\Debug\_03.Hornet_Assault.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\08 - 26 Feb. 2017\08 - 26 Feb. 2017\03. Hornet Assault\bin\Debug\_03.Hornet_Assault.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\08 - 26 Feb. 2017\08 - 26 Feb. 2017\03. Hornet Assault\obj\Debug\03. Hornet Assault.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\08 - 26 Feb. 2017\08 - 26 Feb. 2017\03. Hornet Assault\obj\Debug\03. Hornet Assault.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\08 - 26 Feb. 2017\08 - 26 Feb. 2017\03. Hornet Assault\obj\Debug\_03.Hornet_Assault.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\08 - 26 Feb. 2017\08 - 26 Feb. 2017\03. Hornet Assault\obj\Debug\_03.Hornet_Assault.pdb
