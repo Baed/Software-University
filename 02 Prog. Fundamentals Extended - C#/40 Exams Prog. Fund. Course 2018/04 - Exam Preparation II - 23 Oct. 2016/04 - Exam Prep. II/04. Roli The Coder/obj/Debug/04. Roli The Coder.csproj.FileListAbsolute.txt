@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\04 - Exam Preparation II\04 - Exam Prep. II\04. Roli The Coder\bin\Debug\_04.Roli_The_Coder.exe.config
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\04 - Exam Preparation II\04 - Exam Prep. II\04. Roli The Coder\bin\Debug\_04.Roli_The_Coder.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\04 - Exam Preparation II\04 - Exam Prep. II\04. Roli The Coder\bin\Debug\_04.Roli_The_Coder.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\04 - Exam Preparation II\04 - Exam Prep. II\04. Roli The Coder\obj\Debug\04. Roli The Coder.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\04 - Exam Preparation II\04 - Exam Prep. II\04. Roli The Coder\obj\Debug\04. Roli The Coder.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\04 - Exam Preparation II\04 - Exam Prep. II\04. Roli The Coder\obj\Debug\_04.Roli_The_Coder.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\04 - Exam Preparation II\04 - Exam Prep. II\04. Roli The Coder\obj\Debug\_04.Roli_The_Coder.pdb

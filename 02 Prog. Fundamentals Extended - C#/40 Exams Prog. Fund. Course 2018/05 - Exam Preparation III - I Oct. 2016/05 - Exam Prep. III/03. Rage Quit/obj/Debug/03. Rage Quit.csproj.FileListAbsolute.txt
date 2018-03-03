@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\05 - Exam Preparation III\05 - Exam Prep. III\03. Rage Quit\bin\Debug\_03.Rage_Quit.exe.config
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\05 - Exam Preparation III\05 - Exam Prep. III\03. Rage Quit\bin\Debug\_03.Rage_Quit.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\05 - Exam Preparation III\05 - Exam Prep. III\03. Rage Quit\bin\Debug\_03.Rage_Quit.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\05 - Exam Preparation III\05 - Exam Prep. III\03. Rage Quit\obj\Debug\03. Rage Quit.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\05 - Exam Preparation III\05 - Exam Prep. III\03. Rage Quit\obj\Debug\03. Rage Quit.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\05 - Exam Preparation III\05 - Exam Prep. III\03. Rage Quit\obj\Debug\_03.Rage_Quit.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\05 - Exam Preparation III\05 - Exam Prep. III\03. Rage Quit\obj\Debug\_03.Rage_Quit.pdb

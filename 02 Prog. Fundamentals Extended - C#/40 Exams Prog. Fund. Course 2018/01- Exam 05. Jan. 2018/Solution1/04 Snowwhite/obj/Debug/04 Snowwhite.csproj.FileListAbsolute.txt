@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\05. Jan. 2018\Solution1\04 Snowwhite\bin\Debug\04 Snowwhite.exe.config
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\05. Jan. 2018\Solution1\04 Snowwhite\bin\Debug\04 Snowwhite.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\05. Jan. 2018\Solution1\04 Snowwhite\bin\Debug\04 Snowwhite.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\05. Jan. 2018\Solution1\04 Snowwhite\obj\Debug\04 Snowwhite.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\05. Jan. 2018\Solution1\04 Snowwhite\obj\Debug\04 Snowwhite.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\05. Jan. 2018\Solution1\04 Snowwhite\obj\Debug\04 Snowwhite.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\05. Jan. 2018\Solution1\04 Snowwhite\obj\Debug\04 Snowwhite.pdb
