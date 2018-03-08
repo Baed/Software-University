@@ -1,0 +1,15 @@
+C:\My Staff\SoftUni\07 DB Advanced\07 Code-First\07 Code-First\E01 Hospital_StartUp\bin\Debug\netcoreapp2.0\E01 Hospital_StartUp.deps.json
+C:\My Staff\SoftUni\07 DB Advanced\07 Code-First\07 Code-First\E01 Hospital_StartUp\bin\Debug\netcoreapp2.0\E01 Hospital_StartUp.runtimeconfig.json
+C:\My Staff\SoftUni\07 DB Advanced\07 Code-First\07 Code-First\E01 Hospital_StartUp\bin\Debug\netcoreapp2.0\E01 Hospital_StartUp.runtimeconfig.dev.json
+C:\My Staff\SoftUni\07 DB Advanced\07 Code-First\07 Code-First\E01 Hospital_StartUp\bin\Debug\netcoreapp2.0\E01 Hospital_StartUp.dll
+C:\My Staff\SoftUni\07 DB Advanced\07 Code-First\07 Code-First\E01 Hospital_StartUp\bin\Debug\netcoreapp2.0\E01 Hospital_StartUp.pdb
+C:\My Staff\SoftUni\07 DB Advanced\07 Code-First\07 Code-First\E01 Hospital_StartUp\obj\Debug\netcoreapp2.0\E01 Hospital_StartUp.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\07 DB Advanced\07 Code-First\07 Code-First\E01 Hospital_StartUp\obj\Debug\netcoreapp2.0\E01 Hospital_StartUp.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\07 DB Advanced\07 Code-First\07 Code-First\E01 Hospital_StartUp\obj\Debug\netcoreapp2.0\E01 Hospital_StartUp.AssemblyInfoInputs.cache
+C:\My Staff\SoftUni\07 DB Advanced\07 Code-First\07 Code-First\E01 Hospital_StartUp\obj\Debug\netcoreapp2.0\E01 Hospital_StartUp.AssemblyInfo.cs
+C:\My Staff\SoftUni\07 DB Advanced\07 Code-First\07 Code-First\E01 Hospital_StartUp\obj\Debug\netcoreapp2.0\E01 Hospital_StartUp.dll
+C:\My Staff\SoftUni\07 DB Advanced\07 Code-First\07 Code-First\E01 Hospital_StartUp\obj\Debug\netcoreapp2.0\E01 Hospital_StartUp.pdb
+C:\My Staff\SoftUni\07 DB Advanced\07 Code-First\07 Code-First\E01 Hospital_StartUp\bin\Debug\netcoreapp2.0\E01 HospitalDB.dll
+C:\My Staff\SoftUni\07 DB Advanced\07 Code-First\07 Code-First\E01 Hospital_StartUp\bin\Debug\netcoreapp2.0\E01 HospitalDB.pdb
+C:\My Staff\SoftUni\07 DB Advanced\07 Code-First\07 Code-First\E01 Hospital_StartUp\bin\Debug\netcoreapp2.0\HospitalDatabaseInitializer.dll
+C:\My Staff\SoftUni\07 DB Advanced\07 Code-First\07 Code-First\E01 Hospital_StartUp\bin\Debug\netcoreapp2.0\HospitalDatabaseInitializer.pdb
