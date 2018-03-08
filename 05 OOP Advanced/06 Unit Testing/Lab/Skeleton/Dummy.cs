@@ -41,3 +41,4 @@ public class Dummy : ITarget
         return this.health <= 0;
     }
 }
+//

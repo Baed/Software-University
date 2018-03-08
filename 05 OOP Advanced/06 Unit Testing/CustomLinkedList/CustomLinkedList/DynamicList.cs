@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 namespace CustomLinkedList
 {
     /// <summary>Dynamic (linked) list class definition</summary>
+    /// 
     public class DynamicList<T>
     {
         private class ListNode
@@ -44,6 +45,7 @@ namespace CustomLinkedList
             get
             {
                 return this.count;
+
             }
         }
 
@@ -98,7 +100,7 @@ namespace CustomLinkedList
         {
             if (this.head == null)
             {
-                // We have an empty list -> create a new head and tail
+                // We have an empty list -> create a new head and tail //
                 this.head = new ListNode(item);
                 this.tail = this.head;
             }

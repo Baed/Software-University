@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-public interface Iweapon
+public interface Iweapon //Interface
 {
     int AttackPoints { get; set; }
 
