@@ -1,0 +1,16 @@
+C:\My Staff\SoftUni\07 DB Advanced\13 External Format Processing\13 External Format Processing\ProductShop.App\bin\Debug\netcoreapp2.0\ProductShop.Data.dll
+C:\My Staff\SoftUni\07 DB Advanced\13 External Format Processing\13 External Format Processing\ProductShop.App\bin\Debug\netcoreapp2.0\ProductShop.Models.dll
+C:\My Staff\SoftUni\07 DB Advanced\13 External Format Processing\13 External Format Processing\ProductShop.App\obj\Debug\netcoreapp2.0\ProductShop.App.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\07 DB Advanced\13 External Format Processing\13 External Format Processing\ProductShop.App\obj\Debug\netcoreapp2.0\ProductShop.App.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\07 DB Advanced\13 External Format Processing\13 External Format Processing\ProductShop.App\obj\Debug\netcoreapp2.0\ProductShop.App.AssemblyInfoInputs.cache
+C:\My Staff\SoftUni\07 DB Advanced\13 External Format Processing\13 External Format Processing\ProductShop.App\obj\Debug\netcoreapp2.0\ProductShop.App.AssemblyInfo.cs
+C:\My Staff\SoftUni\07 DB Advanced\13 External Format Processing\13 External Format Processing\ProductShop.App\bin\Debug\netcoreapp2.0\ProductShop.App.deps.json
+C:\My Staff\SoftUni\07 DB Advanced\13 External Format Processing\13 External Format Processing\ProductShop.App\bin\Debug\netcoreapp2.0\ProductShop.App.runtimeconfig.json
+C:\My Staff\SoftUni\07 DB Advanced\13 External Format Processing\13 External Format Processing\ProductShop.App\bin\Debug\netcoreapp2.0\ProductShop.App.runtimeconfig.dev.json
+C:\My Staff\SoftUni\07 DB Advanced\13 External Format Processing\13 External Format Processing\ProductShop.App\bin\Debug\netcoreapp2.0\ProductShop.App.dll
+C:\My Staff\SoftUni\07 DB Advanced\13 External Format Processing\13 External Format Processing\ProductShop.App\bin\Debug\netcoreapp2.0\ProductShop.App.pdb
+C:\My Staff\SoftUni\07 DB Advanced\13 External Format Processing\13 External Format Processing\ProductShop.App\bin\Debug\netcoreapp2.0\ProductShop.Data.pdb
+C:\My Staff\SoftUni\07 DB Advanced\13 External Format Processing\13 External Format Processing\ProductShop.App\bin\Debug\netcoreapp2.0\ProductShop.Models.pdb
+C:\My Staff\SoftUni\07 DB Advanced\13 External Format Processing\13 External Format Processing\ProductShop.App\obj\Debug\netcoreapp2.0\ProductShop.App.csproj.CopyComplete
+C:\My Staff\SoftUni\07 DB Advanced\13 External Format Processing\13 External Format Processing\ProductShop.App\obj\Debug\netcoreapp2.0\ProductShop.App.dll
+C:\My Staff\SoftUni\07 DB Advanced\13 External Format Processing\13 External Format Processing\ProductShop.App\obj\Debug\netcoreapp2.0\ProductShop.App.pdb

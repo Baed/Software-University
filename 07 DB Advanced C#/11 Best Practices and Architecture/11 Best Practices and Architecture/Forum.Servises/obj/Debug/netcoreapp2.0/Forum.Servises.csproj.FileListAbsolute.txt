@@ -1,0 +1,14 @@
+C:\My Staff\SoftUni\07 DB Advanced\11 Best Practices and Architecture\11 Best Practices and Architecture\Forum.Servises\bin\Debug\netcoreapp2.0\Forum.Servises.deps.json
+C:\My Staff\SoftUni\07 DB Advanced\11 Best Practices and Architecture\11 Best Practices and Architecture\Forum.Servises\bin\Debug\netcoreapp2.0\Forum.Servises.dll
+C:\My Staff\SoftUni\07 DB Advanced\11 Best Practices and Architecture\11 Best Practices and Architecture\Forum.Servises\bin\Debug\netcoreapp2.0\Forum.Servises.pdb
+C:\My Staff\SoftUni\07 DB Advanced\11 Best Practices and Architecture\11 Best Practices and Architecture\Forum.Servises\bin\Debug\netcoreapp2.0\Forum.Data.dll
+C:\My Staff\SoftUni\07 DB Advanced\11 Best Practices and Architecture\11 Best Practices and Architecture\Forum.Servises\bin\Debug\netcoreapp2.0\Forum.Models.dll
+C:\My Staff\SoftUni\07 DB Advanced\11 Best Practices and Architecture\11 Best Practices and Architecture\Forum.Servises\bin\Debug\netcoreapp2.0\Forum.Data.pdb
+C:\My Staff\SoftUni\07 DB Advanced\11 Best Practices and Architecture\11 Best Practices and Architecture\Forum.Servises\bin\Debug\netcoreapp2.0\Forum.Models.pdb
+C:\My Staff\SoftUni\07 DB Advanced\11 Best Practices and Architecture\11 Best Practices and Architecture\Forum.Servises\obj\Debug\netcoreapp2.0\Forum.Servises.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\07 DB Advanced\11 Best Practices and Architecture\11 Best Practices and Architecture\Forum.Servises\obj\Debug\netcoreapp2.0\Forum.Servises.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\07 DB Advanced\11 Best Practices and Architecture\11 Best Practices and Architecture\Forum.Servises\obj\Debug\netcoreapp2.0\Forum.Servises.AssemblyInfoInputs.cache
+C:\My Staff\SoftUni\07 DB Advanced\11 Best Practices and Architecture\11 Best Practices and Architecture\Forum.Servises\obj\Debug\netcoreapp2.0\Forum.Servises.AssemblyInfo.cs
+C:\My Staff\SoftUni\07 DB Advanced\11 Best Practices and Architecture\11 Best Practices and Architecture\Forum.Servises\obj\Debug\netcoreapp2.0\Forum.Servises.csproj.CopyComplete
+C:\My Staff\SoftUni\07 DB Advanced\11 Best Practices and Architecture\11 Best Practices and Architecture\Forum.Servises\obj\Debug\netcoreapp2.0\Forum.Servises.dll
+C:\My Staff\SoftUni\07 DB Advanced\11 Best Practices and Architecture\11 Best Practices and Architecture\Forum.Servises\obj\Debug\netcoreapp2.0\Forum.Servises.pdb
