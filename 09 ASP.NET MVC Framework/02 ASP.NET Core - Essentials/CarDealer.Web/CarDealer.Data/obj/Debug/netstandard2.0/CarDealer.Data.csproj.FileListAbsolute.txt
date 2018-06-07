@@ -1,0 +1,9 @@
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\02 ASP.NET Core - Essentials\CarDealer.Web\CarDealer.Data\bin\Debug\netstandard2.0\CarDealer.Data.deps.json
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\02 ASP.NET Core - Essentials\CarDealer.Web\CarDealer.Data\bin\Debug\netstandard2.0\CarDealer.Data.dll
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\02 ASP.NET Core - Essentials\CarDealer.Web\CarDealer.Data\obj\Debug\netstandard2.0\CarDealer.Data.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\02 ASP.NET Core - Essentials\CarDealer.Web\CarDealer.Data\obj\Debug\netstandard2.0\CarDealer.Data.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\02 ASP.NET Core - Essentials\CarDealer.Web\CarDealer.Data\obj\Debug\netstandard2.0\CarDealer.Data.AssemblyInfoInputs.cache
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\02 ASP.NET Core - Essentials\CarDealer.Web\CarDealer.Data\obj\Debug\netstandard2.0\CarDealer.Data.AssemblyInfo.cs
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\02 ASP.NET Core - Essentials\CarDealer.Web\CarDealer.Data\bin\Debug\netstandard2.0\CarDealer.Data.pdb
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\02 ASP.NET Core - Essentials\CarDealer.Web\CarDealer.Data\obj\Debug\netstandard2.0\CarDealer.Data.dll
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\02 ASP.NET Core - Essentials\CarDealer.Web\CarDealer.Data\obj\Debug\netstandard2.0\CarDealer.Data.pdb

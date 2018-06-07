@@ -1,0 +1,17 @@
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\02 ASP.NET Core - Essentials\CarDealer.Web\CarDealer.Web\obj\Debug\netcoreapp2.0\CarDealer.Web.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\02 ASP.NET Core - Essentials\CarDealer.Web\CarDealer.Web\obj\Debug\netcoreapp2.0\CarDealer.Web.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\02 ASP.NET Core - Essentials\CarDealer.Web\CarDealer.Web\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\02 ASP.NET Core - Essentials\CarDealer.Web\CarDealer.Web\obj\Debug\netcoreapp2.0\CarDealer.Web.AssemblyInfoInputs.cache
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\02 ASP.NET Core - Essentials\CarDealer.Web\CarDealer.Web\obj\Debug\netcoreapp2.0\CarDealer.Web.AssemblyInfo.cs
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\02 ASP.NET Core - Essentials\CarDealer.Web\CarDealer.Web\bin\Debug\netcoreapp2.0\CarDealer.Web.deps.json
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\02 ASP.NET Core - Essentials\CarDealer.Web\CarDealer.Web\bin\Debug\netcoreapp2.0\CarDealer.Web.runtimeconfig.json
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\02 ASP.NET Core - Essentials\CarDealer.Web\CarDealer.Web\bin\Debug\netcoreapp2.0\CarDealer.Web.runtimeconfig.dev.json
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\02 ASP.NET Core - Essentials\CarDealer.Web\CarDealer.Web\bin\Debug\netcoreapp2.0\CarDealer.Web.dll
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\02 ASP.NET Core - Essentials\CarDealer.Web\CarDealer.Web\bin\Debug\netcoreapp2.0\CarDealer.Web.pdb
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\02 ASP.NET Core - Essentials\CarDealer.Web\CarDealer.Web\bin\Debug\netcoreapp2.0\CarDealer.Data.dll
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\02 ASP.NET Core - Essentials\CarDealer.Web\CarDealer.Web\bin\Debug\netcoreapp2.0\CarDealer.Data.pdb
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\02 ASP.NET Core - Essentials\CarDealer.Web\CarDealer.Web\obj\Debug\netcoreapp2.0\CarDealer.Web.csproj.CopyComplete
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\02 ASP.NET Core - Essentials\CarDealer.Web\CarDealer.Web\obj\Debug\netcoreapp2.0\CarDealer.Web.dll
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\02 ASP.NET Core - Essentials\CarDealer.Web\CarDealer.Web\obj\Debug\netcoreapp2.0\CarDealer.Web.pdb
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\02 ASP.NET Core - Essentials\CarDealer.Web\CarDealer.Web\bin\Debug\netcoreapp2.0\CarDealer.Services.dll
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\02 ASP.NET Core - Essentials\CarDealer.Web\CarDealer.Web\bin\Debug\netcoreapp2.0\CarDealer.Services.pdb

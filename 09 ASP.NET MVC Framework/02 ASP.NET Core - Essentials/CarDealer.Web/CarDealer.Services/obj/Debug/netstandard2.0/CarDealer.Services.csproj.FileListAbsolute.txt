@@ -1,0 +1,12 @@
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\02 ASP.NET Core - Essentials\CarDealer.Web\CarDealer.Services\bin\Debug\netstandard2.0\CarDealer.Services.deps.json
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\02 ASP.NET Core - Essentials\CarDealer.Web\CarDealer.Services\bin\Debug\netstandard2.0\CarDealer.Services.dll
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\02 ASP.NET Core - Essentials\CarDealer.Web\CarDealer.Services\obj\Debug\netstandard2.0\CarDealer.Services.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\02 ASP.NET Core - Essentials\CarDealer.Web\CarDealer.Services\obj\Debug\netstandard2.0\CarDealer.Services.AssemblyInfoInputs.cache
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\02 ASP.NET Core - Essentials\CarDealer.Web\CarDealer.Services\obj\Debug\netstandard2.0\CarDealer.Services.AssemblyInfo.cs
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\02 ASP.NET Core - Essentials\CarDealer.Web\CarDealer.Services\bin\Debug\netstandard2.0\CarDealer.Services.pdb
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\02 ASP.NET Core - Essentials\CarDealer.Web\CarDealer.Services\bin\Debug\netstandard2.0\CarDealer.Data.dll
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\02 ASP.NET Core - Essentials\CarDealer.Web\CarDealer.Services\bin\Debug\netstandard2.0\CarDealer.Data.pdb
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\02 ASP.NET Core - Essentials\CarDealer.Web\CarDealer.Services\obj\Debug\netstandard2.0\CarDealer.Services.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\02 ASP.NET Core - Essentials\CarDealer.Web\CarDealer.Services\obj\Debug\netstandard2.0\CarDealer.Services.csproj.CopyComplete
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\02 ASP.NET Core - Essentials\CarDealer.Web\CarDealer.Services\obj\Debug\netstandard2.0\CarDealer.Services.dll
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\02 ASP.NET Core - Essentials\CarDealer.Web\CarDealer.Services\obj\Debug\netstandard2.0\CarDealer.Services.pdb

@@ -1,0 +1,12 @@
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\02 ASP.NET Core - Essentials\CatsWebApp\CatsWebApp\bin\Debug\netcoreapp2.0\CatsWebApp.deps.json
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\02 ASP.NET Core - Essentials\CatsWebApp\CatsWebApp\bin\Debug\netcoreapp2.0\CatsWebApp.runtimeconfig.json
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\02 ASP.NET Core - Essentials\CatsWebApp\CatsWebApp\bin\Debug\netcoreapp2.0\CatsWebApp.runtimeconfig.dev.json
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\02 ASP.NET Core - Essentials\CatsWebApp\CatsWebApp\bin\Debug\netcoreapp2.0\CatsWebApp.dll
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\02 ASP.NET Core - Essentials\CatsWebApp\CatsWebApp\bin\Debug\netcoreapp2.0\CatsWebApp.pdb
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\02 ASP.NET Core - Essentials\CatsWebApp\CatsWebApp\obj\Debug\netcoreapp2.0\CatsWebApp.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\02 ASP.NET Core - Essentials\CatsWebApp\CatsWebApp\obj\Debug\netcoreapp2.0\CatsWebApp.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\02 ASP.NET Core - Essentials\CatsWebApp\CatsWebApp\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\02 ASP.NET Core - Essentials\CatsWebApp\CatsWebApp\obj\Debug\netcoreapp2.0\CatsWebApp.AssemblyInfoInputs.cache
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\02 ASP.NET Core - Essentials\CatsWebApp\CatsWebApp\obj\Debug\netcoreapp2.0\CatsWebApp.AssemblyInfo.cs
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\02 ASP.NET Core - Essentials\CatsWebApp\CatsWebApp\obj\Debug\netcoreapp2.0\CatsWebApp.dll
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\02 ASP.NET Core - Essentials\CatsWebApp\CatsWebApp\obj\Debug\netcoreapp2.0\CatsWebApp.pdb
