@@ -1,0 +1,11 @@
+C:\My Staff\SoftUni\08 C# Web Dev\07 Web Application. Advanced CSS - Bootstrap\GameStoreApp\Launcher.cs\bin\Debug\netcoreapp2.0\Launcher.cs.deps.json
+C:\My Staff\SoftUni\08 C# Web Dev\07 Web Application. Advanced CSS - Bootstrap\GameStoreApp\Launcher.cs\bin\Debug\netcoreapp2.0\Launcher.cs.runtimeconfig.json
+C:\My Staff\SoftUni\08 C# Web Dev\07 Web Application. Advanced CSS - Bootstrap\GameStoreApp\Launcher.cs\bin\Debug\netcoreapp2.0\Launcher.cs.runtimeconfig.dev.json
+C:\My Staff\SoftUni\08 C# Web Dev\07 Web Application. Advanced CSS - Bootstrap\GameStoreApp\Launcher.cs\bin\Debug\netcoreapp2.0\Launcher.cs.dll
+C:\My Staff\SoftUni\08 C# Web Dev\07 Web Application. Advanced CSS - Bootstrap\GameStoreApp\Launcher.cs\obj\Debug\netcoreapp2.0\Launcher.cs.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\08 C# Web Dev\07 Web Application. Advanced CSS - Bootstrap\GameStoreApp\Launcher.cs\obj\Debug\netcoreapp2.0\Launcher.cs.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\08 C# Web Dev\07 Web Application. Advanced CSS - Bootstrap\GameStoreApp\Launcher.cs\obj\Debug\netcoreapp2.0\Launcher.cs.AssemblyInfoInputs.cache
+C:\My Staff\SoftUni\08 C# Web Dev\07 Web Application. Advanced CSS - Bootstrap\GameStoreApp\Launcher.cs\obj\Debug\netcoreapp2.0\Launcher.cs.AssemblyInfo.cs
+C:\My Staff\SoftUni\08 C# Web Dev\07 Web Application. Advanced CSS - Bootstrap\GameStoreApp\Launcher.cs\bin\Debug\netcoreapp2.0\Launcher.cs.pdb
+C:\My Staff\SoftUni\08 C# Web Dev\07 Web Application. Advanced CSS - Bootstrap\GameStoreApp\Launcher.cs\obj\Debug\netcoreapp2.0\Launcher.cs.dll
+C:\My Staff\SoftUni\08 C# Web Dev\07 Web Application. Advanced CSS - Bootstrap\GameStoreApp\Launcher.cs\obj\Debug\netcoreapp2.0\Launcher.cs.pdb

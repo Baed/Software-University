@@ -1,0 +1,13 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Launcher.cs.Server.Contracts
+{
+    public interface IRunnable
+    {
+        void Run();
+    }
+}

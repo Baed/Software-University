@@ -1,0 +1,11 @@
+C:\My Staff\SoftUni\08 C# Web Dev\07 Web Application. Advanced CSS - Bootstrap\07 CSS - Bootstrap\L01Demo\bin\Debug\netcoreapp2.0\L01Demo.deps.json
+C:\My Staff\SoftUni\08 C# Web Dev\07 Web Application. Advanced CSS - Bootstrap\07 CSS - Bootstrap\L01Demo\bin\Debug\netcoreapp2.0\L01Demo.runtimeconfig.json
+C:\My Staff\SoftUni\08 C# Web Dev\07 Web Application. Advanced CSS - Bootstrap\07 CSS - Bootstrap\L01Demo\bin\Debug\netcoreapp2.0\L01Demo.runtimeconfig.dev.json
+C:\My Staff\SoftUni\08 C# Web Dev\07 Web Application. Advanced CSS - Bootstrap\07 CSS - Bootstrap\L01Demo\bin\Debug\netcoreapp2.0\L01Demo.dll
+C:\My Staff\SoftUni\08 C# Web Dev\07 Web Application. Advanced CSS - Bootstrap\07 CSS - Bootstrap\L01Demo\bin\Debug\netcoreapp2.0\L01Demo.pdb
+C:\My Staff\SoftUni\08 C# Web Dev\07 Web Application. Advanced CSS - Bootstrap\07 CSS - Bootstrap\L01Demo\obj\Debug\netcoreapp2.0\L01Demo.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\08 C# Web Dev\07 Web Application. Advanced CSS - Bootstrap\07 CSS - Bootstrap\L01Demo\obj\Debug\netcoreapp2.0\L01Demo.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\08 C# Web Dev\07 Web Application. Advanced CSS - Bootstrap\07 CSS - Bootstrap\L01Demo\obj\Debug\netcoreapp2.0\L01Demo.AssemblyInfoInputs.cache
+C:\My Staff\SoftUni\08 C# Web Dev\07 Web Application. Advanced CSS - Bootstrap\07 CSS - Bootstrap\L01Demo\obj\Debug\netcoreapp2.0\L01Demo.AssemblyInfo.cs
+C:\My Staff\SoftUni\08 C# Web Dev\07 Web Application. Advanced CSS - Bootstrap\07 CSS - Bootstrap\L01Demo\obj\Debug\netcoreapp2.0\L01Demo.dll
+C:\My Staff\SoftUni\08 C# Web Dev\07 Web Application. Advanced CSS - Bootstrap\07 CSS - Bootstrap\L01Demo\obj\Debug\netcoreapp2.0\L01Demo.pdb
