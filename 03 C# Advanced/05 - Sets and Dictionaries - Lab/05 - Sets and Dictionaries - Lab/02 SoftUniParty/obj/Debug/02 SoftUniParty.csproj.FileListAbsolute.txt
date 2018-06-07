@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\03 C# Advanced\05 - Sets and Dictionaries - Lab\05 - Sets and Dictionaries - Lab\02 SoftUniParty\bin\Debug\02 SoftUniParty.exe.config
+C:\My Staff\SoftUni\03 C# Advanced\05 - Sets and Dictionaries - Lab\05 - Sets and Dictionaries - Lab\02 SoftUniParty\bin\Debug\02 SoftUniParty.exe
+C:\My Staff\SoftUni\03 C# Advanced\05 - Sets and Dictionaries - Lab\05 - Sets and Dictionaries - Lab\02 SoftUniParty\bin\Debug\02 SoftUniParty.pdb
+C:\My Staff\SoftUni\03 C# Advanced\05 - Sets and Dictionaries - Lab\05 - Sets and Dictionaries - Lab\02 SoftUniParty\obj\Debug\02 SoftUniParty.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\03 C# Advanced\05 - Sets and Dictionaries - Lab\05 - Sets and Dictionaries - Lab\02 SoftUniParty\obj\Debug\02 SoftUniParty.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\03 C# Advanced\05 - Sets and Dictionaries - Lab\05 - Sets and Dictionaries - Lab\02 SoftUniParty\obj\Debug\02 SoftUniParty.exe
+C:\My Staff\SoftUni\03 C# Advanced\05 - Sets and Dictionaries - Lab\05 - Sets and Dictionaries - Lab\02 SoftUniParty\obj\Debug\02 SoftUniParty.pdb

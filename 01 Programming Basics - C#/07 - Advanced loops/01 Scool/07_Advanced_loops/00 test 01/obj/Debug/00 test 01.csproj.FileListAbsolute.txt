@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\August C# Basics\UROK 7 - Advanced loops\01 Scool\07_Advanced_loops\00 test 01\bin\Debug\00 test 01.exe.config
+C:\My Staff\SoftUni\August C# Basics\UROK 7 - Advanced loops\01 Scool\07_Advanced_loops\00 test 01\bin\Debug\00 test 01.exe
+C:\My Staff\SoftUni\August C# Basics\UROK 7 - Advanced loops\01 Scool\07_Advanced_loops\00 test 01\bin\Debug\00 test 01.pdb
+C:\My Staff\SoftUni\August C# Basics\UROK 7 - Advanced loops\01 Scool\07_Advanced_loops\00 test 01\obj\Debug\00 test 01.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\August C# Basics\UROK 7 - Advanced loops\01 Scool\07_Advanced_loops\00 test 01\obj\Debug\00 test 01.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\August C# Basics\UROK 7 - Advanced loops\01 Scool\07_Advanced_loops\00 test 01\obj\Debug\00 test 01.exe
+C:\My Staff\SoftUni\August C# Basics\UROK 7 - Advanced loops\01 Scool\07_Advanced_loops\00 test 01\obj\Debug\00 test 01.pdb

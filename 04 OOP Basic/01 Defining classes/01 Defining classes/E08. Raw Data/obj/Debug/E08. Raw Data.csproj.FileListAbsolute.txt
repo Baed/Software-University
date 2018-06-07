@@ -1,0 +1,6 @@
+C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\E08. Raw Data\bin\Debug\E08.Raw_Data.exe.config
+C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\E08. Raw Data\bin\Debug\E08.Raw_Data.exe
+C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\E08. Raw Data\bin\Debug\E08.Raw_Data.pdb
+C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\E08. Raw Data\obj\Debug\E08. Raw Data.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\E08. Raw Data\obj\Debug\E08.Raw_Data.exe
+C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\E08. Raw Data\obj\Debug\E08.Raw_Data.pdb

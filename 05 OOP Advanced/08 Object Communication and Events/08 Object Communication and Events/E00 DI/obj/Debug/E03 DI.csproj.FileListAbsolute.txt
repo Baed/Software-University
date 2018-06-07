@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\05 OOP Advanced\08 Object Communication and Events\08 Object Communication and Events\E00 DI\bin\Debug\E00 DI.exe.config
+C:\My Staff\SoftUni\05 OOP Advanced\08 Object Communication and Events\08 Object Communication and Events\E00 DI\bin\Debug\E00 DI.exe
+C:\My Staff\SoftUni\05 OOP Advanced\08 Object Communication and Events\08 Object Communication and Events\E00 DI\bin\Debug\E00 DI.pdb
+C:\My Staff\SoftUni\05 OOP Advanced\08 Object Communication and Events\08 Object Communication and Events\E00 DI\obj\Debug\E03 DI.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\05 OOP Advanced\08 Object Communication and Events\08 Object Communication and Events\E00 DI\obj\Debug\E03 DI.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\05 OOP Advanced\08 Object Communication and Events\08 Object Communication and Events\E00 DI\obj\Debug\E00 DI.exe
+C:\My Staff\SoftUni\05 OOP Advanced\08 Object Communication and Events\08 Object Communication and Events\E00 DI\obj\Debug\E00 DI.pdb

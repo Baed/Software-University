@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\August C# Basics\Challange\02 Programming Basics Exam - 18 December 2016\Challange_18_Dec_2016\04 Grades\bin\Debug\04 Grades.exe.config
+C:\My Staff\SoftUni\August C# Basics\Challange\02 Programming Basics Exam - 18 December 2016\Challange_18_Dec_2016\04 Grades\bin\Debug\04 Grades.exe
+C:\My Staff\SoftUni\August C# Basics\Challange\02 Programming Basics Exam - 18 December 2016\Challange_18_Dec_2016\04 Grades\bin\Debug\04 Grades.pdb
+C:\My Staff\SoftUni\August C# Basics\Challange\02 Programming Basics Exam - 18 December 2016\Challange_18_Dec_2016\04 Grades\obj\Debug\04 Grades.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\August C# Basics\Challange\02 Programming Basics Exam - 18 December 2016\Challange_18_Dec_2016\04 Grades\obj\Debug\04 Grades.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\August C# Basics\Challange\02 Programming Basics Exam - 18 December 2016\Challange_18_Dec_2016\04 Grades\obj\Debug\04 Grades.exe
+C:\My Staff\SoftUni\August C# Basics\Challange\02 Programming Basics Exam - 18 December 2016\Challange_18_Dec_2016\04 Grades\obj\Debug\04 Grades.pdb

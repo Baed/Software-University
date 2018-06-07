@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\05 OOP Advanced\05 Reflection\05 Reflection\L02 High Quality Mistakes\bin\Debug\L02 High Quality Mistakes.exe.config
+C:\My Staff\SoftUni\05 OOP Advanced\05 Reflection\05 Reflection\L02 High Quality Mistakes\bin\Debug\L02 High Quality Mistakes.exe
+C:\My Staff\SoftUni\05 OOP Advanced\05 Reflection\05 Reflection\L02 High Quality Mistakes\bin\Debug\L02 High Quality Mistakes.pdb
+C:\My Staff\SoftUni\05 OOP Advanced\05 Reflection\05 Reflection\L02 High Quality Mistakes\obj\Debug\L02 High Quality Mistakes.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\05 OOP Advanced\05 Reflection\05 Reflection\L02 High Quality Mistakes\obj\Debug\L02 High Quality Mistakes.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\05 OOP Advanced\05 Reflection\05 Reflection\L02 High Quality Mistakes\obj\Debug\L02 High Quality Mistakes.exe
+C:\My Staff\SoftUni\05 OOP Advanced\05 Reflection\05 Reflection\L02 High Quality Mistakes\obj\Debug\L02 High Quality Mistakes.pdb

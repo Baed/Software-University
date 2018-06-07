@@ -1,0 +1,6 @@
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\06 - Conditional Statements and Loops - Exercises\06_Cond_Stat_Loops_Exer\07. Cake Ingredients\bin\Debug\_07.Cake_Ingredients.exe.config
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\06 - Conditional Statements and Loops - Exercises\06_Cond_Stat_Loops_Exer\07. Cake Ingredients\bin\Debug\_07.Cake_Ingredients.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\06 - Conditional Statements and Loops - Exercises\06_Cond_Stat_Loops_Exer\07. Cake Ingredients\bin\Debug\_07.Cake_Ingredients.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\06 - Conditional Statements and Loops - Exercises\06_Cond_Stat_Loops_Exer\07. Cake Ingredients\obj\Debug\07. Cake Ingredients.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\06 - Conditional Statements and Loops - Exercises\06_Cond_Stat_Loops_Exer\07. Cake Ingredients\obj\Debug\_07.Cake_Ingredients.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\06 - Conditional Statements and Loops - Exercises\06_Cond_Stat_Loops_Exer\07. Cake Ingredients\obj\Debug\_07.Cake_Ingredients.pdb

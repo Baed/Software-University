@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\04 OOP Basic\03 Inheritance\03 Inheritance\E05 MordorsCrueltyPlan\bin\Debug\E05 MordorsCrueltyPlan.exe.config
+C:\My Staff\SoftUni\04 OOP Basic\03 Inheritance\03 Inheritance\E05 MordorsCrueltyPlan\bin\Debug\E05 MordorsCrueltyPlan.exe
+C:\My Staff\SoftUni\04 OOP Basic\03 Inheritance\03 Inheritance\E05 MordorsCrueltyPlan\bin\Debug\E05 MordorsCrueltyPlan.pdb
+C:\My Staff\SoftUni\04 OOP Basic\03 Inheritance\03 Inheritance\E05 MordorsCrueltyPlan\obj\Debug\E05 MordorsCrueltyPlan.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\04 OOP Basic\03 Inheritance\03 Inheritance\E05 MordorsCrueltyPlan\obj\Debug\E05 MordorsCrueltyPlan.exe
+C:\My Staff\SoftUni\04 OOP Basic\03 Inheritance\03 Inheritance\E05 MordorsCrueltyPlan\obj\Debug\E05 MordorsCrueltyPlan.pdb
+C:\My Staff\SoftUni\04 OOP Basic\03 Inheritance\03 Inheritance\E05 MordorsCrueltyPlan\obj\Debug\E05 MordorsCrueltyPlan.csprojResolveAssemblyReference.cache

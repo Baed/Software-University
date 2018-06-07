@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\07 - Basic Syntax - More Exercises\07_Basic Syntax_More Exer\02. Vid - Vapor Store\bin\Debug\_02.Vid___Vapor_Store.exe.config
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\07 - Basic Syntax - More Exercises\07_Basic Syntax_More Exer\02. Vid - Vapor Store\bin\Debug\_02.Vid___Vapor_Store.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\07 - Basic Syntax - More Exercises\07_Basic Syntax_More Exer\02. Vid - Vapor Store\bin\Debug\_02.Vid___Vapor_Store.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\07 - Basic Syntax - More Exercises\07_Basic Syntax_More Exer\02. Vid - Vapor Store\obj\Debug\02. Vid - Vapor Store.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\07 - Basic Syntax - More Exercises\07_Basic Syntax_More Exer\02. Vid - Vapor Store\obj\Debug\02. Vid - Vapor Store.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\07 - Basic Syntax - More Exercises\07_Basic Syntax_More Exer\02. Vid - Vapor Store\obj\Debug\_02.Vid___Vapor_Store.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\07 - Basic Syntax - More Exercises\07_Basic Syntax_More Exer\02. Vid - Vapor Store\obj\Debug\_02.Vid___Vapor_Store.pdb

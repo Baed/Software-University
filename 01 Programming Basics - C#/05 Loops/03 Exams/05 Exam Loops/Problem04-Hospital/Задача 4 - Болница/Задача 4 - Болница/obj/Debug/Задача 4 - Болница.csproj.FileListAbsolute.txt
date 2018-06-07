@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\August C# Basics\UROK 5 Loops\03 Exams\Problem04-Hospital\Задача 4 - Болница\Задача 4 - Болница\bin\Debug\Задача 4 - Болница.exe.config
+C:\My Staff\SoftUni\August C# Basics\UROK 5 Loops\03 Exams\Problem04-Hospital\Задача 4 - Болница\Задача 4 - Болница\bin\Debug\Задача 4 - Болница.exe
+C:\My Staff\SoftUni\August C# Basics\UROK 5 Loops\03 Exams\Problem04-Hospital\Задача 4 - Болница\Задача 4 - Болница\bin\Debug\Задача 4 - Болница.pdb
+C:\My Staff\SoftUni\August C# Basics\UROK 5 Loops\03 Exams\Problem04-Hospital\Задача 4 - Болница\Задача 4 - Болница\obj\Debug\Задача 4 - Болница.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\August C# Basics\UROK 5 Loops\03 Exams\Problem04-Hospital\Задача 4 - Болница\Задача 4 - Болница\obj\Debug\Задача 4 - Болница.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\August C# Basics\UROK 5 Loops\03 Exams\Problem04-Hospital\Задача 4 - Болница\Задача 4 - Болница\obj\Debug\Задача 4 - Болница.exe
+C:\My Staff\SoftUni\August C# Basics\UROK 5 Loops\03 Exams\Problem04-Hospital\Задача 4 - Болница\Задача 4 - Болница\obj\Debug\Задача 4 - Болница.pdb

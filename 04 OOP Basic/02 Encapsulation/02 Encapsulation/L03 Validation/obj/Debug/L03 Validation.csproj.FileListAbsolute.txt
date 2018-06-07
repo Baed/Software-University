@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\04 OOP Basic\02 Encapsulation\02 Encapsulation\L03 Validation\bin\Debug\L03 Validation.exe.config
+C:\My Staff\SoftUni\04 OOP Basic\02 Encapsulation\02 Encapsulation\L03 Validation\bin\Debug\L03 Validation.exe
+C:\My Staff\SoftUni\04 OOP Basic\02 Encapsulation\02 Encapsulation\L03 Validation\bin\Debug\L03 Validation.pdb
+C:\My Staff\SoftUni\04 OOP Basic\02 Encapsulation\02 Encapsulation\L03 Validation\obj\Debug\L03 Validation.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\04 OOP Basic\02 Encapsulation\02 Encapsulation\L03 Validation\obj\Debug\L03 Validation.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\04 OOP Basic\02 Encapsulation\02 Encapsulation\L03 Validation\obj\Debug\L03 Validation.exe
+C:\My Staff\SoftUni\04 OOP Basic\02 Encapsulation\02 Encapsulation\L03 Validation\obj\Debug\L03 Validation.pdb

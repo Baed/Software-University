@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\07 - Exam 09. Jul. 2017\07 - 09. Jul. 2017\04.01 Pokemon Evo\bin\Debug\04.01 Pokemon Evo.exe.config
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\07 - Exam 09. Jul. 2017\07 - 09. Jul. 2017\04.01 Pokemon Evo\bin\Debug\04.01 Pokemon Evo.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\07 - Exam 09. Jul. 2017\07 - 09. Jul. 2017\04.01 Pokemon Evo\bin\Debug\04.01 Pokemon Evo.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\07 - Exam 09. Jul. 2017\07 - 09. Jul. 2017\04.01 Pokemon Evo\obj\Debug\04.01 Pokemon Evo.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\07 - Exam 09. Jul. 2017\07 - 09. Jul. 2017\04.01 Pokemon Evo\obj\Debug\04.01 Pokemon Evo.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\07 - Exam 09. Jul. 2017\07 - 09. Jul. 2017\04.01 Pokemon Evo\obj\Debug\04.01 Pokemon Evo.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\07 - Exam 09. Jul. 2017\07 - 09. Jul. 2017\04.01 Pokemon Evo\obj\Debug\04.01 Pokemon Evo.pdb

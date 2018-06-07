@@ -1,0 +1,8 @@
+C:\My Staff\SoftUni\04 OOP Basic\04 Polymorphism\04 Polymorphism\L03 Shapes\bin\Debug\L03 Shapes.exe.config
+C:\My Staff\SoftUni\04 OOP Basic\04 Polymorphism\04 Polymorphism\L03 Shapes\bin\Debug\L03 Shapes.exe
+C:\My Staff\SoftUni\04 OOP Basic\04 Polymorphism\04 Polymorphism\L03 Shapes\bin\Debug\L03 Shapes.pdb
+C:\My Staff\SoftUni\04 OOP Basic\04 Polymorphism\04 Polymorphism\L03 Shapes\obj\Debug\L03 Shapes.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\04 OOP Basic\04 Polymorphism\04 Polymorphism\L03 Shapes\obj\Debug\L03 Shapes.exe
+C:\My Staff\SoftUni\04 OOP Basic\04 Polymorphism\04 Polymorphism\L03 Shapes\obj\Debug\L03 Shapes.pdb
+C:\My Staff\SoftUni\04 OOP Basic\04 Polymorphism\04 Polymorphism\L03 Shapes\obj\Debug\L03 Shapes.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\04 OOP Basic\04 Polymorphism\04 Polymorphism\L03 Shapes\bin\Debug\Aspose.Diagram.dll

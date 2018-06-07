@@ -1,0 +1,6 @@
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\07. From Terabytes to Bits\bin\Debug\_07.From_Terabytes_to_Bits.exe.config
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\07. From Terabytes to Bits\bin\Debug\_07.From_Terabytes_to_Bits.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\07. From Terabytes to Bits\bin\Debug\_07.From_Terabytes_to_Bits.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\07. From Terabytes to Bits\obj\Debug\07. From Terabytes to Bits.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\07. From Terabytes to Bits\obj\Debug\_07.From_Terabytes_to_Bits.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\07. From Terabytes to Bits\obj\Debug\_07.From_Terabytes_to_Bits.pdb

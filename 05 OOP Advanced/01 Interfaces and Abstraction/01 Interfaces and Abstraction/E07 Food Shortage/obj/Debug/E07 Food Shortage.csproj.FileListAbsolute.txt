@@ -1,0 +1,6 @@
+C:\My Staff\SoftUni\05 OOP Advanced\01 Interfaces and Abstraction\01 Interfaces and Abstraction\E07 Food Shortage\bin\Debug\E07 Food Shortage.exe.config
+C:\My Staff\SoftUni\05 OOP Advanced\01 Interfaces and Abstraction\01 Interfaces and Abstraction\E07 Food Shortage\bin\Debug\E07 Food Shortage.exe
+C:\My Staff\SoftUni\05 OOP Advanced\01 Interfaces and Abstraction\01 Interfaces and Abstraction\E07 Food Shortage\bin\Debug\E07 Food Shortage.pdb
+C:\My Staff\SoftUni\05 OOP Advanced\01 Interfaces and Abstraction\01 Interfaces and Abstraction\E07 Food Shortage\obj\Debug\E07 Food Shortage.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\05 OOP Advanced\01 Interfaces and Abstraction\01 Interfaces and Abstraction\E07 Food Shortage\obj\Debug\E07 Food Shortage.exe
+C:\My Staff\SoftUni\05 OOP Advanced\01 Interfaces and Abstraction\01 Interfaces and Abstraction\E07 Food Shortage\obj\Debug\E07 Food Shortage.pdb

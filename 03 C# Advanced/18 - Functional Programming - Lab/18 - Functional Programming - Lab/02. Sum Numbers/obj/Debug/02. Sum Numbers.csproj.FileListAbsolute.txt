@@ -1,0 +1,6 @@
+C:\My Staff\SoftUni\03 C# Advanced\18 - Functional Programming - Lab\18 - Functional Programming - Lab\02. Sum Numbers\bin\Debug\_02.Sum_Numbers.exe.config
+C:\My Staff\SoftUni\03 C# Advanced\18 - Functional Programming - Lab\18 - Functional Programming - Lab\02. Sum Numbers\bin\Debug\_02.Sum_Numbers.exe
+C:\My Staff\SoftUni\03 C# Advanced\18 - Functional Programming - Lab\18 - Functional Programming - Lab\02. Sum Numbers\bin\Debug\_02.Sum_Numbers.pdb
+C:\My Staff\SoftUni\03 C# Advanced\18 - Functional Programming - Lab\18 - Functional Programming - Lab\02. Sum Numbers\obj\Debug\02. Sum Numbers.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\03 C# Advanced\18 - Functional Programming - Lab\18 - Functional Programming - Lab\02. Sum Numbers\obj\Debug\_02.Sum_Numbers.exe
+C:\My Staff\SoftUni\03 C# Advanced\18 - Functional Programming - Lab\18 - Functional Programming - Lab\02. Sum Numbers\obj\Debug\_02.Sum_Numbers.pdb

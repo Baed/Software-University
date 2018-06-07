@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\35 - Regular Expressions (RegEx) - Exercises\35 - (RegEx) - Exer\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\35 - Regular Expressions (RegEx) - Exercises\35 - (RegEx) - Exer\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\35 - Regular Expressions (RegEx) - Exercises\35 - (RegEx) - Exer\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\35 - Regular Expressions (RegEx) - Exercises\35 - (RegEx) - Exer\ConsoleApp1\obj\Debug\00 Teat 01.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\35 - Regular Expressions (RegEx) - Exercises\35 - (RegEx) - Exer\ConsoleApp1\obj\Debug\00 Teat 01.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\35 - Regular Expressions (RegEx) - Exercises\35 - (RegEx) - Exer\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\35 - Regular Expressions (RegEx) - Exercises\35 - (RegEx) - Exer\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

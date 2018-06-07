@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\33 - Strings and Text Processing - More Exercises\33 StringsTextProcesMEx\04. Deserialize String\bin\Debug\_04.Deserialize_String.exe.config
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\33 - Strings and Text Processing - More Exercises\33 StringsTextProcesMEx\04. Deserialize String\bin\Debug\_04.Deserialize_String.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\33 - Strings and Text Processing - More Exercises\33 StringsTextProcesMEx\04. Deserialize String\bin\Debug\_04.Deserialize_String.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\33 - Strings and Text Processing - More Exercises\33 StringsTextProcesMEx\04. Deserialize String\obj\Debug\04. Deserialize String.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\33 - Strings and Text Processing - More Exercises\33 StringsTextProcesMEx\04. Deserialize String\obj\Debug\04. Deserialize String.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\33 - Strings and Text Processing - More Exercises\33 StringsTextProcesMEx\04. Deserialize String\obj\Debug\_04.Deserialize_String.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\33 - Strings and Text Processing - More Exercises\33 StringsTextProcesMEx\04. Deserialize String\obj\Debug\_04.Deserialize_String.pdb

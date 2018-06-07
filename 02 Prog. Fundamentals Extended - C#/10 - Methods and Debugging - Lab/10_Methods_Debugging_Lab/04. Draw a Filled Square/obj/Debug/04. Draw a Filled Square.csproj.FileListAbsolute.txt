@@ -1,0 +1,14 @@
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\10 - Methods and Debugging - Lab\10_Methods_Debugging_Lab\04. Draw a Filled Square\bin\Debug\_04.Draw_a_Filled_Square.exe.config
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\10 - Methods and Debugging - Lab\10_Methods_Debugging_Lab\04. Draw a Filled Square\bin\Debug\_04.Draw_a_Filled_Square.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\10 - Methods and Debugging - Lab\10_Methods_Debugging_Lab\04. Draw a Filled Square\bin\Debug\_04.Draw_a_Filled_Square.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\10 - Methods and Debugging - Lab\10_Methods_Debugging_Lab\04. Draw a Filled Square\obj\Debug\04. Draw a Filled Square.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\10 - Methods and Debugging - Lab\10_Methods_Debugging_Lab\04. Draw a Filled Square\obj\Debug\04. Draw a Filled Square.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\10 - Methods and Debugging - Lab\10_Methods_Debugging_Lab\04. Draw a Filled Square\obj\Debug\_04.Draw_a_Filled_Square.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\10 - Methods and Debugging - Lab\10_Methods_Debugging_Lab\04. Draw a Filled Square\obj\Debug\_04.Draw_a_Filled_Square.pdb
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\10 - Methods and Debugging - Lab\10_Methods_Debugging_Lab\04. Draw a Filled Square\bin\Debug\_04.Draw_a_Filled_Square.exe.config
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\10 - Methods and Debugging - Lab\10_Methods_Debugging_Lab\04. Draw a Filled Square\bin\Debug\_04.Draw_a_Filled_Square.exe
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\10 - Methods and Debugging - Lab\10_Methods_Debugging_Lab\04. Draw a Filled Square\bin\Debug\_04.Draw_a_Filled_Square.pdb
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\10 - Methods and Debugging - Lab\10_Methods_Debugging_Lab\04. Draw a Filled Square\obj\Debug\04. Draw a Filled Square.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\10 - Methods and Debugging - Lab\10_Methods_Debugging_Lab\04. Draw a Filled Square\obj\Debug\04. Draw a Filled Square.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\10 - Methods and Debugging - Lab\10_Methods_Debugging_Lab\04. Draw a Filled Square\obj\Debug\_04.Draw_a_Filled_Square.exe
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\10 - Methods and Debugging - Lab\10_Methods_Debugging_Lab\04. Draw a Filled Square\obj\Debug\_04.Draw_a_Filled_Square.pdb

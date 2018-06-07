@@ -1,0 +1,6 @@
+C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\E13. Family Tree\bin\Debug\E13.Family_Tree.exe.config
+C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\E13. Family Tree\bin\Debug\E13.Family_Tree.exe
+C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\E13. Family Tree\bin\Debug\E13.Family_Tree.pdb
+C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\E13. Family Tree\obj\Debug\E13. Family Tree.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\E13. Family Tree\obj\Debug\E13.Family_Tree.exe
+C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\E13. Family Tree\obj\Debug\E13.Family_Tree.pdb

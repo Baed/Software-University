@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\07 DB Advanced\01 Defining Classes\01 Defining Classes\05 Company Roster\obj\Debug\05 Company Roster.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\07 DB Advanced\01 Defining Classes\01 Defining Classes\05 Company Roster\obj\Debug\05 Company Roster.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\07 DB Advanced\01 Defining Classes\01 Defining Classes\05 Company Roster\bin\Debug\05 Company Roster.exe.config
+C:\My Staff\SoftUni\07 DB Advanced\01 Defining Classes\01 Defining Classes\05 Company Roster\bin\Debug\05 Company Roster.exe
+C:\My Staff\SoftUni\07 DB Advanced\01 Defining Classes\01 Defining Classes\05 Company Roster\bin\Debug\05 Company Roster.pdb
+C:\My Staff\SoftUni\07 DB Advanced\01 Defining Classes\01 Defining Classes\05 Company Roster\obj\Debug\05 Company Roster.exe
+C:\My Staff\SoftUni\07 DB Advanced\01 Defining Classes\01 Defining Classes\05 Company Roster\obj\Debug\05 Company Roster.pdb

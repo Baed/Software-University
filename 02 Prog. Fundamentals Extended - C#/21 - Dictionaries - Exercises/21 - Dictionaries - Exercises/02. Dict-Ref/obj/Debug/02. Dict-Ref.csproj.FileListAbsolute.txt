@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\21 - Dictionaries - Exercises\21 - Dictionaries - Exercises\02. Dict-Ref\bin\Debug\_02.Dict_Ref.exe.config
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\21 - Dictionaries - Exercises\21 - Dictionaries - Exercises\02. Dict-Ref\bin\Debug\_02.Dict_Ref.exe
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\21 - Dictionaries - Exercises\21 - Dictionaries - Exercises\02. Dict-Ref\bin\Debug\_02.Dict_Ref.pdb
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\21 - Dictionaries - Exercises\21 - Dictionaries - Exercises\02. Dict-Ref\obj\Debug\02. Dict-Ref.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\21 - Dictionaries - Exercises\21 - Dictionaries - Exercises\02. Dict-Ref\obj\Debug\02. Dict-Ref.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\21 - Dictionaries - Exercises\21 - Dictionaries - Exercises\02. Dict-Ref\obj\Debug\_02.Dict_Ref.exe
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\21 - Dictionaries - Exercises\21 - Dictionaries - Exercises\02. Dict-Ref\obj\Debug\_02.Dict_Ref.pdb

@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\22 - Nested Dictionaries - Lab\22 - Nested Dictionaries_Lab\02. CitiesByContinent_Country\bin\Debug\_02.CitiesByContinent_Country.exe.config
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\22 - Nested Dictionaries - Lab\22 - Nested Dictionaries_Lab\02. CitiesByContinent_Country\bin\Debug\_02.CitiesByContinent_Country.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\22 - Nested Dictionaries - Lab\22 - Nested Dictionaries_Lab\02. CitiesByContinent_Country\bin\Debug\_02.CitiesByContinent_Country.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\22 - Nested Dictionaries - Lab\22 - Nested Dictionaries_Lab\02. CitiesByContinent_Country\obj\Debug\02. CitiesByContinent_Country.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\22 - Nested Dictionaries - Lab\22 - Nested Dictionaries_Lab\02. CitiesByContinent_Country\obj\Debug\02. CitiesByContinent_Country.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\22 - Nested Dictionaries - Lab\22 - Nested Dictionaries_Lab\02. CitiesByContinent_Country\obj\Debug\_02.CitiesByContinent_Country.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\22 - Nested Dictionaries - Lab\22 - Nested Dictionaries_Lab\02. CitiesByContinent_Country\obj\Debug\_02.CitiesByContinent_Country.pdb

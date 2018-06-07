@@ -1,0 +1,7 @@
+D:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\03 EXAMS\04 exams\05. Back To The Past - IZPITNA 04\bin\Debug\_05.Back_To_The_Past___IZPITNA_04.exe.config
+D:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\03 EXAMS\04 exams\05. Back To The Past - IZPITNA 04\bin\Debug\_05.Back_To_The_Past___IZPITNA_04.exe
+D:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\03 EXAMS\04 exams\05. Back To The Past - IZPITNA 04\bin\Debug\_05.Back_To_The_Past___IZPITNA_04.pdb
+D:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\03 EXAMS\04 exams\05. Back To The Past - IZPITNA 04\obj\Debug\05. Back To The Past - IZPITNA 04.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\03 EXAMS\04 exams\05. Back To The Past - IZPITNA 04\obj\Debug\05. Back To The Past - IZPITNA 04.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\03 EXAMS\04 exams\05. Back To The Past - IZPITNA 04\obj\Debug\_05.Back_To_The_Past___IZPITNA_04.exe
+D:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\03 EXAMS\04 exams\05. Back To The Past - IZPITNA 04\obj\Debug\_05.Back_To_The_Past___IZPITNA_04.pdb

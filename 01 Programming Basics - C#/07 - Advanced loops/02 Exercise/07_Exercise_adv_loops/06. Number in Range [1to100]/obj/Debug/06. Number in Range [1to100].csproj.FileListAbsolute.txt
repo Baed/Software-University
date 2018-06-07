@@ -1,0 +1,6 @@
+C:\My Staff\SoftUni\August C# Basics\UROK 7 - Advanced loops\02 Exercise\07_Exercise_adv_loops\06. Number in Range [1to100]\bin\Debug\_06.Number_in_Range__1to100_.exe.config
+C:\My Staff\SoftUni\August C# Basics\UROK 7 - Advanced loops\02 Exercise\07_Exercise_adv_loops\06. Number in Range [1to100]\bin\Debug\_06.Number_in_Range__1to100_.exe
+C:\My Staff\SoftUni\August C# Basics\UROK 7 - Advanced loops\02 Exercise\07_Exercise_adv_loops\06. Number in Range [1to100]\bin\Debug\_06.Number_in_Range__1to100_.pdb
+C:\My Staff\SoftUni\August C# Basics\UROK 7 - Advanced loops\02 Exercise\07_Exercise_adv_loops\06. Number in Range [1to100]\obj\Debug\06. Number in Range [1to100].csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\August C# Basics\UROK 7 - Advanced loops\02 Exercise\07_Exercise_adv_loops\06. Number in Range [1to100]\obj\Debug\_06.Number_in_Range__1to100_.exe
+C:\My Staff\SoftUni\August C# Basics\UROK 7 - Advanced loops\02 Exercise\07_Exercise_adv_loops\06. Number in Range [1to100]\obj\Debug\_06.Number_in_Range__1to100_.pdb

@@ -1,0 +1,6 @@
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\06 - Conditional Statements and Loops - Exercises\06_Cond_Stat_Loops_Exer\14. Magic Letter\bin\Debug\_14.Magic_Letter.exe.config
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\06 - Conditional Statements and Loops - Exercises\06_Cond_Stat_Loops_Exer\14. Magic Letter\bin\Debug\_14.Magic_Letter.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\06 - Conditional Statements and Loops - Exercises\06_Cond_Stat_Loops_Exer\14. Magic Letter\bin\Debug\_14.Magic_Letter.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\06 - Conditional Statements and Loops - Exercises\06_Cond_Stat_Loops_Exer\14. Magic Letter\obj\Debug\14. Magic Letter.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\06 - Conditional Statements and Loops - Exercises\06_Cond_Stat_Loops_Exer\14. Magic Letter\obj\Debug\_14.Magic_Letter.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\06 - Conditional Statements and Loops - Exercises\06_Cond_Stat_Loops_Exer\14. Magic Letter\obj\Debug\_14.Magic_Letter.pdb

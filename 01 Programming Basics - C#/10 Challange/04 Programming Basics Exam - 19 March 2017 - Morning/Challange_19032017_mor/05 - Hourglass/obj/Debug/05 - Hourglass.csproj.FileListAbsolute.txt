@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\August C# Basics\Challange\04 Programming Basics Exam - 19 March 2017 - Morning\Challange_19032017_mor\05 - Hourglass\bin\Debug\05 - Hourglass.exe.config
+C:\My Staff\SoftUni\August C# Basics\Challange\04 Programming Basics Exam - 19 March 2017 - Morning\Challange_19032017_mor\05 - Hourglass\bin\Debug\05 - Hourglass.exe
+C:\My Staff\SoftUni\August C# Basics\Challange\04 Programming Basics Exam - 19 March 2017 - Morning\Challange_19032017_mor\05 - Hourglass\bin\Debug\05 - Hourglass.pdb
+C:\My Staff\SoftUni\August C# Basics\Challange\04 Programming Basics Exam - 19 March 2017 - Morning\Challange_19032017_mor\05 - Hourglass\obj\Debug\05 - Hourglass.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\August C# Basics\Challange\04 Programming Basics Exam - 19 March 2017 - Morning\Challange_19032017_mor\05 - Hourglass\obj\Debug\05 - Hourglass.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\August C# Basics\Challange\04 Programming Basics Exam - 19 March 2017 - Morning\Challange_19032017_mor\05 - Hourglass\obj\Debug\05 - Hourglass.exe
+C:\My Staff\SoftUni\August C# Basics\Challange\04 Programming Basics Exam - 19 March 2017 - Morning\Challange_19032017_mor\05 - Hourglass\obj\Debug\05 - Hourglass.pdb

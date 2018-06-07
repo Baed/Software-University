@@ -1,0 +1,6 @@
+C:\My Staff\SoftUni\August C# Basics\UROK 8 - Preparation\08_Preparation\00 test 0\bin\Debug\00 test 0.exe.config
+C:\My Staff\SoftUni\August C# Basics\UROK 8 - Preparation\08_Preparation\00 test 0\bin\Debug\00 test 0.exe
+C:\My Staff\SoftUni\August C# Basics\UROK 8 - Preparation\08_Preparation\00 test 0\bin\Debug\00 test 0.pdb
+C:\My Staff\SoftUni\August C# Basics\UROK 8 - Preparation\08_Preparation\00 test 0\obj\Debug\00 test 0.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\August C# Basics\UROK 8 - Preparation\08_Preparation\00 test 0\obj\Debug\00 test 0.exe
+C:\My Staff\SoftUni\August C# Basics\UROK 8 - Preparation\08_Preparation\00 test 0\obj\Debug\00 test 0.pdb

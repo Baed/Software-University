@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\03 C# Advanced\06 - Sets and Dictionaries - Exercise\06 - Sets and DictionariesExercise\14. Dragon Army\bin\Debug\_14.Dragon_Army.exe.config
+C:\My Staff\SoftUni\03 C# Advanced\06 - Sets and Dictionaries - Exercise\06 - Sets and DictionariesExercise\14. Dragon Army\bin\Debug\_14.Dragon_Army.exe
+C:\My Staff\SoftUni\03 C# Advanced\06 - Sets and Dictionaries - Exercise\06 - Sets and DictionariesExercise\14. Dragon Army\bin\Debug\_14.Dragon_Army.pdb
+C:\My Staff\SoftUni\03 C# Advanced\06 - Sets and Dictionaries - Exercise\06 - Sets and DictionariesExercise\14. Dragon Army\obj\Debug\14. Dragon Army.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\03 C# Advanced\06 - Sets and Dictionaries - Exercise\06 - Sets and DictionariesExercise\14. Dragon Army\obj\Debug\14. Dragon Army.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\03 C# Advanced\06 - Sets and Dictionaries - Exercise\06 - Sets and DictionariesExercise\14. Dragon Army\obj\Debug\_14.Dragon_Army.exe
+C:\My Staff\SoftUni\03 C# Advanced\06 - Sets and Dictionaries - Exercise\06 - Sets and DictionariesExercise\14. Dragon Army\obj\Debug\_14.Dragon_Army.pdb

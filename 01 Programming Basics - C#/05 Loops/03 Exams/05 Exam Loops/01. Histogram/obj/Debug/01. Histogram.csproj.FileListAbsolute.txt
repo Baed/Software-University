@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\August C# Basics\UROK 5 Loops\03 Exams\05 Exam Loops\01. Histogram\bin\Debug\_01.Histogram.exe.config
+C:\My Staff\SoftUni\August C# Basics\UROK 5 Loops\03 Exams\05 Exam Loops\01. Histogram\bin\Debug\_01.Histogram.exe
+C:\My Staff\SoftUni\August C# Basics\UROK 5 Loops\03 Exams\05 Exam Loops\01. Histogram\bin\Debug\_01.Histogram.pdb
+C:\My Staff\SoftUni\August C# Basics\UROK 5 Loops\03 Exams\05 Exam Loops\01. Histogram\obj\Debug\01. Histogram.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\August C# Basics\UROK 5 Loops\03 Exams\05 Exam Loops\01. Histogram\obj\Debug\_01.Histogram.exe
+C:\My Staff\SoftUni\August C# Basics\UROK 5 Loops\03 Exams\05 Exam Loops\01. Histogram\obj\Debug\_01.Histogram.pdb
+C:\My Staff\SoftUni\August C# Basics\UROK 5 Loops\03 Exams\05 Exam Loops\01. Histogram\obj\Debug\01. Histogram.csprojResolveAssemblyReference.cache

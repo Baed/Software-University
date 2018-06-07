@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\07 - Basic Syntax - More Exercises\07_Basic Syntax_More Exer\01.Vid - X\bin\Debug\01.Vid - X.exe.config
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\07 - Basic Syntax - More Exercises\07_Basic Syntax_More Exer\01.Vid - X\bin\Debug\01.Vid - X.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\07 - Basic Syntax - More Exercises\07_Basic Syntax_More Exer\01.Vid - X\bin\Debug\01.Vid - X.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\07 - Basic Syntax - More Exercises\07_Basic Syntax_More Exer\01.Vid - X\obj\Debug\01.Vid - X.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\07 - Basic Syntax - More Exercises\07_Basic Syntax_More Exer\01.Vid - X\obj\Debug\01.Vid - X.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\07 - Basic Syntax - More Exercises\07_Basic Syntax_More Exer\01.Vid - X\obj\Debug\01.Vid - X.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\07 - Basic Syntax - More Exercises\07_Basic Syntax_More Exer\01.Vid - X\obj\Debug\01.Vid - X.pdb

@@ -1,0 +1,7 @@
+D:\SOFTUNI\Programming basic c# august 2017\UROK 3 Simple Conditional Statements\03 School\03 Simple Conditions\03 chetno ili ne4etno\bin\Debug\03 chetno ili ne4etno.exe.config
+D:\SOFTUNI\Programming basic c# august 2017\UROK 3 Simple Conditional Statements\03 School\03 Simple Conditions\03 chetno ili ne4etno\bin\Debug\03 chetno ili ne4etno.exe
+D:\SOFTUNI\Programming basic c# august 2017\UROK 3 Simple Conditional Statements\03 School\03 Simple Conditions\03 chetno ili ne4etno\bin\Debug\03 chetno ili ne4etno.pdb
+D:\SOFTUNI\Programming basic c# august 2017\UROK 3 Simple Conditional Statements\03 School\03 Simple Conditions\03 chetno ili ne4etno\obj\Debug\03 chetno ili ne4etno.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\Programming basic c# august 2017\UROK 3 Simple Conditional Statements\03 School\03 Simple Conditions\03 chetno ili ne4etno\obj\Debug\03 chetno ili ne4etno.exe
+D:\SOFTUNI\Programming basic c# august 2017\UROK 3 Simple Conditional Statements\03 School\03 Simple Conditions\03 chetno ili ne4etno\obj\Debug\03 chetno ili ne4etno.pdb
+D:\SOFTUNI\Programming basic c# august 2017\UROK 3 Simple Conditional Statements\03 School\03 Simple Conditions\03 chetno ili ne4etno\obj\Debug\03 chetno ili ne4etno.csprojResolveAssemblyReference.cache

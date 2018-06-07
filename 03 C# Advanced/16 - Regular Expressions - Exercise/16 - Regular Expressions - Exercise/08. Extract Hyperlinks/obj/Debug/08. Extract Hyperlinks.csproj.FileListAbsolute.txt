@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\03 C# Advanced\16 - Regular Expressions - Exercise\16 - Regular Expressions - Exercise\08. Extract Hyperlinks\bin\Debug\_08.Extract_Hyperlinks.exe.config
+C:\My Staff\SoftUni\03 C# Advanced\16 - Regular Expressions - Exercise\16 - Regular Expressions - Exercise\08. Extract Hyperlinks\bin\Debug\_08.Extract_Hyperlinks.exe
+C:\My Staff\SoftUni\03 C# Advanced\16 - Regular Expressions - Exercise\16 - Regular Expressions - Exercise\08. Extract Hyperlinks\bin\Debug\_08.Extract_Hyperlinks.pdb
+C:\My Staff\SoftUni\03 C# Advanced\16 - Regular Expressions - Exercise\16 - Regular Expressions - Exercise\08. Extract Hyperlinks\obj\Debug\08. Extract Hyperlinks.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\03 C# Advanced\16 - Regular Expressions - Exercise\16 - Regular Expressions - Exercise\08. Extract Hyperlinks\obj\Debug\08. Extract Hyperlinks.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\03 C# Advanced\16 - Regular Expressions - Exercise\16 - Regular Expressions - Exercise\08. Extract Hyperlinks\obj\Debug\_08.Extract_Hyperlinks.exe
+C:\My Staff\SoftUni\03 C# Advanced\16 - Regular Expressions - Exercise\16 - Regular Expressions - Exercise\08. Extract Hyperlinks\obj\Debug\_08.Extract_Hyperlinks.pdb

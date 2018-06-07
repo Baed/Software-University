@@ -1,0 +1,10 @@
+Kotlin Developer 1
+Whitespace Developer 2
+Typescript Developer 3
+Mindfuck Developer 420
+Students:
+1 RoYaL RoYaL
+2 Kris Tomov
+3 NeGo Znaesh
+420 Atanas Rusenov
+END

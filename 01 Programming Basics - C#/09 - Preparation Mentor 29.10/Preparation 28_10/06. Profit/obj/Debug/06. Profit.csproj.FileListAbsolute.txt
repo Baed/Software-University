@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\01 Programming Basics - C#\UROK 9 - Preparation Mentor 29.10\Preparation 28_10\06. Profit\bin\Debug\_06.Profit.exe.config
+C:\My Staff\SoftUni\01 Programming Basics - C#\UROK 9 - Preparation Mentor 29.10\Preparation 28_10\06. Profit\bin\Debug\_06.Profit.exe
+C:\My Staff\SoftUni\01 Programming Basics - C#\UROK 9 - Preparation Mentor 29.10\Preparation 28_10\06. Profit\bin\Debug\_06.Profit.pdb
+C:\My Staff\SoftUni\01 Programming Basics - C#\UROK 9 - Preparation Mentor 29.10\Preparation 28_10\06. Profit\obj\Debug\06. Profit.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\01 Programming Basics - C#\UROK 9 - Preparation Mentor 29.10\Preparation 28_10\06. Profit\obj\Debug\06. Profit.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\01 Programming Basics - C#\UROK 9 - Preparation Mentor 29.10\Preparation 28_10\06. Profit\obj\Debug\_06.Profit.exe
+C:\My Staff\SoftUni\01 Programming Basics - C#\UROK 9 - Preparation Mentor 29.10\Preparation 28_10\06. Profit\obj\Debug\_06.Profit.pdb

@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\05. Jan. 2018\Solution1\02 SnowMen\bin\Debug\02 SnowMen.exe.config
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\05. Jan. 2018\Solution1\02 SnowMen\bin\Debug\02 SnowMen.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\05. Jan. 2018\Solution1\02 SnowMen\bin\Debug\02 SnowMen.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\05. Jan. 2018\Solution1\02 SnowMen\obj\Debug\02 SnowMen.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\05. Jan. 2018\Solution1\02 SnowMen\obj\Debug\02 SnowMen.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\05. Jan. 2018\Solution1\02 SnowMen\obj\Debug\02 SnowMen.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\05. Jan. 2018\Solution1\02 SnowMen\obj\Debug\02 SnowMen.csprojResolveAssemblyReference.cache

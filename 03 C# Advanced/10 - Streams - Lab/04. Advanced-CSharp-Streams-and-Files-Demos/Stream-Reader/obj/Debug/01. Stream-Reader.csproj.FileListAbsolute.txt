@@ -1,0 +1,13 @@
+D:\SoftUni\C#Advanced\May-2017\04. CSharp-Advanced-Streams\6. Advanced-CSharp-Streams-and-Files-Demos\6. Advanced-CSharp-Streams-and-Files-Demos\Stream-Reader\bin\Debug\Stream-Reader.exe.config
+D:\SoftUni\C#Advanced\May-2017\04. CSharp-Advanced-Streams\6. Advanced-CSharp-Streams-and-Files-Demos\6. Advanced-CSharp-Streams-and-Files-Demos\Stream-Reader\bin\Debug\Stream-Reader.exe
+D:\SoftUni\C#Advanced\May-2017\04. CSharp-Advanced-Streams\6. Advanced-CSharp-Streams-and-Files-Demos\6. Advanced-CSharp-Streams-and-Files-Demos\Stream-Reader\bin\Debug\Stream-Reader.pdb
+D:\SoftUni\C#Advanced\May-2017\04. CSharp-Advanced-Streams\6. Advanced-CSharp-Streams-and-Files-Demos\6. Advanced-CSharp-Streams-and-Files-Demos\Stream-Reader\obj\Debug\Stream-Reader.exe
+D:\SoftUni\C#Advanced\May-2017\04. CSharp-Advanced-Streams\6. Advanced-CSharp-Streams-and-Files-Demos\6. Advanced-CSharp-Streams-and-Files-Demos\Stream-Reader\obj\Debug\Stream-Reader.pdb
+D:\SoftUni\C#Advanced\May-2017\04. CSharp-Advanced-Streams\6. Advanced-CSharp-Streams-and-Files-Demos\6. Advanced-CSharp-Streams-and-Files-Demos\Stream-Reader\obj\Debug\01. Stream-Reader.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\03 C# Advanced\10 - Streams - Lab\04. Advanced-CSharp-Streams-and-Files-Demos\Stream-Reader\bin\Debug\Stream-Reader.exe.config
+C:\My Staff\SoftUni\03 C# Advanced\10 - Streams - Lab\04. Advanced-CSharp-Streams-and-Files-Demos\Stream-Reader\bin\Debug\Stream-Reader.exe
+C:\My Staff\SoftUni\03 C# Advanced\10 - Streams - Lab\04. Advanced-CSharp-Streams-and-Files-Demos\Stream-Reader\bin\Debug\Stream-Reader.pdb
+C:\My Staff\SoftUni\03 C# Advanced\10 - Streams - Lab\04. Advanced-CSharp-Streams-and-Files-Demos\Stream-Reader\obj\Debug\01. Stream-Reader.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\03 C# Advanced\10 - Streams - Lab\04. Advanced-CSharp-Streams-and-Files-Demos\Stream-Reader\obj\Debug\01. Stream-Reader.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\03 C# Advanced\10 - Streams - Lab\04. Advanced-CSharp-Streams-and-Files-Demos\Stream-Reader\obj\Debug\Stream-Reader.exe
+C:\My Staff\SoftUni\03 C# Advanced\10 - Streams - Lab\04. Advanced-CSharp-Streams-and-Files-Demos\Stream-Reader\obj\Debug\Stream-Reader.pdb

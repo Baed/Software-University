@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\06 - Conditional Statements and Loops - Exercises\06_Cond_Stat_Loops_Exer\13. Game of Numbers\bin\Debug\_13.Game_of_Numbers.exe.config
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\06 - Conditional Statements and Loops - Exercises\06_Cond_Stat_Loops_Exer\13. Game of Numbers\bin\Debug\_13.Game_of_Numbers.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\06 - Conditional Statements and Loops - Exercises\06_Cond_Stat_Loops_Exer\13. Game of Numbers\bin\Debug\_13.Game_of_Numbers.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\06 - Conditional Statements and Loops - Exercises\06_Cond_Stat_Loops_Exer\13. Game of Numbers\obj\Debug\13. Game of Numbers.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\06 - Conditional Statements and Loops - Exercises\06_Cond_Stat_Loops_Exer\13. Game of Numbers\obj\Debug\_13.Game_of_Numbers.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\06 - Conditional Statements and Loops - Exercises\06_Cond_Stat_Loops_Exer\13. Game of Numbers\obj\Debug\_13.Game_of_Numbers.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\06 - Conditional Statements and Loops - Exercises\06_Cond_Stat_Loops_Exer\13. Game of Numbers\obj\Debug\13. Game of Numbers.csprojResolveAssemblyReference.cache

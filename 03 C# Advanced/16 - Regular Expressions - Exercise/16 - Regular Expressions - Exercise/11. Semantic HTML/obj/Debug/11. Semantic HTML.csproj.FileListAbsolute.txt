@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\03 C# Advanced\16 - Regular Expressions - Exercise\16 - Regular Expressions - Exercise\11. Semantic HTML\bin\Debug\_11.Semantic_HTML.exe.config
+C:\My Staff\SoftUni\03 C# Advanced\16 - Regular Expressions - Exercise\16 - Regular Expressions - Exercise\11. Semantic HTML\bin\Debug\_11.Semantic_HTML.exe
+C:\My Staff\SoftUni\03 C# Advanced\16 - Regular Expressions - Exercise\16 - Regular Expressions - Exercise\11. Semantic HTML\bin\Debug\_11.Semantic_HTML.pdb
+C:\My Staff\SoftUni\03 C# Advanced\16 - Regular Expressions - Exercise\16 - Regular Expressions - Exercise\11. Semantic HTML\obj\Debug\11. Semantic HTML.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\03 C# Advanced\16 - Regular Expressions - Exercise\16 - Regular Expressions - Exercise\11. Semantic HTML\obj\Debug\_11.Semantic_HTML.exe
+C:\My Staff\SoftUni\03 C# Advanced\16 - Regular Expressions - Exercise\16 - Regular Expressions - Exercise\11. Semantic HTML\obj\Debug\_11.Semantic_HTML.pdb
+C:\My Staff\SoftUni\03 C# Advanced\16 - Regular Expressions - Exercise\16 - Regular Expressions - Exercise\11. Semantic HTML\obj\Debug\11. Semantic HTML.csprojResolveAssemblyReference.cache

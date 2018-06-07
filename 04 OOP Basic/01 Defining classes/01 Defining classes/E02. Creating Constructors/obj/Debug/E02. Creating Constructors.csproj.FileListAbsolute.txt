@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\E02. Creating Constructors\bin\Debug\E02.Creating_Constructors.exe.config
+C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\E02. Creating Constructors\bin\Debug\E02.Creating_Constructors.exe
+C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\E02. Creating Constructors\bin\Debug\E02.Creating_Constructors.pdb
+C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\E02. Creating Constructors\obj\Debug\E02. Creating Constructors.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\E02. Creating Constructors\obj\Debug\E02.Creating_Constructors.exe
+C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\E02. Creating Constructors\obj\Debug\E02.Creating_Constructors.pdb
+C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\E02. Creating Constructors\obj\Debug\E02. Creating Constructors.csprojResolveAssemblyReference.cache

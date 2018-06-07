@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\03 C# Advanced\20 - Built-in Query methods - LINQ - Lab\20 -LINQ - Lab\06. Find and Sum Integers\bin\Debug\_06.Find_and_Sum_Integers.exe.config
+C:\My Staff\SoftUni\03 C# Advanced\20 - Built-in Query methods - LINQ - Lab\20 -LINQ - Lab\06. Find and Sum Integers\bin\Debug\_06.Find_and_Sum_Integers.exe
+C:\My Staff\SoftUni\03 C# Advanced\20 - Built-in Query methods - LINQ - Lab\20 -LINQ - Lab\06. Find and Sum Integers\bin\Debug\_06.Find_and_Sum_Integers.pdb
+C:\My Staff\SoftUni\03 C# Advanced\20 - Built-in Query methods - LINQ - Lab\20 -LINQ - Lab\06. Find and Sum Integers\obj\Debug\06. Find and Sum Integers.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\03 C# Advanced\20 - Built-in Query methods - LINQ - Lab\20 -LINQ - Lab\06. Find and Sum Integers\obj\Debug\06. Find and Sum Integers.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\03 C# Advanced\20 - Built-in Query methods - LINQ - Lab\20 -LINQ - Lab\06. Find and Sum Integers\obj\Debug\_06.Find_and_Sum_Integers.exe
+C:\My Staff\SoftUni\03 C# Advanced\20 - Built-in Query methods - LINQ - Lab\20 -LINQ - Lab\06. Find and Sum Integers\obj\Debug\_06.Find_and_Sum_Integers.pdb

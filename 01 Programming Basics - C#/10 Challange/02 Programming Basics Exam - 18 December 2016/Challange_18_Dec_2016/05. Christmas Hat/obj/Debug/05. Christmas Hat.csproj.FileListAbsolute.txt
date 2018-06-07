@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\August C# Basics\Challange\02 Programming Basics Exam - 18 December 2016\Challange_18_Dec_2016\05. Christmas Hat\bin\Debug\_05.Christmas_Hat.exe.config
+C:\My Staff\SoftUni\August C# Basics\Challange\02 Programming Basics Exam - 18 December 2016\Challange_18_Dec_2016\05. Christmas Hat\bin\Debug\_05.Christmas_Hat.exe
+C:\My Staff\SoftUni\August C# Basics\Challange\02 Programming Basics Exam - 18 December 2016\Challange_18_Dec_2016\05. Christmas Hat\bin\Debug\_05.Christmas_Hat.pdb
+C:\My Staff\SoftUni\August C# Basics\Challange\02 Programming Basics Exam - 18 December 2016\Challange_18_Dec_2016\05. Christmas Hat\obj\Debug\05. Christmas Hat.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\August C# Basics\Challange\02 Programming Basics Exam - 18 December 2016\Challange_18_Dec_2016\05. Christmas Hat\obj\Debug\05. Christmas Hat.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\August C# Basics\Challange\02 Programming Basics Exam - 18 December 2016\Challange_18_Dec_2016\05. Christmas Hat\obj\Debug\_05.Christmas_Hat.exe
+C:\My Staff\SoftUni\August C# Basics\Challange\02 Programming Basics Exam - 18 December 2016\Challange_18_Dec_2016\05. Christmas Hat\obj\Debug\_05.Christmas_Hat.pdb

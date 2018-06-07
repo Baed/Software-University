@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\August C# Basics\UROK 5 Loops\02 Excersice\05 Loops\05. Max Number\bin\Debug\_05.Max_Number.exe.config
+C:\My Staff\SoftUni\August C# Basics\UROK 5 Loops\02 Excersice\05 Loops\05. Max Number\bin\Debug\_05.Max_Number.exe
+C:\My Staff\SoftUni\August C# Basics\UROK 5 Loops\02 Excersice\05 Loops\05. Max Number\bin\Debug\_05.Max_Number.pdb
+C:\My Staff\SoftUni\August C# Basics\UROK 5 Loops\02 Excersice\05 Loops\05. Max Number\obj\Debug\05. Max Number.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\August C# Basics\UROK 5 Loops\02 Excersice\05 Loops\05. Max Number\obj\Debug\05. Max Number.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\August C# Basics\UROK 5 Loops\02 Excersice\05 Loops\05. Max Number\obj\Debug\_05.Max_Number.exe
+C:\My Staff\SoftUni\August C# Basics\UROK 5 Loops\02 Excersice\05 Loops\05. Max Number\obj\Debug\_05.Max_Number.pdb

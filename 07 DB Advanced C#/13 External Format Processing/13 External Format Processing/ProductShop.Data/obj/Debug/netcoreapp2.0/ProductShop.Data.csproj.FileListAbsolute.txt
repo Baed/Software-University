@@ -1,0 +1,12 @@
+C:\My Staff\SoftUni\07 DB Advanced\13 External Format Processing\13 External Format Processing\ProductShop.Data\bin\Debug\netcoreapp2.0\ProductShop.Data.deps.json
+C:\My Staff\SoftUni\07 DB Advanced\13 External Format Processing\13 External Format Processing\ProductShop.Data\bin\Debug\netcoreapp2.0\ProductShop.Data.dll
+C:\My Staff\SoftUni\07 DB Advanced\13 External Format Processing\13 External Format Processing\ProductShop.Data\obj\Debug\netcoreapp2.0\ProductShop.Data.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\07 DB Advanced\13 External Format Processing\13 External Format Processing\ProductShop.Data\obj\Debug\netcoreapp2.0\ProductShop.Data.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\07 DB Advanced\13 External Format Processing\13 External Format Processing\ProductShop.Data\obj\Debug\netcoreapp2.0\ProductShop.Data.AssemblyInfoInputs.cache
+C:\My Staff\SoftUni\07 DB Advanced\13 External Format Processing\13 External Format Processing\ProductShop.Data\obj\Debug\netcoreapp2.0\ProductShop.Data.AssemblyInfo.cs
+C:\My Staff\SoftUni\07 DB Advanced\13 External Format Processing\13 External Format Processing\ProductShop.Data\bin\Debug\netcoreapp2.0\ProductShop.Data.pdb
+C:\My Staff\SoftUni\07 DB Advanced\13 External Format Processing\13 External Format Processing\ProductShop.Data\bin\Debug\netcoreapp2.0\ProductShop.Models.dll
+C:\My Staff\SoftUni\07 DB Advanced\13 External Format Processing\13 External Format Processing\ProductShop.Data\bin\Debug\netcoreapp2.0\ProductShop.Models.pdb
+C:\My Staff\SoftUni\07 DB Advanced\13 External Format Processing\13 External Format Processing\ProductShop.Data\obj\Debug\netcoreapp2.0\ProductShop.Data.csproj.CopyComplete
+C:\My Staff\SoftUni\07 DB Advanced\13 External Format Processing\13 External Format Processing\ProductShop.Data\obj\Debug\netcoreapp2.0\ProductShop.Data.dll
+C:\My Staff\SoftUni\07 DB Advanced\13 External Format Processing\13 External Format Processing\ProductShop.Data\obj\Debug\netcoreapp2.0\ProductShop.Data.pdb

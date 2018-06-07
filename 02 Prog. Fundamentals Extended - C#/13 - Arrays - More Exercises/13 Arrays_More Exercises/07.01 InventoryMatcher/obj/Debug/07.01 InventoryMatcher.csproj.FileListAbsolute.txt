@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\13 - Arrays - More Exercises\13 Arrays_More Exercises\07.01 InventoryMatcher\bin\Debug\07.01 InventoryMatcher.exe.config
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\13 - Arrays - More Exercises\13 Arrays_More Exercises\07.01 InventoryMatcher\bin\Debug\07.01 InventoryMatcher.exe
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\13 - Arrays - More Exercises\13 Arrays_More Exercises\07.01 InventoryMatcher\bin\Debug\07.01 InventoryMatcher.pdb
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\13 - Arrays - More Exercises\13 Arrays_More Exercises\07.01 InventoryMatcher\obj\Debug\07.01 InventoryMatcher.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\13 - Arrays - More Exercises\13 Arrays_More Exercises\07.01 InventoryMatcher\obj\Debug\07.01 InventoryMatcher.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\13 - Arrays - More Exercises\13 Arrays_More Exercises\07.01 InventoryMatcher\obj\Debug\07.01 InventoryMatcher.exe
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\13 - Arrays - More Exercises\13 Arrays_More Exercises\07.01 InventoryMatcher\obj\Debug\07.01 InventoryMatcher.pdb

@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\05 OOP Advanced\05 Reflection\05 Reflection\Е01 HarvestingFields\bin\Debug\Е01 HarvestingFields.exe.config
+C:\My Staff\SoftUni\05 OOP Advanced\05 Reflection\05 Reflection\Е01 HarvestingFields\bin\Debug\Е01 HarvestingFields.exe
+C:\My Staff\SoftUni\05 OOP Advanced\05 Reflection\05 Reflection\Е01 HarvestingFields\bin\Debug\Е01 HarvestingFields.pdb
+C:\My Staff\SoftUni\05 OOP Advanced\05 Reflection\05 Reflection\Е01 HarvestingFields\obj\Debug\E01 HarvestingFields.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\05 OOP Advanced\05 Reflection\05 Reflection\Е01 HarvestingFields\obj\Debug\E01 HarvestingFields.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\05 OOP Advanced\05 Reflection\05 Reflection\Е01 HarvestingFields\obj\Debug\Е01 HarvestingFields.exe
+C:\My Staff\SoftUni\05 OOP Advanced\05 Reflection\05 Reflection\Е01 HarvestingFields\obj\Debug\Е01 HarvestingFields.pdb

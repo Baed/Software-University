@@ -1,0 +1,6 @@
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\12 - Arrays and Methods - Exercises\12_Arrays_Methods_Exercises\17. Altitude\bin\Debug\_17.Altitude.exe.config
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\12 - Arrays and Methods - Exercises\12_Arrays_Methods_Exercises\17. Altitude\bin\Debug\_17.Altitude.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\12 - Arrays and Methods - Exercises\12_Arrays_Methods_Exercises\17. Altitude\bin\Debug\_17.Altitude.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\12 - Arrays and Methods - Exercises\12_Arrays_Methods_Exercises\17. Altitude\obj\Debug\17. Altitude.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\12 - Arrays and Methods - Exercises\12_Arrays_Methods_Exercises\17. Altitude\obj\Debug\_17.Altitude.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\12 - Arrays and Methods - Exercises\12_Arrays_Methods_Exercises\17. Altitude\obj\Debug\_17.Altitude.pdb

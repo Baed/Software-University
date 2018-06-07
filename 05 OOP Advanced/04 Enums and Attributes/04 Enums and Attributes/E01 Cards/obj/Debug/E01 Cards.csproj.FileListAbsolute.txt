@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\05 OOP Advanced\04 Enums and Attributes\04 Enums and Attributes\E01 Cards\bin\Debug\E01 Cards.exe.config
+C:\My Staff\SoftUni\05 OOP Advanced\04 Enums and Attributes\04 Enums and Attributes\E01 Cards\bin\Debug\E01 Cards.exe
+C:\My Staff\SoftUni\05 OOP Advanced\04 Enums and Attributes\04 Enums and Attributes\E01 Cards\bin\Debug\E01 Cards.pdb
+C:\My Staff\SoftUni\05 OOP Advanced\04 Enums and Attributes\04 Enums and Attributes\E01 Cards\obj\Debug\E01 Cards.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\05 OOP Advanced\04 Enums and Attributes\04 Enums and Attributes\E01 Cards\obj\Debug\E01 Cards.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\05 OOP Advanced\04 Enums and Attributes\04 Enums and Attributes\E01 Cards\obj\Debug\E01 Cards.exe
+C:\My Staff\SoftUni\05 OOP Advanced\04 Enums and Attributes\04 Enums and Attributes\E01 Cards\obj\Debug\E01 Cards.pdb

@@ -1,0 +1,6 @@
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\15 - Lists - Exercises\15 - Lists - Exercises\05. Tear List in Half\bin\Debug\_05.Tear_List_in_Half.exe.config
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\15 - Lists - Exercises\15 - Lists - Exercises\05. Tear List in Half\bin\Debug\_05.Tear_List_in_Half.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\15 - Lists - Exercises\15 - Lists - Exercises\05. Tear List in Half\bin\Debug\_05.Tear_List_in_Half.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\15 - Lists - Exercises\15 - Lists - Exercises\05. Tear List in Half\obj\Debug\05. Tear List in Half.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\15 - Lists - Exercises\15 - Lists - Exercises\05. Tear List in Half\obj\Debug\_05.Tear_List_in_Half.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\15 - Lists - Exercises\15 - Lists - Exercises\05. Tear List in Half\obj\Debug\_05.Tear_List_in_Half.pdb

@@ -1,0 +1,6 @@
+C:\My Staff\SoftUni\04 OOP Basic\02 Encapsulation\02 Encapsulation\E01. Class Box\bin\Debug\E01.Class_Box.exe.config
+C:\My Staff\SoftUni\04 OOP Basic\02 Encapsulation\02 Encapsulation\E01. Class Box\bin\Debug\E01.Class_Box.exe
+C:\My Staff\SoftUni\04 OOP Basic\02 Encapsulation\02 Encapsulation\E01. Class Box\bin\Debug\E01.Class_Box.pdb
+C:\My Staff\SoftUni\04 OOP Basic\02 Encapsulation\02 Encapsulation\E01. Class Box\obj\Debug\E01. Class Box.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\04 OOP Basic\02 Encapsulation\02 Encapsulation\E01. Class Box\obj\Debug\E01.Class_Box.exe
+C:\My Staff\SoftUni\04 OOP Basic\02 Encapsulation\02 Encapsulation\E01. Class Box\obj\Debug\E01.Class_Box.pdb

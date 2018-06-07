@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\01 Programming Basics - C#\UROK 9 - Preparation Mentor 29.10\Preparation 28_10\05. Crown\bin\Debug\_05.Crown.exe.config
+C:\My Staff\SoftUni\01 Programming Basics - C#\UROK 9 - Preparation Mentor 29.10\Preparation 28_10\05. Crown\bin\Debug\_05.Crown.exe
+C:\My Staff\SoftUni\01 Programming Basics - C#\UROK 9 - Preparation Mentor 29.10\Preparation 28_10\05. Crown\bin\Debug\_05.Crown.pdb
+C:\My Staff\SoftUni\01 Programming Basics - C#\UROK 9 - Preparation Mentor 29.10\Preparation 28_10\05. Crown\obj\Debug\05. Crown.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\01 Programming Basics - C#\UROK 9 - Preparation Mentor 29.10\Preparation 28_10\05. Crown\obj\Debug\05. Crown.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\01 Programming Basics - C#\UROK 9 - Preparation Mentor 29.10\Preparation 28_10\05. Crown\obj\Debug\_05.Crown.exe
+C:\My Staff\SoftUni\01 Programming Basics - C#\UROK 9 - Preparation Mentor 29.10\Preparation 28_10\05. Crown\obj\Debug\_05.Crown.pdb

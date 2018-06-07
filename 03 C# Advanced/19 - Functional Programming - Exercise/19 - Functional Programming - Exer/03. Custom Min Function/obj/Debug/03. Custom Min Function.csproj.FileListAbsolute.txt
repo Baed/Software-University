@@ -1,0 +1,6 @@
+C:\My Staff\SoftUni\03 C# Advanced\19 - Functional Programming - Exercise\19 - Functional Programming - Exer\03. Custom Min Function\bin\Debug\_03.Custom_Min_Function.exe.config
+C:\My Staff\SoftUni\03 C# Advanced\19 - Functional Programming - Exercise\19 - Functional Programming - Exer\03. Custom Min Function\bin\Debug\_03.Custom_Min_Function.exe
+C:\My Staff\SoftUni\03 C# Advanced\19 - Functional Programming - Exercise\19 - Functional Programming - Exer\03. Custom Min Function\bin\Debug\_03.Custom_Min_Function.pdb
+C:\My Staff\SoftUni\03 C# Advanced\19 - Functional Programming - Exercise\19 - Functional Programming - Exer\03. Custom Min Function\obj\Debug\03. Custom Min Function.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\03 C# Advanced\19 - Functional Programming - Exercise\19 - Functional Programming - Exer\03. Custom Min Function\obj\Debug\_03.Custom_Min_Function.exe
+C:\My Staff\SoftUni\03 C# Advanced\19 - Functional Programming - Exercise\19 - Functional Programming - Exer\03. Custom Min Function\obj\Debug\_03.Custom_Min_Function.pdb

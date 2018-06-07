@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\03 C# Advanced\06 - Sets and Dictionaries - Exercise\06 - Sets and DictionariesExercise\10. Population Counter\bin\Debug\_10.Population_Counter.exe.config
+C:\My Staff\SoftUni\03 C# Advanced\06 - Sets and Dictionaries - Exercise\06 - Sets and DictionariesExercise\10. Population Counter\bin\Debug\_10.Population_Counter.exe
+C:\My Staff\SoftUni\03 C# Advanced\06 - Sets and Dictionaries - Exercise\06 - Sets and DictionariesExercise\10. Population Counter\bin\Debug\_10.Population_Counter.pdb
+C:\My Staff\SoftUni\03 C# Advanced\06 - Sets and Dictionaries - Exercise\06 - Sets and DictionariesExercise\10. Population Counter\obj\Debug\10. Population Counter.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\03 C# Advanced\06 - Sets and Dictionaries - Exercise\06 - Sets and DictionariesExercise\10. Population Counter\obj\Debug\10. Population Counter.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\03 C# Advanced\06 - Sets and Dictionaries - Exercise\06 - Sets and DictionariesExercise\10. Population Counter\obj\Debug\_10.Population_Counter.exe
+C:\My Staff\SoftUni\03 C# Advanced\06 - Sets and Dictionaries - Exercise\06 - Sets and DictionariesExercise\10. Population Counter\obj\Debug\_10.Population_Counter.pdb

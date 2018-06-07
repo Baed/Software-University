@@ -1,0 +1,6 @@
+C:\My Staff\SoftUni\03 C# Advanced\21 - Built-in Query methods - LINQ - Exercise\21 - LINQ - Exercise\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\My Staff\SoftUni\03 C# Advanced\21 - Built-in Query methods - LINQ - Exercise\21 - LINQ - Exercise\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\My Staff\SoftUni\03 C# Advanced\21 - Built-in Query methods - LINQ - Exercise\21 - LINQ - Exercise\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\My Staff\SoftUni\03 C# Advanced\21 - Built-in Query methods - LINQ - Exercise\21 - LINQ - Exercise\ConsoleApp1\obj\Debug\04. Sort Students.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\03 C# Advanced\21 - Built-in Query methods - LINQ - Exercise\21 - LINQ - Exercise\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\My Staff\SoftUni\03 C# Advanced\21 - Built-in Query methods - LINQ - Exercise\21 - LINQ - Exercise\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

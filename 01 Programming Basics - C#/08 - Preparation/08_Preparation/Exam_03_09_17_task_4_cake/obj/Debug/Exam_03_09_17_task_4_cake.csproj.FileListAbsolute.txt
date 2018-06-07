@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\August C# Basics\UROK 8 - Preparation\08_Preparation\Exam_03_09_17_task_4_cake\bin\Debug\Exam_03_09_17_task_4_cake.exe.config
+C:\My Staff\SoftUni\August C# Basics\UROK 8 - Preparation\08_Preparation\Exam_03_09_17_task_4_cake\bin\Debug\Exam_03_09_17_task_4_cake.exe
+C:\My Staff\SoftUni\August C# Basics\UROK 8 - Preparation\08_Preparation\Exam_03_09_17_task_4_cake\bin\Debug\Exam_03_09_17_task_4_cake.pdb
+C:\My Staff\SoftUni\August C# Basics\UROK 8 - Preparation\08_Preparation\Exam_03_09_17_task_4_cake\obj\Debug\Exam_03_09_17_task_4_cake.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\August C# Basics\UROK 8 - Preparation\08_Preparation\Exam_03_09_17_task_4_cake\obj\Debug\Exam_03_09_17_task_4_cake.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\August C# Basics\UROK 8 - Preparation\08_Preparation\Exam_03_09_17_task_4_cake\obj\Debug\Exam_03_09_17_task_4_cake.exe
+C:\My Staff\SoftUni\August C# Basics\UROK 8 - Preparation\08_Preparation\Exam_03_09_17_task_4_cake\obj\Debug\Exam_03_09_17_task_4_cake.pdb

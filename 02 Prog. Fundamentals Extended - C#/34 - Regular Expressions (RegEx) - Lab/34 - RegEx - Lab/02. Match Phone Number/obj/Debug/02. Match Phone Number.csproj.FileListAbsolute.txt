@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\34 - Regular Expressions (RegEx) - Lab\34 - RegEx - Lab\02. Match Phone Number\bin\Debug\_02.Match_Phone_Number.exe.config
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\34 - Regular Expressions (RegEx) - Lab\34 - RegEx - Lab\02. Match Phone Number\bin\Debug\_02.Match_Phone_Number.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\34 - Regular Expressions (RegEx) - Lab\34 - RegEx - Lab\02. Match Phone Number\bin\Debug\_02.Match_Phone_Number.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\34 - Regular Expressions (RegEx) - Lab\34 - RegEx - Lab\02. Match Phone Number\obj\Debug\02. Match Phone Number.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\34 - Regular Expressions (RegEx) - Lab\34 - RegEx - Lab\02. Match Phone Number\obj\Debug\02. Match Phone Number.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\34 - Regular Expressions (RegEx) - Lab\34 - RegEx - Lab\02. Match Phone Number\obj\Debug\_02.Match_Phone_Number.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\34 - Regular Expressions (RegEx) - Lab\34 - RegEx - Lab\02. Match Phone Number\obj\Debug\_02.Match_Phone_Number.pdb

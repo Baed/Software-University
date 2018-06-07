@@ -1,0 +1,6 @@
+C:\My Staff\SoftUni\August C# Basics\UROK 7 - Advanced loops\02 Exercise\07_Exercise_adv_loops\11. Enter Even Number\bin\Debug\_11.Enter_Even_Number.exe.config
+C:\My Staff\SoftUni\August C# Basics\UROK 7 - Advanced loops\02 Exercise\07_Exercise_adv_loops\11. Enter Even Number\bin\Debug\_11.Enter_Even_Number.exe
+C:\My Staff\SoftUni\August C# Basics\UROK 7 - Advanced loops\02 Exercise\07_Exercise_adv_loops\11. Enter Even Number\bin\Debug\_11.Enter_Even_Number.pdb
+C:\My Staff\SoftUni\August C# Basics\UROK 7 - Advanced loops\02 Exercise\07_Exercise_adv_loops\11. Enter Even Number\obj\Debug\11. Enter Even Number.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\August C# Basics\UROK 7 - Advanced loops\02 Exercise\07_Exercise_adv_loops\11. Enter Even Number\obj\Debug\_11.Enter_Even_Number.exe
+C:\My Staff\SoftUni\August C# Basics\UROK 7 - Advanced loops\02 Exercise\07_Exercise_adv_loops\11. Enter Even Number\obj\Debug\_11.Enter_Even_Number.pdb

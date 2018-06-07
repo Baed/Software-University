@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\24 - Lambda and LINQ - Lab\24 - Lambda and LINQ - Lab\01. Min, Max, Sum, Average\bin\Debug\_01.Min__Max__Sum__Average.exe.config
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\24 - Lambda and LINQ - Lab\24 - Lambda and LINQ - Lab\01. Min, Max, Sum, Average\bin\Debug\_01.Min__Max__Sum__Average.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\24 - Lambda and LINQ - Lab\24 - Lambda and LINQ - Lab\01. Min, Max, Sum, Average\bin\Debug\_01.Min__Max__Sum__Average.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\24 - Lambda and LINQ - Lab\24 - Lambda and LINQ - Lab\01. Min, Max, Sum, Average\obj\Debug\01. Min, Max, Sum, Average.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\24 - Lambda and LINQ - Lab\24 - Lambda and LINQ - Lab\01. Min, Max, Sum, Average\obj\Debug\01. Min, Max, Sum, Average.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\24 - Lambda and LINQ - Lab\24 - Lambda and LINQ - Lab\01. Min, Max, Sum, Average\obj\Debug\_01.Min__Max__Sum__Average.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\24 - Lambda and LINQ - Lab\24 - Lambda and LINQ - Lab\01. Min, Max, Sum, Average\obj\Debug\_01.Min__Max__Sum__Average.pdb

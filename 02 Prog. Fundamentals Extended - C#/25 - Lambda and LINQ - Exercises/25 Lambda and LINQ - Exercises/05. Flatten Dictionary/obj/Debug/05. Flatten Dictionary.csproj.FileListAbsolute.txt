@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\24 - Lambda and LINQ - Lab\25 Lambda and LINQ - Exercises\05. Flatten Dictionary\bin\Debug\_05.Flatten_Dictionary.exe.config
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\24 - Lambda and LINQ - Lab\25 Lambda and LINQ - Exercises\05. Flatten Dictionary\bin\Debug\_05.Flatten_Dictionary.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\24 - Lambda and LINQ - Lab\25 Lambda and LINQ - Exercises\05. Flatten Dictionary\bin\Debug\_05.Flatten_Dictionary.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\24 - Lambda and LINQ - Lab\25 Lambda and LINQ - Exercises\05. Flatten Dictionary\obj\Debug\05. Flatten Dictionary.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\24 - Lambda and LINQ - Lab\25 Lambda and LINQ - Exercises\05. Flatten Dictionary\obj\Debug\05. Flatten Dictionary.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\24 - Lambda and LINQ - Lab\25 Lambda and LINQ - Exercises\05. Flatten Dictionary\obj\Debug\_05.Flatten_Dictionary.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\24 - Lambda and LINQ - Lab\25 Lambda and LINQ - Exercises\05. Flatten Dictionary\obj\Debug\_05.Flatten_Dictionary.pdb

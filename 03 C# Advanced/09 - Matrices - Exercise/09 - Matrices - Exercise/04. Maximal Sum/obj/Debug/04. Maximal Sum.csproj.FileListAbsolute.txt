@@ -1,0 +1,6 @@
+C:\My Staff\SoftUni\03 C# Advanced\09 - Matrices - Exercise\09 - Matrices - Exercise\04. Maximal Sum\bin\Debug\_04.Maximal_Sum.exe.config
+C:\My Staff\SoftUni\03 C# Advanced\09 - Matrices - Exercise\09 - Matrices - Exercise\04. Maximal Sum\bin\Debug\_04.Maximal_Sum.exe
+C:\My Staff\SoftUni\03 C# Advanced\09 - Matrices - Exercise\09 - Matrices - Exercise\04. Maximal Sum\bin\Debug\_04.Maximal_Sum.pdb
+C:\My Staff\SoftUni\03 C# Advanced\09 - Matrices - Exercise\09 - Matrices - Exercise\04. Maximal Sum\obj\Debug\04. Maximal Sum.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\03 C# Advanced\09 - Matrices - Exercise\09 - Matrices - Exercise\04. Maximal Sum\obj\Debug\_04.Maximal_Sum.exe
+C:\My Staff\SoftUni\03 C# Advanced\09 - Matrices - Exercise\09 - Matrices - Exercise\04. Maximal Sum\obj\Debug\_04.Maximal_Sum.pdb

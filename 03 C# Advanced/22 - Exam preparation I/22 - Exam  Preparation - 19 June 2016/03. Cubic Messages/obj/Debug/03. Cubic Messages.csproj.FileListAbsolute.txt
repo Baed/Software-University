@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\03 C# Advanced\22 - Exam preparation I\22 - Exam  Preparation - 19 June 2016\03. Cubic Messages\bin\Debug\_03.Cubic_Messages.exe.config
+C:\My Staff\SoftUni\03 C# Advanced\22 - Exam preparation I\22 - Exam  Preparation - 19 June 2016\03. Cubic Messages\bin\Debug\_03.Cubic_Messages.exe
+C:\My Staff\SoftUni\03 C# Advanced\22 - Exam preparation I\22 - Exam  Preparation - 19 June 2016\03. Cubic Messages\bin\Debug\_03.Cubic_Messages.pdb
+C:\My Staff\SoftUni\03 C# Advanced\22 - Exam preparation I\22 - Exam  Preparation - 19 June 2016\03. Cubic Messages\obj\Debug\03. Cubic Messages.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\03 C# Advanced\22 - Exam preparation I\22 - Exam  Preparation - 19 June 2016\03. Cubic Messages\obj\Debug\03. Cubic Messages.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\03 C# Advanced\22 - Exam preparation I\22 - Exam  Preparation - 19 June 2016\03. Cubic Messages\obj\Debug\_03.Cubic_Messages.exe
+C:\My Staff\SoftUni\03 C# Advanced\22 - Exam preparation I\22 - Exam  Preparation - 19 June 2016\03. Cubic Messages\obj\Debug\_03.Cubic_Messages.pdb

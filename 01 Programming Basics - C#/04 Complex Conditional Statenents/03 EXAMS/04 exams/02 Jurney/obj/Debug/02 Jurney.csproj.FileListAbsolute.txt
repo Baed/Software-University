@@ -1,0 +1,7 @@
+D:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\03 EXAMS\04 exams\02 Jurney\bin\Debug\02 Jurney.exe.config
+D:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\03 EXAMS\04 exams\02 Jurney\bin\Debug\02 Jurney.exe
+D:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\03 EXAMS\04 exams\02 Jurney\bin\Debug\02 Jurney.pdb
+D:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\03 EXAMS\04 exams\02 Jurney\obj\Debug\02 Jurney.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\03 EXAMS\04 exams\02 Jurney\obj\Debug\02 Jurney.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\03 EXAMS\04 exams\02 Jurney\obj\Debug\02 Jurney.exe
+D:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\03 EXAMS\04 exams\02 Jurney\obj\Debug\02 Jurney.pdb

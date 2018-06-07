@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\12. Variable in Hexadecimal Format\bin\Debug\_12.Variable_in_Hexadecimal_Format.exe.config
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\12. Variable in Hexadecimal Format\bin\Debug\_12.Variable_in_Hexadecimal_Format.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\12. Variable in Hexadecimal Format\bin\Debug\_12.Variable_in_Hexadecimal_Format.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\12. Variable in Hexadecimal Format\obj\Debug\12. Variable in Hexadecimal Format.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\12. Variable in Hexadecimal Format\obj\Debug\12. Variable in Hexadecimal Format.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\12. Variable in Hexadecimal Format\obj\Debug\_12.Variable_in_Hexadecimal_Format.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\12. Variable in Hexadecimal Format\obj\Debug\_12.Variable_in_Hexadecimal_Format.pdb

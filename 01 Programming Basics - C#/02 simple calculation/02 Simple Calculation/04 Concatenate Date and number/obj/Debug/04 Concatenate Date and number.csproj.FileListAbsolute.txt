@@ -1,0 +1,12 @@
+D:\SOFTUNI\UROK 2\02 Simple Calculation\04 Concatenate Date and number\bin\Debug\04 Concatenate Date and number.exe.config
+D:\SOFTUNI\UROK 2\02 Simple Calculation\04 Concatenate Date and number\bin\Debug\04 Concatenate Date and number.exe
+D:\SOFTUNI\UROK 2\02 Simple Calculation\04 Concatenate Date and number\bin\Debug\04 Concatenate Date and number.pdb
+D:\SOFTUNI\UROK 2\02 Simple Calculation\04 Concatenate Date and number\obj\Debug\04 Concatenate Date and number.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\UROK 2\02 Simple Calculation\04 Concatenate Date and number\obj\Debug\04 Concatenate Date and number.exe
+D:\SOFTUNI\UROK 2\02 Simple Calculation\04 Concatenate Date and number\obj\Debug\04 Concatenate Date and number.pdb
+D:\SOFTUNI\Programming basic c# august 2017\UROK 2 simple calculation\02 Simple Calculation\04 Concatenate Date and number\bin\Debug\04 Concatenate Date and number.exe.config
+D:\SOFTUNI\Programming basic c# august 2017\UROK 2 simple calculation\02 Simple Calculation\04 Concatenate Date and number\bin\Debug\04 Concatenate Date and number.exe
+D:\SOFTUNI\Programming basic c# august 2017\UROK 2 simple calculation\02 Simple Calculation\04 Concatenate Date and number\bin\Debug\04 Concatenate Date and number.pdb
+D:\SOFTUNI\Programming basic c# august 2017\UROK 2 simple calculation\02 Simple Calculation\04 Concatenate Date and number\obj\Debug\04 Concatenate Date and number.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\Programming basic c# august 2017\UROK 2 simple calculation\02 Simple Calculation\04 Concatenate Date and number\obj\Debug\04 Concatenate Date and number.exe
+D:\SOFTUNI\Programming basic c# august 2017\UROK 2 simple calculation\02 Simple Calculation\04 Concatenate Date and number\obj\Debug\04 Concatenate Date and number.pdb

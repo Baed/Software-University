@@ -1,0 +1,6 @@
+C:\My Staff\SoftUni\August C# Basics\UROK 7 - Advanced loops\02 Exercise\07_Exercise_adv_loops\13. Number Pyramid\bin\Debug\_13.Number_Pyramid.exe.config
+C:\My Staff\SoftUni\August C# Basics\UROK 7 - Advanced loops\02 Exercise\07_Exercise_adv_loops\13. Number Pyramid\bin\Debug\_13.Number_Pyramid.exe
+C:\My Staff\SoftUni\August C# Basics\UROK 7 - Advanced loops\02 Exercise\07_Exercise_adv_loops\13. Number Pyramid\bin\Debug\_13.Number_Pyramid.pdb
+C:\My Staff\SoftUni\August C# Basics\UROK 7 - Advanced loops\02 Exercise\07_Exercise_adv_loops\13. Number Pyramid\obj\Debug\13. Number Pyramid.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\August C# Basics\UROK 7 - Advanced loops\02 Exercise\07_Exercise_adv_loops\13. Number Pyramid\obj\Debug\_13.Number_Pyramid.exe
+C:\My Staff\SoftUni\August C# Basics\UROK 7 - Advanced loops\02 Exercise\07_Exercise_adv_loops\13. Number Pyramid\obj\Debug\_13.Number_Pyramid.pdb

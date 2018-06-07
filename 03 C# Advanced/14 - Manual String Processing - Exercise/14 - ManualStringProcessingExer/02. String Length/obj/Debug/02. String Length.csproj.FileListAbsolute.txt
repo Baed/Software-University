@@ -1,0 +1,6 @@
+C:\My Staff\SoftUni\03 C# Advanced\14 - Manual String Processing - Exercise\14 - ManualStringProcessingExer\02. String Length\bin\Debug\_02.String_Length.exe.config
+C:\My Staff\SoftUni\03 C# Advanced\14 - Manual String Processing - Exercise\14 - ManualStringProcessingExer\02. String Length\bin\Debug\_02.String_Length.exe
+C:\My Staff\SoftUni\03 C# Advanced\14 - Manual String Processing - Exercise\14 - ManualStringProcessingExer\02. String Length\bin\Debug\_02.String_Length.pdb
+C:\My Staff\SoftUni\03 C# Advanced\14 - Manual String Processing - Exercise\14 - ManualStringProcessingExer\02. String Length\obj\Debug\02. String Length.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\03 C# Advanced\14 - Manual String Processing - Exercise\14 - ManualStringProcessingExer\02. String Length\obj\Debug\_02.String_Length.exe
+C:\My Staff\SoftUni\03 C# Advanced\14 - Manual String Processing - Exercise\14 - ManualStringProcessingExer\02. String Length\obj\Debug\_02.String_Length.pdb

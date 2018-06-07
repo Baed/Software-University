@@ -1,0 +1,9 @@
+G:\SoftUni\SoftUni Work\SoftUniSVN\OOP Advaned Exam\C# Author Solution\RecyclingStation\RecyclingStation\bin\Debug\RecyclingStation.exe.config
+G:\SoftUni\SoftUni Work\SoftUniSVN\OOP Advaned Exam\C# Author Solution\RecyclingStation\RecyclingStation\bin\Debug\RecyclingStation.exe
+G:\SoftUni\SoftUni Work\SoftUniSVN\OOP Advaned Exam\C# Author Solution\RecyclingStation\RecyclingStation\bin\Debug\RecyclingStation.pdb
+G:\SoftUni\SoftUni Work\SoftUniSVN\OOP Advaned Exam\C# Author Solution\RecyclingStation\RecyclingStation\obj\Debug\RecyclingStation.csprojResolveAssemblyReference.cache
+G:\SoftUni\SoftUni Work\SoftUniSVN\OOP Advaned Exam\C# Author Solution\RecyclingStation\RecyclingStation\obj\Debug\RecyclingStation.exe
+G:\SoftUni\SoftUni Work\SoftUniSVN\OOP Advaned Exam\C# Author Solution\RecyclingStation\RecyclingStation\obj\Debug\RecyclingStation.pdb
+E:\Soft Uni\SoftUniSvn\OOP Advanced Exam\izpit\C# Author Solution\RecyclingStation\RecyclingStation\bin\Debug\RecyclingStation.exe.config
+E:\Soft Uni\SoftUniSvn\OOP Advanced Exam\izpit\C# Author Solution\RecyclingStation\RecyclingStation\obj\Debug\RecyclingStation.exe
+E:\Soft Uni\SoftUniSvn\OOP Advanced Exam\izpit\C# Author Solution\RecyclingStation\RecyclingStation\obj\Debug\RecyclingStation.pdb

@@ -1,0 +1,6 @@
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\35 - Regular Expressions (RegEx) - Exercises\35 - (RegEx) - Exer\08.01 Use Your Chains\bin\Debug\08.01 Use Your Chains.exe.config
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\35 - Regular Expressions (RegEx) - Exercises\35 - (RegEx) - Exer\08.01 Use Your Chains\bin\Debug\08.01 Use Your Chains.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\35 - Regular Expressions (RegEx) - Exercises\35 - (RegEx) - Exer\08.01 Use Your Chains\bin\Debug\08.01 Use Your Chains.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\35 - Regular Expressions (RegEx) - Exercises\35 - (RegEx) - Exer\08.01 Use Your Chains\obj\Debug\08.01 Use Your Chains.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\35 - Regular Expressions (RegEx) - Exercises\35 - (RegEx) - Exer\08.01 Use Your Chains\obj\Debug\08.01 Use Your Chains.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\35 - Regular Expressions (RegEx) - Exercises\35 - (RegEx) - Exer\08.01 Use Your Chains\obj\Debug\08.01 Use Your Chains.pdb

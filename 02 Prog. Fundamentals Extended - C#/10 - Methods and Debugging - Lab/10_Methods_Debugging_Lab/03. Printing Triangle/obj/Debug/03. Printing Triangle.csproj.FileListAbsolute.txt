@@ -1,0 +1,14 @@
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\10 - Methods and Debugging - Lab\10_Methods_Debugging_Lab\03. Printing Triangle\bin\Debug\_03.Printing_Triangle.exe.config
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\10 - Methods and Debugging - Lab\10_Methods_Debugging_Lab\03. Printing Triangle\bin\Debug\_03.Printing_Triangle.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\10 - Methods and Debugging - Lab\10_Methods_Debugging_Lab\03. Printing Triangle\bin\Debug\_03.Printing_Triangle.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\10 - Methods and Debugging - Lab\10_Methods_Debugging_Lab\03. Printing Triangle\obj\Debug\03. Printing Triangle.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\10 - Methods and Debugging - Lab\10_Methods_Debugging_Lab\03. Printing Triangle\obj\Debug\03. Printing Triangle.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\10 - Methods and Debugging - Lab\10_Methods_Debugging_Lab\03. Printing Triangle\obj\Debug\_03.Printing_Triangle.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\10 - Methods and Debugging - Lab\10_Methods_Debugging_Lab\03. Printing Triangle\obj\Debug\_03.Printing_Triangle.pdb
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\10 - Methods and Debugging - Lab\10_Methods_Debugging_Lab\03. Printing Triangle\bin\Debug\_03.Printing_Triangle.exe.config
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\10 - Methods and Debugging - Lab\10_Methods_Debugging_Lab\03. Printing Triangle\bin\Debug\_03.Printing_Triangle.exe
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\10 - Methods and Debugging - Lab\10_Methods_Debugging_Lab\03. Printing Triangle\bin\Debug\_03.Printing_Triangle.pdb
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\10 - Methods and Debugging - Lab\10_Methods_Debugging_Lab\03. Printing Triangle\obj\Debug\03. Printing Triangle.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\10 - Methods and Debugging - Lab\10_Methods_Debugging_Lab\03. Printing Triangle\obj\Debug\03. Printing Triangle.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\10 - Methods and Debugging - Lab\10_Methods_Debugging_Lab\03. Printing Triangle\obj\Debug\_03.Printing_Triangle.exe
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\10 - Methods and Debugging - Lab\10_Methods_Debugging_Lab\03. Printing Triangle\obj\Debug\_03.Printing_Triangle.pdb

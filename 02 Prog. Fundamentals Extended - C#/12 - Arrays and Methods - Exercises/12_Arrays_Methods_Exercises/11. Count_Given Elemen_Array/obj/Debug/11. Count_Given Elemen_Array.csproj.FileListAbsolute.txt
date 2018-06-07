@@ -1,0 +1,6 @@
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\12 - Arrays and Methods - Exercises\12_Arrays_Methods_Exercises\11. Count_Given Elemen_Array\bin\Debug\_11.Count_Given_Elemen_Array.exe.config
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\12 - Arrays and Methods - Exercises\12_Arrays_Methods_Exercises\11. Count_Given Elemen_Array\bin\Debug\_11.Count_Given_Elemen_Array.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\12 - Arrays and Methods - Exercises\12_Arrays_Methods_Exercises\11. Count_Given Elemen_Array\bin\Debug\_11.Count_Given_Elemen_Array.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\12 - Arrays and Methods - Exercises\12_Arrays_Methods_Exercises\11. Count_Given Elemen_Array\obj\Debug\11. Count_Given Elemen_Array.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\12 - Arrays and Methods - Exercises\12_Arrays_Methods_Exercises\11. Count_Given Elemen_Array\obj\Debug\_11.Count_Given_Elemen_Array.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\12 - Arrays and Methods - Exercises\12_Arrays_Methods_Exercises\11. Count_Given Elemen_Array\obj\Debug\_11.Count_Given_Elemen_Array.pdb

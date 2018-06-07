@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\05 OOP Advanced\01 Interfaces and Abstraction\01 Interfaces and Abstraction\L01 Shape\bin\Debug\L01 Shape.exe.config
+C:\My Staff\SoftUni\05 OOP Advanced\01 Interfaces and Abstraction\01 Interfaces and Abstraction\L01 Shape\bin\Debug\L01 Shape.exe
+C:\My Staff\SoftUni\05 OOP Advanced\01 Interfaces and Abstraction\01 Interfaces and Abstraction\L01 Shape\bin\Debug\L01 Shape.pdb
+C:\My Staff\SoftUni\05 OOP Advanced\01 Interfaces and Abstraction\01 Interfaces and Abstraction\L01 Shape\obj\Debug\L01 Shape.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\05 OOP Advanced\01 Interfaces and Abstraction\01 Interfaces and Abstraction\L01 Shape\obj\Debug\L01 Shape.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\05 OOP Advanced\01 Interfaces and Abstraction\01 Interfaces and Abstraction\L01 Shape\obj\Debug\L01 Shape.exe
+C:\My Staff\SoftUni\05 OOP Advanced\01 Interfaces and Abstraction\01 Interfaces and Abstraction\L01 Shape\obj\Debug\L01 Shape.pdb

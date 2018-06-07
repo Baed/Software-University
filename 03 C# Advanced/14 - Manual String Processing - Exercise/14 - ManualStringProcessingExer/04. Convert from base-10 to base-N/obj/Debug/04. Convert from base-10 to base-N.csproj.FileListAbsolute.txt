@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\03 C# Advanced\14 - Manual String Processing - Exercise\14 - ManualStringProcessingExer\04. Convert from base-10 to base-N\bin\Debug\_04.Convert_from_base_10_to_base_N.exe.config
+C:\My Staff\SoftUni\03 C# Advanced\14 - Manual String Processing - Exercise\14 - ManualStringProcessingExer\04. Convert from base-10 to base-N\bin\Debug\_04.Convert_from_base_10_to_base_N.exe
+C:\My Staff\SoftUni\03 C# Advanced\14 - Manual String Processing - Exercise\14 - ManualStringProcessingExer\04. Convert from base-10 to base-N\bin\Debug\_04.Convert_from_base_10_to_base_N.pdb
+C:\My Staff\SoftUni\03 C# Advanced\14 - Manual String Processing - Exercise\14 - ManualStringProcessingExer\04. Convert from base-10 to base-N\obj\Debug\04. Convert from base-10 to base-N.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\03 C# Advanced\14 - Manual String Processing - Exercise\14 - ManualStringProcessingExer\04. Convert from base-10 to base-N\obj\Debug\04. Convert from base-10 to base-N.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\03 C# Advanced\14 - Manual String Processing - Exercise\14 - ManualStringProcessingExer\04. Convert from base-10 to base-N\obj\Debug\_04.Convert_from_base_10_to_base_N.exe
+C:\My Staff\SoftUni\03 C# Advanced\14 - Manual String Processing - Exercise\14 - ManualStringProcessingExer\04. Convert from base-10 to base-N\obj\Debug\_04.Convert_from_base_10_to_base_N.pdb

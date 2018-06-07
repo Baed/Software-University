@@ -1,0 +1,14 @@
+C:\My Staff\SoftUni\05 OOP Advanced\06 Unit Testing\CustomLinkedList\CustomLinkedList\bin\Debug\CustomLinkedList.dll.config
+C:\My Staff\SoftUni\05 OOP Advanced\06 Unit Testing\CustomLinkedList\CustomLinkedList\bin\Debug\CustomLinkedList.dll
+C:\My Staff\SoftUni\05 OOP Advanced\06 Unit Testing\CustomLinkedList\CustomLinkedList\bin\Debug\CustomLinkedList.pdb
+C:\My Staff\SoftUni\05 OOP Advanced\06 Unit Testing\CustomLinkedList\CustomLinkedList\obj\Debug\E08 CustomLinkedList.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\05 OOP Advanced\06 Unit Testing\CustomLinkedList\CustomLinkedList\obj\Debug\E08 CustomLinkedList.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\05 OOP Advanced\06 Unit Testing\CustomLinkedList\CustomLinkedList\obj\Debug\CustomLinkedList.dll
+C:\My Staff\SoftUni\05 OOP Advanced\06 Unit Testing\CustomLinkedList\CustomLinkedList\obj\Debug\CustomLinkedList.pdb
+C:\My Staff\SoftUni\Repository-GitHub\05 OOP Advanced\06 Unit Testing\CustomLinkedList\CustomLinkedList\bin\Debug\CustomLinkedList.dll.config
+C:\My Staff\SoftUni\Repository-GitHub\05 OOP Advanced\06 Unit Testing\CustomLinkedList\CustomLinkedList\bin\Debug\CustomLinkedList.dll
+C:\My Staff\SoftUni\Repository-GitHub\05 OOP Advanced\06 Unit Testing\CustomLinkedList\CustomLinkedList\bin\Debug\CustomLinkedList.pdb
+C:\My Staff\SoftUni\Repository-GitHub\05 OOP Advanced\06 Unit Testing\CustomLinkedList\CustomLinkedList\obj\Debug\E08 CustomLinkedList.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\Repository-GitHub\05 OOP Advanced\06 Unit Testing\CustomLinkedList\CustomLinkedList\obj\Debug\E08 CustomLinkedList.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\Repository-GitHub\05 OOP Advanced\06 Unit Testing\CustomLinkedList\CustomLinkedList\obj\Debug\CustomLinkedList.dll
+C:\My Staff\SoftUni\Repository-GitHub\05 OOP Advanced\06 Unit Testing\CustomLinkedList\CustomLinkedList\obj\Debug\CustomLinkedList.pdb

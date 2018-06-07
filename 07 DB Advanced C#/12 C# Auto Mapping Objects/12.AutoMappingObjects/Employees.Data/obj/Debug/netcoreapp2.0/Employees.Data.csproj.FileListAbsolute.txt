@@ -1,0 +1,12 @@
+C:\My Staff\SoftUni\07 DB Advanced\12 C# Auto Mapping Objects\12.AutoMappingObjects\Employees.Data\bin\Debug\netcoreapp2.0\Employees.Data.deps.json
+C:\My Staff\SoftUni\07 DB Advanced\12 C# Auto Mapping Objects\12.AutoMappingObjects\Employees.Data\bin\Debug\netcoreapp2.0\Employees.Data.dll
+C:\My Staff\SoftUni\07 DB Advanced\12 C# Auto Mapping Objects\12.AutoMappingObjects\Employees.Data\bin\Debug\netcoreapp2.0\Employees.Data.pdb
+C:\My Staff\SoftUni\07 DB Advanced\12 C# Auto Mapping Objects\12.AutoMappingObjects\Employees.Data\obj\Debug\netcoreapp2.0\Employees.Data.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\07 DB Advanced\12 C# Auto Mapping Objects\12.AutoMappingObjects\Employees.Data\obj\Debug\netcoreapp2.0\Employees.Data.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\07 DB Advanced\12 C# Auto Mapping Objects\12.AutoMappingObjects\Employees.Data\obj\Debug\netcoreapp2.0\Employees.Data.AssemblyInfoInputs.cache
+C:\My Staff\SoftUni\07 DB Advanced\12 C# Auto Mapping Objects\12.AutoMappingObjects\Employees.Data\obj\Debug\netcoreapp2.0\Employees.Data.AssemblyInfo.cs
+C:\My Staff\SoftUni\07 DB Advanced\12 C# Auto Mapping Objects\12.AutoMappingObjects\Employees.Data\obj\Debug\netcoreapp2.0\Employees.Data.dll
+C:\My Staff\SoftUni\07 DB Advanced\12 C# Auto Mapping Objects\12.AutoMappingObjects\Employees.Data\obj\Debug\netcoreapp2.0\Employees.Data.pdb
+C:\My Staff\SoftUni\07 DB Advanced\12 C# Auto Mapping Objects\12.AutoMappingObjects\Employees.Data\bin\Debug\netcoreapp2.0\Employees.Models.dll
+C:\My Staff\SoftUni\07 DB Advanced\12 C# Auto Mapping Objects\12.AutoMappingObjects\Employees.Data\bin\Debug\netcoreapp2.0\Employees.Models.pdb
+C:\My Staff\SoftUni\07 DB Advanced\12 C# Auto Mapping Objects\12.AutoMappingObjects\Employees.Data\obj\Debug\netcoreapp2.0\Employees.Data.csproj.CopyComplete

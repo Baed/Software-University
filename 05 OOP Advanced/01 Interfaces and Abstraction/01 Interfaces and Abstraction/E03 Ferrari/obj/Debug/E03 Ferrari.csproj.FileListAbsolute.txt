@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\05 OOP Advanced\01 Interfaces and Abstraction\01 Interfaces and Abstraction\E03 Ferrari\bin\Debug\E03 Ferrari.exe.config
+C:\My Staff\SoftUni\05 OOP Advanced\01 Interfaces and Abstraction\01 Interfaces and Abstraction\E03 Ferrari\bin\Debug\E03 Ferrari.exe
+C:\My Staff\SoftUni\05 OOP Advanced\01 Interfaces and Abstraction\01 Interfaces and Abstraction\E03 Ferrari\bin\Debug\E03 Ferrari.pdb
+C:\My Staff\SoftUni\05 OOP Advanced\01 Interfaces and Abstraction\01 Interfaces and Abstraction\E03 Ferrari\obj\Debug\E03 Ferrari.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\05 OOP Advanced\01 Interfaces and Abstraction\01 Interfaces and Abstraction\E03 Ferrari\obj\Debug\E03 Ferrari.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\05 OOP Advanced\01 Interfaces and Abstraction\01 Interfaces and Abstraction\E03 Ferrari\obj\Debug\E03 Ferrari.exe
+C:\My Staff\SoftUni\05 OOP Advanced\01 Interfaces and Abstraction\01 Interfaces and Abstraction\E03 Ferrari\obj\Debug\E03 Ferrari.pdb

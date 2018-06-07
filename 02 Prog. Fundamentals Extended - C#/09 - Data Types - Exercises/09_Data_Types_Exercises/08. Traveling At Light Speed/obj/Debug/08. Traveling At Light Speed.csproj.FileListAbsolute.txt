@@ -1,0 +1,6 @@
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\08. Traveling At Light Speed\bin\Debug\_08.Traveling_At_Light_Speed.exe.config
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\08. Traveling At Light Speed\bin\Debug\_08.Traveling_At_Light_Speed.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\08. Traveling At Light Speed\bin\Debug\_08.Traveling_At_Light_Speed.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\08. Traveling At Light Speed\obj\Debug\08. Traveling At Light Speed.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\08. Traveling At Light Speed\obj\Debug\_08.Traveling_At_Light_Speed.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\08. Traveling At Light Speed\obj\Debug\_08.Traveling_At_Light_Speed.pdb

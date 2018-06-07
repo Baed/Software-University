@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\39 - Preparation Practice - Extended Exams\Preparation I Sample Exam\02. SoftUni Karaoke\bin\Debug\_02.SoftUni_Karaoke.exe.config
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\39 - Preparation Practice - Extended Exams\Preparation I Sample Exam\02. SoftUni Karaoke\bin\Debug\_02.SoftUni_Karaoke.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\39 - Preparation Practice - Extended Exams\Preparation I Sample Exam\02. SoftUni Karaoke\bin\Debug\_02.SoftUni_Karaoke.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\39 - Preparation Practice - Extended Exams\Preparation I Sample Exam\02. SoftUni Karaoke\obj\Debug\02. SoftUni Karaoke.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\39 - Preparation Practice - Extended Exams\Preparation I Sample Exam\02. SoftUni Karaoke\obj\Debug\02. SoftUni Karaoke.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\39 - Preparation Practice - Extended Exams\Preparation I Sample Exam\02. SoftUni Karaoke\obj\Debug\_02.SoftUni_Karaoke.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\39 - Preparation Practice - Extended Exams\Preparation I Sample Exam\02. SoftUni Karaoke\obj\Debug\_02.SoftUni_Karaoke.pdb

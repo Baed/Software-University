@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\12 - Arrays and Methods - Exercises\12_Arrays_Methods_Exercises\10. Count_NegativeElem_Array\bin\Debug\_10.Count_NegativeElem_Array.exe.config
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\12 - Arrays and Methods - Exercises\12_Arrays_Methods_Exercises\10. Count_NegativeElem_Array\bin\Debug\_10.Count_NegativeElem_Array.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\12 - Arrays and Methods - Exercises\12_Arrays_Methods_Exercises\10. Count_NegativeElem_Array\bin\Debug\_10.Count_NegativeElem_Array.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\12 - Arrays and Methods - Exercises\12_Arrays_Methods_Exercises\10. Count_NegativeElem_Array\obj\Debug\10. Count_NegativeElem_Array.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\12 - Arrays and Methods - Exercises\12_Arrays_Methods_Exercises\10. Count_NegativeElem_Array\obj\Debug\_10.Count_NegativeElem_Array.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\12 - Arrays and Methods - Exercises\12_Arrays_Methods_Exercises\10. Count_NegativeElem_Array\obj\Debug\_10.Count_NegativeElem_Array.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\12 - Arrays and Methods - Exercises\12_Arrays_Methods_Exercises\10. Count_NegativeElem_Array\obj\Debug\10. Count_NegativeElem_Array.csprojResolveAssemblyReference.cache

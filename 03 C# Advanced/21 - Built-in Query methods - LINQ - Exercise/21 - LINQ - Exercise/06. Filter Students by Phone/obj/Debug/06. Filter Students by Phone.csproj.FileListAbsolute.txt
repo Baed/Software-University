@@ -1,0 +1,6 @@
+C:\My Staff\SoftUni\03 C# Advanced\21 - Built-in Query methods - LINQ - Exercise\21 - LINQ - Exercise\06. Filter Students by Phone\obj\Debug\06. Filter Students by Phone.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\03 C# Advanced\21 - Built-in Query methods - LINQ - Exercise\21 - LINQ - Exercise\06. Filter Students by Phone\bin\Debug\_06.Filter_Students_by_Phone.exe.config
+C:\My Staff\SoftUni\03 C# Advanced\21 - Built-in Query methods - LINQ - Exercise\21 - LINQ - Exercise\06. Filter Students by Phone\bin\Debug\_06.Filter_Students_by_Phone.exe
+C:\My Staff\SoftUni\03 C# Advanced\21 - Built-in Query methods - LINQ - Exercise\21 - LINQ - Exercise\06. Filter Students by Phone\bin\Debug\_06.Filter_Students_by_Phone.pdb
+C:\My Staff\SoftUni\03 C# Advanced\21 - Built-in Query methods - LINQ - Exercise\21 - LINQ - Exercise\06. Filter Students by Phone\obj\Debug\_06.Filter_Students_by_Phone.exe
+C:\My Staff\SoftUni\03 C# Advanced\21 - Built-in Query methods - LINQ - Exercise\21 - LINQ - Exercise\06. Filter Students by Phone\obj\Debug\_06.Filter_Students_by_Phone.pdb

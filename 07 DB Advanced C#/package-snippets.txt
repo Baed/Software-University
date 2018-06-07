@@ -1,0 +1,12 @@
+// Install-Package Microsoft.EntityFrameworkCore.SqlServer
+// Install-Package Microsoft.EntityFrameworkCore.Tools
+// Install-Package Microsoft.Extensions.DependencyInjection
+// Install-Package AutoMapper
+// Install-Package AutoMapper.Extensions.Microsoft.DependencyInjection
+// Install-Package Newtonsoft.Json
+// Install-Package Microsoft.Extensions.Configuration.Json
+// Update-Database
+// Drop-Database
+// Add-Migration Initial
+// Remove-Migration
+// Update-Database -Migration: "Initial"

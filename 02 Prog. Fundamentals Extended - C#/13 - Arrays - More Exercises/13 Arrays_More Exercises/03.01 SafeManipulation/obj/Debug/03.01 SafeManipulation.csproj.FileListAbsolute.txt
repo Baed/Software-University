@@ -1,0 +1,6 @@
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\13 - Arrays - More Exercises\13 Arrays_More Exercises\03.01 SafeManipulation\bin\Debug\03.01 SafeManipulation.exe.config
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\13 - Arrays - More Exercises\13 Arrays_More Exercises\03.01 SafeManipulation\bin\Debug\03.01 SafeManipulation.exe
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\13 - Arrays - More Exercises\13 Arrays_More Exercises\03.01 SafeManipulation\bin\Debug\03.01 SafeManipulation.pdb
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\13 - Arrays - More Exercises\13 Arrays_More Exercises\03.01 SafeManipulation\obj\Debug\03.01 SafeManipulation.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\13 - Arrays - More Exercises\13 Arrays_More Exercises\03.01 SafeManipulation\obj\Debug\03.01 SafeManipulation.exe
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\13 - Arrays - More Exercises\13 Arrays_More Exercises\03.01 SafeManipulation\obj\Debug\03.01 SafeManipulation.pdb

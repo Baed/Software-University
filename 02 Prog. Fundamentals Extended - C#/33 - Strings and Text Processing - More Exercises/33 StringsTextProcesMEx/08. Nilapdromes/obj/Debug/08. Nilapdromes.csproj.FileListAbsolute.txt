@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\33 - Strings and Text Processing - More Exercises\33 StringsTextProcesMEx\08. Nilapdromes\bin\Debug\_08.Nilapdromes.exe.config
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\33 - Strings and Text Processing - More Exercises\33 StringsTextProcesMEx\08. Nilapdromes\bin\Debug\_08.Nilapdromes.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\33 - Strings and Text Processing - More Exercises\33 StringsTextProcesMEx\08. Nilapdromes\bin\Debug\_08.Nilapdromes.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\33 - Strings and Text Processing - More Exercises\33 StringsTextProcesMEx\08. Nilapdromes\obj\Debug\08. Nilapdromes.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\33 - Strings and Text Processing - More Exercises\33 StringsTextProcesMEx\08. Nilapdromes\obj\Debug\08. Nilapdromes.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\33 - Strings and Text Processing - More Exercises\33 StringsTextProcesMEx\08. Nilapdromes\obj\Debug\_08.Nilapdromes.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\33 - Strings and Text Processing - More Exercises\33 StringsTextProcesMEx\08. Nilapdromes\obj\Debug\_08.Nilapdromes.pdb

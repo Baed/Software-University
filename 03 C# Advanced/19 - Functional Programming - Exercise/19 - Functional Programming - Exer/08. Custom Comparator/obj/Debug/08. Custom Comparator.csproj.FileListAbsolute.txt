@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\03 C# Advanced\19 - Functional Programming - Exercise\19 - Functional Programming - Exer\08. Custom Comparator\bin\Debug\_08.Custom_Comparator.exe.config
+C:\My Staff\SoftUni\03 C# Advanced\19 - Functional Programming - Exercise\19 - Functional Programming - Exer\08. Custom Comparator\bin\Debug\_08.Custom_Comparator.exe
+C:\My Staff\SoftUni\03 C# Advanced\19 - Functional Programming - Exercise\19 - Functional Programming - Exer\08. Custom Comparator\bin\Debug\_08.Custom_Comparator.pdb
+C:\My Staff\SoftUni\03 C# Advanced\19 - Functional Programming - Exercise\19 - Functional Programming - Exer\08. Custom Comparator\obj\Debug\08. Custom Comparator.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\03 C# Advanced\19 - Functional Programming - Exercise\19 - Functional Programming - Exer\08. Custom Comparator\obj\Debug\_08.Custom_Comparator.exe
+C:\My Staff\SoftUni\03 C# Advanced\19 - Functional Programming - Exercise\19 - Functional Programming - Exer\08. Custom Comparator\obj\Debug\_08.Custom_Comparator.pdb
+C:\My Staff\SoftUni\03 C# Advanced\19 - Functional Programming - Exercise\19 - Functional Programming - Exer\08. Custom Comparator\obj\Debug\08. Custom Comparator.csprojResolveAssemblyReference.cache

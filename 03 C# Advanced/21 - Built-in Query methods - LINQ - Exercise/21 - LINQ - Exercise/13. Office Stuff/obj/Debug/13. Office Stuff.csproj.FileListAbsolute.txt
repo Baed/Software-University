@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\03 C# Advanced\21 - Built-in Query methods - LINQ - Exercise\21 - LINQ - Exercise\13. Office Stuff\bin\Debug\_13.Office_Stuff.exe.config
+C:\My Staff\SoftUni\03 C# Advanced\21 - Built-in Query methods - LINQ - Exercise\21 - LINQ - Exercise\13. Office Stuff\bin\Debug\_13.Office_Stuff.exe
+C:\My Staff\SoftUni\03 C# Advanced\21 - Built-in Query methods - LINQ - Exercise\21 - LINQ - Exercise\13. Office Stuff\bin\Debug\_13.Office_Stuff.pdb
+C:\My Staff\SoftUni\03 C# Advanced\21 - Built-in Query methods - LINQ - Exercise\21 - LINQ - Exercise\13. Office Stuff\obj\Debug\13. Office Stuff.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\03 C# Advanced\21 - Built-in Query methods - LINQ - Exercise\21 - LINQ - Exercise\13. Office Stuff\obj\Debug\13. Office Stuff.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\03 C# Advanced\21 - Built-in Query methods - LINQ - Exercise\21 - LINQ - Exercise\13. Office Stuff\obj\Debug\_13.Office_Stuff.exe
+C:\My Staff\SoftUni\03 C# Advanced\21 - Built-in Query methods - LINQ - Exercise\21 - LINQ - Exercise\13. Office Stuff\obj\Debug\_13.Office_Stuff.pdb

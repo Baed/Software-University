@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\11 - Arrays - Lab\11 Arrays - Lab\03. Smallest Element in Array\bin\Debug\_03.Smallest_Element_in_Array.exe.config
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\11 - Arrays - Lab\11 Arrays - Lab\03. Smallest Element in Array\bin\Debug\_03.Smallest_Element_in_Array.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\11 - Arrays - Lab\11 Arrays - Lab\03. Smallest Element in Array\bin\Debug\_03.Smallest_Element_in_Array.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\11 - Arrays - Lab\11 Arrays - Lab\03. Smallest Element in Array\obj\Debug\03. Smallest Element in Array.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\11 - Arrays - Lab\11 Arrays - Lab\03. Smallest Element in Array\obj\Debug\_03.Smallest_Element_in_Array.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\11 - Arrays - Lab\11 Arrays - Lab\03. Smallest Element in Array\obj\Debug\_03.Smallest_Element_in_Array.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\11 - Arrays - Lab\11 Arrays - Lab\03. Smallest Element in Array\obj\Debug\03. Smallest Element in Array.csprojResolveAssemblyReference.cache

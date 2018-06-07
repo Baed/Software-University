@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\04 OOP Basic\03 Inheritance\03 Inheritance\L03. Hierarchical Inheritance\bin\Debug\L03.Hierarchical_Inheritance.exe.config
+C:\My Staff\SoftUni\04 OOP Basic\03 Inheritance\03 Inheritance\L03. Hierarchical Inheritance\bin\Debug\L03.Hierarchical_Inheritance.exe
+C:\My Staff\SoftUni\04 OOP Basic\03 Inheritance\03 Inheritance\L03. Hierarchical Inheritance\bin\Debug\L03.Hierarchical_Inheritance.pdb
+C:\My Staff\SoftUni\04 OOP Basic\03 Inheritance\03 Inheritance\L03. Hierarchical Inheritance\obj\Debug\L03. Hierarchical Inheritance.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\04 OOP Basic\03 Inheritance\03 Inheritance\L03. Hierarchical Inheritance\obj\Debug\L03.Hierarchical_Inheritance.exe
+C:\My Staff\SoftUni\04 OOP Basic\03 Inheritance\03 Inheritance\L03. Hierarchical Inheritance\obj\Debug\L03.Hierarchical_Inheritance.pdb
+C:\My Staff\SoftUni\04 OOP Basic\03 Inheritance\03 Inheritance\L03. Hierarchical Inheritance\obj\Debug\L03. Hierarchical Inheritance.csprojResolveAssemblyReference.cache

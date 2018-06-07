@@ -1,0 +1,8 @@
+C:\My Staff\SoftUni\07 DB Advanced\11 Best Practices and Architecture\11 Best Practices and Architecture\Forum.Models\bin\Debug\netcoreapp2.0\Forum.Models.deps.json
+C:\My Staff\SoftUni\07 DB Advanced\11 Best Practices and Architecture\11 Best Practices and Architecture\Forum.Models\bin\Debug\netcoreapp2.0\Forum.Models.dll
+C:\My Staff\SoftUni\07 DB Advanced\11 Best Practices and Architecture\11 Best Practices and Architecture\Forum.Models\bin\Debug\netcoreapp2.0\Forum.Models.pdb
+C:\My Staff\SoftUni\07 DB Advanced\11 Best Practices and Architecture\11 Best Practices and Architecture\Forum.Models\obj\Debug\netcoreapp2.0\Forum.Models.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\07 DB Advanced\11 Best Practices and Architecture\11 Best Practices and Architecture\Forum.Models\obj\Debug\netcoreapp2.0\Forum.Models.AssemblyInfoInputs.cache
+C:\My Staff\SoftUni\07 DB Advanced\11 Best Practices and Architecture\11 Best Practices and Architecture\Forum.Models\obj\Debug\netcoreapp2.0\Forum.Models.AssemblyInfo.cs
+C:\My Staff\SoftUni\07 DB Advanced\11 Best Practices and Architecture\11 Best Practices and Architecture\Forum.Models\obj\Debug\netcoreapp2.0\Forum.Models.dll
+C:\My Staff\SoftUni\07 DB Advanced\11 Best Practices and Architecture\11 Best Practices and Architecture\Forum.Models\obj\Debug\netcoreapp2.0\Forum.Models.pdb

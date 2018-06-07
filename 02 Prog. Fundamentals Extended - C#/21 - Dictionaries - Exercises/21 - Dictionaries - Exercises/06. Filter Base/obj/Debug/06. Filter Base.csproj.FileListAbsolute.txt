@@ -1,0 +1,14 @@
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\21 - Dictionaries - Exercises\21 - Dictionaries - Exercises\06. Filter Base\bin\Debug\_06.Filter_Base.exe.config
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\21 - Dictionaries - Exercises\21 - Dictionaries - Exercises\06. Filter Base\bin\Debug\_06.Filter_Base.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\21 - Dictionaries - Exercises\21 - Dictionaries - Exercises\06. Filter Base\bin\Debug\_06.Filter_Base.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\21 - Dictionaries - Exercises\21 - Dictionaries - Exercises\06. Filter Base\obj\Debug\06. Filter Base.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\21 - Dictionaries - Exercises\21 - Dictionaries - Exercises\06. Filter Base\obj\Debug\06. Filter Base.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\21 - Dictionaries - Exercises\21 - Dictionaries - Exercises\06. Filter Base\obj\Debug\_06.Filter_Base.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\21 - Dictionaries - Exercises\21 - Dictionaries - Exercises\06. Filter Base\obj\Debug\_06.Filter_Base.pdb
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\21 - Dictionaries - Exercises\21 - Dictionaries - Exercises\06. Filter Base\bin\Debug\_06.Filter_Base.exe.config
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\21 - Dictionaries - Exercises\21 - Dictionaries - Exercises\06. Filter Base\bin\Debug\_06.Filter_Base.exe
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\21 - Dictionaries - Exercises\21 - Dictionaries - Exercises\06. Filter Base\bin\Debug\_06.Filter_Base.pdb
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\21 - Dictionaries - Exercises\21 - Dictionaries - Exercises\06. Filter Base\obj\Debug\06. Filter Base.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\21 - Dictionaries - Exercises\21 - Dictionaries - Exercises\06. Filter Base\obj\Debug\06. Filter Base.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\21 - Dictionaries - Exercises\21 - Dictionaries - Exercises\06. Filter Base\obj\Debug\_06.Filter_Base.exe
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\21 - Dictionaries - Exercises\21 - Dictionaries - Exercises\06. Filter Base\obj\Debug\_06.Filter_Base.pdb

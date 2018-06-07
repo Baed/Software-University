@@ -1,0 +1,6 @@
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\13 - Arrays - More Exercises\13 Arrays_More Exercises\02. Array_ Equal to Their Index\bin\Debug\_02.Array__Equal_to_Their_Index.exe.config
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\13 - Arrays - More Exercises\13 Arrays_More Exercises\02. Array_ Equal to Their Index\bin\Debug\_02.Array__Equal_to_Their_Index.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\13 - Arrays - More Exercises\13 Arrays_More Exercises\02. Array_ Equal to Their Index\bin\Debug\_02.Array__Equal_to_Their_Index.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\13 - Arrays - More Exercises\13 Arrays_More Exercises\02. Array_ Equal to Their Index\obj\Debug\02. Array_ Equal to Their Index.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\13 - Arrays - More Exercises\13 Arrays_More Exercises\02. Array_ Equal to Their Index\obj\Debug\_02.Array__Equal_to_Their_Index.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\13 - Arrays - More Exercises\13 Arrays_More Exercises\02. Array_ Equal to Their Index\obj\Debug\_02.Array__Equal_to_Their_Index.pdb

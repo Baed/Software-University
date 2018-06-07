@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\23 - Nested Dictionaries - Exercises\23 NestedDictionariesExerc\07.01 TakeSkipRope\bin\Debug\07.01 TakeSkipRope.exe.config
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\23 - Nested Dictionaries - Exercises\23 NestedDictionariesExerc\07.01 TakeSkipRope\bin\Debug\07.01 TakeSkipRope.exe
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\23 - Nested Dictionaries - Exercises\23 NestedDictionariesExerc\07.01 TakeSkipRope\bin\Debug\07.01 TakeSkipRope.pdb
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\23 - Nested Dictionaries - Exercises\23 NestedDictionariesExerc\07.01 TakeSkipRope\obj\Debug\07.01 TakeSkipRope.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\23 - Nested Dictionaries - Exercises\23 NestedDictionariesExerc\07.01 TakeSkipRope\obj\Debug\07.01 TakeSkipRope.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\23 - Nested Dictionaries - Exercises\23 NestedDictionariesExerc\07.01 TakeSkipRope\obj\Debug\07.01 TakeSkipRope.exe
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\23 - Nested Dictionaries - Exercises\23 NestedDictionariesExerc\07.01 TakeSkipRope\obj\Debug\07.01 TakeSkipRope.pdb

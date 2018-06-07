@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\07 - Exam 09. Jul. 2017\07 - 09. Jul. 2017\01. Poke Mon\bin\Debug\_01.Poke_Mon.exe.config
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\07 - Exam 09. Jul. 2017\07 - 09. Jul. 2017\01. Poke Mon\bin\Debug\_01.Poke_Mon.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\07 - Exam 09. Jul. 2017\07 - 09. Jul. 2017\01. Poke Mon\bin\Debug\_01.Poke_Mon.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\07 - Exam 09. Jul. 2017\07 - 09. Jul. 2017\01. Poke Mon\obj\Debug\01. Poke Mon.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\07 - Exam 09. Jul. 2017\07 - 09. Jul. 2017\01. Poke Mon\obj\Debug\01. Poke Mon.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\07 - Exam 09. Jul. 2017\07 - 09. Jul. 2017\01. Poke Mon\obj\Debug\_01.Poke_Mon.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\07 - Exam 09. Jul. 2017\07 - 09. Jul. 2017\01. Poke Mon\obj\Debug\_01.Poke_Mon.pdb

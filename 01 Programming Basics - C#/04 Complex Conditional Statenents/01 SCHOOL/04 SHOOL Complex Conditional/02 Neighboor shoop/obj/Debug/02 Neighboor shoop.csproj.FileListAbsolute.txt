@@ -1,0 +1,6 @@
+D:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\01 SCHOOL\04 SHOOL Complex Conditional\02 Neighboor shoop\bin\Debug\02 Neighboor shoop.exe.config
+D:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\01 SCHOOL\04 SHOOL Complex Conditional\02 Neighboor shoop\bin\Debug\02 Neighboor shoop.exe
+D:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\01 SCHOOL\04 SHOOL Complex Conditional\02 Neighboor shoop\bin\Debug\02 Neighboor shoop.pdb
+D:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\01 SCHOOL\04 SHOOL Complex Conditional\02 Neighboor shoop\obj\Debug\02 Neighboor shoop.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\01 SCHOOL\04 SHOOL Complex Conditional\02 Neighboor shoop\obj\Debug\02 Neighboor shoop.exe
+D:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\01 SCHOOL\04 SHOOL Complex Conditional\02 Neighboor shoop\obj\Debug\02 Neighboor shoop.pdb

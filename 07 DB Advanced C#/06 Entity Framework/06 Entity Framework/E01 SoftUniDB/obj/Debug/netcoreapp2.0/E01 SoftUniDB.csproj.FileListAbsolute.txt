@@ -1,0 +1,11 @@
+C:\My Staff\SoftUni\07 DB Advanced\06 Entity Framework\06 Entity Framework\E01 SoftUniDB\bin\Debug\netcoreapp2.0\E01 SoftUniDB.deps.json
+C:\My Staff\SoftUni\07 DB Advanced\06 Entity Framework\06 Entity Framework\E01 SoftUniDB\bin\Debug\netcoreapp2.0\E01 SoftUniDB.runtimeconfig.json
+C:\My Staff\SoftUni\07 DB Advanced\06 Entity Framework\06 Entity Framework\E01 SoftUniDB\bin\Debug\netcoreapp2.0\E01 SoftUniDB.runtimeconfig.dev.json
+C:\My Staff\SoftUni\07 DB Advanced\06 Entity Framework\06 Entity Framework\E01 SoftUniDB\bin\Debug\netcoreapp2.0\E01 SoftUniDB.dll
+C:\My Staff\SoftUni\07 DB Advanced\06 Entity Framework\06 Entity Framework\E01 SoftUniDB\bin\Debug\netcoreapp2.0\E01 SoftUniDB.pdb
+C:\My Staff\SoftUni\07 DB Advanced\06 Entity Framework\06 Entity Framework\E01 SoftUniDB\obj\Debug\netcoreapp2.0\E01 SoftUniDB.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\07 DB Advanced\06 Entity Framework\06 Entity Framework\E01 SoftUniDB\obj\Debug\netcoreapp2.0\E01 SoftUniDB.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\07 DB Advanced\06 Entity Framework\06 Entity Framework\E01 SoftUniDB\obj\Debug\netcoreapp2.0\E01 SoftUniDB.AssemblyInfoInputs.cache
+C:\My Staff\SoftUni\07 DB Advanced\06 Entity Framework\06 Entity Framework\E01 SoftUniDB\obj\Debug\netcoreapp2.0\E01 SoftUniDB.AssemblyInfo.cs
+C:\My Staff\SoftUni\07 DB Advanced\06 Entity Framework\06 Entity Framework\E01 SoftUniDB\obj\Debug\netcoreapp2.0\E01 SoftUniDB.dll
+C:\My Staff\SoftUni\07 DB Advanced\06 Entity Framework\06 Entity Framework\E01 SoftUniDB\obj\Debug\netcoreapp2.0\E01 SoftUniDB.pdb

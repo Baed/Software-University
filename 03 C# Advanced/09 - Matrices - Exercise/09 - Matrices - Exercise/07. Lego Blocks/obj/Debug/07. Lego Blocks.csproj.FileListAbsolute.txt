@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\03 C# Advanced\09 - Matrices - Exercise\09 - Matrices - Exercise\07. Lego Blocks\bin\Debug\_07.Lego_Blocks.exe.config
+C:\My Staff\SoftUni\03 C# Advanced\09 - Matrices - Exercise\09 - Matrices - Exercise\07. Lego Blocks\bin\Debug\_07.Lego_Blocks.exe
+C:\My Staff\SoftUni\03 C# Advanced\09 - Matrices - Exercise\09 - Matrices - Exercise\07. Lego Blocks\bin\Debug\_07.Lego_Blocks.pdb
+C:\My Staff\SoftUni\03 C# Advanced\09 - Matrices - Exercise\09 - Matrices - Exercise\07. Lego Blocks\obj\Debug\07. Lego Blocks.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\03 C# Advanced\09 - Matrices - Exercise\09 - Matrices - Exercise\07. Lego Blocks\obj\Debug\07. Lego Blocks.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\03 C# Advanced\09 - Matrices - Exercise\09 - Matrices - Exercise\07. Lego Blocks\obj\Debug\_07.Lego_Blocks.exe
+C:\My Staff\SoftUni\03 C# Advanced\09 - Matrices - Exercise\09 - Matrices - Exercise\07. Lego Blocks\obj\Debug\_07.Lego_Blocks.pdb

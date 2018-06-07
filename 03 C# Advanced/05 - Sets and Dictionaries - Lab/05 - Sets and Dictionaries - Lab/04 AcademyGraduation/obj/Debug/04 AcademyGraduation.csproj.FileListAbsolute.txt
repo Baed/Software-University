@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\03 C# Advanced\05 - Sets and Dictionaries - Lab\05 - Sets and Dictionaries - Lab\04 AcademyGraduation\bin\Debug\04 AcademyGraduation.exe.config
+C:\My Staff\SoftUni\03 C# Advanced\05 - Sets and Dictionaries - Lab\05 - Sets and Dictionaries - Lab\04 AcademyGraduation\bin\Debug\04 AcademyGraduation.exe
+C:\My Staff\SoftUni\03 C# Advanced\05 - Sets and Dictionaries - Lab\05 - Sets and Dictionaries - Lab\04 AcademyGraduation\bin\Debug\04 AcademyGraduation.pdb
+C:\My Staff\SoftUni\03 C# Advanced\05 - Sets and Dictionaries - Lab\05 - Sets and Dictionaries - Lab\04 AcademyGraduation\obj\Debug\04 AcademyGraduation.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\03 C# Advanced\05 - Sets and Dictionaries - Lab\05 - Sets and Dictionaries - Lab\04 AcademyGraduation\obj\Debug\04 AcademyGraduation.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\03 C# Advanced\05 - Sets and Dictionaries - Lab\05 - Sets and Dictionaries - Lab\04 AcademyGraduation\obj\Debug\04 AcademyGraduation.exe
+C:\My Staff\SoftUni\03 C# Advanced\05 - Sets and Dictionaries - Lab\05 - Sets and Dictionaries - Lab\04 AcademyGraduation\obj\Debug\04 AcademyGraduation.pdb

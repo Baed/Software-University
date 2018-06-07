@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\05 OOP Advanced\02 Generics\02 Generics\E05 Generic Count Method String\bin\Debug\E05 Generic Count Method String.exe.config
+C:\My Staff\SoftUni\05 OOP Advanced\02 Generics\02 Generics\E05 Generic Count Method String\bin\Debug\E05 Generic Count Method String.exe
+C:\My Staff\SoftUni\05 OOP Advanced\02 Generics\02 Generics\E05 Generic Count Method String\bin\Debug\E05 Generic Count Method String.pdb
+C:\My Staff\SoftUni\05 OOP Advanced\02 Generics\02 Generics\E05 Generic Count Method String\obj\Debug\E05 Generic Count Method String.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\05 OOP Advanced\02 Generics\02 Generics\E05 Generic Count Method String\obj\Debug\E05 Generic Count Method String.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\05 OOP Advanced\02 Generics\02 Generics\E05 Generic Count Method String\obj\Debug\E05 Generic Count Method String.exe
+C:\My Staff\SoftUni\05 OOP Advanced\02 Generics\02 Generics\E05 Generic Count Method String\obj\Debug\E05 Generic Count Method String.pdb

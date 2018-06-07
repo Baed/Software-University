@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\03 C# Advanced\14 - Manual String Processing - Exercise\14 - ManualStringProcessingExer\14. Letters Change Numbers\bin\Debug\_14.Letters_Change_Numbers.exe.config
+C:\My Staff\SoftUni\03 C# Advanced\14 - Manual String Processing - Exercise\14 - ManualStringProcessingExer\14. Letters Change Numbers\bin\Debug\_14.Letters_Change_Numbers.exe
+C:\My Staff\SoftUni\03 C# Advanced\14 - Manual String Processing - Exercise\14 - ManualStringProcessingExer\14. Letters Change Numbers\bin\Debug\_14.Letters_Change_Numbers.pdb
+C:\My Staff\SoftUni\03 C# Advanced\14 - Manual String Processing - Exercise\14 - ManualStringProcessingExer\14. Letters Change Numbers\obj\Debug\14. Letters Change Numbers.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\03 C# Advanced\14 - Manual String Processing - Exercise\14 - ManualStringProcessingExer\14. Letters Change Numbers\obj\Debug\14. Letters Change Numbers.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\03 C# Advanced\14 - Manual String Processing - Exercise\14 - ManualStringProcessingExer\14. Letters Change Numbers\obj\Debug\_14.Letters_Change_Numbers.exe
+C:\My Staff\SoftUni\03 C# Advanced\14 - Manual String Processing - Exercise\14 - ManualStringProcessingExer\14. Letters Change Numbers\obj\Debug\_14.Letters_Change_Numbers.pdb

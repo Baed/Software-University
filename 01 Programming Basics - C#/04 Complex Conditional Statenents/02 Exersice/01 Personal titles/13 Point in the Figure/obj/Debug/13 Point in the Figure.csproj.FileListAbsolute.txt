@@ -1,0 +1,7 @@
+D:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\02 Exersice\01 Personal titles\13 Point in the Figure\bin\Debug\13 Point in the Figure.exe.config
+D:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\02 Exersice\01 Personal titles\13 Point in the Figure\bin\Debug\13 Point in the Figure.exe
+D:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\02 Exersice\01 Personal titles\13 Point in the Figure\bin\Debug\13 Point in the Figure.pdb
+D:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\02 Exersice\01 Personal titles\13 Point in the Figure\obj\Debug\13 Point in the Figure.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\02 Exersice\01 Personal titles\13 Point in the Figure\obj\Debug\13 Point in the Figure.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\02 Exersice\01 Personal titles\13 Point in the Figure\obj\Debug\13 Point in the Figure.exe
+D:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\02 Exersice\01 Personal titles\13 Point in the Figure\obj\Debug\13 Point in the Figure.pdb

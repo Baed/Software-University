@@ -1,0 +1,16 @@
+C:\My Staff\SoftUni\07 DB Advanced\09 Advanced Relations & Aggregation\09 Advanced Relations\P01_BillsPaymentSystem.App\bin\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.dll
+C:\My Staff\SoftUni\07 DB Advanced\09 Advanced Relations & Aggregation\09 Advanced Relations\P01_BillsPaymentSystem.App\bin\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.Models.dll
+C:\My Staff\SoftUni\07 DB Advanced\09 Advanced Relations & Aggregation\09 Advanced Relations\P01_BillsPaymentSystem.App\obj\Debug\netcoreapp2.0\P01_BillsPaymentSystem.App.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\07 DB Advanced\09 Advanced Relations & Aggregation\09 Advanced Relations\P01_BillsPaymentSystem.App\obj\Debug\netcoreapp2.0\P01_BillsPaymentSystem.App.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\07 DB Advanced\09 Advanced Relations & Aggregation\09 Advanced Relations\P01_BillsPaymentSystem.App\obj\Debug\netcoreapp2.0\P01_BillsPaymentSystem.App.AssemblyInfoInputs.cache
+C:\My Staff\SoftUni\07 DB Advanced\09 Advanced Relations & Aggregation\09 Advanced Relations\P01_BillsPaymentSystem.App\obj\Debug\netcoreapp2.0\P01_BillsPaymentSystem.App.AssemblyInfo.cs
+C:\My Staff\SoftUni\07 DB Advanced\09 Advanced Relations & Aggregation\09 Advanced Relations\P01_BillsPaymentSystem.App\bin\Debug\netcoreapp2.0\P01_BillsPaymentSystem.App.deps.json
+C:\My Staff\SoftUni\07 DB Advanced\09 Advanced Relations & Aggregation\09 Advanced Relations\P01_BillsPaymentSystem.App\bin\Debug\netcoreapp2.0\P01_BillsPaymentSystem.App.runtimeconfig.json
+C:\My Staff\SoftUni\07 DB Advanced\09 Advanced Relations & Aggregation\09 Advanced Relations\P01_BillsPaymentSystem.App\bin\Debug\netcoreapp2.0\P01_BillsPaymentSystem.App.runtimeconfig.dev.json
+C:\My Staff\SoftUni\07 DB Advanced\09 Advanced Relations & Aggregation\09 Advanced Relations\P01_BillsPaymentSystem.App\bin\Debug\netcoreapp2.0\P01_BillsPaymentSystem.App.dll
+C:\My Staff\SoftUni\07 DB Advanced\09 Advanced Relations & Aggregation\09 Advanced Relations\P01_BillsPaymentSystem.App\bin\Debug\netcoreapp2.0\P01_BillsPaymentSystem.App.pdb
+C:\My Staff\SoftUni\07 DB Advanced\09 Advanced Relations & Aggregation\09 Advanced Relations\P01_BillsPaymentSystem.App\bin\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.Models.pdb
+C:\My Staff\SoftUni\07 DB Advanced\09 Advanced Relations & Aggregation\09 Advanced Relations\P01_BillsPaymentSystem.App\bin\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.pdb
+C:\My Staff\SoftUni\07 DB Advanced\09 Advanced Relations & Aggregation\09 Advanced Relations\P01_BillsPaymentSystem.App\obj\Debug\netcoreapp2.0\P01_BillsPaymentSystem.App.csproj.CopyComplete
+C:\My Staff\SoftUni\07 DB Advanced\09 Advanced Relations & Aggregation\09 Advanced Relations\P01_BillsPaymentSystem.App\obj\Debug\netcoreapp2.0\P01_BillsPaymentSystem.App.dll
+C:\My Staff\SoftUni\07 DB Advanced\09 Advanced Relations & Aggregation\09 Advanced Relations\P01_BillsPaymentSystem.App\obj\Debug\netcoreapp2.0\P01_BillsPaymentSystem.App.pdb

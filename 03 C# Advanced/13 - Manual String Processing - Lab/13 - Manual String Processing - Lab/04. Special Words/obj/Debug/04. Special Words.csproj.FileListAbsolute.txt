@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\03 C# Advanced\13 - Manual String Processing - Lab\13 - Manual String Processing - Lab\04. Special Words\bin\Debug\_04.Special_Words.exe.config
+C:\My Staff\SoftUni\03 C# Advanced\13 - Manual String Processing - Lab\13 - Manual String Processing - Lab\04. Special Words\bin\Debug\_04.Special_Words.exe
+C:\My Staff\SoftUni\03 C# Advanced\13 - Manual String Processing - Lab\13 - Manual String Processing - Lab\04. Special Words\bin\Debug\_04.Special_Words.pdb
+C:\My Staff\SoftUni\03 C# Advanced\13 - Manual String Processing - Lab\13 - Manual String Processing - Lab\04. Special Words\obj\Debug\04. Special Words.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\03 C# Advanced\13 - Manual String Processing - Lab\13 - Manual String Processing - Lab\04. Special Words\obj\Debug\04. Special Words.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\03 C# Advanced\13 - Manual String Processing - Lab\13 - Manual String Processing - Lab\04. Special Words\obj\Debug\_04.Special_Words.exe
+C:\My Staff\SoftUni\03 C# Advanced\13 - Manual String Processing - Lab\13 - Manual String Processing - Lab\04. Special Words\obj\Debug\_04.Special_Words.pdb

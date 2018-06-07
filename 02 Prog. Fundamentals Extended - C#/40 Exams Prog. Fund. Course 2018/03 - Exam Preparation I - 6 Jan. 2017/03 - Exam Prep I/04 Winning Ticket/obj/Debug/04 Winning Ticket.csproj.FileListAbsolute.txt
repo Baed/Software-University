@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\03 - Exam Preparation I\03 - Exam Prep I\04 Winning Ticket\obj\Debug\04 Winning Ticket.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\03 - Exam Preparation I\03 - Exam Prep I\04 Winning Ticket\obj\Debug\04 Winning Ticket.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\03 - Exam Preparation I\03 - Exam Prep I\04 Winning Ticket\bin\Debug\04 Winning Ticket.exe.config
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\03 - Exam Preparation I\03 - Exam Prep I\04 Winning Ticket\bin\Debug\04 Winning Ticket.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\03 - Exam Preparation I\03 - Exam Prep I\04 Winning Ticket\bin\Debug\04 Winning Ticket.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\03 - Exam Preparation I\03 - Exam Prep I\04 Winning Ticket\obj\Debug\04 Winning Ticket.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\03 - Exam Preparation I\03 - Exam Prep I\04 Winning Ticket\obj\Debug\04 Winning Ticket.pdb

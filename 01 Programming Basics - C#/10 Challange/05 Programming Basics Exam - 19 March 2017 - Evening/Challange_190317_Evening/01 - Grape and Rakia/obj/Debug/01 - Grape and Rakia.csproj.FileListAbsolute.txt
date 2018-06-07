@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\August C# Basics\Challange\05 Programming Basics Exam - 19 March 2017 - Evening\Challange_190317_Evening\01 - Grape and Rakia\bin\Debug\01 - Grape and Rakia.exe.config
+C:\My Staff\SoftUni\August C# Basics\Challange\05 Programming Basics Exam - 19 March 2017 - Evening\Challange_190317_Evening\01 - Grape and Rakia\bin\Debug\01 - Grape and Rakia.exe
+C:\My Staff\SoftUni\August C# Basics\Challange\05 Programming Basics Exam - 19 March 2017 - Evening\Challange_190317_Evening\01 - Grape and Rakia\bin\Debug\01 - Grape and Rakia.pdb
+C:\My Staff\SoftUni\August C# Basics\Challange\05 Programming Basics Exam - 19 March 2017 - Evening\Challange_190317_Evening\01 - Grape and Rakia\obj\Debug\01 - Grape and Rakia.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\August C# Basics\Challange\05 Programming Basics Exam - 19 March 2017 - Evening\Challange_190317_Evening\01 - Grape and Rakia\obj\Debug\01 - Grape and Rakia.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\August C# Basics\Challange\05 Programming Basics Exam - 19 March 2017 - Evening\Challange_190317_Evening\01 - Grape and Rakia\obj\Debug\01 - Grape and Rakia.exe
+C:\My Staff\SoftUni\August C# Basics\Challange\05 Programming Basics Exam - 19 March 2017 - Evening\Challange_190317_Evening\01 - Grape and Rakia\obj\Debug\01 - Grape and Rakia.pdb

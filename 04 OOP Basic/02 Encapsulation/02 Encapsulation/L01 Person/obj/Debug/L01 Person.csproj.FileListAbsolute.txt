@@ -1,0 +1,6 @@
+C:\My Staff\SoftUni\04 OOP Basic\02 Encapsulation\02 Encapsulation\L01 Person\bin\Debug\L01 Person.exe.config
+C:\My Staff\SoftUni\04 OOP Basic\02 Encapsulation\02 Encapsulation\L01 Person\bin\Debug\L01 Person.exe
+C:\My Staff\SoftUni\04 OOP Basic\02 Encapsulation\02 Encapsulation\L01 Person\bin\Debug\L01 Person.pdb
+C:\My Staff\SoftUni\04 OOP Basic\02 Encapsulation\02 Encapsulation\L01 Person\obj\Debug\L01 Person.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\04 OOP Basic\02 Encapsulation\02 Encapsulation\L01 Person\obj\Debug\L01 Person.exe
+C:\My Staff\SoftUni\04 OOP Basic\02 Encapsulation\02 Encapsulation\L01 Person\obj\Debug\L01 Person.pdb

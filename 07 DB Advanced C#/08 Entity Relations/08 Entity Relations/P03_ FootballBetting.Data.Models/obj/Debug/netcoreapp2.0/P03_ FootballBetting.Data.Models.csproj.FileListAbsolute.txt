@@ -1,0 +1,9 @@
+C:\My Staff\SoftUni\07 DB Advanced\08 Entity Relations\08 Entity Relations\P03_ FootballBetting.Data.Models\bin\Debug\netcoreapp2.0\P03_ FootballBetting.Data.Models.deps.json
+C:\My Staff\SoftUni\07 DB Advanced\08 Entity Relations\08 Entity Relations\P03_ FootballBetting.Data.Models\bin\Debug\netcoreapp2.0\P03_ FootballBetting.Data.Models.dll
+C:\My Staff\SoftUni\07 DB Advanced\08 Entity Relations\08 Entity Relations\P03_ FootballBetting.Data.Models\bin\Debug\netcoreapp2.0\P03_ FootballBetting.Data.Models.pdb
+C:\My Staff\SoftUni\07 DB Advanced\08 Entity Relations\08 Entity Relations\P03_ FootballBetting.Data.Models\obj\Debug\netcoreapp2.0\P03_ FootballBetting.Data.Models.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\07 DB Advanced\08 Entity Relations\08 Entity Relations\P03_ FootballBetting.Data.Models\obj\Debug\netcoreapp2.0\P03_ FootballBetting.Data.Models.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\07 DB Advanced\08 Entity Relations\08 Entity Relations\P03_ FootballBetting.Data.Models\obj\Debug\netcoreapp2.0\P03_ FootballBetting.Data.Models.AssemblyInfoInputs.cache
+C:\My Staff\SoftUni\07 DB Advanced\08 Entity Relations\08 Entity Relations\P03_ FootballBetting.Data.Models\obj\Debug\netcoreapp2.0\P03_ FootballBetting.Data.Models.AssemblyInfo.cs
+C:\My Staff\SoftUni\07 DB Advanced\08 Entity Relations\08 Entity Relations\P03_ FootballBetting.Data.Models\obj\Debug\netcoreapp2.0\P03_ FootballBetting.Data.Models.dll
+C:\My Staff\SoftUni\07 DB Advanced\08 Entity Relations\08 Entity Relations\P03_ FootballBetting.Data.Models\obj\Debug\netcoreapp2.0\P03_ FootballBetting.Data.Models.pdb

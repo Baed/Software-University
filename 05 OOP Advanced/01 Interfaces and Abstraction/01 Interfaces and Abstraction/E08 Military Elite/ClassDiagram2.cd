@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="E08_Military_Elite.StartUp" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>StartUp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="E08_Military_Elite.Commando" Collapsed="true">
+    <Position X="11" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>Entities\Commando.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="E08_Military_Elite.Engineer" Collapsed="true">
+    <Position X="13" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Engineer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="E08_Military_Elite.LeutenantGeneral" Collapsed="true">
+    <Position X="15.25" Y="4.25" Width="1.5" />
+    <InheritanceLine Type="E08_Military_Elite.Private" ManuallyRouted="true" FixedFromPoint="true">
+      <Path>
+        <Point X="15" Y="3.562" />
+        <Point X="16" Y="3.562" />
+        <Point X="16" Y="4.25" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\LeutenantGeneral.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="E08_Military_Elite.Mission" Collapsed="true">
+    <Position X="9.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Entities\Mission.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="E08_Military_Elite.Private" Collapsed="true">
+    <Position X="13.5" Y="3.25" Width="1.5" />
+    <InheritanceLine Type="E08_Military_Elite.Soldier" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="12.75" Y="2.312" />
+        <Point X="14.062" Y="2.312" />
+        <Point X="14.062" Y="3.25" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Private.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="E08_Military_Elite.Repair" Collapsed="true">
+    <Position X="9.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Repair.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="E08_Military_Elite.Soldier" Collapsed="true">
+    <Position X="11.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Entities\Soldier.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="E08_Military_Elite.SpecialisedSoldier" Collapsed="true">
+    <Position X="12" Y="4.25" Width="1.5" />
+    <InheritanceLine Type="E08_Military_Elite.Private" FixedFromPoint="true">
+      <Path>
+        <Point X="13.5" Y="3.562" />
+        <Point X="12.75" Y="3.562" />
+        <Point X="12.75" Y="4.25" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\SpecialisedSoldier.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="E08_Military_Elite.Spy" Collapsed="true">
+    <Position X="9.75" Y="3.25" Width="1.5" />
+    <InheritanceLine Type="E08_Military_Elite.Soldier" ManuallyRouted="true" FixedFromPoint="true">
+      <Path>
+        <Point X="11.25" Y="2.25" />
+        <Point X="11.25" Y="2.247" />
+        <Point X="10.15" Y="2.247" />
+        <Point X="10.15" Y="3.25" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Spy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="E08_Military_Elite.ISoldier">
+    <Position X="3.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Interfaces\ISoldier.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="E08_Military_Elite.ISpy">
+    <Position X="2" Y="2.5" Width="1.5" />
+    <InheritanceLine Type="E08_Military_Elite.ISoldier" FixedFromPoint="true">
+      <Path>
+        <Point X="3.25" Y="1.5" />
+        <Point X="2.625" Y="1.5" />
+        <Point X="2.625" Y="2.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\Spy\ISpy.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="E08_Military_Elite.ISpecialisedSoldier">
+    <Position X="4.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\Private\ISpecialisedSoldier.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="E08_Military_Elite.ILeutenantGeneral">
+    <Position X="7.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\Private\ILeutenantGeneral.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="E08_Military_Elite.IEngineer">
+    <Position X="5.75" Y="5.75" Width="1.5" />
+    <InheritanceLine Type="E08_Military_Elite.ISpecialisedSoldier" ManuallyRouted="true" FixedFromPoint="true">
+      <Path>
+        <Point X="5.75" Y="4.812" />
+        <Point X="6.5" Y="4.812" />
+        <Point X="6.5" Y="5.75" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\Private\Specialised\IEngineer.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="E08_Military_Elite.ICommando">
+    <Position X="2.75" Y="5.75" Width="1.5" />
+    <InheritanceLine Type="E08_Military_Elite.ISpecialisedSoldier" FixedFromPoint="true">
+      <Path>
+        <Point X="4.25" Y="4.812" />
+        <Point X="3.5" Y="4.812" />
+        <Point X="3.5" Y="5.75" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>Interfaces\Private\Specialised\ICommando.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="E08_Military_Elite.IMission">
+    <Position X="0.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Interfaces\IMission.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="E08_Military_Elite.IRepair">
+    <Position X="0.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IRepair.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="E08_Military_Elite.IPrivate" Collapsed="true">
+    <Position X="5.75" Y="2.75" Width="1.5" />
+    <InheritanceLine Type="E08_Military_Elite.ISoldier" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="4.75" Y="1.438" />
+        <Point X="6.438" Y="1.438" />
+        <Point X="6.438" Y="2.75" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\Private\IPrivate.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

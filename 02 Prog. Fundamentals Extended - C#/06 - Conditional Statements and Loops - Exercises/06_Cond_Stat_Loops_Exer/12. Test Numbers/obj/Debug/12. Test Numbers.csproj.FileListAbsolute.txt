@@ -1,0 +1,6 @@
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\06 - Conditional Statements and Loops - Exercises\06_Cond_Stat_Loops_Exer\12. Test Numbers\bin\Debug\_12.Test_Numbers.exe.config
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\06 - Conditional Statements and Loops - Exercises\06_Cond_Stat_Loops_Exer\12. Test Numbers\bin\Debug\_12.Test_Numbers.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\06 - Conditional Statements and Loops - Exercises\06_Cond_Stat_Loops_Exer\12. Test Numbers\bin\Debug\_12.Test_Numbers.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\06 - Conditional Statements and Loops - Exercises\06_Cond_Stat_Loops_Exer\12. Test Numbers\obj\Debug\12. Test Numbers.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\06 - Conditional Statements and Loops - Exercises\06_Cond_Stat_Loops_Exer\12. Test Numbers\obj\Debug\_12.Test_Numbers.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\06 - Conditional Statements and Loops - Exercises\06_Cond_Stat_Loops_Exer\12. Test Numbers\obj\Debug\_12.Test_Numbers.pdb

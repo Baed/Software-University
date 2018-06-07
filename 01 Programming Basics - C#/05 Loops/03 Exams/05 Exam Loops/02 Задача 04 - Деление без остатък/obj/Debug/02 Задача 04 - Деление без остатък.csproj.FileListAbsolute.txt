@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\August C# Basics\UROK 5 Loops\03 Exams\05 Exam Loops\02 Задача 04 - Деление без остатък\bin\Debug\02 Задача 04 - Деление без остатък.exe.config
+C:\My Staff\SoftUni\August C# Basics\UROK 5 Loops\03 Exams\05 Exam Loops\02 Задача 04 - Деление без остатък\bin\Debug\02 Задача 04 - Деление без остатък.exe
+C:\My Staff\SoftUni\August C# Basics\UROK 5 Loops\03 Exams\05 Exam Loops\02 Задача 04 - Деление без остатък\bin\Debug\02 Задача 04 - Деление без остатък.pdb
+C:\My Staff\SoftUni\August C# Basics\UROK 5 Loops\03 Exams\05 Exam Loops\02 Задача 04 - Деление без остатък\obj\Debug\02 Задача 04 - Деление без остатък.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\August C# Basics\UROK 5 Loops\03 Exams\05 Exam Loops\02 Задача 04 - Деление без остатък\obj\Debug\02 Задача 04 - Деление без остатък.exe
+C:\My Staff\SoftUni\August C# Basics\UROK 5 Loops\03 Exams\05 Exam Loops\02 Задача 04 - Деление без остатък\obj\Debug\02 Задача 04 - Деление без остатък.pdb
+C:\My Staff\SoftUni\August C# Basics\UROK 5 Loops\03 Exams\05 Exam Loops\02 Задача 04 - Деление без остатък\obj\Debug\02 Задача 04 - Деление без остатък.csprojResolveAssemblyReference.cache

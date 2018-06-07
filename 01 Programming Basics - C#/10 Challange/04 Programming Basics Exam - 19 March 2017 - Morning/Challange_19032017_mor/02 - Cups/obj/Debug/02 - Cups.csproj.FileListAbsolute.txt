@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\August C# Basics\Challange\04 Programming Basics Exam - 19 March 2017 - Morning\Challange_19032017_mor\02 - Cups\bin\Debug\02 - Cups.exe.config
+C:\My Staff\SoftUni\August C# Basics\Challange\04 Programming Basics Exam - 19 March 2017 - Morning\Challange_19032017_mor\02 - Cups\bin\Debug\02 - Cups.exe
+C:\My Staff\SoftUni\August C# Basics\Challange\04 Programming Basics Exam - 19 March 2017 - Morning\Challange_19032017_mor\02 - Cups\bin\Debug\02 - Cups.pdb
+C:\My Staff\SoftUni\August C# Basics\Challange\04 Programming Basics Exam - 19 March 2017 - Morning\Challange_19032017_mor\02 - Cups\obj\Debug\02 - Cups.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\August C# Basics\Challange\04 Programming Basics Exam - 19 March 2017 - Morning\Challange_19032017_mor\02 - Cups\obj\Debug\02 - Cups.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\August C# Basics\Challange\04 Programming Basics Exam - 19 March 2017 - Morning\Challange_19032017_mor\02 - Cups\obj\Debug\02 - Cups.exe
+C:\My Staff\SoftUni\August C# Basics\Challange\04 Programming Basics Exam - 19 March 2017 - Morning\Challange_19032017_mor\02 - Cups\obj\Debug\02 - Cups.pdb

@@ -1,0 +1,6 @@
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\08 - Data Types Numeral Types and Type Conversion\08-Data-Type-Lab\04. Transport\obj\Debug\04. Transport.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\08 - Data Types Numeral Types and Type Conversion\08-Data-Type-Lab\04. Transport\bin\Debug\_04.Transport.exe.config
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\08 - Data Types Numeral Types and Type Conversion\08-Data-Type-Lab\04. Transport\bin\Debug\_04.Transport.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\08 - Data Types Numeral Types and Type Conversion\08-Data-Type-Lab\04. Transport\bin\Debug\_04.Transport.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\08 - Data Types Numeral Types and Type Conversion\08-Data-Type-Lab\04. Transport\obj\Debug\_04.Transport.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\08 - Data Types Numeral Types and Type Conversion\08-Data-Type-Lab\04. Transport\obj\Debug\_04.Transport.pdb

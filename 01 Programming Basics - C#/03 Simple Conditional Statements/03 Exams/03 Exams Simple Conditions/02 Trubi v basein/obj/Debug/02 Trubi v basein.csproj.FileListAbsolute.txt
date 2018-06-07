@@ -1,0 +1,6 @@
+D:\SOFTUNI\Programming basic c# august 2017\UROK 3 Simple Conditional Statements\03 Exams\03 Exams Simple Conditions\02 Trubi v basein\bin\Debug\02 Trubi v basein.exe.config
+D:\SOFTUNI\Programming basic c# august 2017\UROK 3 Simple Conditional Statements\03 Exams\03 Exams Simple Conditions\02 Trubi v basein\bin\Debug\02 Trubi v basein.exe
+D:\SOFTUNI\Programming basic c# august 2017\UROK 3 Simple Conditional Statements\03 Exams\03 Exams Simple Conditions\02 Trubi v basein\bin\Debug\02 Trubi v basein.pdb
+D:\SOFTUNI\Programming basic c# august 2017\UROK 3 Simple Conditional Statements\03 Exams\03 Exams Simple Conditions\02 Trubi v basein\obj\Debug\02 Trubi v basein.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\Programming basic c# august 2017\UROK 3 Simple Conditional Statements\03 Exams\03 Exams Simple Conditions\02 Trubi v basein\obj\Debug\02 Trubi v basein.exe
+D:\SOFTUNI\Programming basic c# august 2017\UROK 3 Simple Conditional Statements\03 Exams\03 Exams Simple Conditions\02 Trubi v basein\obj\Debug\02 Trubi v basein.pdb

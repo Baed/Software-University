@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\03 C# Advanced\14 - Manual String Processing - Exercise\14 - ManualStringProcessingExer\07. Sum big numbers\bin\Debug\_07.Sum_big_numbers.exe.config
+C:\My Staff\SoftUni\03 C# Advanced\14 - Manual String Processing - Exercise\14 - ManualStringProcessingExer\07. Sum big numbers\bin\Debug\_07.Sum_big_numbers.exe
+C:\My Staff\SoftUni\03 C# Advanced\14 - Manual String Processing - Exercise\14 - ManualStringProcessingExer\07. Sum big numbers\bin\Debug\_07.Sum_big_numbers.pdb
+C:\My Staff\SoftUni\03 C# Advanced\14 - Manual String Processing - Exercise\14 - ManualStringProcessingExer\07. Sum big numbers\obj\Debug\07. Sum big numbers.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\03 C# Advanced\14 - Manual String Processing - Exercise\14 - ManualStringProcessingExer\07. Sum big numbers\obj\Debug\07. Sum big numbers.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\03 C# Advanced\14 - Manual String Processing - Exercise\14 - ManualStringProcessingExer\07. Sum big numbers\obj\Debug\_07.Sum_big_numbers.exe
+C:\My Staff\SoftUni\03 C# Advanced\14 - Manual String Processing - Exercise\14 - ManualStringProcessingExer\07. Sum big numbers\obj\Debug\_07.Sum_big_numbers.pdb

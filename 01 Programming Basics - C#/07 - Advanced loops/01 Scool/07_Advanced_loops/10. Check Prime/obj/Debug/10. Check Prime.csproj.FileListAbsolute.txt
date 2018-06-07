@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\August C# Basics\UROK 7 - Advanced loops\01 Scool\07_Advanced_loops\10. Check Prime\bin\Debug\_10.Check_Prime.exe.config
+C:\My Staff\SoftUni\August C# Basics\UROK 7 - Advanced loops\01 Scool\07_Advanced_loops\10. Check Prime\bin\Debug\_10.Check_Prime.exe
+C:\My Staff\SoftUni\August C# Basics\UROK 7 - Advanced loops\01 Scool\07_Advanced_loops\10. Check Prime\bin\Debug\_10.Check_Prime.pdb
+C:\My Staff\SoftUni\August C# Basics\UROK 7 - Advanced loops\01 Scool\07_Advanced_loops\10. Check Prime\obj\Debug\10. Check Prime.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\August C# Basics\UROK 7 - Advanced loops\01 Scool\07_Advanced_loops\10. Check Prime\obj\Debug\10. Check Prime.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\August C# Basics\UROK 7 - Advanced loops\01 Scool\07_Advanced_loops\10. Check Prime\obj\Debug\_10.Check_Prime.exe
+C:\My Staff\SoftUni\August C# Basics\UROK 7 - Advanced loops\01 Scool\07_Advanced_loops\10. Check Prime\obj\Debug\_10.Check_Prime.pdb

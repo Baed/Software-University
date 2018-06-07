@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\27 - Objects and Simple Classes\27 Objects and Simple Classes\03. Big Factorial\bin\Debug\_03.Big_Factorial.exe.config
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\27 - Objects and Simple Classes\27 Objects and Simple Classes\03. Big Factorial\bin\Debug\_03.Big_Factorial.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\27 - Objects and Simple Classes\27 Objects and Simple Classes\03. Big Factorial\bin\Debug\_03.Big_Factorial.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\27 - Objects and Simple Classes\27 Objects and Simple Classes\03. Big Factorial\obj\Debug\03. Big Factorial.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\27 - Objects and Simple Classes\27 Objects and Simple Classes\03. Big Factorial\obj\Debug\03. Big Factorial.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\27 - Objects and Simple Classes\27 Objects and Simple Classes\03. Big Factorial\obj\Debug\_03.Big_Factorial.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\27 - Objects and Simple Classes\27 Objects and Simple Classes\03. Big Factorial\obj\Debug\_03.Big_Factorial.pdb

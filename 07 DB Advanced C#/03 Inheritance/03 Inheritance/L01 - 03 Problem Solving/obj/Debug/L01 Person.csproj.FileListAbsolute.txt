@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\07 DB Advanced\03 Inheritance\03 Inheritance\L01 - 03 Problem Solving\bin\Debug\L01 - 03 Problem Solving.exe.config
+C:\My Staff\SoftUni\07 DB Advanced\03 Inheritance\03 Inheritance\L01 - 03 Problem Solving\bin\Debug\L01 - 03 Problem Solving.exe
+C:\My Staff\SoftUni\07 DB Advanced\03 Inheritance\03 Inheritance\L01 - 03 Problem Solving\bin\Debug\L01 - 03 Problem Solving.pdb
+C:\My Staff\SoftUni\07 DB Advanced\03 Inheritance\03 Inheritance\L01 - 03 Problem Solving\obj\Debug\L01 Person.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\07 DB Advanced\03 Inheritance\03 Inheritance\L01 - 03 Problem Solving\obj\Debug\L01 Person.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\07 DB Advanced\03 Inheritance\03 Inheritance\L01 - 03 Problem Solving\obj\Debug\L01 - 03 Problem Solving.exe
+C:\My Staff\SoftUni\07 DB Advanced\03 Inheritance\03 Inheritance\L01 - 03 Problem Solving\obj\Debug\L01 - 03 Problem Solving.pdb

@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\03 C# Advanced\21 - Built-in Query methods - LINQ - Exercise\21 - LINQ - Exercise\09. Students Enrolled in 2014 or 2015\bin\Debug\_09.Students_Enrolled_in_2014_or_2015.exe.config
+C:\My Staff\SoftUni\03 C# Advanced\21 - Built-in Query methods - LINQ - Exercise\21 - LINQ - Exercise\09. Students Enrolled in 2014 or 2015\bin\Debug\_09.Students_Enrolled_in_2014_or_2015.exe
+C:\My Staff\SoftUni\03 C# Advanced\21 - Built-in Query methods - LINQ - Exercise\21 - LINQ - Exercise\09. Students Enrolled in 2014 or 2015\bin\Debug\_09.Students_Enrolled_in_2014_or_2015.pdb
+C:\My Staff\SoftUni\03 C# Advanced\21 - Built-in Query methods - LINQ - Exercise\21 - LINQ - Exercise\09. Students Enrolled in 2014 or 2015\obj\Debug\09. Students Enrolled in 2014 or 2015.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\03 C# Advanced\21 - Built-in Query methods - LINQ - Exercise\21 - LINQ - Exercise\09. Students Enrolled in 2014 or 2015\obj\Debug\09. Students Enrolled in 2014 or 2015.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\03 C# Advanced\21 - Built-in Query methods - LINQ - Exercise\21 - LINQ - Exercise\09. Students Enrolled in 2014 or 2015\obj\Debug\_09.Students_Enrolled_in_2014_or_2015.exe
+C:\My Staff\SoftUni\03 C# Advanced\21 - Built-in Query methods - LINQ - Exercise\21 - LINQ - Exercise\09. Students Enrolled in 2014 or 2015\obj\Debug\_09.Students_Enrolled_in_2014_or_2015.pdb

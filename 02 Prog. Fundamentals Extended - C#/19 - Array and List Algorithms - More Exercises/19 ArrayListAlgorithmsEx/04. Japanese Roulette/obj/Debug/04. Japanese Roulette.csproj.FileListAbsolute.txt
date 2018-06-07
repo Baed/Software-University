@@ -1,0 +1,6 @@
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\19 - Array and List Algorithms - More Exercises\19 ArrayListAlgorithmsEx\04. Japanese Roulette\bin\Debug\_04.Japanese_Roulette.exe.config
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\19 - Array and List Algorithms - More Exercises\19 ArrayListAlgorithmsEx\04. Japanese Roulette\bin\Debug\_04.Japanese_Roulette.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\19 - Array and List Algorithms - More Exercises\19 ArrayListAlgorithmsEx\04. Japanese Roulette\bin\Debug\_04.Japanese_Roulette.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\19 - Array and List Algorithms - More Exercises\19 ArrayListAlgorithmsEx\04. Japanese Roulette\obj\Debug\04. Japanese Roulette.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\19 - Array and List Algorithms - More Exercises\19 ArrayListAlgorithmsEx\04. Japanese Roulette\obj\Debug\_04.Japanese_Roulette.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\19 - Array and List Algorithms - More Exercises\19 ArrayListAlgorithmsEx\04. Japanese Roulette\obj\Debug\_04.Japanese_Roulette.pdb

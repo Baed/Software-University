@@ -1,0 +1,6 @@
+C:\My Staff\SoftUni\03 C# Advanced\22 - Exam preparation I\22 - Exam  Preparation - 19 June 2016\04. Cubic Assault\bin\Debug\_04.Cubic_Assault.exe.config
+C:\My Staff\SoftUni\03 C# Advanced\22 - Exam preparation I\22 - Exam  Preparation - 19 June 2016\04. Cubic Assault\bin\Debug\_04.Cubic_Assault.exe
+C:\My Staff\SoftUni\03 C# Advanced\22 - Exam preparation I\22 - Exam  Preparation - 19 June 2016\04. Cubic Assault\bin\Debug\_04.Cubic_Assault.pdb
+C:\My Staff\SoftUni\03 C# Advanced\22 - Exam preparation I\22 - Exam  Preparation - 19 June 2016\04. Cubic Assault\obj\Debug\04. Cubic Assault.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\03 C# Advanced\22 - Exam preparation I\22 - Exam  Preparation - 19 June 2016\04. Cubic Assault\obj\Debug\_04.Cubic_Assault.exe
+C:\My Staff\SoftUni\03 C# Advanced\22 - Exam preparation I\22 - Exam  Preparation - 19 June 2016\04. Cubic Assault\obj\Debug\_04.Cubic_Assault.pdb

@@ -1,0 +1,6 @@
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\11 - Exam Extended  04 Sept 2017\11 - 04 Sept 2017\04. CODE Phoenix\bin\Debug\_04.CODE_Phoenix.exe.config
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\11 - Exam Extended  04 Sept 2017\11 - 04 Sept 2017\04. CODE Phoenix\bin\Debug\_04.CODE_Phoenix.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\11 - Exam Extended  04 Sept 2017\11 - 04 Sept 2017\04. CODE Phoenix\bin\Debug\_04.CODE_Phoenix.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\11 - Exam Extended  04 Sept 2017\11 - 04 Sept 2017\04. CODE Phoenix\obj\Debug\04. CODE Phoenix.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\11 - Exam Extended  04 Sept 2017\11 - 04 Sept 2017\04. CODE Phoenix\obj\Debug\_04.CODE_Phoenix.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\11 - Exam Extended  04 Sept 2017\11 - 04 Sept 2017\04. CODE Phoenix\obj\Debug\_04.CODE_Phoenix.pdb

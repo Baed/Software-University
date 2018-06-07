@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\05 OOP Advanced\05 Reflection\05 Reflection\E02 Black Box Integer\bin\Debug\E02 Black Box Integer.exe.config
+C:\My Staff\SoftUni\05 OOP Advanced\05 Reflection\05 Reflection\E02 Black Box Integer\bin\Debug\E02 Black Box Integer.exe
+C:\My Staff\SoftUni\05 OOP Advanced\05 Reflection\05 Reflection\E02 Black Box Integer\bin\Debug\E02 Black Box Integer.pdb
+C:\My Staff\SoftUni\05 OOP Advanced\05 Reflection\05 Reflection\E02 Black Box Integer\obj\Debug\E02 Black Box Integer.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\05 OOP Advanced\05 Reflection\05 Reflection\E02 Black Box Integer\obj\Debug\E02 Black Box Integer.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\05 OOP Advanced\05 Reflection\05 Reflection\E02 Black Box Integer\obj\Debug\E02 Black Box Integer.exe
+C:\My Staff\SoftUni\05 OOP Advanced\05 Reflection\05 Reflection\E02 Black Box Integer\obj\Debug\E02 Black Box Integer.pdb

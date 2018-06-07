@@ -1,0 +1,11 @@
+G:\SoftUni\SoftUni Work\SoftUniSVN\OOP Advaned Exam\C# Author Solution\RecyclingStation\RecyclingStation.Tests\bin\Debug\RecyclingStation.Tests.dll
+G:\SoftUni\SoftUni Work\SoftUniSVN\OOP Advaned Exam\C# Author Solution\RecyclingStation\RecyclingStation.Tests\bin\Debug\RecyclingStation.Tests.pdb
+G:\SoftUni\SoftUni Work\SoftUniSVN\OOP Advaned Exam\C# Author Solution\RecyclingStation\RecyclingStation.Tests\bin\Debug\Castle.Core.dll
+G:\SoftUni\SoftUni Work\SoftUniSVN\OOP Advaned Exam\C# Author Solution\RecyclingStation\RecyclingStation.Tests\bin\Debug\Moq.dll
+G:\SoftUni\SoftUni Work\SoftUniSVN\OOP Advaned Exam\C# Author Solution\RecyclingStation\RecyclingStation.Tests\bin\Debug\RecyclingStation.exe
+G:\SoftUni\SoftUni Work\SoftUniSVN\OOP Advaned Exam\C# Author Solution\RecyclingStation\RecyclingStation.Tests\bin\Debug\RecyclingStation.pdb
+G:\SoftUni\SoftUni Work\SoftUniSVN\OOP Advaned Exam\C# Author Solution\RecyclingStation\RecyclingStation.Tests\bin\Debug\Castle.Core.xml
+G:\SoftUni\SoftUni Work\SoftUniSVN\OOP Advaned Exam\C# Author Solution\RecyclingStation\RecyclingStation.Tests\bin\Debug\Moq.xml
+G:\SoftUni\SoftUni Work\SoftUniSVN\OOP Advaned Exam\C# Author Solution\RecyclingStation\RecyclingStation.Tests\obj\Debug\RecyclingStation.Tests.csprojResolveAssemblyReference.cache
+G:\SoftUni\SoftUni Work\SoftUniSVN\OOP Advaned Exam\C# Author Solution\RecyclingStation\RecyclingStation.Tests\obj\Debug\RecyclingStation.Tests.dll
+G:\SoftUni\SoftUni Work\SoftUniSVN\OOP Advaned Exam\C# Author Solution\RecyclingStation\RecyclingStation.Tests\obj\Debug\RecyclingStation.Tests.pdb

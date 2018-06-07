@@ -1,0 +1,6 @@
+C:\My Staff\SoftUni\05 OOP Advanced\01 Interfaces and Abstraction\01 Interfaces and Abstraction\E05 Border Control\bin\Debug\E05 Border Control.exe.config
+C:\My Staff\SoftUni\05 OOP Advanced\01 Interfaces and Abstraction\01 Interfaces and Abstraction\E05 Border Control\bin\Debug\E05 Border Control.exe
+C:\My Staff\SoftUni\05 OOP Advanced\01 Interfaces and Abstraction\01 Interfaces and Abstraction\E05 Border Control\bin\Debug\E05 Border Control.pdb
+C:\My Staff\SoftUni\05 OOP Advanced\01 Interfaces and Abstraction\01 Interfaces and Abstraction\E05 Border Control\obj\Debug\E05 Border Control.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\05 OOP Advanced\01 Interfaces and Abstraction\01 Interfaces and Abstraction\E05 Border Control\obj\Debug\E05 Border Control.exe
+C:\My Staff\SoftUni\05 OOP Advanced\01 Interfaces and Abstraction\01 Interfaces and Abstraction\E05 Border Control\obj\Debug\E05 Border Control.pdb

@@ -1,0 +1,7 @@
+D:\SOFTUNI\Programming basic c# august 2017\UROK 2 simple calculation\02 EXAMS - Simple Calculation\02 EXAMS - SC\vegetable and frood stock\bin\Debug\vegetable and frood stock.exe.config
+D:\SOFTUNI\Programming basic c# august 2017\UROK 2 simple calculation\02 EXAMS - Simple Calculation\02 EXAMS - SC\vegetable and frood stock\bin\Debug\vegetable and frood stock.exe
+D:\SOFTUNI\Programming basic c# august 2017\UROK 2 simple calculation\02 EXAMS - Simple Calculation\02 EXAMS - SC\vegetable and frood stock\bin\Debug\vegetable and frood stock.pdb
+D:\SOFTUNI\Programming basic c# august 2017\UROK 2 simple calculation\02 EXAMS - Simple Calculation\02 EXAMS - SC\vegetable and frood stock\obj\Debug\02 vegetable and frood stock.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Programming basic c# august 2017\UROK 2 simple calculation\02 EXAMS - Simple Calculation\02 EXAMS - SC\vegetable and frood stock\obj\Debug\02 vegetable and frood stock.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\Programming basic c# august 2017\UROK 2 simple calculation\02 EXAMS - Simple Calculation\02 EXAMS - SC\vegetable and frood stock\obj\Debug\vegetable and frood stock.exe
+D:\SOFTUNI\Programming basic c# august 2017\UROK 2 simple calculation\02 EXAMS - Simple Calculation\02 EXAMS - SC\vegetable and frood stock\obj\Debug\vegetable and frood stock.pdb

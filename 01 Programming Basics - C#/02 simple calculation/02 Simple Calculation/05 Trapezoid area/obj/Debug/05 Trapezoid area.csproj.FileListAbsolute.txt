@@ -1,0 +1,12 @@
+D:\SOFTUNI\UROK 2\02 Simple Calculation\05 Trapezoid area\obj\Debug\05 Trapezoid area.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\UROK 2\02 Simple Calculation\05 Trapezoid area\bin\Debug\05 Trapezoid area.exe.config
+D:\SOFTUNI\UROK 2\02 Simple Calculation\05 Trapezoid area\bin\Debug\05 Trapezoid area.exe
+D:\SOFTUNI\UROK 2\02 Simple Calculation\05 Trapezoid area\bin\Debug\05 Trapezoid area.pdb
+D:\SOFTUNI\UROK 2\02 Simple Calculation\05 Trapezoid area\obj\Debug\05 Trapezoid area.exe
+D:\SOFTUNI\UROK 2\02 Simple Calculation\05 Trapezoid area\obj\Debug\05 Trapezoid area.pdb
+D:\SOFTUNI\Programming basic c# august 2017\UROK 2 simple calculation\02 Simple Calculation\05 Trapezoid area\bin\Debug\05 Trapezoid area.exe.config
+D:\SOFTUNI\Programming basic c# august 2017\UROK 2 simple calculation\02 Simple Calculation\05 Trapezoid area\bin\Debug\05 Trapezoid area.exe
+D:\SOFTUNI\Programming basic c# august 2017\UROK 2 simple calculation\02 Simple Calculation\05 Trapezoid area\bin\Debug\05 Trapezoid area.pdb
+D:\SOFTUNI\Programming basic c# august 2017\UROK 2 simple calculation\02 Simple Calculation\05 Trapezoid area\obj\Debug\05 Trapezoid area.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\Programming basic c# august 2017\UROK 2 simple calculation\02 Simple Calculation\05 Trapezoid area\obj\Debug\05 Trapezoid area.exe
+D:\SOFTUNI\Programming basic c# august 2017\UROK 2 simple calculation\02 Simple Calculation\05 Trapezoid area\obj\Debug\05 Trapezoid area.pdb

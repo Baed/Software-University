@@ -1,0 +1,6 @@
+D:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\03 EXAMS\04 exams\00 non 5 loops\obj\Debug\00 non 5 loops.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\03 EXAMS\04 exams\00 non 5 loops\bin\Debug\00 non 5 loops.exe.config
+D:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\03 EXAMS\04 exams\00 non 5 loops\bin\Debug\00 non 5 loops.exe
+D:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\03 EXAMS\04 exams\00 non 5 loops\bin\Debug\00 non 5 loops.pdb
+D:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\03 EXAMS\04 exams\00 non 5 loops\obj\Debug\00 non 5 loops.exe
+D:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\03 EXAMS\04 exams\00 non 5 loops\obj\Debug\00 non 5 loops.pdb

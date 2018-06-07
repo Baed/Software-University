@@ -1,0 +1,7 @@
+D:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\02 Exersice\01 Personal titles\12 Volleyball\bin\Debug\12 Volleyball.exe.config
+D:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\02 Exersice\01 Personal titles\12 Volleyball\bin\Debug\12 Volleyball.exe
+D:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\02 Exersice\01 Personal titles\12 Volleyball\bin\Debug\12 Volleyball.pdb
+D:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\02 Exersice\01 Personal titles\12 Volleyball\obj\Debug\12 Volleyball.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\02 Exersice\01 Personal titles\12 Volleyball\obj\Debug\12 Volleyball.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\02 Exersice\01 Personal titles\12 Volleyball\obj\Debug\12 Volleyball.exe
+D:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\02 Exersice\01 Personal titles\12 Volleyball\obj\Debug\12 Volleyball.pdb

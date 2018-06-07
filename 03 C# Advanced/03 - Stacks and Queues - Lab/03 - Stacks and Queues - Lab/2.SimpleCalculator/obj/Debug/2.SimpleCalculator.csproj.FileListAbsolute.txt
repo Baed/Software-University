@@ -1,0 +1,6 @@
+C:\My Staff\SoftUni\03 C# Advanced\03 - Stacks and Queues - Lab\03 - Stacks and Queues - Lab\2.SimpleCalculator\bin\Debug\2.SimpleCalculator.exe.config
+C:\My Staff\SoftUni\03 C# Advanced\03 - Stacks and Queues - Lab\03 - Stacks and Queues - Lab\2.SimpleCalculator\bin\Debug\2.SimpleCalculator.exe
+C:\My Staff\SoftUni\03 C# Advanced\03 - Stacks and Queues - Lab\03 - Stacks and Queues - Lab\2.SimpleCalculator\bin\Debug\2.SimpleCalculator.pdb
+C:\My Staff\SoftUni\03 C# Advanced\03 - Stacks and Queues - Lab\03 - Stacks and Queues - Lab\2.SimpleCalculator\obj\Debug\2.SimpleCalculator.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\03 C# Advanced\03 - Stacks and Queues - Lab\03 - Stacks and Queues - Lab\2.SimpleCalculator\obj\Debug\2.SimpleCalculator.exe
+C:\My Staff\SoftUni\03 C# Advanced\03 - Stacks and Queues - Lab\03 - Stacks and Queues - Lab\2.SimpleCalculator\obj\Debug\2.SimpleCalculator.pdb

@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\15 - Lists - Exercises\15 - Lists - Exercises\07 BombNumbers\obj\Debug\07.01 BombNumbers.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\15 - Lists - Exercises\15 - Lists - Exercises\07 BombNumbers\obj\Debug\07.01 BombNumbers.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\15 - Lists - Exercises\15 - Lists - Exercises\07 BombNumbers\bin\Debug\07 BombNumbers.exe.config
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\15 - Lists - Exercises\15 - Lists - Exercises\07 BombNumbers\bin\Debug\07 BombNumbers.exe
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\15 - Lists - Exercises\15 - Lists - Exercises\07 BombNumbers\bin\Debug\07 BombNumbers.pdb
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\15 - Lists - Exercises\15 - Lists - Exercises\07 BombNumbers\obj\Debug\07 BombNumbers.exe
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\15 - Lists - Exercises\15 - Lists - Exercises\07 BombNumbers\obj\Debug\07 BombNumbers.pdb

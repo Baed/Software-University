@@ -1,0 +1,6 @@
+C:\My Staff\SoftUni\August C# Basics\UROK 7 - Advanced loops\02 Exercise\07_Exercise_adv_loops\14. Number Table\bin\Debug\_14.Number_Table.exe.config
+C:\My Staff\SoftUni\August C# Basics\UROK 7 - Advanced loops\02 Exercise\07_Exercise_adv_loops\14. Number Table\bin\Debug\_14.Number_Table.exe
+C:\My Staff\SoftUni\August C# Basics\UROK 7 - Advanced loops\02 Exercise\07_Exercise_adv_loops\14. Number Table\bin\Debug\_14.Number_Table.pdb
+C:\My Staff\SoftUni\August C# Basics\UROK 7 - Advanced loops\02 Exercise\07_Exercise_adv_loops\14. Number Table\obj\Debug\14. Number Table.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\August C# Basics\UROK 7 - Advanced loops\02 Exercise\07_Exercise_adv_loops\14. Number Table\obj\Debug\_14.Number_Table.exe
+C:\My Staff\SoftUni\August C# Basics\UROK 7 - Advanced loops\02 Exercise\07_Exercise_adv_loops\14. Number Table\obj\Debug\_14.Number_Table.pdb

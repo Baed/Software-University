@@ -1,0 +1,6 @@
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\34 - Regular Expressions (RegEx) - Lab\34 - RegEx - Lab\06. Replace a tag\bin\Debug\_06.Replace_a_tag.exe.config
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\34 - Regular Expressions (RegEx) - Lab\34 - RegEx - Lab\06. Replace a tag\bin\Debug\_06.Replace_a_tag.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\34 - Regular Expressions (RegEx) - Lab\34 - RegEx - Lab\06. Replace a tag\bin\Debug\_06.Replace_a_tag.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\34 - Regular Expressions (RegEx) - Lab\34 - RegEx - Lab\06. Replace a tag\obj\Debug\06. Replace a tag.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\34 - Regular Expressions (RegEx) - Lab\34 - RegEx - Lab\06. Replace a tag\obj\Debug\_06.Replace_a_tag.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\34 - Regular Expressions (RegEx) - Lab\34 - RegEx - Lab\06. Replace a tag\obj\Debug\_06.Replace_a_tag.pdb

@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\03 C# Advanced\16 - Regular Expressions - Exercise\16 - Regular Expressions - Exercise\10.Use Your Chains, Buddy\bin\Debug\10.Use Your Chains, Buddy.exe.config
+C:\My Staff\SoftUni\03 C# Advanced\16 - Regular Expressions - Exercise\16 - Regular Expressions - Exercise\10.Use Your Chains, Buddy\bin\Debug\10.Use Your Chains, Buddy.exe
+C:\My Staff\SoftUni\03 C# Advanced\16 - Regular Expressions - Exercise\16 - Regular Expressions - Exercise\10.Use Your Chains, Buddy\bin\Debug\10.Use Your Chains, Buddy.pdb
+C:\My Staff\SoftUni\03 C# Advanced\16 - Regular Expressions - Exercise\16 - Regular Expressions - Exercise\10.Use Your Chains, Buddy\obj\Debug\10.Use Your Chains, Buddy.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\03 C# Advanced\16 - Regular Expressions - Exercise\16 - Regular Expressions - Exercise\10.Use Your Chains, Buddy\obj\Debug\10.Use Your Chains, Buddy.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\03 C# Advanced\16 - Regular Expressions - Exercise\16 - Regular Expressions - Exercise\10.Use Your Chains, Buddy\obj\Debug\10.Use Your Chains, Buddy.exe
+C:\My Staff\SoftUni\03 C# Advanced\16 - Regular Expressions - Exercise\16 - Regular Expressions - Exercise\10.Use Your Chains, Buddy\obj\Debug\10.Use Your Chains, Buddy.pdb

@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\15 - Lists - Exercises\15 - Lists - Exercises\05.01 CompareCharArrays\bin\Debug\05.01 CompareCharArrays.exe.config
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\15 - Lists - Exercises\15 - Lists - Exercises\05.01 CompareCharArrays\bin\Debug\05.01 CompareCharArrays.exe
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\15 - Lists - Exercises\15 - Lists - Exercises\05.01 CompareCharArrays\bin\Debug\05.01 CompareCharArrays.pdb
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\15 - Lists - Exercises\15 - Lists - Exercises\05.01 CompareCharArrays\obj\Debug\05.01 CompareCharArrays.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\15 - Lists - Exercises\15 - Lists - Exercises\05.01 CompareCharArrays\obj\Debug\05.01 CompareCharArrays.exe
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\15 - Lists - Exercises\15 - Lists - Exercises\05.01 CompareCharArrays\obj\Debug\05.01 CompareCharArrays.pdb
+C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\15 - Lists - Exercises\15 - Lists - Exercises\05.01 CompareCharArrays\obj\Debug\05.01 CompareCharArrays.csprojResolveAssemblyReference.cache

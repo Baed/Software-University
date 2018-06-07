@@ -1,0 +1,6 @@
+D:\SOFTUNI\UROK 2\03 sum number second exercise\03 sum number second exercise\bin\Debug\03 sum number second exercise.exe.config
+D:\SOFTUNI\UROK 2\03 sum number second exercise\03 sum number second exercise\bin\Debug\03 sum number second exercise.exe
+D:\SOFTUNI\UROK 2\03 sum number second exercise\03 sum number second exercise\bin\Debug\03 sum number second exercise.pdb
+D:\SOFTUNI\UROK 2\03 sum number second exercise\03 sum number second exercise\obj\Debug\03 sum number second exercise.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\UROK 2\03 sum number second exercise\03 sum number second exercise\obj\Debug\03 sum number second exercise.exe
+D:\SOFTUNI\UROK 2\03 sum number second exercise\03 sum number second exercise\obj\Debug\03 sum number second exercise.pdb

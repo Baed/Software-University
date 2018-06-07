@@ -1,0 +1,12 @@
+C:\My Staff\SoftUni\07 DB Advanced\15 Exam Preparation\11. Instagraph-Solution\Instagraph.Data\bin\Debug\netcoreapp2.0\Instagraph.Data.deps.json
+C:\My Staff\SoftUni\07 DB Advanced\15 Exam Preparation\11. Instagraph-Solution\Instagraph.Data\bin\Debug\netcoreapp2.0\Instagraph.Data.dll
+C:\My Staff\SoftUni\07 DB Advanced\15 Exam Preparation\11. Instagraph-Solution\Instagraph.Data\bin\Debug\netcoreapp2.0\Instagraph.Data.pdb
+C:\My Staff\SoftUni\07 DB Advanced\15 Exam Preparation\11. Instagraph-Solution\Instagraph.Data\bin\Debug\netcoreapp2.0\Instagraph.Models.dll
+C:\My Staff\SoftUni\07 DB Advanced\15 Exam Preparation\11. Instagraph-Solution\Instagraph.Data\bin\Debug\netcoreapp2.0\Instagraph.Models.pdb
+C:\My Staff\SoftUni\07 DB Advanced\15 Exam Preparation\11. Instagraph-Solution\Instagraph.Data\obj\Debug\netcoreapp2.0\Instagraph.Data.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\07 DB Advanced\15 Exam Preparation\11. Instagraph-Solution\Instagraph.Data\obj\Debug\netcoreapp2.0\Instagraph.Data.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\07 DB Advanced\15 Exam Preparation\11. Instagraph-Solution\Instagraph.Data\obj\Debug\netcoreapp2.0\Instagraph.Data.AssemblyInfoInputs.cache
+C:\My Staff\SoftUni\07 DB Advanced\15 Exam Preparation\11. Instagraph-Solution\Instagraph.Data\obj\Debug\netcoreapp2.0\Instagraph.Data.AssemblyInfo.cs
+C:\My Staff\SoftUni\07 DB Advanced\15 Exam Preparation\11. Instagraph-Solution\Instagraph.Data\obj\Debug\netcoreapp2.0\Instagraph.Data.csproj.CopyComplete
+C:\My Staff\SoftUni\07 DB Advanced\15 Exam Preparation\11. Instagraph-Solution\Instagraph.Data\obj\Debug\netcoreapp2.0\Instagraph.Data.dll
+C:\My Staff\SoftUni\07 DB Advanced\15 Exam Preparation\11. Instagraph-Solution\Instagraph.Data\obj\Debug\netcoreapp2.0\Instagraph.Data.pdb

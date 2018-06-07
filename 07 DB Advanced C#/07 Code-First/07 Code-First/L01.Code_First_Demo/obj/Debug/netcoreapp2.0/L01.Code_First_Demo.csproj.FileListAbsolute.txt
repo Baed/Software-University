@@ -1,0 +1,11 @@
+C:\My Staff\SoftUni\07 DB Advanced\07 Code-First\07 Code-First\L01.Code_First_Demo\bin\Debug\netcoreapp2.0\L01.Code_First_Demo.deps.json
+C:\My Staff\SoftUni\07 DB Advanced\07 Code-First\07 Code-First\L01.Code_First_Demo\bin\Debug\netcoreapp2.0\L01.Code_First_Demo.runtimeconfig.json
+C:\My Staff\SoftUni\07 DB Advanced\07 Code-First\07 Code-First\L01.Code_First_Demo\bin\Debug\netcoreapp2.0\L01.Code_First_Demo.runtimeconfig.dev.json
+C:\My Staff\SoftUni\07 DB Advanced\07 Code-First\07 Code-First\L01.Code_First_Demo\bin\Debug\netcoreapp2.0\L01.Code_First_Demo.dll
+C:\My Staff\SoftUni\07 DB Advanced\07 Code-First\07 Code-First\L01.Code_First_Demo\bin\Debug\netcoreapp2.0\L01.Code_First_Demo.pdb
+C:\My Staff\SoftUni\07 DB Advanced\07 Code-First\07 Code-First\L01.Code_First_Demo\obj\Debug\netcoreapp2.0\L01.Code_First_Demo.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\07 DB Advanced\07 Code-First\07 Code-First\L01.Code_First_Demo\obj\Debug\netcoreapp2.0\L01.Code_First_Demo.AssemblyInfoInputs.cache
+C:\My Staff\SoftUni\07 DB Advanced\07 Code-First\07 Code-First\L01.Code_First_Demo\obj\Debug\netcoreapp2.0\L01.Code_First_Demo.AssemblyInfo.cs
+C:\My Staff\SoftUni\07 DB Advanced\07 Code-First\07 Code-First\L01.Code_First_Demo\obj\Debug\netcoreapp2.0\L01.Code_First_Demo.dll
+C:\My Staff\SoftUni\07 DB Advanced\07 Code-First\07 Code-First\L01.Code_First_Demo\obj\Debug\netcoreapp2.0\L01.Code_First_Demo.pdb
+C:\My Staff\SoftUni\07 DB Advanced\07 Code-First\07 Code-First\L01.Code_First_Demo\obj\Debug\netcoreapp2.0\L01.Code_First_Demo.csprojResolveAssemblyReference.cache

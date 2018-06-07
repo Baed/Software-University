@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\03 C# Advanced\06 - Sets and Dictionaries - Exercise\06 - Sets and DictionariesExercise\04. Count Symbols\bin\Debug\_04.Count_Symbols.exe.config
+C:\My Staff\SoftUni\03 C# Advanced\06 - Sets and Dictionaries - Exercise\06 - Sets and DictionariesExercise\04. Count Symbols\bin\Debug\_04.Count_Symbols.exe
+C:\My Staff\SoftUni\03 C# Advanced\06 - Sets and Dictionaries - Exercise\06 - Sets and DictionariesExercise\04. Count Symbols\bin\Debug\_04.Count_Symbols.pdb
+C:\My Staff\SoftUni\03 C# Advanced\06 - Sets and Dictionaries - Exercise\06 - Sets and DictionariesExercise\04. Count Symbols\obj\Debug\04. Count Symbols.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\03 C# Advanced\06 - Sets and Dictionaries - Exercise\06 - Sets and DictionariesExercise\04. Count Symbols\obj\Debug\04. Count Symbols.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\03 C# Advanced\06 - Sets and Dictionaries - Exercise\06 - Sets and DictionariesExercise\04. Count Symbols\obj\Debug\_04.Count_Symbols.exe
+C:\My Staff\SoftUni\03 C# Advanced\06 - Sets and Dictionaries - Exercise\06 - Sets and DictionariesExercise\04. Count Symbols\obj\Debug\_04.Count_Symbols.pdb

@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\16 - Lists - More Exercises\16 - Lists - More Exercises\05. Note Statistics\bin\Debug\_05.Note_Statistics.exe.config
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\16 - Lists - More Exercises\16 - Lists - More Exercises\05. Note Statistics\bin\Debug\_05.Note_Statistics.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\16 - Lists - More Exercises\16 - Lists - More Exercises\05. Note Statistics\bin\Debug\_05.Note_Statistics.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\16 - Lists - More Exercises\16 - Lists - More Exercises\05. Note Statistics\obj\Debug\05. Note Statistics.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\16 - Lists - More Exercises\16 - Lists - More Exercises\05. Note Statistics\obj\Debug\05. Note Statistics.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\16 - Lists - More Exercises\16 - Lists - More Exercises\05. Note Statistics\obj\Debug\_05.Note_Statistics.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\16 - Lists - More Exercises\16 - Lists - More Exercises\05. Note Statistics\obj\Debug\_05.Note_Statistics.pdb

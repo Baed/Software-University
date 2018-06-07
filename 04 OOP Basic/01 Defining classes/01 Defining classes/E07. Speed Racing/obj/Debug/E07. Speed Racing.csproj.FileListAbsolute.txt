@@ -1,0 +1,6 @@
+C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\E07. Speed Racing\bin\Debug\E07.Speed_Racing.exe.config
+C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\E07. Speed Racing\bin\Debug\E07.Speed_Racing.exe
+C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\E07. Speed Racing\bin\Debug\E07.Speed_Racing.pdb
+C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\E07. Speed Racing\obj\Debug\E07. Speed Racing.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\E07. Speed Racing\obj\Debug\E07.Speed_Racing.exe
+C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\E07. Speed Racing\obj\Debug\E07.Speed_Racing.pdb

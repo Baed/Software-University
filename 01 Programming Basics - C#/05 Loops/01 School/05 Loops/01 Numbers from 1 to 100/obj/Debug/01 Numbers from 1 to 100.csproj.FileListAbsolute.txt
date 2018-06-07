@@ -1,0 +1,7 @@
+D:\SOFTUNI\Programming basic c# august 2017\UROK 5 Loops\01 School\05 Loops\01 Numbers from 1 to 100\bin\Debug\01 Numbers from 1 to 100.exe.config
+D:\SOFTUNI\Programming basic c# august 2017\UROK 5 Loops\01 School\05 Loops\01 Numbers from 1 to 100\bin\Debug\01 Numbers from 1 to 100.exe
+D:\SOFTUNI\Programming basic c# august 2017\UROK 5 Loops\01 School\05 Loops\01 Numbers from 1 to 100\bin\Debug\01 Numbers from 1 to 100.pdb
+D:\SOFTUNI\Programming basic c# august 2017\UROK 5 Loops\01 School\05 Loops\01 Numbers from 1 to 100\obj\Debug\01 Numbers from 1 to 100.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Programming basic c# august 2017\UROK 5 Loops\01 School\05 Loops\01 Numbers from 1 to 100\obj\Debug\01 Numbers from 1 to 100.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\Programming basic c# august 2017\UROK 5 Loops\01 School\05 Loops\01 Numbers from 1 to 100\obj\Debug\01 Numbers from 1 to 100.exe
+D:\SOFTUNI\Programming basic c# august 2017\UROK 5 Loops\01 School\05 Loops\01 Numbers from 1 to 100\obj\Debug\01 Numbers from 1 to 100.pdb

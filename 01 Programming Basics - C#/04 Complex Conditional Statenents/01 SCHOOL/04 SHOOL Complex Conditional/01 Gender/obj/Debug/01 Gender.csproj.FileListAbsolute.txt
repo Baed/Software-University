@@ -1,0 +1,7 @@
+D:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\01 SCHOOL\04 SHOOL Complex Conditional\01 Gender\bin\Debug\01 Gender.exe.config
+D:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\01 SCHOOL\04 SHOOL Complex Conditional\01 Gender\bin\Debug\01 Gender.exe
+D:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\01 SCHOOL\04 SHOOL Complex Conditional\01 Gender\bin\Debug\01 Gender.pdb
+D:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\01 SCHOOL\04 SHOOL Complex Conditional\01 Gender\obj\Debug\01 Gender.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\01 SCHOOL\04 SHOOL Complex Conditional\01 Gender\obj\Debug\01 Gender.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\01 SCHOOL\04 SHOOL Complex Conditional\01 Gender\obj\Debug\01 Gender.exe
+D:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\01 SCHOOL\04 SHOOL Complex Conditional\01 Gender\obj\Debug\01 Gender.pdb

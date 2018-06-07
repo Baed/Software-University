@@ -1,0 +1,14 @@
+C:\My Staff\SoftUni\August C# Basics\Challange\Programming Basics Exam - 20 November 2016 - Evening\Challange 20.nov.16\05. Rocket\bin\Debug\_05.Rocket.exe.config
+C:\My Staff\SoftUni\August C# Basics\Challange\Programming Basics Exam - 20 November 2016 - Evening\Challange 20.nov.16\05. Rocket\bin\Debug\_05.Rocket.exe
+C:\My Staff\SoftUni\August C# Basics\Challange\Programming Basics Exam - 20 November 2016 - Evening\Challange 20.nov.16\05. Rocket\bin\Debug\_05.Rocket.pdb
+C:\My Staff\SoftUni\August C# Basics\Challange\Programming Basics Exam - 20 November 2016 - Evening\Challange 20.nov.16\05. Rocket\obj\Debug\05. Rocket.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\August C# Basics\Challange\Programming Basics Exam - 20 November 2016 - Evening\Challange 20.nov.16\05. Rocket\obj\Debug\05. Rocket.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\August C# Basics\Challange\Programming Basics Exam - 20 November 2016 - Evening\Challange 20.nov.16\05. Rocket\obj\Debug\_05.Rocket.exe
+C:\My Staff\SoftUni\August C# Basics\Challange\Programming Basics Exam - 20 November 2016 - Evening\Challange 20.nov.16\05. Rocket\obj\Debug\_05.Rocket.pdb
+C:\My Staff\SoftUni\August C# Basics\Challange\01 Programming Basics Exam - 20 November 2016 - Evening\Challange 20.nov.16\05. Rocket\bin\Debug\_05.Rocket.exe.config
+C:\My Staff\SoftUni\August C# Basics\Challange\01 Programming Basics Exam - 20 November 2016 - Evening\Challange 20.nov.16\05. Rocket\bin\Debug\_05.Rocket.exe
+C:\My Staff\SoftUni\August C# Basics\Challange\01 Programming Basics Exam - 20 November 2016 - Evening\Challange 20.nov.16\05. Rocket\bin\Debug\_05.Rocket.pdb
+C:\My Staff\SoftUni\August C# Basics\Challange\01 Programming Basics Exam - 20 November 2016 - Evening\Challange 20.nov.16\05. Rocket\obj\Debug\05. Rocket.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\August C# Basics\Challange\01 Programming Basics Exam - 20 November 2016 - Evening\Challange 20.nov.16\05. Rocket\obj\Debug\05. Rocket.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\August C# Basics\Challange\01 Programming Basics Exam - 20 November 2016 - Evening\Challange 20.nov.16\05. Rocket\obj\Debug\_05.Rocket.exe
+C:\My Staff\SoftUni\August C# Basics\Challange\01 Programming Basics Exam - 20 November 2016 - Evening\Challange 20.nov.16\05. Rocket\obj\Debug\_05.Rocket.pdb

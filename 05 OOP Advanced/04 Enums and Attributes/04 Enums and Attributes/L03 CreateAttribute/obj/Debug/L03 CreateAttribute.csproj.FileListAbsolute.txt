@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\05 OOP Advanced\04 Enums and Attributes\04 Enums and Attributes\L03 CreateAttribute\obj\Debug\L03 CreateAttribute.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\05 OOP Advanced\04 Enums and Attributes\04 Enums and Attributes\L03 CreateAttribute\obj\Debug\L03 CreateAttribute.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\05 OOP Advanced\04 Enums and Attributes\04 Enums and Attributes\L03 CreateAttribute\bin\Debug\L03 CreateAttribute.exe.config
+C:\My Staff\SoftUni\05 OOP Advanced\04 Enums and Attributes\04 Enums and Attributes\L03 CreateAttribute\bin\Debug\L03 CreateAttribute.exe
+C:\My Staff\SoftUni\05 OOP Advanced\04 Enums and Attributes\04 Enums and Attributes\L03 CreateAttribute\bin\Debug\L03 CreateAttribute.pdb
+C:\My Staff\SoftUni\05 OOP Advanced\04 Enums and Attributes\04 Enums and Attributes\L03 CreateAttribute\obj\Debug\L03 CreateAttribute.exe
+C:\My Staff\SoftUni\05 OOP Advanced\04 Enums and Attributes\04 Enums and Attributes\L03 CreateAttribute\obj\Debug\L03 CreateAttribute.pdb

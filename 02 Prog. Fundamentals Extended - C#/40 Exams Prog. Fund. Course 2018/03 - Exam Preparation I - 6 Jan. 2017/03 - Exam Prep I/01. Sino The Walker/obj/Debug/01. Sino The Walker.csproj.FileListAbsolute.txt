@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\03 - Exam Preparation I\03 - Exam Prep I\01. Sino The Walker\bin\Debug\_01.Sino_The_Walker.exe.config
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\03 - Exam Preparation I\03 - Exam Prep I\01. Sino The Walker\bin\Debug\_01.Sino_The_Walker.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\03 - Exam Preparation I\03 - Exam Prep I\01. Sino The Walker\bin\Debug\_01.Sino_The_Walker.pdb
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\03 - Exam Preparation I\03 - Exam Prep I\01. Sino The Walker\obj\Debug\01. Sino The Walker.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\03 - Exam Preparation I\03 - Exam Prep I\01. Sino The Walker\obj\Debug\01. Sino The Walker.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\03 - Exam Preparation I\03 - Exam Prep I\01. Sino The Walker\obj\Debug\_01.Sino_The_Walker.exe
+C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\03 - Exam Preparation I\03 - Exam Prep I\01. Sino The Walker\obj\Debug\_01.Sino_The_Walker.pdb

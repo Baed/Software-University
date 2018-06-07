@@ -1,0 +1,12 @@
+D:\SOFTUNI\UROK 2\02 Simple Calculation\11 usd to bgn\bin\Debug\11 usd to bgn.exe.config
+D:\SOFTUNI\UROK 2\02 Simple Calculation\11 usd to bgn\bin\Debug\11 usd to bgn.exe
+D:\SOFTUNI\UROK 2\02 Simple Calculation\11 usd to bgn\bin\Debug\11 usd to bgn.pdb
+D:\SOFTUNI\UROK 2\02 Simple Calculation\11 usd to bgn\obj\Debug\11 usd to bgn.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\UROK 2\02 Simple Calculation\11 usd to bgn\obj\Debug\11 usd to bgn.exe
+D:\SOFTUNI\UROK 2\02 Simple Calculation\11 usd to bgn\obj\Debug\11 usd to bgn.pdb
+D:\SOFTUNI\Programming basic c# august 2017\UROK 2 simple calculation\02 Simple Calculation\11 usd to bgn\bin\Debug\11 usd to bgn.exe.config
+D:\SOFTUNI\Programming basic c# august 2017\UROK 2 simple calculation\02 Simple Calculation\11 usd to bgn\bin\Debug\11 usd to bgn.exe
+D:\SOFTUNI\Programming basic c# august 2017\UROK 2 simple calculation\02 Simple Calculation\11 usd to bgn\bin\Debug\11 usd to bgn.pdb
+D:\SOFTUNI\Programming basic c# august 2017\UROK 2 simple calculation\02 Simple Calculation\11 usd to bgn\obj\Debug\11 usd to bgn.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\Programming basic c# august 2017\UROK 2 simple calculation\02 Simple Calculation\11 usd to bgn\obj\Debug\11 usd to bgn.exe
+D:\SOFTUNI\Programming basic c# august 2017\UROK 2 simple calculation\02 Simple Calculation\11 usd to bgn\obj\Debug\11 usd to bgn.pdb

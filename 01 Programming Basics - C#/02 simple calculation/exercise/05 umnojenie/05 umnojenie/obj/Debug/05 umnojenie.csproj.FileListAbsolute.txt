@@ -1,0 +1,7 @@
+D:\SOFTUNI\UROK 2\05 umnojenie\05 umnojenie\bin\Debug\05 umnojenie.exe.config
+D:\SOFTUNI\UROK 2\05 umnojenie\05 umnojenie\bin\Debug\05 umnojenie.exe
+D:\SOFTUNI\UROK 2\05 umnojenie\05 umnojenie\bin\Debug\05 umnojenie.pdb
+D:\SOFTUNI\UROK 2\05 umnojenie\05 umnojenie\obj\Debug\05 umnojenie.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\UROK 2\05 umnojenie\05 umnojenie\obj\Debug\05 umnojenie.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\UROK 2\05 umnojenie\05 umnojenie\obj\Debug\05 umnojenie.exe
+D:\SOFTUNI\UROK 2\05 umnojenie\05 umnojenie\obj\Debug\05 umnojenie.pdb

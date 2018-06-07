@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\03 C# Advanced\22 - Exam preparation I\22 - Exam  Preparation - 19 June 2016\01. Cubic Artillery\bin\Debug\_01.Cubic_Artillery.exe.config
+C:\My Staff\SoftUni\03 C# Advanced\22 - Exam preparation I\22 - Exam  Preparation - 19 June 2016\01. Cubic Artillery\bin\Debug\_01.Cubic_Artillery.exe
+C:\My Staff\SoftUni\03 C# Advanced\22 - Exam preparation I\22 - Exam  Preparation - 19 June 2016\01. Cubic Artillery\bin\Debug\_01.Cubic_Artillery.pdb
+C:\My Staff\SoftUni\03 C# Advanced\22 - Exam preparation I\22 - Exam  Preparation - 19 June 2016\01. Cubic Artillery\obj\Debug\01. Cubic Artillery.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\03 C# Advanced\22 - Exam preparation I\22 - Exam  Preparation - 19 June 2016\01. Cubic Artillery\obj\Debug\01. Cubic Artillery.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\03 C# Advanced\22 - Exam preparation I\22 - Exam  Preparation - 19 June 2016\01. Cubic Artillery\obj\Debug\_01.Cubic_Artillery.exe
+C:\My Staff\SoftUni\03 C# Advanced\22 - Exam preparation I\22 - Exam  Preparation - 19 June 2016\01. Cubic Artillery\obj\Debug\_01.Cubic_Artillery.pdb

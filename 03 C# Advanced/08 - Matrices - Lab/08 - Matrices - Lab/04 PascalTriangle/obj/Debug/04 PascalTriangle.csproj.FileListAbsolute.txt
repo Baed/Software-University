@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\03 C# Advanced\08 - Matrices - Lab\08 - Matrices - Lab\04 PascalTriangle\bin\Debug\04 PascalTriangle.exe.config
+C:\My Staff\SoftUni\03 C# Advanced\08 - Matrices - Lab\08 - Matrices - Lab\04 PascalTriangle\bin\Debug\04 PascalTriangle.exe
+C:\My Staff\SoftUni\03 C# Advanced\08 - Matrices - Lab\08 - Matrices - Lab\04 PascalTriangle\bin\Debug\04 PascalTriangle.pdb
+C:\My Staff\SoftUni\03 C# Advanced\08 - Matrices - Lab\08 - Matrices - Lab\04 PascalTriangle\obj\Debug\04 PascalTriangle.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\03 C# Advanced\08 - Matrices - Lab\08 - Matrices - Lab\04 PascalTriangle\obj\Debug\04 PascalTriangle.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\03 C# Advanced\08 - Matrices - Lab\08 - Matrices - Lab\04 PascalTriangle\obj\Debug\04 PascalTriangle.exe
+C:\My Staff\SoftUni\03 C# Advanced\08 - Matrices - Lab\08 - Matrices - Lab\04 PascalTriangle\obj\Debug\04 PascalTriangle.pdb

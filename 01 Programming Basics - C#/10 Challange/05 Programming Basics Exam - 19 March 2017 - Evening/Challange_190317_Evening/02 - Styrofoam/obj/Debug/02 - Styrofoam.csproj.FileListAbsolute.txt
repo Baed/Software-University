@@ -1,0 +1,7 @@
+C:\My Staff\SoftUni\August C# Basics\Challange\05 Programming Basics Exam - 19 March 2017 - Evening\Challange_190317_Evening\02 - Styrofoam\bin\Debug\02 - Styrofoam.exe.config
+C:\My Staff\SoftUni\August C# Basics\Challange\05 Programming Basics Exam - 19 March 2017 - Evening\Challange_190317_Evening\02 - Styrofoam\bin\Debug\02 - Styrofoam.exe
+C:\My Staff\SoftUni\August C# Basics\Challange\05 Programming Basics Exam - 19 March 2017 - Evening\Challange_190317_Evening\02 - Styrofoam\bin\Debug\02 - Styrofoam.pdb
+C:\My Staff\SoftUni\August C# Basics\Challange\05 Programming Basics Exam - 19 March 2017 - Evening\Challange_190317_Evening\02 - Styrofoam\obj\Debug\02 - Styrofoam.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\August C# Basics\Challange\05 Programming Basics Exam - 19 March 2017 - Evening\Challange_190317_Evening\02 - Styrofoam\obj\Debug\02 - Styrofoam.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\August C# Basics\Challange\05 Programming Basics Exam - 19 March 2017 - Evening\Challange_190317_Evening\02 - Styrofoam\obj\Debug\02 - Styrofoam.exe
+C:\My Staff\SoftUni\August C# Basics\Challange\05 Programming Basics Exam - 19 March 2017 - Evening\Challange_190317_Evening\02 - Styrofoam\obj\Debug\02 - Styrofoam.pdb
