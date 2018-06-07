@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\August C# Basics\Challange\04 Programming Basics Exam - 19 March 2017 - Morning\Challange_19032017_mor\04 - Trainers Salary\bin\Debug\04 - Trainers Salary.exe.config
-C:\My Staff\SoftUni\August C# Basics\Challange\04 Programming Basics Exam - 19 March 2017 - Morning\Challange_19032017_mor\04 - Trainers Salary\bin\Debug\04 - Trainers Salary.exe
-C:\My Staff\SoftUni\August C# Basics\Challange\04 Programming Basics Exam - 19 March 2017 - Morning\Challange_19032017_mor\04 - Trainers Salary\bin\Debug\04 - Trainers Salary.pdb
-C:\My Staff\SoftUni\August C# Basics\Challange\04 Programming Basics Exam - 19 March 2017 - Morning\Challange_19032017_mor\04 - Trainers Salary\obj\Debug\04 - Trainers Salary.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\August C# Basics\Challange\04 Programming Basics Exam - 19 March 2017 - Morning\Challange_19032017_mor\04 - Trainers Salary\obj\Debug\04 - Trainers Salary.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\August C# Basics\Challange\04 Programming Basics Exam - 19 March 2017 - Morning\Challange_19032017_mor\04 - Trainers Salary\obj\Debug\04 - Trainers Salary.exe
-C:\My Staff\SoftUni\August C# Basics\Challange\04 Programming Basics Exam - 19 March 2017 - Morning\Challange_19032017_mor\04 - Trainers Salary\obj\Debug\04 - Trainers Salary.pdb

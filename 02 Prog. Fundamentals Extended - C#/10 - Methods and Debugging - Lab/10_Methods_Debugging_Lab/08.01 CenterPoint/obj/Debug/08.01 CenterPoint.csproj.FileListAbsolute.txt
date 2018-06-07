@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\10 - Methods and Debugging - Lab\10_Methods_Debugging_Lab\08.01 CenterPoint\bin\Debug\08.01 CenterPoint.exe.config
-C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\10 - Methods and Debugging - Lab\10_Methods_Debugging_Lab\08.01 CenterPoint\bin\Debug\08.01 CenterPoint.exe
-C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\10 - Methods and Debugging - Lab\10_Methods_Debugging_Lab\08.01 CenterPoint\bin\Debug\08.01 CenterPoint.pdb
-C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\10 - Methods and Debugging - Lab\10_Methods_Debugging_Lab\08.01 CenterPoint\obj\Debug\08.01 CenterPoint.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\10 - Methods and Debugging - Lab\10_Methods_Debugging_Lab\08.01 CenterPoint\obj\Debug\08.01 CenterPoint.exe
-C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\10 - Methods and Debugging - Lab\10_Methods_Debugging_Lab\08.01 CenterPoint\obj\Debug\08.01 CenterPoint.pdb
-C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\10 - Methods and Debugging - Lab\10_Methods_Debugging_Lab\08.01 CenterPoint\obj\Debug\08.01 CenterPoint.csprojResolveAssemblyReference.cache

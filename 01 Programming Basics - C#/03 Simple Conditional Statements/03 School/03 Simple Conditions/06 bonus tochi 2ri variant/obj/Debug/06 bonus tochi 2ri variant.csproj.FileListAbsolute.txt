@@ -1,7 +1,0 @@
-D:\SOFTUNI\Programming basic c# august 2017\UROK 3 Simple Conditional Statements\03 School\03 Simple Conditions\06 bonus tochi 2ri variant\bin\Debug\06 bonus tochi 2ri variant.exe.config
-D:\SOFTUNI\Programming basic c# august 2017\UROK 3 Simple Conditional Statements\03 School\03 Simple Conditions\06 bonus tochi 2ri variant\bin\Debug\06 bonus tochi 2ri variant.exe
-D:\SOFTUNI\Programming basic c# august 2017\UROK 3 Simple Conditional Statements\03 School\03 Simple Conditions\06 bonus tochi 2ri variant\bin\Debug\06 bonus tochi 2ri variant.pdb
-D:\SOFTUNI\Programming basic c# august 2017\UROK 3 Simple Conditional Statements\03 School\03 Simple Conditions\06 bonus tochi 2ri variant\obj\Debug\06 bonus tochi 2ri variant.csproj.CoreCompileInputs.cache
-D:\SOFTUNI\Programming basic c# august 2017\UROK 3 Simple Conditional Statements\03 School\03 Simple Conditions\06 bonus tochi 2ri variant\obj\Debug\06 bonus tochi 2ri variant.exe
-D:\SOFTUNI\Programming basic c# august 2017\UROK 3 Simple Conditional Statements\03 School\03 Simple Conditions\06 bonus tochi 2ri variant\obj\Debug\06 bonus tochi 2ri variant.pdb
-D:\SOFTUNI\Programming basic c# august 2017\UROK 3 Simple Conditional Statements\03 School\03 Simple Conditions\06 bonus tochi 2ri variant\obj\Debug\06 bonus tochi 2ri variant.csprojResolveAssemblyReference.cache

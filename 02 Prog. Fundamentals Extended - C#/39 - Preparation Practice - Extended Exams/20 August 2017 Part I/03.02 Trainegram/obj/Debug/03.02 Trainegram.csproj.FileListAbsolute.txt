@@ -1,6 +1,0 @@
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\39 - Preparation Practice - Extended Exams\20 August 2017 Part I\03.02 Trainegram\bin\Debug\03.02 Trainegram.exe.config
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\39 - Preparation Practice - Extended Exams\20 August 2017 Part I\03.02 Trainegram\bin\Debug\03.02 Trainegram.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\39 - Preparation Practice - Extended Exams\20 August 2017 Part I\03.02 Trainegram\bin\Debug\03.02 Trainegram.pdb
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\39 - Preparation Practice - Extended Exams\20 August 2017 Part I\03.02 Trainegram\obj\Debug\03.02 Trainegram.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\39 - Preparation Practice - Extended Exams\20 August 2017 Part I\03.02 Trainegram\obj\Debug\03.02 Trainegram.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\39 - Preparation Practice - Extended Exams\20 August 2017 Part I\03.02 Trainegram\obj\Debug\03.02 Trainegram.pdb

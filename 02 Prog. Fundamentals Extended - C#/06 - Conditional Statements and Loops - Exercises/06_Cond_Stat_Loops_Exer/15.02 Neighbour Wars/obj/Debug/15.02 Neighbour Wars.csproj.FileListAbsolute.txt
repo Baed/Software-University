@@ -1,6 +1,0 @@
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\06 - Conditional Statements and Loops - Exercises\06_Cond_Stat_Loops_Exer\15.02 Neighbour Wars\bin\Debug\15.02 Neighbour Wars.exe.config
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\06 - Conditional Statements and Loops - Exercises\06_Cond_Stat_Loops_Exer\15.02 Neighbour Wars\bin\Debug\15.02 Neighbour Wars.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\06 - Conditional Statements and Loops - Exercises\06_Cond_Stat_Loops_Exer\15.02 Neighbour Wars\bin\Debug\15.02 Neighbour Wars.pdb
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\06 - Conditional Statements and Loops - Exercises\06_Cond_Stat_Loops_Exer\15.02 Neighbour Wars\obj\Debug\15.02 Neighbour Wars.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\06 - Conditional Statements and Loops - Exercises\06_Cond_Stat_Loops_Exer\15.02 Neighbour Wars\obj\Debug\15.02 Neighbour Wars.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\06 - Conditional Statements and Loops - Exercises\06_Cond_Stat_Loops_Exer\15.02 Neighbour Wars\obj\Debug\15.02 Neighbour Wars.pdb

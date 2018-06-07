@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\02- Exam 05.Nov.2017\02- Exam 05.Nov.2017\02 Anonymous Threat\bin\Debug\02 Anonymous Threat.exe.config
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\02- Exam 05.Nov.2017\02- Exam 05.Nov.2017\02 Anonymous Threat\bin\Debug\02 Anonymous Threat.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\02- Exam 05.Nov.2017\02- Exam 05.Nov.2017\02 Anonymous Threat\bin\Debug\02 Anonymous Threat.pdb
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\02- Exam 05.Nov.2017\02- Exam 05.Nov.2017\02 Anonymous Threat\obj\Debug\02 Anonymous Threat.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\02- Exam 05.Nov.2017\02- Exam 05.Nov.2017\02 Anonymous Threat\obj\Debug\02 Anonymous Threat.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\02- Exam 05.Nov.2017\02- Exam 05.Nov.2017\02 Anonymous Threat\obj\Debug\02 Anonymous Threat.pdb
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\02- Exam 05.Nov.2017\02- Exam 05.Nov.2017\02 Anonymous Threat\obj\Debug\02 Anonymous Threat.csprojResolveAssemblyReference.cache

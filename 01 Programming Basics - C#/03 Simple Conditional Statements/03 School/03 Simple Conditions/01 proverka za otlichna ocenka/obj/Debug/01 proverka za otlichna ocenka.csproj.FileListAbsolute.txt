@@ -1,7 +1,0 @@
-D:\SOFTUNI\Programming basic c# august 2017\UROK 3 Simple Conditional Statements\03 School\03 Simple Conditions\01 proverka za otlichna ocenka\bin\Debug\01 proverka za otlichna ocenka.exe.config
-D:\SOFTUNI\Programming basic c# august 2017\UROK 3 Simple Conditional Statements\03 School\03 Simple Conditions\01 proverka za otlichna ocenka\bin\Debug\01 proverka za otlichna ocenka.exe
-D:\SOFTUNI\Programming basic c# august 2017\UROK 3 Simple Conditional Statements\03 School\03 Simple Conditions\01 proverka za otlichna ocenka\bin\Debug\01 proverka za otlichna ocenka.pdb
-D:\SOFTUNI\Programming basic c# august 2017\UROK 3 Simple Conditional Statements\03 School\03 Simple Conditions\01 proverka za otlichna ocenka\obj\Debug\01 proverka za otlichna ocenka.csproj.CoreCompileInputs.cache
-D:\SOFTUNI\Programming basic c# august 2017\UROK 3 Simple Conditional Statements\03 School\03 Simple Conditions\01 proverka za otlichna ocenka\obj\Debug\01 proverka za otlichna ocenka.exe
-D:\SOFTUNI\Programming basic c# august 2017\UROK 3 Simple Conditional Statements\03 School\03 Simple Conditions\01 proverka za otlichna ocenka\obj\Debug\01 proverka za otlichna ocenka.pdb
-D:\SOFTUNI\Programming basic c# august 2017\UROK 3 Simple Conditional Statements\03 School\03 Simple Conditions\01 proverka za otlichna ocenka\obj\Debug\01 proverka za otlichna ocenka.csprojResolveAssemblyReference.cache

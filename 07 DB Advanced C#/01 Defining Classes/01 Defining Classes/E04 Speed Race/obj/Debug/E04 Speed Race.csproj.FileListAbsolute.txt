@@ -1,6 +1,0 @@
-C:\My Staff\SoftUni\07 DB Advanced\01 Defining Classes\01 Defining Classes\E04 Speed Race\bin\Debug\E04 Speed Race.exe.config
-C:\My Staff\SoftUni\07 DB Advanced\01 Defining Classes\01 Defining Classes\E04 Speed Race\bin\Debug\E04 Speed Race.exe
-C:\My Staff\SoftUni\07 DB Advanced\01 Defining Classes\01 Defining Classes\E04 Speed Race\bin\Debug\E04 Speed Race.pdb
-C:\My Staff\SoftUni\07 DB Advanced\01 Defining Classes\01 Defining Classes\E04 Speed Race\obj\Debug\E04 Speed Race.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\07 DB Advanced\01 Defining Classes\01 Defining Classes\E04 Speed Race\obj\Debug\E04 Speed Race.exe
-C:\My Staff\SoftUni\07 DB Advanced\01 Defining Classes\01 Defining Classes\E04 Speed Race\obj\Debug\E04 Speed Race.pdb

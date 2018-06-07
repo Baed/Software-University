@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\21 - Dictionaries - Exercises\21 - Dictionaries - Exercises\10. SrubskoUnleashed\bin\Debug\_10.SrubskoUnleashed.exe.config
-C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\21 - Dictionaries - Exercises\21 - Dictionaries - Exercises\10. SrubskoUnleashed\bin\Debug\_10.SrubskoUnleashed.exe
-C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\21 - Dictionaries - Exercises\21 - Dictionaries - Exercises\10. SrubskoUnleashed\bin\Debug\_10.SrubskoUnleashed.pdb
-C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\21 - Dictionaries - Exercises\21 - Dictionaries - Exercises\10. SrubskoUnleashed\obj\Debug\10. SrubskoUnleashed.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\21 - Dictionaries - Exercises\21 - Dictionaries - Exercises\10. SrubskoUnleashed\obj\Debug\10. SrubskoUnleashed.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\21 - Dictionaries - Exercises\21 - Dictionaries - Exercises\10. SrubskoUnleashed\obj\Debug\_10.SrubskoUnleashed.exe
-C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\21 - Dictionaries - Exercises\21 - Dictionaries - Exercises\10. SrubskoUnleashed\obj\Debug\_10.SrubskoUnleashed.pdb

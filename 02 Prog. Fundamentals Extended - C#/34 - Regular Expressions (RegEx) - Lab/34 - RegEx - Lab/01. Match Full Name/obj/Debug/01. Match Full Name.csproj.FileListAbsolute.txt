@@ -1,6 +1,0 @@
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\34 - Regular Expressions (RegEx) - Lab\34 - RegEx - Lab\01. Match Full Name\bin\Debug\_01.Match_Full_Name.exe.config
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\34 - Regular Expressions (RegEx) - Lab\34 - RegEx - Lab\01. Match Full Name\bin\Debug\_01.Match_Full_Name.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\34 - Regular Expressions (RegEx) - Lab\34 - RegEx - Lab\01. Match Full Name\bin\Debug\_01.Match_Full_Name.pdb
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\34 - Regular Expressions (RegEx) - Lab\34 - RegEx - Lab\01. Match Full Name\obj\Debug\01. Match Full Name.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\34 - Regular Expressions (RegEx) - Lab\34 - RegEx - Lab\01. Match Full Name\obj\Debug\_01.Match_Full_Name.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\34 - Regular Expressions (RegEx) - Lab\34 - RegEx - Lab\01. Match Full Name\obj\Debug\_01.Match_Full_Name.pdb

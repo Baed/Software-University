@@ -1,6 +1,0 @@
-C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\E04. Opinion Poll\bin\Debug\E04.Opinion_Poll.exe.config
-C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\E04. Opinion Poll\bin\Debug\E04.Opinion_Poll.exe
-C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\E04. Opinion Poll\bin\Debug\E04.Opinion_Poll.pdb
-C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\E04. Opinion Poll\obj\Debug\E04. Opinion Poll.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\E04. Opinion Poll\obj\Debug\E04.Opinion_Poll.exe
-C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\E04. Opinion Poll\obj\Debug\E04.Opinion_Poll.pdb

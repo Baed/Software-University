@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\10. Data Overflow\bin\Debug\_10.Data_Overflow.exe.config
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\10. Data Overflow\bin\Debug\_10.Data_Overflow.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\10. Data Overflow\bin\Debug\_10.Data_Overflow.pdb
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\10. Data Overflow\obj\Debug\10. Data Overflow.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\10. Data Overflow\obj\Debug\10. Data Overflow.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\10. Data Overflow\obj\Debug\_10.Data_Overflow.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\10. Data Overflow\obj\Debug\_10.Data_Overflow.pdb

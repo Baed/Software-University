@@ -1,6 +1,0 @@
-C:\Users\NIkola Grigorov\source\repos\09 sublime tex and num - second exercise\09 sublime tex and num - second exercise\bin\Debug\09 sublime tex and num - second exercise.exe.config
-C:\Users\NIkola Grigorov\source\repos\09 sublime tex and num - second exercise\09 sublime tex and num - second exercise\bin\Debug\09 sublime tex and num - second exercise.exe
-C:\Users\NIkola Grigorov\source\repos\09 sublime tex and num - second exercise\09 sublime tex and num - second exercise\bin\Debug\09 sublime tex and num - second exercise.pdb
-C:\Users\NIkola Grigorov\source\repos\09 sublime tex and num - second exercise\09 sublime tex and num - second exercise\obj\Debug\09 sublime tex and num - second exercise.csproj.CoreCompileInputs.cache
-C:\Users\NIkola Grigorov\source\repos\09 sublime tex and num - second exercise\09 sublime tex and num - second exercise\obj\Debug\09 sublime tex and num - second exercise.exe
-C:\Users\NIkola Grigorov\source\repos\09 sublime tex and num - second exercise\09 sublime tex and num - second exercise\obj\Debug\09 sublime tex and num - second exercise.pdb

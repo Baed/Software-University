@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\03 C# Advanced\14 - Manual String Processing - Exercise\14 - ManualStringProcessingExer\12. Character Multiplier\bin\Debug\_12.Character_Multiplier.exe.config
-C:\My Staff\SoftUni\03 C# Advanced\14 - Manual String Processing - Exercise\14 - ManualStringProcessingExer\12. Character Multiplier\bin\Debug\_12.Character_Multiplier.exe
-C:\My Staff\SoftUni\03 C# Advanced\14 - Manual String Processing - Exercise\14 - ManualStringProcessingExer\12. Character Multiplier\bin\Debug\_12.Character_Multiplier.pdb
-C:\My Staff\SoftUni\03 C# Advanced\14 - Manual String Processing - Exercise\14 - ManualStringProcessingExer\12. Character Multiplier\obj\Debug\12. Character Multiplier.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\03 C# Advanced\14 - Manual String Processing - Exercise\14 - ManualStringProcessingExer\12. Character Multiplier\obj\Debug\12. Character Multiplier.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\03 C# Advanced\14 - Manual String Processing - Exercise\14 - ManualStringProcessingExer\12. Character Multiplier\obj\Debug\_12.Character_Multiplier.exe
-C:\My Staff\SoftUni\03 C# Advanced\14 - Manual String Processing - Exercise\14 - ManualStringProcessingExer\12. Character Multiplier\obj\Debug\_12.Character_Multiplier.pdb

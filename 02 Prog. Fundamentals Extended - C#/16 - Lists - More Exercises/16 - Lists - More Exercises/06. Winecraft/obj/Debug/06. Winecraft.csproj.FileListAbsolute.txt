@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\16 - Lists - More Exercises\16 - Lists - More Exercises\06. Winecraft\bin\Debug\_06.Winecraft.exe.config
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\16 - Lists - More Exercises\16 - Lists - More Exercises\06. Winecraft\bin\Debug\_06.Winecraft.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\16 - Lists - More Exercises\16 - Lists - More Exercises\06. Winecraft\bin\Debug\_06.Winecraft.pdb
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\16 - Lists - More Exercises\16 - Lists - More Exercises\06. Winecraft\obj\Debug\06. Winecraft.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\16 - Lists - More Exercises\16 - Lists - More Exercises\06. Winecraft\obj\Debug\06. Winecraft.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\16 - Lists - More Exercises\16 - Lists - More Exercises\06. Winecraft\obj\Debug\_06.Winecraft.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\16 - Lists - More Exercises\16 - Lists - More Exercises\06. Winecraft\obj\Debug\_06.Winecraft.pdb

@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\05 OOP Advanced\01 Interfaces and Abstraction\01 Interfaces and Abstraction\E04 Telephony\bin\Debug\E04 Telephony.exe.config
-C:\My Staff\SoftUni\05 OOP Advanced\01 Interfaces and Abstraction\01 Interfaces and Abstraction\E04 Telephony\bin\Debug\E04 Telephony.exe
-C:\My Staff\SoftUni\05 OOP Advanced\01 Interfaces and Abstraction\01 Interfaces and Abstraction\E04 Telephony\bin\Debug\E04 Telephony.pdb
-C:\My Staff\SoftUni\05 OOP Advanced\01 Interfaces and Abstraction\01 Interfaces and Abstraction\E04 Telephony\obj\Debug\E04 Telephony.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\05 OOP Advanced\01 Interfaces and Abstraction\01 Interfaces and Abstraction\E04 Telephony\obj\Debug\E04 Telephony.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\05 OOP Advanced\01 Interfaces and Abstraction\01 Interfaces and Abstraction\E04 Telephony\obj\Debug\E04 Telephony.exe
-C:\My Staff\SoftUni\05 OOP Advanced\01 Interfaces and Abstraction\01 Interfaces and Abstraction\E04 Telephony\obj\Debug\E04 Telephony.pdb

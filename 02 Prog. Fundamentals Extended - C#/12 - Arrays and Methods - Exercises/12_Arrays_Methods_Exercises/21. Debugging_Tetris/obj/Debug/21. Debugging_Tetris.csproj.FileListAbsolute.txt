@@ -1,6 +1,0 @@
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\12 - Arrays and Methods - Exercises\12_Arrays_Methods_Exercises\21. Debugging_Tetris\bin\Debug\_21.Debugging_Tetris.exe.config
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\12 - Arrays and Methods - Exercises\12_Arrays_Methods_Exercises\21. Debugging_Tetris\bin\Debug\_21.Debugging_Tetris.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\12 - Arrays and Methods - Exercises\12_Arrays_Methods_Exercises\21. Debugging_Tetris\bin\Debug\_21.Debugging_Tetris.pdb
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\12 - Arrays and Methods - Exercises\12_Arrays_Methods_Exercises\21. Debugging_Tetris\obj\Debug\21. Debugging_Tetris.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\12 - Arrays and Methods - Exercises\12_Arrays_Methods_Exercises\21. Debugging_Tetris\obj\Debug\_21.Debugging_Tetris.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\12 - Arrays and Methods - Exercises\12_Arrays_Methods_Exercises\21. Debugging_Tetris\obj\Debug\_21.Debugging_Tetris.pdb

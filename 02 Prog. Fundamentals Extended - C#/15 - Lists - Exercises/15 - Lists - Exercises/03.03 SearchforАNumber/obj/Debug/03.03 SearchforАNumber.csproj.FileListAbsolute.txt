@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\15 - Lists - Exercises\15 - Lists - Exercises\03.03 SearchforАNumber\bin\Debug\03.03 SearchforАNumber.exe.config
-C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\15 - Lists - Exercises\15 - Lists - Exercises\03.03 SearchforАNumber\bin\Debug\03.03 SearchforАNumber.exe
-C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\15 - Lists - Exercises\15 - Lists - Exercises\03.03 SearchforАNumber\bin\Debug\03.03 SearchforАNumber.pdb
-C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\15 - Lists - Exercises\15 - Lists - Exercises\03.03 SearchforАNumber\obj\Debug\03.03 SearchforАNumber.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\15 - Lists - Exercises\15 - Lists - Exercises\03.03 SearchforАNumber\obj\Debug\03.03 SearchforАNumber.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\15 - Lists - Exercises\15 - Lists - Exercises\03.03 SearchforАNumber\obj\Debug\03.03 SearchforАNumber.exe
-C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\15 - Lists - Exercises\15 - Lists - Exercises\03.03 SearchforАNumber\obj\Debug\03.03 SearchforАNumber.pdb

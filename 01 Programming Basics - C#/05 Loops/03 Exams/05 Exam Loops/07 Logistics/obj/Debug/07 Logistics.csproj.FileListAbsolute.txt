@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\August C# Basics\UROK 5 Loops\03 Exams\05 Exam Loops\07 Logistics\bin\Debug\07 Logistics.exe.config
-C:\My Staff\SoftUni\August C# Basics\UROK 5 Loops\03 Exams\05 Exam Loops\07 Logistics\bin\Debug\07 Logistics.exe
-C:\My Staff\SoftUni\August C# Basics\UROK 5 Loops\03 Exams\05 Exam Loops\07 Logistics\bin\Debug\07 Logistics.pdb
-C:\My Staff\SoftUni\August C# Basics\UROK 5 Loops\03 Exams\05 Exam Loops\07 Logistics\obj\Debug\07 Logistics.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\August C# Basics\UROK 5 Loops\03 Exams\05 Exam Loops\07 Logistics\obj\Debug\07 Logistics.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\August C# Basics\UROK 5 Loops\03 Exams\05 Exam Loops\07 Logistics\obj\Debug\07 Logistics.exe
-C:\My Staff\SoftUni\August C# Basics\UROK 5 Loops\03 Exams\05 Exam Loops\07 Logistics\obj\Debug\07 Logistics.pdb

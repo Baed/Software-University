@@ -1,6 +1,0 @@
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\12 - Arrays and Methods - Exercises\12_Arrays_Methods_Exercises\13. IncreasSequenceElements\obj\Debug\13. IncreasSequenceElements.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\12 - Arrays and Methods - Exercises\12_Arrays_Methods_Exercises\13. IncreasSequenceElements\bin\Debug\_13.IncreasSequenceElements.exe.config
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\12 - Arrays and Methods - Exercises\12_Arrays_Methods_Exercises\13. IncreasSequenceElements\bin\Debug\_13.IncreasSequenceElements.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\12 - Arrays and Methods - Exercises\12_Arrays_Methods_Exercises\13. IncreasSequenceElements\bin\Debug\_13.IncreasSequenceElements.pdb
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\12 - Arrays and Methods - Exercises\12_Arrays_Methods_Exercises\13. IncreasSequenceElements\obj\Debug\_13.IncreasSequenceElements.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\12 - Arrays and Methods - Exercises\12_Arrays_Methods_Exercises\13. IncreasSequenceElements\obj\Debug\_13.IncreasSequenceElements.pdb

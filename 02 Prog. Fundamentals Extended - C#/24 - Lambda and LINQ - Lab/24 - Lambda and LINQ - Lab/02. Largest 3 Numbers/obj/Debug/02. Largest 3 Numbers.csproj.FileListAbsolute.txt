@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\24 - Lambda and LINQ - Lab\24 - Lambda and LINQ - Lab\02. Largest 3 Numbers\bin\Debug\_02.Largest_3_Numbers.exe.config
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\24 - Lambda and LINQ - Lab\24 - Lambda and LINQ - Lab\02. Largest 3 Numbers\bin\Debug\_02.Largest_3_Numbers.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\24 - Lambda and LINQ - Lab\24 - Lambda and LINQ - Lab\02. Largest 3 Numbers\bin\Debug\_02.Largest_3_Numbers.pdb
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\24 - Lambda and LINQ - Lab\24 - Lambda and LINQ - Lab\02. Largest 3 Numbers\obj\Debug\02. Largest 3 Numbers.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\24 - Lambda and LINQ - Lab\24 - Lambda and LINQ - Lab\02. Largest 3 Numbers\obj\Debug\02. Largest 3 Numbers.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\24 - Lambda and LINQ - Lab\24 - Lambda and LINQ - Lab\02. Largest 3 Numbers\obj\Debug\_02.Largest_3_Numbers.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\24 - Lambda and LINQ - Lab\24 - Lambda and LINQ - Lab\02. Largest 3 Numbers\obj\Debug\_02.Largest_3_Numbers.pdb

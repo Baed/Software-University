@@ -1,7 +1,0 @@
-D:\SOFTUNI\Programming basic c# august 2017\UROK 2 simple calculation\02 EXAMS - Simple Calculation\02 EXAMS - SC\01 School room\bin\Debug\01 School room.exe.config
-D:\SOFTUNI\Programming basic c# august 2017\UROK 2 simple calculation\02 EXAMS - Simple Calculation\02 EXAMS - SC\01 School room\bin\Debug\01 School room.exe
-D:\SOFTUNI\Programming basic c# august 2017\UROK 2 simple calculation\02 EXAMS - Simple Calculation\02 EXAMS - SC\01 School room\bin\Debug\01 School room.pdb
-D:\SOFTUNI\Programming basic c# august 2017\UROK 2 simple calculation\02 EXAMS - Simple Calculation\02 EXAMS - SC\01 School room\obj\Debug\01 School room.csprojResolveAssemblyReference.cache
-D:\SOFTUNI\Programming basic c# august 2017\UROK 2 simple calculation\02 EXAMS - Simple Calculation\02 EXAMS - SC\01 School room\obj\Debug\01 School room.csproj.CoreCompileInputs.cache
-D:\SOFTUNI\Programming basic c# august 2017\UROK 2 simple calculation\02 EXAMS - Simple Calculation\02 EXAMS - SC\01 School room\obj\Debug\01 School room.exe
-D:\SOFTUNI\Programming basic c# august 2017\UROK 2 simple calculation\02 EXAMS - Simple Calculation\02 EXAMS - SC\01 School room\obj\Debug\01 School room.pdb

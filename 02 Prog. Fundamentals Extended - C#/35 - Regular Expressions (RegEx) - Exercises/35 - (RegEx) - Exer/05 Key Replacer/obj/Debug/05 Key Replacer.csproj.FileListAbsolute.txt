@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\35 - Regular Expressions (RegEx) - Exercises\35 - (RegEx) - Exer\05 Key Replacer\bin\Debug\05 Key Replacer.exe.config
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\35 - Regular Expressions (RegEx) - Exercises\35 - (RegEx) - Exer\05 Key Replacer\bin\Debug\05 Key Replacer.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\35 - Regular Expressions (RegEx) - Exercises\35 - (RegEx) - Exer\05 Key Replacer\bin\Debug\05 Key Replacer.pdb
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\35 - Regular Expressions (RegEx) - Exercises\35 - (RegEx) - Exer\05 Key Replacer\obj\Debug\05 Key Replacer.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\35 - Regular Expressions (RegEx) - Exercises\35 - (RegEx) - Exer\05 Key Replacer\obj\Debug\05 Key Replacer.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\35 - Regular Expressions (RegEx) - Exercises\35 - (RegEx) - Exer\05 Key Replacer\obj\Debug\05 Key Replacer.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\35 - Regular Expressions (RegEx) - Exercises\35 - (RegEx) - Exer\05 Key Replacer\obj\Debug\05 Key Replacer.pdb

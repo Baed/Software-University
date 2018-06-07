@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\08.01 EmployeeData\bin\Debug\08.01 EmployeeData.exe.config
-C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\08.01 EmployeeData\bin\Debug\08.01 EmployeeData.exe
-C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\08.01 EmployeeData\bin\Debug\08.01 EmployeeData.pdb
-C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\08.01 EmployeeData\obj\Debug\08.01 EmployeeData.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\08.01 EmployeeData\obj\Debug\08.01 EmployeeData.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\08.01 EmployeeData\obj\Debug\08.01 EmployeeData.exe
-C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\08.01 EmployeeData\obj\Debug\08.01 EmployeeData.pdb

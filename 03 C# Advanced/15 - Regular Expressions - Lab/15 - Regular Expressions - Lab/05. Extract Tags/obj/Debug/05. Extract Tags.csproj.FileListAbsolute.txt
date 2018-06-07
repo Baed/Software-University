@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\03 C# Advanced\15 - Regular Expressions - Lab\15 - Regular Expressions - Lab\05. Extract Tags\bin\Debug\_05.Extract_Tags.exe.config
-C:\My Staff\SoftUni\03 C# Advanced\15 - Regular Expressions - Lab\15 - Regular Expressions - Lab\05. Extract Tags\bin\Debug\_05.Extract_Tags.exe
-C:\My Staff\SoftUni\03 C# Advanced\15 - Regular Expressions - Lab\15 - Regular Expressions - Lab\05. Extract Tags\bin\Debug\_05.Extract_Tags.pdb
-C:\My Staff\SoftUni\03 C# Advanced\15 - Regular Expressions - Lab\15 - Regular Expressions - Lab\05. Extract Tags\obj\Debug\05. Extract Tags.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\03 C# Advanced\15 - Regular Expressions - Lab\15 - Regular Expressions - Lab\05. Extract Tags\obj\Debug\05. Extract Tags.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\03 C# Advanced\15 - Regular Expressions - Lab\15 - Regular Expressions - Lab\05. Extract Tags\obj\Debug\_05.Extract_Tags.exe
-C:\My Staff\SoftUni\03 C# Advanced\15 - Regular Expressions - Lab\15 - Regular Expressions - Lab\05. Extract Tags\obj\Debug\_05.Extract_Tags.pdb

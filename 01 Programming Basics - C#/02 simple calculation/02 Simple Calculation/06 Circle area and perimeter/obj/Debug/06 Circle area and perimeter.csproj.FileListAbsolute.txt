@@ -1,6 +1,0 @@
-D:\SOFTUNI\UROK 2\02 Simple Calculation\06 Circle area and perimeter\bin\Debug\06 Circle area and perimeter.exe.config
-D:\SOFTUNI\UROK 2\02 Simple Calculation\06 Circle area and perimeter\bin\Debug\06 Circle area and perimeter.exe
-D:\SOFTUNI\UROK 2\02 Simple Calculation\06 Circle area and perimeter\bin\Debug\06 Circle area and perimeter.pdb
-D:\SOFTUNI\UROK 2\02 Simple Calculation\06 Circle area and perimeter\obj\Debug\06 Circle area and perimeter.csproj.CoreCompileInputs.cache
-D:\SOFTUNI\UROK 2\02 Simple Calculation\06 Circle area and perimeter\obj\Debug\06 Circle area and perimeter.exe
-D:\SOFTUNI\UROK 2\02 Simple Calculation\06 Circle area and perimeter\obj\Debug\06 Circle area and perimeter.pdb

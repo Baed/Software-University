@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\05 OOP Advanced\02 Generics\02 Generics\L02 ArrayCreator\bin\Debug\L02 ArrayCreator.exe.config
-C:\My Staff\SoftUni\05 OOP Advanced\02 Generics\02 Generics\L02 ArrayCreator\bin\Debug\L02 ArrayCreator.exe
-C:\My Staff\SoftUni\05 OOP Advanced\02 Generics\02 Generics\L02 ArrayCreator\bin\Debug\L02 ArrayCreator.pdb
-C:\My Staff\SoftUni\05 OOP Advanced\02 Generics\02 Generics\L02 ArrayCreator\obj\Debug\L02 ArrayCreator.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\05 OOP Advanced\02 Generics\02 Generics\L02 ArrayCreator\obj\Debug\L02 ArrayCreator.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\05 OOP Advanced\02 Generics\02 Generics\L02 ArrayCreator\obj\Debug\L02 ArrayCreator.exe
-C:\My Staff\SoftUni\05 OOP Advanced\02 Generics\02 Generics\L02 ArrayCreator\obj\Debug\L02 ArrayCreator.pdb

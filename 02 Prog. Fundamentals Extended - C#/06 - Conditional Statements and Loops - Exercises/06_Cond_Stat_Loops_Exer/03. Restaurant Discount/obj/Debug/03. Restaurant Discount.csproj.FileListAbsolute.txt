@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\06 - Conditional Statements and Loops - Exercises\06_Cond_Stat_Loops_Exer\03. Restaurant Discount\bin\Debug\_03.Restaurant_Discount.exe.config
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\06 - Conditional Statements and Loops - Exercises\06_Cond_Stat_Loops_Exer\03. Restaurant Discount\bin\Debug\_03.Restaurant_Discount.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\06 - Conditional Statements and Loops - Exercises\06_Cond_Stat_Loops_Exer\03. Restaurant Discount\bin\Debug\_03.Restaurant_Discount.pdb
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\06 - Conditional Statements and Loops - Exercises\06_Cond_Stat_Loops_Exer\03. Restaurant Discount\obj\Debug\03. Restaurant Discount.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\06 - Conditional Statements and Loops - Exercises\06_Cond_Stat_Loops_Exer\03. Restaurant Discount\obj\Debug\03. Restaurant Discount.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\06 - Conditional Statements and Loops - Exercises\06_Cond_Stat_Loops_Exer\03. Restaurant Discount\obj\Debug\_03.Restaurant_Discount.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\06 - Conditional Statements and Loops - Exercises\06_Cond_Stat_Loops_Exer\03. Restaurant Discount\obj\Debug\_03.Restaurant_Discount.pdb

@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\30 - Strings and Text Processing - Exercises\30 FilesExceptionsExer\03. User Database\bin\Debug\_03.User_Database.exe.config
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\30 - Strings and Text Processing - Exercises\30 FilesExceptionsExer\03. User Database\bin\Debug\_03.User_Database.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\30 - Strings and Text Processing - Exercises\30 FilesExceptionsExer\03. User Database\bin\Debug\_03.User_Database.pdb
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\30 - Strings and Text Processing - Exercises\30 FilesExceptionsExer\03. User Database\obj\Debug\03. User Database.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\30 - Strings and Text Processing - Exercises\30 FilesExceptionsExer\03. User Database\obj\Debug\03. User Database.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\30 - Strings and Text Processing - Exercises\30 FilesExceptionsExer\03. User Database\obj\Debug\_03.User_Database.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\30 - Strings and Text Processing - Exercises\30 FilesExceptionsExer\03. User Database\obj\Debug\_03.User_Database.pdb

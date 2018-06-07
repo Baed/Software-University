@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\05 OOP Advanced\02 Generics\02 Generics\E03 Generic Swap Method String\bin\Debug\E03 Generic Swap Method String.exe.config
-C:\My Staff\SoftUni\05 OOP Advanced\02 Generics\02 Generics\E03 Generic Swap Method String\bin\Debug\E03 Generic Swap Method String.exe
-C:\My Staff\SoftUni\05 OOP Advanced\02 Generics\02 Generics\E03 Generic Swap Method String\bin\Debug\E03 Generic Swap Method String.pdb
-C:\My Staff\SoftUni\05 OOP Advanced\02 Generics\02 Generics\E03 Generic Swap Method String\obj\Debug\E03 Generic Swap Method String.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\05 OOP Advanced\02 Generics\02 Generics\E03 Generic Swap Method String\obj\Debug\E03 Generic Swap Method String.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\05 OOP Advanced\02 Generics\02 Generics\E03 Generic Swap Method String\obj\Debug\E03 Generic Swap Method String.exe
-C:\My Staff\SoftUni\05 OOP Advanced\02 Generics\02 Generics\E03 Generic Swap Method String\obj\Debug\E03 Generic Swap Method String.pdb

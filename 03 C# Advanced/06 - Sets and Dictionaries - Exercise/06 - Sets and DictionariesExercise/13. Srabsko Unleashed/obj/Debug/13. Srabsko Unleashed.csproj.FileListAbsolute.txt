@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\03 C# Advanced\06 - Sets and Dictionaries - Exercise\06 - Sets and DictionariesExercise\13. Srabsko Unleashed\bin\Debug\_13.Srabsko_Unleashed.exe.config
-C:\My Staff\SoftUni\03 C# Advanced\06 - Sets and Dictionaries - Exercise\06 - Sets and DictionariesExercise\13. Srabsko Unleashed\bin\Debug\_13.Srabsko_Unleashed.exe
-C:\My Staff\SoftUni\03 C# Advanced\06 - Sets and Dictionaries - Exercise\06 - Sets and DictionariesExercise\13. Srabsko Unleashed\bin\Debug\_13.Srabsko_Unleashed.pdb
-C:\My Staff\SoftUni\03 C# Advanced\06 - Sets and Dictionaries - Exercise\06 - Sets and DictionariesExercise\13. Srabsko Unleashed\obj\Debug\13. Srabsko Unleashed.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\03 C# Advanced\06 - Sets and Dictionaries - Exercise\06 - Sets and DictionariesExercise\13. Srabsko Unleashed\obj\Debug\13. Srabsko Unleashed.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\03 C# Advanced\06 - Sets and Dictionaries - Exercise\06 - Sets and DictionariesExercise\13. Srabsko Unleashed\obj\Debug\_13.Srabsko_Unleashed.exe
-C:\My Staff\SoftUni\03 C# Advanced\06 - Sets and Dictionaries - Exercise\06 - Sets and DictionariesExercise\13. Srabsko Unleashed\obj\Debug\_13.Srabsko_Unleashed.pdb

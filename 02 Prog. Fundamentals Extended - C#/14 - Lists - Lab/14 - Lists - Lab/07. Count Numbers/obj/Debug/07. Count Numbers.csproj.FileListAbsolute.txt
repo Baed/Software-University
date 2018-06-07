@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\14 - Lists - Lab\14 - Lists - Lab\07. Count Numbers\bin\Debug\_07.Count_Numbers.exe.config
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\14 - Lists - Lab\14 - Lists - Lab\07. Count Numbers\bin\Debug\_07.Count_Numbers.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\14 - Lists - Lab\14 - Lists - Lab\07. Count Numbers\bin\Debug\_07.Count_Numbers.pdb
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\14 - Lists - Lab\14 - Lists - Lab\07. Count Numbers\obj\Debug\07. Count Numbers.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\14 - Lists - Lab\14 - Lists - Lab\07. Count Numbers\obj\Debug\_07.Count_Numbers.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\14 - Lists - Lab\14 - Lists - Lab\07. Count Numbers\obj\Debug\_07.Count_Numbers.pdb
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\14 - Lists - Lab\14 - Lists - Lab\07. Count Numbers\obj\Debug\07. Count Numbers.csprojResolveAssemblyReference.cache

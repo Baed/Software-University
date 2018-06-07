@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\08 - 26 Feb. 2017\08 - 26 Feb. 2017\04. Hornet Armada\bin\Debug\_04.Hornet_Armada.exe.config
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\08 - 26 Feb. 2017\08 - 26 Feb. 2017\04. Hornet Armada\bin\Debug\_04.Hornet_Armada.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\08 - 26 Feb. 2017\08 - 26 Feb. 2017\04. Hornet Armada\bin\Debug\_04.Hornet_Armada.pdb
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\08 - 26 Feb. 2017\08 - 26 Feb. 2017\04. Hornet Armada\obj\Debug\04. Hornet Armada.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\08 - 26 Feb. 2017\08 - 26 Feb. 2017\04. Hornet Armada\obj\Debug\04. Hornet Armada.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\08 - 26 Feb. 2017\08 - 26 Feb. 2017\04. Hornet Armada\obj\Debug\_04.Hornet_Armada.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\08 - 26 Feb. 2017\08 - 26 Feb. 2017\04. Hornet Armada\obj\Debug\_04.Hornet_Armada.pdb

@@ -1,6 +1,0 @@
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\21 - Dictionaries - Exercises\21 - Dictionaries - Exercises\05.02 User Logins\bin\Debug\05.02 User Logins.exe.config
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\21 - Dictionaries - Exercises\21 - Dictionaries - Exercises\05.02 User Logins\bin\Debug\05.02 User Logins.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\21 - Dictionaries - Exercises\21 - Dictionaries - Exercises\05.02 User Logins\bin\Debug\05.02 User Logins.pdb
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\21 - Dictionaries - Exercises\21 - Dictionaries - Exercises\05.02 User Logins\obj\Debug\05.02 User Logins.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\21 - Dictionaries - Exercises\21 - Dictionaries - Exercises\05.02 User Logins\obj\Debug\05.02 User Logins.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\21 - Dictionaries - Exercises\21 - Dictionaries - Exercises\05.02 User Logins\obj\Debug\05.02 User Logins.pdb

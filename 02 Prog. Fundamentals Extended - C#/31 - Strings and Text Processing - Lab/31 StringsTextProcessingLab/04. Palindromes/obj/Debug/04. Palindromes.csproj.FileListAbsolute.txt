@@ -1,6 +1,0 @@
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\31 - Strings and Text Processing - Lab\31 StringsTextProcessingLab\04. Palindromes\bin\Debug\_04.Palindromes.exe.config
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\31 - Strings and Text Processing - Lab\31 StringsTextProcessingLab\04. Palindromes\bin\Debug\_04.Palindromes.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\31 - Strings and Text Processing - Lab\31 StringsTextProcessingLab\04. Palindromes\bin\Debug\_04.Palindromes.pdb
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\31 - Strings and Text Processing - Lab\31 StringsTextProcessingLab\04. Palindromes\obj\Debug\04. Palindromes.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\31 - Strings and Text Processing - Lab\31 StringsTextProcessingLab\04. Palindromes\obj\Debug\_04.Palindromes.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\31 - Strings and Text Processing - Lab\31 StringsTextProcessingLab\04. Palindromes\obj\Debug\_04.Palindromes.pdb

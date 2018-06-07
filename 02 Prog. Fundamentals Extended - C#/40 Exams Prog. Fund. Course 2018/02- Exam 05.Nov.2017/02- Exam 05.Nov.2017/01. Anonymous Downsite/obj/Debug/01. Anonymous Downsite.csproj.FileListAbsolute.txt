@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\02- Exam 05.Nov.2017\02- Exam 05.Nov.2017\01. Anonymous Downsite\bin\Debug\_01.Anonymous_Downsite.exe.config
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\02- Exam 05.Nov.2017\02- Exam 05.Nov.2017\01. Anonymous Downsite\bin\Debug\_01.Anonymous_Downsite.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\02- Exam 05.Nov.2017\02- Exam 05.Nov.2017\01. Anonymous Downsite\bin\Debug\_01.Anonymous_Downsite.pdb
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\02- Exam 05.Nov.2017\02- Exam 05.Nov.2017\01. Anonymous Downsite\obj\Debug\01. Anonymous Downsite.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\02- Exam 05.Nov.2017\02- Exam 05.Nov.2017\01. Anonymous Downsite\obj\Debug\01. Anonymous Downsite.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\02- Exam 05.Nov.2017\02- Exam 05.Nov.2017\01. Anonymous Downsite\obj\Debug\_01.Anonymous_Downsite.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\02- Exam 05.Nov.2017\02- Exam 05.Nov.2017\01. Anonymous Downsite\obj\Debug\_01.Anonymous_Downsite.pdb

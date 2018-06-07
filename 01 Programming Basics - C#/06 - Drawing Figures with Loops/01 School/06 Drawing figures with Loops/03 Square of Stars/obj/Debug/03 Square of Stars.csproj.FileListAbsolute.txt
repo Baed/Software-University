@@ -1,6 +1,0 @@
-C:\My Staff\SoftUni\August C# Basics\UROK 6 - Drawing Figures with Loops\01 School\06 Drawing figures with Loops\03 Square of Stars\bin\Debug\03 Square of Stars.exe.config
-C:\My Staff\SoftUni\August C# Basics\UROK 6 - Drawing Figures with Loops\01 School\06 Drawing figures with Loops\03 Square of Stars\bin\Debug\03 Square of Stars.exe
-C:\My Staff\SoftUni\August C# Basics\UROK 6 - Drawing Figures with Loops\01 School\06 Drawing figures with Loops\03 Square of Stars\bin\Debug\03 Square of Stars.pdb
-C:\My Staff\SoftUni\August C# Basics\UROK 6 - Drawing Figures with Loops\01 School\06 Drawing figures with Loops\03 Square of Stars\obj\Debug\03 Square of Stars.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\August C# Basics\UROK 6 - Drawing Figures with Loops\01 School\06 Drawing figures with Loops\03 Square of Stars\obj\Debug\03 Square of Stars.exe
-C:\My Staff\SoftUni\August C# Basics\UROK 6 - Drawing Figures with Loops\01 School\06 Drawing figures with Loops\03 Square of Stars\obj\Debug\03 Square of Stars.pdb

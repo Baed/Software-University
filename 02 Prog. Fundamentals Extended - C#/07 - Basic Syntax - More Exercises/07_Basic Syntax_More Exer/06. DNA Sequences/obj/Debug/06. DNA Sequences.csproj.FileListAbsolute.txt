@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\07 - Basic Syntax - More Exercises\07_Basic Syntax_More Exer\06. DNA Sequences\bin\Debug\_06.DNA_Sequences.exe.config
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\07 - Basic Syntax - More Exercises\07_Basic Syntax_More Exer\06. DNA Sequences\bin\Debug\_06.DNA_Sequences.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\07 - Basic Syntax - More Exercises\07_Basic Syntax_More Exer\06. DNA Sequences\bin\Debug\_06.DNA_Sequences.pdb
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\07 - Basic Syntax - More Exercises\07_Basic Syntax_More Exer\06. DNA Sequences\obj\Debug\06. DNA Sequences.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\07 - Basic Syntax - More Exercises\07_Basic Syntax_More Exer\06. DNA Sequences\obj\Debug\06. DNA Sequences.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\07 - Basic Syntax - More Exercises\07_Basic Syntax_More Exer\06. DNA Sequences\obj\Debug\_06.DNA_Sequences.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\07 - Basic Syntax - More Exercises\07_Basic Syntax_More Exer\06. DNA Sequences\obj\Debug\_06.DNA_Sequences.pdb

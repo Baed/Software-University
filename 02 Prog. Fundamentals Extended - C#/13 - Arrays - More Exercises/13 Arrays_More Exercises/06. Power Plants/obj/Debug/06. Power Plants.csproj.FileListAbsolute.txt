@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\13 - Arrays - More Exercises\13 Arrays_More Exercises\06. Power Plants\bin\Debug\_06.Power_Plants.exe.config
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\13 - Arrays - More Exercises\13 Arrays_More Exercises\06. Power Plants\bin\Debug\_06.Power_Plants.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\13 - Arrays - More Exercises\13 Arrays_More Exercises\06. Power Plants\bin\Debug\_06.Power_Plants.pdb
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\13 - Arrays - More Exercises\13 Arrays_More Exercises\06. Power Plants\obj\Debug\06. Power Plants.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\13 - Arrays - More Exercises\13 Arrays_More Exercises\06. Power Plants\obj\Debug\06. Power Plants.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\13 - Arrays - More Exercises\13 Arrays_More Exercises\06. Power Plants\obj\Debug\_06.Power_Plants.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\13 - Arrays - More Exercises\13 Arrays_More Exercises\06. Power Plants\obj\Debug\_06.Power_Plants.pdb

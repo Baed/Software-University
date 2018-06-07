@@ -1,9 +1,0 @@
-C:\My Staff\SoftUni\05 OOP Advanced\09 Workshop\Skeletons\SoftInjector 02\bin\Debug\SoftUniInjector.exe.config
-C:\My Staff\SoftUni\05 OOP Advanced\09 Workshop\Skeletons\SoftInjector 02\bin\Debug\SoftUniInjector.exe
-C:\My Staff\SoftUni\05 OOP Advanced\09 Workshop\Skeletons\SoftInjector 02\bin\Debug\SoftUniInjector.pdb
-C:\My Staff\SoftUni\05 OOP Advanced\09 Workshop\Skeletons\SoftInjector 02\obj\Debug\SoftUniInjector E02.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\05 OOP Advanced\09 Workshop\Skeletons\SoftInjector 02\obj\Debug\SoftUniInjector.Resources.Vars.resources
-C:\My Staff\SoftUni\05 OOP Advanced\09 Workshop\Skeletons\SoftInjector 02\obj\Debug\SoftUniInjector E02.csproj.GenerateResource.Cache
-C:\My Staff\SoftUni\05 OOP Advanced\09 Workshop\Skeletons\SoftInjector 02\obj\Debug\SoftUniInjector E02.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\05 OOP Advanced\09 Workshop\Skeletons\SoftInjector 02\obj\Debug\SoftUniInjector.exe
-C:\My Staff\SoftUni\05 OOP Advanced\09 Workshop\Skeletons\SoftInjector 02\obj\Debug\SoftUniInjector.pdb

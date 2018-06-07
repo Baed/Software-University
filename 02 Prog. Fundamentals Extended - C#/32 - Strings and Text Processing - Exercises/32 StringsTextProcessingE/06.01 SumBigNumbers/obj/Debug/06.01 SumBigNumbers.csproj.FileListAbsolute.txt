@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\32 - Strings and Text Processing - Exercises\32 StringsTextProcessingE\06.01 SumBigNumbers\bin\Debug\06.01 SumBigNumbers.exe.config
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\32 - Strings and Text Processing - Exercises\32 StringsTextProcessingE\06.01 SumBigNumbers\bin\Debug\06.01 SumBigNumbers.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\32 - Strings and Text Processing - Exercises\32 StringsTextProcessingE\06.01 SumBigNumbers\bin\Debug\06.01 SumBigNumbers.pdb
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\32 - Strings and Text Processing - Exercises\32 StringsTextProcessingE\06.01 SumBigNumbers\obj\Debug\06.01 SumBigNumbers.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\32 - Strings and Text Processing - Exercises\32 StringsTextProcessingE\06.01 SumBigNumbers\obj\Debug\06.01 SumBigNumbers.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\32 - Strings and Text Processing - Exercises\32 StringsTextProcessingE\06.01 SumBigNumbers\obj\Debug\06.01 SumBigNumbers.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\32 - Strings and Text Processing - Exercises\32 StringsTextProcessingE\06.01 SumBigNumbers\obj\Debug\06.01 SumBigNumbers.pdb

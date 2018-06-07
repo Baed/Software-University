@@ -1,6 +1,0 @@
-C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\E01. Define a Class Person\bin\Debug\E01.Define_a_Class_Person.exe.config
-C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\E01. Define a Class Person\bin\Debug\E01.Define_a_Class_Person.exe
-C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\E01. Define a Class Person\bin\Debug\E01.Define_a_Class_Person.pdb
-C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\E01. Define a Class Person\obj\Debug\E01. Define a Class Person.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\E01. Define a Class Person\obj\Debug\E01.Define_a_Class_Person.exe
-C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\E01. Define a Class Person\obj\Debug\E01.Define_a_Class_Person.pdb

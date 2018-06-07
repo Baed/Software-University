@@ -1,6 +1,0 @@
-C:\My Staff\SoftUni\August C# Basics\UROK 6 - Drawing Figures with Loops\03 Exams\06 Drawing figures with Loops\06 DrawingLoop_Exams\01 Draw Fort\bin\Debug\01 Draw Fort.exe.config
-C:\My Staff\SoftUni\August C# Basics\UROK 6 - Drawing Figures with Loops\03 Exams\06 Drawing figures with Loops\06 DrawingLoop_Exams\01 Draw Fort\bin\Debug\01 Draw Fort.exe
-C:\My Staff\SoftUni\August C# Basics\UROK 6 - Drawing Figures with Loops\03 Exams\06 Drawing figures with Loops\06 DrawingLoop_Exams\01 Draw Fort\bin\Debug\01 Draw Fort.pdb
-C:\My Staff\SoftUni\August C# Basics\UROK 6 - Drawing Figures with Loops\03 Exams\06 Drawing figures with Loops\06 DrawingLoop_Exams\01 Draw Fort\obj\Debug\01 Draw Fort.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\August C# Basics\UROK 6 - Drawing Figures with Loops\03 Exams\06 Drawing figures with Loops\06 DrawingLoop_Exams\01 Draw Fort\obj\Debug\01 Draw Fort.exe
-C:\My Staff\SoftUni\August C# Basics\UROK 6 - Drawing Figures with Loops\03 Exams\06 Drawing figures with Loops\06 DrawingLoop_Exams\01 Draw Fort\obj\Debug\01 Draw Fort.pdb

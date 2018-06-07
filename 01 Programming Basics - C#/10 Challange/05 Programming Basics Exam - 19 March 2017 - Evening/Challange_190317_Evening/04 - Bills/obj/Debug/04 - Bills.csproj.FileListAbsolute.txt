@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\August C# Basics\Challange\05 Programming Basics Exam - 19 March 2017 - Evening\Challange_190317_Evening\04 - Bills\bin\Debug\04 - Bills.exe.config
-C:\My Staff\SoftUni\August C# Basics\Challange\05 Programming Basics Exam - 19 March 2017 - Evening\Challange_190317_Evening\04 - Bills\bin\Debug\04 - Bills.exe
-C:\My Staff\SoftUni\August C# Basics\Challange\05 Programming Basics Exam - 19 March 2017 - Evening\Challange_190317_Evening\04 - Bills\bin\Debug\04 - Bills.pdb
-C:\My Staff\SoftUni\August C# Basics\Challange\05 Programming Basics Exam - 19 March 2017 - Evening\Challange_190317_Evening\04 - Bills\obj\Debug\04 - Bills.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\August C# Basics\Challange\05 Programming Basics Exam - 19 March 2017 - Evening\Challange_190317_Evening\04 - Bills\obj\Debug\04 - Bills.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\August C# Basics\Challange\05 Programming Basics Exam - 19 March 2017 - Evening\Challange_190317_Evening\04 - Bills\obj\Debug\04 - Bills.exe
-C:\My Staff\SoftUni\August C# Basics\Challange\05 Programming Basics Exam - 19 March 2017 - Evening\Challange_190317_Evening\04 - Bills\obj\Debug\04 - Bills.pdb

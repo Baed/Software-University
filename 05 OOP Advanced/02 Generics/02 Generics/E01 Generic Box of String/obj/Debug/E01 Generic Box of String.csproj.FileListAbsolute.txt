@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\05 OOP Advanced\02 Generics\02 Generics\E01 Generic Box of String\bin\Debug\E01 Generic Box of String.exe.config
-C:\My Staff\SoftUni\05 OOP Advanced\02 Generics\02 Generics\E01 Generic Box of String\bin\Debug\E01 Generic Box of String.exe
-C:\My Staff\SoftUni\05 OOP Advanced\02 Generics\02 Generics\E01 Generic Box of String\bin\Debug\E01 Generic Box of String.pdb
-C:\My Staff\SoftUni\05 OOP Advanced\02 Generics\02 Generics\E01 Generic Box of String\obj\Debug\E01 Generic Box of String.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\05 OOP Advanced\02 Generics\02 Generics\E01 Generic Box of String\obj\Debug\E01 Generic Box of String.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\05 OOP Advanced\02 Generics\02 Generics\E01 Generic Box of String\obj\Debug\E01 Generic Box of String.exe
-C:\My Staff\SoftUni\05 OOP Advanced\02 Generics\02 Generics\E01 Generic Box of String\obj\Debug\E01 Generic Box of String.pdb

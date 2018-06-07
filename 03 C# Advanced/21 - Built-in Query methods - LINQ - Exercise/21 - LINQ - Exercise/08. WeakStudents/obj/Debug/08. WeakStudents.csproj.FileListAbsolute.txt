@@ -1,6 +1,0 @@
-C:\My Staff\SoftUni\03 C# Advanced\21 - Built-in Query methods - LINQ - Exercise\21 - LINQ - Exercise\08. WeakStudents\bin\Debug\_08.WeakStudents.exe.config
-C:\My Staff\SoftUni\03 C# Advanced\21 - Built-in Query methods - LINQ - Exercise\21 - LINQ - Exercise\08. WeakStudents\bin\Debug\_08.WeakStudents.exe
-C:\My Staff\SoftUni\03 C# Advanced\21 - Built-in Query methods - LINQ - Exercise\21 - LINQ - Exercise\08. WeakStudents\bin\Debug\_08.WeakStudents.pdb
-C:\My Staff\SoftUni\03 C# Advanced\21 - Built-in Query methods - LINQ - Exercise\21 - LINQ - Exercise\08. WeakStudents\obj\Debug\08. WeakStudents.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\03 C# Advanced\21 - Built-in Query methods - LINQ - Exercise\21 - LINQ - Exercise\08. WeakStudents\obj\Debug\_08.WeakStudents.exe
-C:\My Staff\SoftUni\03 C# Advanced\21 - Built-in Query methods - LINQ - Exercise\21 - LINQ - Exercise\08. WeakStudents\obj\Debug\_08.WeakStudents.pdb

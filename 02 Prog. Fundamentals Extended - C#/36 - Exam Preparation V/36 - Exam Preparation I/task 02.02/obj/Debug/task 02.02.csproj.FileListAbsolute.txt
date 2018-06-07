@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\36 - Exam Preparation I\36 - Exam Preparation I\task 02.02\bin\Debug\task 02.02.exe.config
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\36 - Exam Preparation I\36 - Exam Preparation I\task 02.02\bin\Debug\task 02.02.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\36 - Exam Preparation I\36 - Exam Preparation I\task 02.02\bin\Debug\task 02.02.pdb
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\36 - Exam Preparation I\36 - Exam Preparation I\task 02.02\obj\Debug\task 02.02.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\36 - Exam Preparation I\36 - Exam Preparation I\task 02.02\obj\Debug\task 02.02.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\36 - Exam Preparation I\36 - Exam Preparation I\task 02.02\obj\Debug\task 02.02.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\36 - Exam Preparation I\36 - Exam Preparation I\task 02.02\obj\Debug\task 02.02.pdb

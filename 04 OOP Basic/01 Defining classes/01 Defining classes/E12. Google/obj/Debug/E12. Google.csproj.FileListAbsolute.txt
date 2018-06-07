@@ -1,6 +1,0 @@
-C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\E12. Google\bin\Debug\E12.Google.exe.config
-C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\E12. Google\bin\Debug\E12.Google.exe
-C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\E12. Google\bin\Debug\E12.Google.pdb
-C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\E12. Google\obj\Debug\E12. Google.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\E12. Google\obj\Debug\E12.Google.exe
-C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\E12. Google\obj\Debug\E12.Google.pdb

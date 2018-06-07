@@ -1,7 +1,0 @@
-D:\SOFTUNI\UROK 2\01 read Name\01 read Name\bin\Debug\01 read Name.exe.config
-D:\SOFTUNI\UROK 2\01 read Name\01 read Name\bin\Debug\01 read Name.exe
-D:\SOFTUNI\UROK 2\01 read Name\01 read Name\bin\Debug\01 read Name.pdb
-D:\SOFTUNI\UROK 2\01 read Name\01 read Name\obj\Debug\01 read Name.csprojResolveAssemblyReference.cache
-D:\SOFTUNI\UROK 2\01 read Name\01 read Name\obj\Debug\01 read Name.csproj.CoreCompileInputs.cache
-D:\SOFTUNI\UROK 2\01 read Name\01 read Name\obj\Debug\01 read Name.exe
-D:\SOFTUNI\UROK 2\01 read Name\01 read Name\obj\Debug\01 read Name.pdb

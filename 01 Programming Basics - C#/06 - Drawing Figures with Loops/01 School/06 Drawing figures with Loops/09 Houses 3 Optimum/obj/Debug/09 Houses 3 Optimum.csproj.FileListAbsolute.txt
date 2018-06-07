@@ -1,6 +1,0 @@
-C:\My Staff\SoftUni\August C# Basics\UROK 6 - Drawing Figures with Loops\01 School\06 Drawing figures with Loops\09 Houses 3 Optimum\bin\Debug\09 Houses 3 Optimum.exe.config
-C:\My Staff\SoftUni\August C# Basics\UROK 6 - Drawing Figures with Loops\01 School\06 Drawing figures with Loops\09 Houses 3 Optimum\bin\Debug\09 Houses 3 Optimum.exe
-C:\My Staff\SoftUni\August C# Basics\UROK 6 - Drawing Figures with Loops\01 School\06 Drawing figures with Loops\09 Houses 3 Optimum\bin\Debug\09 Houses 3 Optimum.pdb
-C:\My Staff\SoftUni\August C# Basics\UROK 6 - Drawing Figures with Loops\01 School\06 Drawing figures with Loops\09 Houses 3 Optimum\obj\Debug\09 Houses 3 Optimum.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\August C# Basics\UROK 6 - Drawing Figures with Loops\01 School\06 Drawing figures with Loops\09 Houses 3 Optimum\obj\Debug\09 Houses 3 Optimum.exe
-C:\My Staff\SoftUni\August C# Basics\UROK 6 - Drawing Figures with Loops\01 School\06 Drawing figures with Loops\09 Houses 3 Optimum\obj\Debug\09 Houses 3 Optimum.pdb

@@ -1,7 +1,0 @@
-D:\SOFTUNI\UROK 2\08 calc area of figure\08 calc area of figure\bin\Debug\08 calc area of figure.exe.config
-D:\SOFTUNI\UROK 2\08 calc area of figure\08 calc area of figure\bin\Debug\08 calc area of figure.exe
-D:\SOFTUNI\UROK 2\08 calc area of figure\08 calc area of figure\bin\Debug\08 calc area of figure.pdb
-D:\SOFTUNI\UROK 2\08 calc area of figure\08 calc area of figure\obj\Debug\08 calc area of figure.csproj.CoreCompileInputs.cache
-D:\SOFTUNI\UROK 2\08 calc area of figure\08 calc area of figure\obj\Debug\08 calc area of figure.exe
-D:\SOFTUNI\UROK 2\08 calc area of figure\08 calc area of figure\obj\Debug\08 calc area of figure.pdb
-D:\SOFTUNI\UROK 2\08 calc area of figure\08 calc area of figure\obj\Debug\08 calc area of figure.csprojResolveAssemblyReference.cache

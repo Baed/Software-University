@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\03 C# Advanced\15 - Regular Expressions - Lab\15 - Regular Expressions - Lab\02. Vowel Count\bin\Debug\_02.Vowel_Count.exe.config
-C:\My Staff\SoftUni\03 C# Advanced\15 - Regular Expressions - Lab\15 - Regular Expressions - Lab\02. Vowel Count\bin\Debug\_02.Vowel_Count.exe
-C:\My Staff\SoftUni\03 C# Advanced\15 - Regular Expressions - Lab\15 - Regular Expressions - Lab\02. Vowel Count\bin\Debug\_02.Vowel_Count.pdb
-C:\My Staff\SoftUni\03 C# Advanced\15 - Regular Expressions - Lab\15 - Regular Expressions - Lab\02. Vowel Count\obj\Debug\02. Vowel Count.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\03 C# Advanced\15 - Regular Expressions - Lab\15 - Regular Expressions - Lab\02. Vowel Count\obj\Debug\02. Vowel Count.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\03 C# Advanced\15 - Regular Expressions - Lab\15 - Regular Expressions - Lab\02. Vowel Count\obj\Debug\_02.Vowel_Count.exe
-C:\My Staff\SoftUni\03 C# Advanced\15 - Regular Expressions - Lab\15 - Regular Expressions - Lab\02. Vowel Count\obj\Debug\_02.Vowel_Count.pdb

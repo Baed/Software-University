@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\03 C# Advanced\06 - Sets and Dictionaries - Exercise\06 - Sets and DictionariesExercise\06. A Miner's Task\bin\Debug\_06.A_Miner_s_Task.exe.config
-C:\My Staff\SoftUni\03 C# Advanced\06 - Sets and Dictionaries - Exercise\06 - Sets and DictionariesExercise\06. A Miner's Task\bin\Debug\_06.A_Miner_s_Task.exe
-C:\My Staff\SoftUni\03 C# Advanced\06 - Sets and Dictionaries - Exercise\06 - Sets and DictionariesExercise\06. A Miner's Task\bin\Debug\_06.A_Miner_s_Task.pdb
-C:\My Staff\SoftUni\03 C# Advanced\06 - Sets and Dictionaries - Exercise\06 - Sets and DictionariesExercise\06. A Miner's Task\obj\Debug\06. A Miner's Task.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\03 C# Advanced\06 - Sets and Dictionaries - Exercise\06 - Sets and DictionariesExercise\06. A Miner's Task\obj\Debug\06. A Miner's Task.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\03 C# Advanced\06 - Sets and Dictionaries - Exercise\06 - Sets and DictionariesExercise\06. A Miner's Task\obj\Debug\_06.A_Miner_s_Task.exe
-C:\My Staff\SoftUni\03 C# Advanced\06 - Sets and Dictionaries - Exercise\06 - Sets and DictionariesExercise\06. A Miner's Task\obj\Debug\_06.A_Miner_s_Task.pdb

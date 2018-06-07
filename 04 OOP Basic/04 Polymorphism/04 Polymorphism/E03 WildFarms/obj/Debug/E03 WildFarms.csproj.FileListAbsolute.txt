@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\04 OOP Basic\04 Polymorphism\04 Polymorphism\E03 WildFarms\bin\Debug\E03 WildFarms.exe.config
-C:\My Staff\SoftUni\04 OOP Basic\04 Polymorphism\04 Polymorphism\E03 WildFarms\bin\Debug\E03 WildFarms.exe
-C:\My Staff\SoftUni\04 OOP Basic\04 Polymorphism\04 Polymorphism\E03 WildFarms\bin\Debug\E03 WildFarms.pdb
-C:\My Staff\SoftUni\04 OOP Basic\04 Polymorphism\04 Polymorphism\E03 WildFarms\obj\Debug\E03 WildFarms.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\04 OOP Basic\04 Polymorphism\04 Polymorphism\E03 WildFarms\obj\Debug\E03 WildFarms.exe
-C:\My Staff\SoftUni\04 OOP Basic\04 Polymorphism\04 Polymorphism\E03 WildFarms\obj\Debug\E03 WildFarms.pdb
-C:\My Staff\SoftUni\04 OOP Basic\04 Polymorphism\04 Polymorphism\E03 WildFarms\obj\Debug\E03 WildFarms.csprojResolveAssemblyReference.cache

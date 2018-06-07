@@ -1,6 +1,0 @@
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\13 - Arrays - More Exercises\13 Arrays_More Exercises\03. Phonebook\bin\Debug\_03.Phonebook.exe.config
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\13 - Arrays - More Exercises\13 Arrays_More Exercises\03. Phonebook\bin\Debug\_03.Phonebook.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\13 - Arrays - More Exercises\13 Arrays_More Exercises\03. Phonebook\bin\Debug\_03.Phonebook.pdb
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\13 - Arrays - More Exercises\13 Arrays_More Exercises\03. Phonebook\obj\Debug\03. Phonebook.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\13 - Arrays - More Exercises\13 Arrays_More Exercises\03. Phonebook\obj\Debug\_03.Phonebook.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\13 - Arrays - More Exercises\13 Arrays_More Exercises\03. Phonebook\obj\Debug\_03.Phonebook.pdb

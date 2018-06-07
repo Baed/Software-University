@@ -1,6 +1,0 @@
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\13. Digits with Words\bin\Debug\_13.Digits_with_Words.exe.config
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\13. Digits with Words\bin\Debug\_13.Digits_with_Words.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\13. Digits with Words\bin\Debug\_13.Digits_with_Words.pdb
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\13. Digits with Words\obj\Debug\13. Digits with Words.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\13. Digits with Words\obj\Debug\_13.Digits_with_Words.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\13. Digits with Words\obj\Debug\_13.Digits_with_Words.pdb

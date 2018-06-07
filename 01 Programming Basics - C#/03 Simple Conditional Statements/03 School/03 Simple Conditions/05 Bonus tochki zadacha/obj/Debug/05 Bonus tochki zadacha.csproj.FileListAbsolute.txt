@@ -1,7 +1,0 @@
-D:\SOFTUNI\Programming basic c# august 2017\UROK 3 Simple Conditional Statements\03 School\03 Simple Conditions\05 Bonus tochki zadacha\bin\Debug\05 Bonus tochki zadacha.exe.config
-D:\SOFTUNI\Programming basic c# august 2017\UROK 3 Simple Conditional Statements\03 School\03 Simple Conditions\05 Bonus tochki zadacha\bin\Debug\05 Bonus tochki zadacha.exe
-D:\SOFTUNI\Programming basic c# august 2017\UROK 3 Simple Conditional Statements\03 School\03 Simple Conditions\05 Bonus tochki zadacha\bin\Debug\05 Bonus tochki zadacha.pdb
-D:\SOFTUNI\Programming basic c# august 2017\UROK 3 Simple Conditional Statements\03 School\03 Simple Conditions\05 Bonus tochki zadacha\obj\Debug\05 Bonus tochki zadacha.csprojResolveAssemblyReference.cache
-D:\SOFTUNI\Programming basic c# august 2017\UROK 3 Simple Conditional Statements\03 School\03 Simple Conditions\05 Bonus tochki zadacha\obj\Debug\05 Bonus tochki zadacha.csproj.CoreCompileInputs.cache
-D:\SOFTUNI\Programming basic c# august 2017\UROK 3 Simple Conditional Statements\03 School\03 Simple Conditions\05 Bonus tochki zadacha\obj\Debug\05 Bonus tochki zadacha.exe
-D:\SOFTUNI\Programming basic c# august 2017\UROK 3 Simple Conditional Statements\03 School\03 Simple Conditions\05 Bonus tochki zadacha\obj\Debug\05 Bonus tochki zadacha.pdb

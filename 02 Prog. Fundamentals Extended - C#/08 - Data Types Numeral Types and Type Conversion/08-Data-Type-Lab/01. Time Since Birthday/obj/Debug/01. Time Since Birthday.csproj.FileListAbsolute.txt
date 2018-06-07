@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\08 - Data Types Numeral Types and Type Conversion\08-Data-Type-Lab\01. Time Since Birthday\bin\Debug\_01.Time_Since_Birthday.exe.config
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\08 - Data Types Numeral Types and Type Conversion\08-Data-Type-Lab\01. Time Since Birthday\bin\Debug\_01.Time_Since_Birthday.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\08 - Data Types Numeral Types and Type Conversion\08-Data-Type-Lab\01. Time Since Birthday\bin\Debug\_01.Time_Since_Birthday.pdb
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\08 - Data Types Numeral Types and Type Conversion\08-Data-Type-Lab\01. Time Since Birthday\obj\Debug\01. Time Since Birthday.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\08 - Data Types Numeral Types and Type Conversion\08-Data-Type-Lab\01. Time Since Birthday\obj\Debug\01. Time Since Birthday.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\08 - Data Types Numeral Types and Type Conversion\08-Data-Type-Lab\01. Time Since Birthday\obj\Debug\_01.Time_Since_Birthday.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\08 - Data Types Numeral Types and Type Conversion\08-Data-Type-Lab\01. Time Since Birthday\obj\Debug\_01.Time_Since_Birthday.pdb

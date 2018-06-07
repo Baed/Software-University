@@ -1,6 +1,0 @@
-C:\My Staff\SoftUni\August C# Basics\UROK 5 Loops\02 Excersice\05 Loops\11. Odd or  Even Position Second var\bin\Debug\_11.Odd_or__Even_Position_Second_var.exe.config
-C:\My Staff\SoftUni\August C# Basics\UROK 5 Loops\02 Excersice\05 Loops\11. Odd or  Even Position Second var\bin\Debug\_11.Odd_or__Even_Position_Second_var.exe
-C:\My Staff\SoftUni\August C# Basics\UROK 5 Loops\02 Excersice\05 Loops\11. Odd or  Even Position Second var\bin\Debug\_11.Odd_or__Even_Position_Second_var.pdb
-C:\My Staff\SoftUni\August C# Basics\UROK 5 Loops\02 Excersice\05 Loops\11. Odd or  Even Position Second var\obj\Debug\11. Odd or  Even Position Second var.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\August C# Basics\UROK 5 Loops\02 Excersice\05 Loops\11. Odd or  Even Position Second var\obj\Debug\_11.Odd_or__Even_Position_Second_var.exe
-C:\My Staff\SoftUni\August C# Basics\UROK 5 Loops\02 Excersice\05 Loops\11. Odd or  Even Position Second var\obj\Debug\_11.Odd_or__Even_Position_Second_var.pdb

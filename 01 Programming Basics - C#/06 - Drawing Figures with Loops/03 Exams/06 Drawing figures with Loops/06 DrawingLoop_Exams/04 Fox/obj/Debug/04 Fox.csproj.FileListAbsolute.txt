@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\August C# Basics\UROK 6 - Drawing Figures with Loops\03 Exams\06 Drawing figures with Loops\06 DrawingLoop_Exams\04 Fox\bin\Debug\04 Fox.exe.config
-C:\My Staff\SoftUni\August C# Basics\UROK 6 - Drawing Figures with Loops\03 Exams\06 Drawing figures with Loops\06 DrawingLoop_Exams\04 Fox\bin\Debug\04 Fox.exe
-C:\My Staff\SoftUni\August C# Basics\UROK 6 - Drawing Figures with Loops\03 Exams\06 Drawing figures with Loops\06 DrawingLoop_Exams\04 Fox\bin\Debug\04 Fox.pdb
-C:\My Staff\SoftUni\August C# Basics\UROK 6 - Drawing Figures with Loops\03 Exams\06 Drawing figures with Loops\06 DrawingLoop_Exams\04 Fox\obj\Debug\04 Fox.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\August C# Basics\UROK 6 - Drawing Figures with Loops\03 Exams\06 Drawing figures with Loops\06 DrawingLoop_Exams\04 Fox\obj\Debug\04 Fox.exe
-C:\My Staff\SoftUni\August C# Basics\UROK 6 - Drawing Figures with Loops\03 Exams\06 Drawing figures with Loops\06 DrawingLoop_Exams\04 Fox\obj\Debug\04 Fox.pdb
-C:\My Staff\SoftUni\August C# Basics\UROK 6 - Drawing Figures with Loops\03 Exams\06 Drawing figures with Loops\06 DrawingLoop_Exams\04 Fox\obj\Debug\04 Fox.csprojResolveAssemblyReference.cache

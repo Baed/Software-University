@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\August C# Basics\Challange\06 Programming Basics Exam - 7 May 2017\Challange_7032017\04. Football League\bin\Debug\_04.Football_League.exe.config
-C:\My Staff\SoftUni\August C# Basics\Challange\06 Programming Basics Exam - 7 May 2017\Challange_7032017\04. Football League\bin\Debug\_04.Football_League.exe
-C:\My Staff\SoftUni\August C# Basics\Challange\06 Programming Basics Exam - 7 May 2017\Challange_7032017\04. Football League\bin\Debug\_04.Football_League.pdb
-C:\My Staff\SoftUni\August C# Basics\Challange\06 Programming Basics Exam - 7 May 2017\Challange_7032017\04. Football League\obj\Debug\04. Football League.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\August C# Basics\Challange\06 Programming Basics Exam - 7 May 2017\Challange_7032017\04. Football League\obj\Debug\04. Football League.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\August C# Basics\Challange\06 Programming Basics Exam - 7 May 2017\Challange_7032017\04. Football League\obj\Debug\_04.Football_League.exe
-C:\My Staff\SoftUni\August C# Basics\Challange\06 Programming Basics Exam - 7 May 2017\Challange_7032017\04. Football League\obj\Debug\_04.Football_League.pdb

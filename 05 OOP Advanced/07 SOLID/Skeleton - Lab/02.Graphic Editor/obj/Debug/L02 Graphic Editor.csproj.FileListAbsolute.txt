@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\05 OOP Advanced\07 SOLID\02.Graphic Editor\bin\Debug\02.Graphic Editor.exe.config
-C:\My Staff\SoftUni\05 OOP Advanced\07 SOLID\02.Graphic Editor\bin\Debug\02.Graphic Editor.exe
-C:\My Staff\SoftUni\05 OOP Advanced\07 SOLID\02.Graphic Editor\bin\Debug\02.Graphic Editor.pdb
-C:\My Staff\SoftUni\05 OOP Advanced\07 SOLID\02.Graphic Editor\obj\Debug\L02 Graphic Editor.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\05 OOP Advanced\07 SOLID\02.Graphic Editor\obj\Debug\L02 Graphic Editor.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\05 OOP Advanced\07 SOLID\02.Graphic Editor\obj\Debug\02.Graphic Editor.exe
-C:\My Staff\SoftUni\05 OOP Advanced\07 SOLID\02.Graphic Editor\obj\Debug\02.Graphic Editor.pdb

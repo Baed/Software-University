@@ -1,6 +1,0 @@
-D:\SOFTUNI\Programming basic c# august 2017\UROK 5 Loops\01 School\05 Loops\07. Left and Right Sum\bin\Debug\_07.Left_and_Right_Sum.exe.config
-D:\SOFTUNI\Programming basic c# august 2017\UROK 5 Loops\01 School\05 Loops\07. Left and Right Sum\bin\Debug\_07.Left_and_Right_Sum.exe
-D:\SOFTUNI\Programming basic c# august 2017\UROK 5 Loops\01 School\05 Loops\07. Left and Right Sum\bin\Debug\_07.Left_and_Right_Sum.pdb
-D:\SOFTUNI\Programming basic c# august 2017\UROK 5 Loops\01 School\05 Loops\07. Left and Right Sum\obj\Debug\07. Left and Right Sum.csproj.CoreCompileInputs.cache
-D:\SOFTUNI\Programming basic c# august 2017\UROK 5 Loops\01 School\05 Loops\07. Left and Right Sum\obj\Debug\_07.Left_and_Right_Sum.exe
-D:\SOFTUNI\Programming basic c# august 2017\UROK 5 Loops\01 School\05 Loops\07. Left and Right Sum\obj\Debug\_07.Left_and_Right_Sum.pdb

@@ -1,6 +1,0 @@
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\18 - Array and List Algorithms - Exercises\18 ArrayAndListAlgorithms\04. Array Histogram\bin\Debug\_04.Array_Histogram.exe.config
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\18 - Array and List Algorithms - Exercises\18 ArrayAndListAlgorithms\04. Array Histogram\bin\Debug\_04.Array_Histogram.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\18 - Array and List Algorithms - Exercises\18 ArrayAndListAlgorithms\04. Array Histogram\bin\Debug\_04.Array_Histogram.pdb
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\18 - Array and List Algorithms - Exercises\18 ArrayAndListAlgorithms\04. Array Histogram\obj\Debug\04. Array Histogram.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\18 - Array and List Algorithms - Exercises\18 ArrayAndListAlgorithms\04. Array Histogram\obj\Debug\_04.Array_Histogram.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\18 - Array and List Algorithms - Exercises\18 ArrayAndListAlgorithms\04. Array Histogram\obj\Debug\_04.Array_Histogram.pdb

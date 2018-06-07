@@ -1,6 +1,0 @@
-C:\My Staff\SoftUni\04 OOP Basic\03 Inheritance\03 Inheritance\L05. Stack of Strings\bin\Debug\L05.Stack_of_Strings.exe.config
-C:\My Staff\SoftUni\04 OOP Basic\03 Inheritance\03 Inheritance\L05. Stack of Strings\bin\Debug\L05.Stack_of_Strings.exe
-C:\My Staff\SoftUni\04 OOP Basic\03 Inheritance\03 Inheritance\L05. Stack of Strings\bin\Debug\L05.Stack_of_Strings.pdb
-C:\My Staff\SoftUni\04 OOP Basic\03 Inheritance\03 Inheritance\L05. Stack of Strings\obj\Debug\L05. Stack of Strings.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\04 OOP Basic\03 Inheritance\03 Inheritance\L05. Stack of Strings\obj\Debug\L05.Stack_of_Strings.exe
-C:\My Staff\SoftUni\04 OOP Basic\03 Inheritance\03 Inheritance\L05. Stack of Strings\obj\Debug\L05.Stack_of_Strings.pdb

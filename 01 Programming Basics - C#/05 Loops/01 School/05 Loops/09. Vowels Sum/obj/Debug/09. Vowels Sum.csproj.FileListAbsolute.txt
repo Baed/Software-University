@@ -1,7 +1,0 @@
-D:\SOFTUNI\Programming basic c# august 2017\UROK 5 Loops\01 School\05 Loops\09. Vowels Sum\bin\Debug\_09.Vowels_Sum.exe.config
-D:\SOFTUNI\Programming basic c# august 2017\UROK 5 Loops\01 School\05 Loops\09. Vowels Sum\bin\Debug\_09.Vowels_Sum.exe
-D:\SOFTUNI\Programming basic c# august 2017\UROK 5 Loops\01 School\05 Loops\09. Vowels Sum\bin\Debug\_09.Vowels_Sum.pdb
-D:\SOFTUNI\Programming basic c# august 2017\UROK 5 Loops\01 School\05 Loops\09. Vowels Sum\obj\Debug\09. Vowels Sum.csprojResolveAssemblyReference.cache
-D:\SOFTUNI\Programming basic c# august 2017\UROK 5 Loops\01 School\05 Loops\09. Vowels Sum\obj\Debug\09. Vowels Sum.csproj.CoreCompileInputs.cache
-D:\SOFTUNI\Programming basic c# august 2017\UROK 5 Loops\01 School\05 Loops\09. Vowels Sum\obj\Debug\_09.Vowels_Sum.exe
-D:\SOFTUNI\Programming basic c# august 2017\UROK 5 Loops\01 School\05 Loops\09. Vowels Sum\obj\Debug\_09.Vowels_Sum.pdb

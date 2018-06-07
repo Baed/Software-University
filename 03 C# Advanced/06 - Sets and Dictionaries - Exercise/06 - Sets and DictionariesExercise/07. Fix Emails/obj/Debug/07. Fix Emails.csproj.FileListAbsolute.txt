@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\03 C# Advanced\06 - Sets and Dictionaries - Exercise\06 - Sets and DictionariesExercise\07. Fix Emails\bin\Debug\_07.Fix_Emails.exe.config
-C:\My Staff\SoftUni\03 C# Advanced\06 - Sets and Dictionaries - Exercise\06 - Sets and DictionariesExercise\07. Fix Emails\bin\Debug\_07.Fix_Emails.exe
-C:\My Staff\SoftUni\03 C# Advanced\06 - Sets and Dictionaries - Exercise\06 - Sets and DictionariesExercise\07. Fix Emails\bin\Debug\_07.Fix_Emails.pdb
-C:\My Staff\SoftUni\03 C# Advanced\06 - Sets and Dictionaries - Exercise\06 - Sets and DictionariesExercise\07. Fix Emails\obj\Debug\07. Fix Emails.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\03 C# Advanced\06 - Sets and Dictionaries - Exercise\06 - Sets and DictionariesExercise\07. Fix Emails\obj\Debug\07. Fix Emails.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\03 C# Advanced\06 - Sets and Dictionaries - Exercise\06 - Sets and DictionariesExercise\07. Fix Emails\obj\Debug\_07.Fix_Emails.exe
-C:\My Staff\SoftUni\03 C# Advanced\06 - Sets and Dictionaries - Exercise\06 - Sets and DictionariesExercise\07. Fix Emails\obj\Debug\_07.Fix_Emails.pdb

@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\07 DB Advanced\02 Encapsulation and Validation\02 Encapsulation and Validation\E04 Pizza Calories\bin\Debug\E04 Pizza Calories.exe.config
-C:\My Staff\SoftUni\07 DB Advanced\02 Encapsulation and Validation\02 Encapsulation and Validation\E04 Pizza Calories\bin\Debug\E04 Pizza Calories.exe
-C:\My Staff\SoftUni\07 DB Advanced\02 Encapsulation and Validation\02 Encapsulation and Validation\E04 Pizza Calories\bin\Debug\E04 Pizza Calories.pdb
-C:\My Staff\SoftUni\07 DB Advanced\02 Encapsulation and Validation\02 Encapsulation and Validation\E04 Pizza Calories\obj\Debug\E04 Pizza Calories.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\07 DB Advanced\02 Encapsulation and Validation\02 Encapsulation and Validation\E04 Pizza Calories\obj\Debug\E04 Pizza Calories.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\07 DB Advanced\02 Encapsulation and Validation\02 Encapsulation and Validation\E04 Pizza Calories\obj\Debug\E04 Pizza Calories.exe
-C:\My Staff\SoftUni\07 DB Advanced\02 Encapsulation and Validation\02 Encapsulation and Validation\E04 Pizza Calories\obj\Debug\E04 Pizza Calories.pdb

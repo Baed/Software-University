@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\03 C# Advanced\14 - Manual String Processing - Exercise\14 - ManualStringProcessingExer\08. Multiply big number\bin\Debug\_08.Multiply_big_number.exe.config
-C:\My Staff\SoftUni\03 C# Advanced\14 - Manual String Processing - Exercise\14 - ManualStringProcessingExer\08. Multiply big number\bin\Debug\_08.Multiply_big_number.exe
-C:\My Staff\SoftUni\03 C# Advanced\14 - Manual String Processing - Exercise\14 - ManualStringProcessingExer\08. Multiply big number\bin\Debug\_08.Multiply_big_number.pdb
-C:\My Staff\SoftUni\03 C# Advanced\14 - Manual String Processing - Exercise\14 - ManualStringProcessingExer\08. Multiply big number\obj\Debug\08. Multiply big number.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\03 C# Advanced\14 - Manual String Processing - Exercise\14 - ManualStringProcessingExer\08. Multiply big number\obj\Debug\_08.Multiply_big_number.exe
-C:\My Staff\SoftUni\03 C# Advanced\14 - Manual String Processing - Exercise\14 - ManualStringProcessingExer\08. Multiply big number\obj\Debug\_08.Multiply_big_number.pdb
-C:\My Staff\SoftUni\03 C# Advanced\14 - Manual String Processing - Exercise\14 - ManualStringProcessingExer\08. Multiply big number\obj\Debug\08. Multiply big number.csprojResolveAssemblyReference.cache

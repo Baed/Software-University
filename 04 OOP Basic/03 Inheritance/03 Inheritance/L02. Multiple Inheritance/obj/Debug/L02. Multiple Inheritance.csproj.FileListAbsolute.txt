@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\04 OOP Basic\03 Inheritance\03 Inheritance\L02. Multiple Inheritance\bin\Debug\L02.Multiple_Inheritance.exe.config
-C:\My Staff\SoftUni\04 OOP Basic\03 Inheritance\03 Inheritance\L02. Multiple Inheritance\bin\Debug\L02.Multiple_Inheritance.exe
-C:\My Staff\SoftUni\04 OOP Basic\03 Inheritance\03 Inheritance\L02. Multiple Inheritance\bin\Debug\L02.Multiple_Inheritance.pdb
-C:\My Staff\SoftUni\04 OOP Basic\03 Inheritance\03 Inheritance\L02. Multiple Inheritance\obj\Debug\L02. Multiple Inheritance.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\04 OOP Basic\03 Inheritance\03 Inheritance\L02. Multiple Inheritance\obj\Debug\L02. Multiple Inheritance.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\04 OOP Basic\03 Inheritance\03 Inheritance\L02. Multiple Inheritance\obj\Debug\L02.Multiple_Inheritance.exe
-C:\My Staff\SoftUni\04 OOP Basic\03 Inheritance\03 Inheritance\L02. Multiple Inheritance\obj\Debug\L02.Multiple_Inheritance.pdb

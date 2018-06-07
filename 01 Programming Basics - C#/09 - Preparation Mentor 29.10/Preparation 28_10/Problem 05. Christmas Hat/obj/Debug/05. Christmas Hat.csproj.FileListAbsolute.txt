@@ -1,6 +1,0 @@
-C:\My Staff\SoftUni\01 Programming Basics - C#\UROK 9 - Preparation Mentor 29.10\Preparation 28_10\Problem 05. Christmas Hat\bin\Debug\Problem_05.Christmas_Hat.exe.config
-C:\My Staff\SoftUni\01 Programming Basics - C#\UROK 9 - Preparation Mentor 29.10\Preparation 28_10\Problem 05. Christmas Hat\bin\Debug\Problem_05.Christmas_Hat.exe
-C:\My Staff\SoftUni\01 Programming Basics - C#\UROK 9 - Preparation Mentor 29.10\Preparation 28_10\Problem 05. Christmas Hat\bin\Debug\Problem_05.Christmas_Hat.pdb
-C:\My Staff\SoftUni\01 Programming Basics - C#\UROK 9 - Preparation Mentor 29.10\Preparation 28_10\Problem 05. Christmas Hat\obj\Debug\05. Christmas Hat.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\01 Programming Basics - C#\UROK 9 - Preparation Mentor 29.10\Preparation 28_10\Problem 05. Christmas Hat\obj\Debug\Problem_05.Christmas_Hat.exe
-C:\My Staff\SoftUni\01 Programming Basics - C#\UROK 9 - Preparation Mentor 29.10\Preparation 28_10\Problem 05. Christmas Hat\obj\Debug\Problem_05.Christmas_Hat.pdb

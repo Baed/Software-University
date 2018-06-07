@@ -1,7 +1,0 @@
-D:\SOFTUNI\Programming basic c# august 2017\UROK 2 simple calculation\02 Simple Calculation\13 1000 days.. Second variant\bin\Debug\_13_1000_days._.Second_variant.exe.config
-D:\SOFTUNI\Programming basic c# august 2017\UROK 2 simple calculation\02 Simple Calculation\13 1000 days.. Second variant\bin\Debug\_13_1000_days._.Second_variant.exe
-D:\SOFTUNI\Programming basic c# august 2017\UROK 2 simple calculation\02 Simple Calculation\13 1000 days.. Second variant\bin\Debug\_13_1000_days._.Second_variant.pdb
-D:\SOFTUNI\Programming basic c# august 2017\UROK 2 simple calculation\02 Simple Calculation\13 1000 days.. Second variant\obj\Debug\13 1000 days.. Second variant.csprojResolveAssemblyReference.cache
-D:\SOFTUNI\Programming basic c# august 2017\UROK 2 simple calculation\02 Simple Calculation\13 1000 days.. Second variant\obj\Debug\13 1000 days.. Second variant.csproj.CoreCompileInputs.cache
-D:\SOFTUNI\Programming basic c# august 2017\UROK 2 simple calculation\02 Simple Calculation\13 1000 days.. Second variant\obj\Debug\_13_1000_days._.Second_variant.exe
-D:\SOFTUNI\Programming basic c# august 2017\UROK 2 simple calculation\02 Simple Calculation\13 1000 days.. Second variant\obj\Debug\_13_1000_days._.Second_variant.pdb

@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\04 OOP Basic\03 Inheritance\03 Inheritance\E03 Mankind\bin\Debug\E03 Mankind.exe.config
-C:\My Staff\SoftUni\04 OOP Basic\03 Inheritance\03 Inheritance\E03 Mankind\bin\Debug\E03 Mankind.exe
-C:\My Staff\SoftUni\04 OOP Basic\03 Inheritance\03 Inheritance\E03 Mankind\bin\Debug\E03 Mankind.pdb
-C:\My Staff\SoftUni\04 OOP Basic\03 Inheritance\03 Inheritance\E03 Mankind\obj\Debug\E03 Mankind.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\04 OOP Basic\03 Inheritance\03 Inheritance\E03 Mankind\obj\Debug\E03 Mankind.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\04 OOP Basic\03 Inheritance\03 Inheritance\E03 Mankind\obj\Debug\E03 Mankind.exe
-C:\My Staff\SoftUni\04 OOP Basic\03 Inheritance\03 Inheritance\E03 Mankind\obj\Debug\E03 Mankind.pdb

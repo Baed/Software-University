@@ -1,6 +1,0 @@
-C:\My Staff\SoftUni\03 C# Advanced\15 - Regular Expressions - Lab\15 - Regular Expressions - Lab\04. Extract Integer Numbers\bin\Debug\_04.Extract_Integer_Numbers.exe.config
-C:\My Staff\SoftUni\03 C# Advanced\15 - Regular Expressions - Lab\15 - Regular Expressions - Lab\04. Extract Integer Numbers\bin\Debug\_04.Extract_Integer_Numbers.exe
-C:\My Staff\SoftUni\03 C# Advanced\15 - Regular Expressions - Lab\15 - Regular Expressions - Lab\04. Extract Integer Numbers\bin\Debug\_04.Extract_Integer_Numbers.pdb
-C:\My Staff\SoftUni\03 C# Advanced\15 - Regular Expressions - Lab\15 - Regular Expressions - Lab\04. Extract Integer Numbers\obj\Debug\04. Extract Integer Numbers.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\03 C# Advanced\15 - Regular Expressions - Lab\15 - Regular Expressions - Lab\04. Extract Integer Numbers\obj\Debug\_04.Extract_Integer_Numbers.exe
-C:\My Staff\SoftUni\03 C# Advanced\15 - Regular Expressions - Lab\15 - Regular Expressions - Lab\04. Extract Integer Numbers\obj\Debug\_04.Extract_Integer_Numbers.pdb

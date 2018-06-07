@@ -1,6 +1,0 @@
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\05 - Conditional Statements and Loops\Cond_Statements_Loops_Lab\12. Number Checker\bin\Debug\_12.Number_Checker.exe.config
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\05 - Conditional Statements and Loops\Cond_Statements_Loops_Lab\12. Number Checker\bin\Debug\_12.Number_Checker.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\05 - Conditional Statements and Loops\Cond_Statements_Loops_Lab\12. Number Checker\bin\Debug\_12.Number_Checker.pdb
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\05 - Conditional Statements and Loops\Cond_Statements_Loops_Lab\12. Number Checker\obj\Debug\12. Number Checker.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\05 - Conditional Statements and Loops\Cond_Statements_Loops_Lab\12. Number Checker\obj\Debug\_12.Number_Checker.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\05 - Conditional Statements and Loops\Cond_Statements_Loops_Lab\12. Number Checker\obj\Debug\_12.Number_Checker.pdb

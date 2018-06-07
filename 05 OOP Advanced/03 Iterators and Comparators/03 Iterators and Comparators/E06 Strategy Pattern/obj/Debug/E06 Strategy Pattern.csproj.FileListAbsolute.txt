@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\05 OOP Advanced\03 Iterators and Comparators\03 Iterators and Comparators\E06 Strategy Pattern\bin\Debug\E06 Strategy Pattern.exe.config
-C:\My Staff\SoftUni\05 OOP Advanced\03 Iterators and Comparators\03 Iterators and Comparators\E06 Strategy Pattern\bin\Debug\E06 Strategy Pattern.exe
-C:\My Staff\SoftUni\05 OOP Advanced\03 Iterators and Comparators\03 Iterators and Comparators\E06 Strategy Pattern\bin\Debug\E06 Strategy Pattern.pdb
-C:\My Staff\SoftUni\05 OOP Advanced\03 Iterators and Comparators\03 Iterators and Comparators\E06 Strategy Pattern\obj\Debug\E06 Strategy Pattern.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\05 OOP Advanced\03 Iterators and Comparators\03 Iterators and Comparators\E06 Strategy Pattern\obj\Debug\E06 Strategy Pattern.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\05 OOP Advanced\03 Iterators and Comparators\03 Iterators and Comparators\E06 Strategy Pattern\obj\Debug\E06 Strategy Pattern.exe
-C:\My Staff\SoftUni\05 OOP Advanced\03 Iterators and Comparators\03 Iterators and Comparators\E06 Strategy Pattern\obj\Debug\E06 Strategy Pattern.pdb

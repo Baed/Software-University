@@ -1,6 +1,0 @@
-C:\My Staff\SoftUni\August C# Basics\UROK 7 - Advanced loops\02 Exercise\07_Exercise_adv_loops\09. Sum Digits\bin\Debug\_09.Sum_Digits.exe.config
-C:\My Staff\SoftUni\August C# Basics\UROK 7 - Advanced loops\02 Exercise\07_Exercise_adv_loops\09. Sum Digits\bin\Debug\_09.Sum_Digits.exe
-C:\My Staff\SoftUni\August C# Basics\UROK 7 - Advanced loops\02 Exercise\07_Exercise_adv_loops\09. Sum Digits\bin\Debug\_09.Sum_Digits.pdb
-C:\My Staff\SoftUni\August C# Basics\UROK 7 - Advanced loops\02 Exercise\07_Exercise_adv_loops\09. Sum Digits\obj\Debug\09. Sum Digits.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\August C# Basics\UROK 7 - Advanced loops\02 Exercise\07_Exercise_adv_loops\09. Sum Digits\obj\Debug\_09.Sum_Digits.exe
-C:\My Staff\SoftUni\August C# Basics\UROK 7 - Advanced loops\02 Exercise\07_Exercise_adv_loops\09. Sum Digits\obj\Debug\_09.Sum_Digits.pdb

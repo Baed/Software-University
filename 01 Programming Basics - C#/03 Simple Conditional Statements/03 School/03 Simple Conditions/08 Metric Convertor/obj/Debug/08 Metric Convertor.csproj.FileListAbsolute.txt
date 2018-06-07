@@ -1,7 +1,0 @@
-D:\SOFTUNI\Programming basic c# august 2017\UROK 3 Simple Conditional Statements\03 School\03 Simple Conditions\08 Metric Convertor\obj\Debug\08 Metric Convertor.csprojResolveAssemblyReference.cache
-D:\SOFTUNI\Programming basic c# august 2017\UROK 3 Simple Conditional Statements\03 School\03 Simple Conditions\08 Metric Convertor\obj\Debug\08 Metric Convertor.csproj.CoreCompileInputs.cache
-D:\SOFTUNI\Programming basic c# august 2017\UROK 3 Simple Conditional Statements\03 School\03 Simple Conditions\08 Metric Convertor\bin\Debug\08 Metric Convertor.exe.config
-D:\SOFTUNI\Programming basic c# august 2017\UROK 3 Simple Conditional Statements\03 School\03 Simple Conditions\08 Metric Convertor\bin\Debug\08 Metric Convertor.exe
-D:\SOFTUNI\Programming basic c# august 2017\UROK 3 Simple Conditional Statements\03 School\03 Simple Conditions\08 Metric Convertor\bin\Debug\08 Metric Convertor.pdb
-D:\SOFTUNI\Programming basic c# august 2017\UROK 3 Simple Conditional Statements\03 School\03 Simple Conditions\08 Metric Convertor\obj\Debug\08 Metric Convertor.exe
-D:\SOFTUNI\Programming basic c# august 2017\UROK 3 Simple Conditional Statements\03 School\03 Simple Conditions\08 Metric Convertor\obj\Debug\08 Metric Convertor.pdb

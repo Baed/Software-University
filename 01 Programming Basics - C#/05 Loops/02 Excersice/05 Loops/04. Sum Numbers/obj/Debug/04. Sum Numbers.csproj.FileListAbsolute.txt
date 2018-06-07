@@ -1,6 +1,0 @@
-C:\My Staff\SoftUni\August C# Basics\UROK 5 Loops\02 Excersice\05 Loops\04. Sum Numbers\bin\Debug\_04.Sum_Numbers.exe.config
-C:\My Staff\SoftUni\August C# Basics\UROK 5 Loops\02 Excersice\05 Loops\04. Sum Numbers\bin\Debug\_04.Sum_Numbers.exe
-C:\My Staff\SoftUni\August C# Basics\UROK 5 Loops\02 Excersice\05 Loops\04. Sum Numbers\bin\Debug\_04.Sum_Numbers.pdb
-C:\My Staff\SoftUni\August C# Basics\UROK 5 Loops\02 Excersice\05 Loops\04. Sum Numbers\obj\Debug\04. Sum Numbers.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\August C# Basics\UROK 5 Loops\02 Excersice\05 Loops\04. Sum Numbers\obj\Debug\_04.Sum_Numbers.exe
-C:\My Staff\SoftUni\August C# Basics\UROK 5 Loops\02 Excersice\05 Loops\04. Sum Numbers\obj\Debug\_04.Sum_Numbers.pdb

@@ -1,7 +1,0 @@
-D:\SOFTUNI\Programming basic c# august 2017\UROK 2 simple calculation\02 EXAMS - Simple Calculation\02 EXAMS - SC\remont na plochki\bin\Debug\remont na plochki.exe.config
-D:\SOFTUNI\Programming basic c# august 2017\UROK 2 simple calculation\02 EXAMS - Simple Calculation\02 EXAMS - SC\remont na plochki\bin\Debug\remont na plochki.exe
-D:\SOFTUNI\Programming basic c# august 2017\UROK 2 simple calculation\02 EXAMS - Simple Calculation\02 EXAMS - SC\remont na plochki\bin\Debug\remont na plochki.pdb
-D:\SOFTUNI\Programming basic c# august 2017\UROK 2 simple calculation\02 EXAMS - Simple Calculation\02 EXAMS - SC\remont na plochki\obj\Debug\remont na plochki.csprojResolveAssemblyReference.cache
-D:\SOFTUNI\Programming basic c# august 2017\UROK 2 simple calculation\02 EXAMS - Simple Calculation\02 EXAMS - SC\remont na plochki\obj\Debug\remont na plochki.csproj.CoreCompileInputs.cache
-D:\SOFTUNI\Programming basic c# august 2017\UROK 2 simple calculation\02 EXAMS - Simple Calculation\02 EXAMS - SC\remont na plochki\obj\Debug\remont na plochki.exe
-D:\SOFTUNI\Programming basic c# august 2017\UROK 2 simple calculation\02 EXAMS - Simple Calculation\02 EXAMS - SC\remont na plochki\obj\Debug\remont na plochki.pdb

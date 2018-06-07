@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\August C# Basics\UROK 5 Loops\02 Excersice\05 Loops\11. Odd or Even Position third var\bin\Debug\_11.Odd_or_Even_Position_third_var.exe.config
-C:\My Staff\SoftUni\August C# Basics\UROK 5 Loops\02 Excersice\05 Loops\11. Odd or Even Position third var\bin\Debug\_11.Odd_or_Even_Position_third_var.exe
-C:\My Staff\SoftUni\August C# Basics\UROK 5 Loops\02 Excersice\05 Loops\11. Odd or Even Position third var\bin\Debug\_11.Odd_or_Even_Position_third_var.pdb
-C:\My Staff\SoftUni\August C# Basics\UROK 5 Loops\02 Excersice\05 Loops\11. Odd or Even Position third var\obj\Debug\11. Odd or Even Position third var.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\August C# Basics\UROK 5 Loops\02 Excersice\05 Loops\11. Odd or Even Position third var\obj\Debug\11. Odd or Even Position third var.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\August C# Basics\UROK 5 Loops\02 Excersice\05 Loops\11. Odd or Even Position third var\obj\Debug\_11.Odd_or_Even_Position_third_var.exe
-C:\My Staff\SoftUni\August C# Basics\UROK 5 Loops\02 Excersice\05 Loops\11. Odd or Even Position third var\obj\Debug\_11.Odd_or_Even_Position_third_var.pdb

@@ -1,6 +1,0 @@
-C:\My Staff\SoftUni\03 C# Advanced\21 - Built-in Query methods - LINQ - Exercise\21 - LINQ - Exercise\03. Students by Age\bin\Debug\_03.Students_by_Age.exe.config
-C:\My Staff\SoftUni\03 C# Advanced\21 - Built-in Query methods - LINQ - Exercise\21 - LINQ - Exercise\03. Students by Age\bin\Debug\_03.Students_by_Age.exe
-C:\My Staff\SoftUni\03 C# Advanced\21 - Built-in Query methods - LINQ - Exercise\21 - LINQ - Exercise\03. Students by Age\bin\Debug\_03.Students_by_Age.pdb
-C:\My Staff\SoftUni\03 C# Advanced\21 - Built-in Query methods - LINQ - Exercise\21 - LINQ - Exercise\03. Students by Age\obj\Debug\03. Students by Age.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\03 C# Advanced\21 - Built-in Query methods - LINQ - Exercise\21 - LINQ - Exercise\03. Students by Age\obj\Debug\_03.Students_by_Age.exe
-C:\My Staff\SoftUni\03 C# Advanced\21 - Built-in Query methods - LINQ - Exercise\21 - LINQ - Exercise\03. Students by Age\obj\Debug\_03.Students_by_Age.pdb

@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\August C# Basics\UROK 7 - Advanced loops\02 Exercise\07_Exercise_adv_loops\01. Numbers 1toN_with Step 3\bin\Debug\_01.Numbers_1toN_with_Step_3.exe.config
-C:\My Staff\SoftUni\August C# Basics\UROK 7 - Advanced loops\02 Exercise\07_Exercise_adv_loops\01. Numbers 1toN_with Step 3\bin\Debug\_01.Numbers_1toN_with_Step_3.exe
-C:\My Staff\SoftUni\August C# Basics\UROK 7 - Advanced loops\02 Exercise\07_Exercise_adv_loops\01. Numbers 1toN_with Step 3\bin\Debug\_01.Numbers_1toN_with_Step_3.pdb
-C:\My Staff\SoftUni\August C# Basics\UROK 7 - Advanced loops\02 Exercise\07_Exercise_adv_loops\01. Numbers 1toN_with Step 3\obj\Debug\01. Numbers 1toN_with Step 3.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\August C# Basics\UROK 7 - Advanced loops\02 Exercise\07_Exercise_adv_loops\01. Numbers 1toN_with Step 3\obj\Debug\01. Numbers 1toN_with Step 3.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\August C# Basics\UROK 7 - Advanced loops\02 Exercise\07_Exercise_adv_loops\01. Numbers 1toN_with Step 3\obj\Debug\_01.Numbers_1toN_with_Step_3.exe
-C:\My Staff\SoftUni\August C# Basics\UROK 7 - Advanced loops\02 Exercise\07_Exercise_adv_loops\01. Numbers 1toN_with Step 3\obj\Debug\_01.Numbers_1toN_with_Step_3.pdb

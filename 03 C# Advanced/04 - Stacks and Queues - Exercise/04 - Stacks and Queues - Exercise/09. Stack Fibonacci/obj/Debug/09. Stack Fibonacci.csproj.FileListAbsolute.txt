@@ -1,6 +1,0 @@
-C:\My Staff\SoftUni\03 C# Advanced\04 - Stacks and Queues - Exercise\04 - Stacks and Queues - Exercise\09. Stack Fibonacci\bin\Debug\_09.Stack_Fibonacci.exe.config
-C:\My Staff\SoftUni\03 C# Advanced\04 - Stacks and Queues - Exercise\04 - Stacks and Queues - Exercise\09. Stack Fibonacci\bin\Debug\_09.Stack_Fibonacci.exe
-C:\My Staff\SoftUni\03 C# Advanced\04 - Stacks and Queues - Exercise\04 - Stacks and Queues - Exercise\09. Stack Fibonacci\bin\Debug\_09.Stack_Fibonacci.pdb
-C:\My Staff\SoftUni\03 C# Advanced\04 - Stacks and Queues - Exercise\04 - Stacks and Queues - Exercise\09. Stack Fibonacci\obj\Debug\09. Stack Fibonacci.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\03 C# Advanced\04 - Stacks and Queues - Exercise\04 - Stacks and Queues - Exercise\09. Stack Fibonacci\obj\Debug\_09.Stack_Fibonacci.exe
-C:\My Staff\SoftUni\03 C# Advanced\04 - Stacks and Queues - Exercise\04 - Stacks and Queues - Exercise\09. Stack Fibonacci\obj\Debug\_09.Stack_Fibonacci.pdb

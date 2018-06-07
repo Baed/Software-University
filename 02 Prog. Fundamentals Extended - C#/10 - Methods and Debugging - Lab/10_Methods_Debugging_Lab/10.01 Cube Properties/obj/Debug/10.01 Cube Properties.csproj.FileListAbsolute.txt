@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\10 - Methods and Debugging - Lab\10_Methods_Debugging_Lab\10.01 Cube Properties\bin\Debug\10.01 Cube Properties.exe.config
-C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\10 - Methods and Debugging - Lab\10_Methods_Debugging_Lab\10.01 Cube Properties\bin\Debug\10.01 Cube Properties.exe
-C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\10 - Methods and Debugging - Lab\10_Methods_Debugging_Lab\10.01 Cube Properties\bin\Debug\10.01 Cube Properties.pdb
-C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\10 - Methods and Debugging - Lab\10_Methods_Debugging_Lab\10.01 Cube Properties\obj\Debug\10.01 Cube Properties.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\10 - Methods and Debugging - Lab\10_Methods_Debugging_Lab\10.01 Cube Properties\obj\Debug\10.01 Cube Properties.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\10 - Methods and Debugging - Lab\10_Methods_Debugging_Lab\10.01 Cube Properties\obj\Debug\10.01 Cube Properties.exe
-C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\10 - Methods and Debugging - Lab\10_Methods_Debugging_Lab\10.01 Cube Properties\obj\Debug\10.01 Cube Properties.pdb

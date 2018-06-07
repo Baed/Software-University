@@ -1,6 +1,0 @@
-C:\Users\NIkola Grigorov\source\repos\10 zakruglqne na ìsla\10 zakruglqne na ìsla\bin\Debug\10 zakruglqne na ìsla.exe.config
-C:\Users\NIkola Grigorov\source\repos\10 zakruglqne na ìsla\10 zakruglqne na ìsla\bin\Debug\10 zakruglqne na ìsla.exe
-C:\Users\NIkola Grigorov\source\repos\10 zakruglqne na ìsla\10 zakruglqne na ìsla\bin\Debug\10 zakruglqne na ìsla.pdb
-C:\Users\NIkola Grigorov\source\repos\10 zakruglqne na ìsla\10 zakruglqne na ìsla\obj\Debug\10 zakruglqne na ìsla.csproj.CoreCompileInputs.cache
-C:\Users\NIkola Grigorov\source\repos\10 zakruglqne na ìsla\10 zakruglqne na ìsla\obj\Debug\10 zakruglqne na ìsla.exe
-C:\Users\NIkola Grigorov\source\repos\10 zakruglqne na ìsla\10 zakruglqne na ìsla\obj\Debug\10 zakruglqne na ìsla.pdb

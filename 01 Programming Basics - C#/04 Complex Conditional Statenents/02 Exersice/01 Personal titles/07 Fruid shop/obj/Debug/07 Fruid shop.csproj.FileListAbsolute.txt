@@ -1,7 +1,0 @@
-D:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\02 Exersice\01 Personal titles\07 Fruid shop\bin\Debug\07 Fruid shop.exe.config
-D:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\02 Exersice\01 Personal titles\07 Fruid shop\bin\Debug\07 Fruid shop.exe
-D:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\02 Exersice\01 Personal titles\07 Fruid shop\bin\Debug\07 Fruid shop.pdb
-D:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\02 Exersice\01 Personal titles\07 Fruid shop\obj\Debug\07 Fruid shop.csprojResolveAssemblyReference.cache
-D:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\02 Exersice\01 Personal titles\07 Fruid shop\obj\Debug\07 Fruid shop.csproj.CoreCompileInputs.cache
-D:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\02 Exersice\01 Personal titles\07 Fruid shop\obj\Debug\07 Fruid shop.exe
-D:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\02 Exersice\01 Personal titles\07 Fruid shop\obj\Debug\07 Fruid shop.pdb

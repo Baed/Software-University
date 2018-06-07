@@ -1,6 +1,0 @@
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\12 - Arrays and Methods - Exercises\12_Arrays_Methods_Exercises\14. EqualSequenceElementsArr\obj\Debug\14. EqualSequenceElementsArr.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\12 - Arrays and Methods - Exercises\12_Arrays_Methods_Exercises\14. EqualSequenceElementsArr\bin\Debug\_14.EqualSequenceElementsArr.exe.config
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\12 - Arrays and Methods - Exercises\12_Arrays_Methods_Exercises\14. EqualSequenceElementsArr\bin\Debug\_14.EqualSequenceElementsArr.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\12 - Arrays and Methods - Exercises\12_Arrays_Methods_Exercises\14. EqualSequenceElementsArr\bin\Debug\_14.EqualSequenceElementsArr.pdb
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\12 - Arrays and Methods - Exercises\12_Arrays_Methods_Exercises\14. EqualSequenceElementsArr\obj\Debug\_14.EqualSequenceElementsArr.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\12 - Arrays and Methods - Exercises\12_Arrays_Methods_Exercises\14. EqualSequenceElementsArr\obj\Debug\_14.EqualSequenceElementsArr.pdb

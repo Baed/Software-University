@@ -1,7 +1,0 @@
-D:\SOFTUNI\Programming basic c# august 2017\UROK 5 Loops\01 School\05 Loops\04. Sum Numbers\bin\Debug\_04.Sum_Numbers.exe.config
-D:\SOFTUNI\Programming basic c# august 2017\UROK 5 Loops\01 School\05 Loops\04. Sum Numbers\bin\Debug\_04.Sum_Numbers.exe
-D:\SOFTUNI\Programming basic c# august 2017\UROK 5 Loops\01 School\05 Loops\04. Sum Numbers\bin\Debug\_04.Sum_Numbers.pdb
-D:\SOFTUNI\Programming basic c# august 2017\UROK 5 Loops\01 School\05 Loops\04. Sum Numbers\obj\Debug\04. Sum Numbers.csprojResolveAssemblyReference.cache
-D:\SOFTUNI\Programming basic c# august 2017\UROK 5 Loops\01 School\05 Loops\04. Sum Numbers\obj\Debug\04. Sum Numbers.csproj.CoreCompileInputs.cache
-D:\SOFTUNI\Programming basic c# august 2017\UROK 5 Loops\01 School\05 Loops\04. Sum Numbers\obj\Debug\_04.Sum_Numbers.exe
-D:\SOFTUNI\Programming basic c# august 2017\UROK 5 Loops\01 School\05 Loops\04. Sum Numbers\obj\Debug\_04.Sum_Numbers.pdb

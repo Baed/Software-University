@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\10 - Exam Extended 10 Dec. 2017\10 - 10 Dec. 2017\03. Raincast\bin\Debug\_03.Raincast.exe.config
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\10 - Exam Extended 10 Dec. 2017\10 - 10 Dec. 2017\03. Raincast\bin\Debug\_03.Raincast.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\10 - Exam Extended 10 Dec. 2017\10 - 10 Dec. 2017\03. Raincast\bin\Debug\_03.Raincast.pdb
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\10 - Exam Extended 10 Dec. 2017\10 - 10 Dec. 2017\03. Raincast\obj\Debug\03. Raincast.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\10 - Exam Extended 10 Dec. 2017\10 - 10 Dec. 2017\03. Raincast\obj\Debug\03. Raincast.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\10 - Exam Extended 10 Dec. 2017\10 - 10 Dec. 2017\03. Raincast\obj\Debug\_03.Raincast.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\10 - Exam Extended 10 Dec. 2017\10 - 10 Dec. 2017\03. Raincast\obj\Debug\_03.Raincast.pdb

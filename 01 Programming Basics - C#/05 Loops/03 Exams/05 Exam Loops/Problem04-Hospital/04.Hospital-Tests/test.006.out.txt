@@ -1,2 +1,0 @@
-Treated patients: 0.
-Untreated patients: 0.

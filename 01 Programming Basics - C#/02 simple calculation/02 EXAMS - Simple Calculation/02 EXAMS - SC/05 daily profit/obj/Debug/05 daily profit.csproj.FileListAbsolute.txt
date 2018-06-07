@@ -1,7 +1,0 @@
-D:\SOFTUNI\Programming basic c# august 2017\UROK 2 simple calculation\02 EXAMS - Simple Calculation\02 EXAMS - SC\05 daily profit\bin\Debug\05 daily profit.exe.config
-D:\SOFTUNI\Programming basic c# august 2017\UROK 2 simple calculation\02 EXAMS - Simple Calculation\02 EXAMS - SC\05 daily profit\bin\Debug\05 daily profit.exe
-D:\SOFTUNI\Programming basic c# august 2017\UROK 2 simple calculation\02 EXAMS - Simple Calculation\02 EXAMS - SC\05 daily profit\bin\Debug\05 daily profit.pdb
-D:\SOFTUNI\Programming basic c# august 2017\UROK 2 simple calculation\02 EXAMS - Simple Calculation\02 EXAMS - SC\05 daily profit\obj\Debug\05 daily profit.csprojResolveAssemblyReference.cache
-D:\SOFTUNI\Programming basic c# august 2017\UROK 2 simple calculation\02 EXAMS - Simple Calculation\02 EXAMS - SC\05 daily profit\obj\Debug\05 daily profit.csproj.CoreCompileInputs.cache
-D:\SOFTUNI\Programming basic c# august 2017\UROK 2 simple calculation\02 EXAMS - Simple Calculation\02 EXAMS - SC\05 daily profit\obj\Debug\05 daily profit.exe
-D:\SOFTUNI\Programming basic c# august 2017\UROK 2 simple calculation\02 EXAMS - Simple Calculation\02 EXAMS - SC\05 daily profit\obj\Debug\05 daily profit.pdb

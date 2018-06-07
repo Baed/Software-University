@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\05 OOP Advanced\01 Interfaces and Abstraction\01 Interfaces and Abstraction\L02 Cars\bin\Debug\L02 Cars.exe.config
-C:\My Staff\SoftUni\05 OOP Advanced\01 Interfaces and Abstraction\01 Interfaces and Abstraction\L02 Cars\bin\Debug\L02 Cars.exe
-C:\My Staff\SoftUni\05 OOP Advanced\01 Interfaces and Abstraction\01 Interfaces and Abstraction\L02 Cars\bin\Debug\L02 Cars.pdb
-C:\My Staff\SoftUni\05 OOP Advanced\01 Interfaces and Abstraction\01 Interfaces and Abstraction\L02 Cars\obj\Debug\L02 Cars.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\05 OOP Advanced\01 Interfaces and Abstraction\01 Interfaces and Abstraction\L02 Cars\obj\Debug\L02 Cars.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\05 OOP Advanced\01 Interfaces and Abstraction\01 Interfaces and Abstraction\L02 Cars\obj\Debug\L02 Cars.exe
-C:\My Staff\SoftUni\05 OOP Advanced\01 Interfaces and Abstraction\01 Interfaces and Abstraction\L02 Cars\obj\Debug\L02 Cars.pdb

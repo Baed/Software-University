@@ -1,6 +1,0 @@
-D:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\03 EXAMS\04 exams\01 non 4\bin\Debug\01 non 4.exe.config
-D:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\03 EXAMS\04 exams\01 non 4\bin\Debug\01 non 4.exe
-D:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\03 EXAMS\04 exams\01 non 4\bin\Debug\01 non 4.pdb
-D:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\03 EXAMS\04 exams\01 non 4\obj\Debug\01 non 4.csproj.CoreCompileInputs.cache
-D:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\03 EXAMS\04 exams\01 non 4\obj\Debug\01 non 4.exe
-D:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\03 EXAMS\04 exams\01 non 4\obj\Debug\01 non 4.pdb

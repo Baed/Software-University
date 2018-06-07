@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\August C# Basics\Challange\06 Programming Basics Exam - 7 May 2017\Challange_7032017\05 Crown\bin\Debug\05 Crown.exe.config
-C:\My Staff\SoftUni\August C# Basics\Challange\06 Programming Basics Exam - 7 May 2017\Challange_7032017\05 Crown\bin\Debug\05 Crown.exe
-C:\My Staff\SoftUni\August C# Basics\Challange\06 Programming Basics Exam - 7 May 2017\Challange_7032017\05 Crown\bin\Debug\05 Crown.pdb
-C:\My Staff\SoftUni\August C# Basics\Challange\06 Programming Basics Exam - 7 May 2017\Challange_7032017\05 Crown\obj\Debug\05 Crown.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\August C# Basics\Challange\06 Programming Basics Exam - 7 May 2017\Challange_7032017\05 Crown\obj\Debug\05 Crown.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\August C# Basics\Challange\06 Programming Basics Exam - 7 May 2017\Challange_7032017\05 Crown\obj\Debug\05 Crown.exe
-C:\My Staff\SoftUni\August C# Basics\Challange\06 Programming Basics Exam - 7 May 2017\Challange_7032017\05 Crown\obj\Debug\05 Crown.pdb

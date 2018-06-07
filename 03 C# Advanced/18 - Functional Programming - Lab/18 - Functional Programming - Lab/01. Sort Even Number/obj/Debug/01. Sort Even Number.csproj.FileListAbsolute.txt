@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\03 C# Advanced\18 - Functional Programming - Lab\18 - Functional Programming - Lab\01. Sort Even Number\bin\Debug\_01.Sort_Even_Number.exe.config
-C:\My Staff\SoftUni\03 C# Advanced\18 - Functional Programming - Lab\18 - Functional Programming - Lab\01. Sort Even Number\bin\Debug\_01.Sort_Even_Number.exe
-C:\My Staff\SoftUni\03 C# Advanced\18 - Functional Programming - Lab\18 - Functional Programming - Lab\01. Sort Even Number\bin\Debug\_01.Sort_Even_Number.pdb
-C:\My Staff\SoftUni\03 C# Advanced\18 - Functional Programming - Lab\18 - Functional Programming - Lab\01. Sort Even Number\obj\Debug\01. Sort Even Number.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\03 C# Advanced\18 - Functional Programming - Lab\18 - Functional Programming - Lab\01. Sort Even Number\obj\Debug\01. Sort Even Number.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\03 C# Advanced\18 - Functional Programming - Lab\18 - Functional Programming - Lab\01. Sort Even Number\obj\Debug\_01.Sort_Even_Number.exe
-C:\My Staff\SoftUni\03 C# Advanced\18 - Functional Programming - Lab\18 - Functional Programming - Lab\01. Sort Even Number\obj\Debug\_01.Sort_Even_Number.pdb

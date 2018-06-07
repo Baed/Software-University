@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\August C# Basics\Challange\05 Programming Basics Exam - 19 March 2017 - Evening\Challange_190317_Evening\05 - Parallelepiped\bin\Debug\05 - Parallelepiped.exe.config
-C:\My Staff\SoftUni\August C# Basics\Challange\05 Programming Basics Exam - 19 March 2017 - Evening\Challange_190317_Evening\05 - Parallelepiped\bin\Debug\05 - Parallelepiped.exe
-C:\My Staff\SoftUni\August C# Basics\Challange\05 Programming Basics Exam - 19 March 2017 - Evening\Challange_190317_Evening\05 - Parallelepiped\bin\Debug\05 - Parallelepiped.pdb
-C:\My Staff\SoftUni\August C# Basics\Challange\05 Programming Basics Exam - 19 March 2017 - Evening\Challange_190317_Evening\05 - Parallelepiped\obj\Debug\05 - Parallelepiped.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\August C# Basics\Challange\05 Programming Basics Exam - 19 March 2017 - Evening\Challange_190317_Evening\05 - Parallelepiped\obj\Debug\05 - Parallelepiped.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\August C# Basics\Challange\05 Programming Basics Exam - 19 March 2017 - Evening\Challange_190317_Evening\05 - Parallelepiped\obj\Debug\05 - Parallelepiped.exe
-C:\My Staff\SoftUni\August C# Basics\Challange\05 Programming Basics Exam - 19 March 2017 - Evening\Challange_190317_Evening\05 - Parallelepiped\obj\Debug\05 - Parallelepiped.pdb

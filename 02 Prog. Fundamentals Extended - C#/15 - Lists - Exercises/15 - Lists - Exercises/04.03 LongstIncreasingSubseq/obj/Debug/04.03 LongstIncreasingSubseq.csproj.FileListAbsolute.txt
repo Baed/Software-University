@@ -1,6 +1,0 @@
-C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\15 - Lists - Exercises\15 - Lists - Exercises\04.03 LongstIncreasingSubseq\bin\Debug\04.03 LongstIncreasingSubseq.exe.config
-C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\15 - Lists - Exercises\15 - Lists - Exercises\04.03 LongstIncreasingSubseq\bin\Debug\04.03 LongstIncreasingSubseq.exe
-C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\15 - Lists - Exercises\15 - Lists - Exercises\04.03 LongstIncreasingSubseq\bin\Debug\04.03 LongstIncreasingSubseq.pdb
-C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\15 - Lists - Exercises\15 - Lists - Exercises\04.03 LongstIncreasingSubseq\obj\Debug\04.03 LongstIncreasingSubseq.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\15 - Lists - Exercises\15 - Lists - Exercises\04.03 LongstIncreasingSubseq\obj\Debug\04.03 LongstIncreasingSubseq.exe
-C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\15 - Lists - Exercises\15 - Lists - Exercises\04.03 LongstIncreasingSubseq\obj\Debug\04.03 LongstIncreasingSubseq.pdb

@@ -1,6 +1,0 @@
-C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\15.01 FastPrimeCheckerRef\obj\Debug\15.01 FastPrimeCheckerRef.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\15.01 FastPrimeCheckerRef\bin\Debug\15.01 FastPrimeCheckerRef.exe.config
-C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\15.01 FastPrimeCheckerRef\bin\Debug\15.01 FastPrimeCheckerRef.exe
-C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\15.01 FastPrimeCheckerRef\bin\Debug\15.01 FastPrimeCheckerRef.pdb
-C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\15.01 FastPrimeCheckerRef\obj\Debug\15.01 FastPrimeCheckerRef.exe
-C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\15.01 FastPrimeCheckerRef\obj\Debug\15.01 FastPrimeCheckerRef.pdb

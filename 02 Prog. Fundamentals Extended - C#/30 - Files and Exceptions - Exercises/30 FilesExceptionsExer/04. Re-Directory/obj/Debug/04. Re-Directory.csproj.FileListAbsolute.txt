@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\30 - Strings and Text Processing - Exercises\30 FilesExceptionsExer\04. Re-Directory\bin\Debug\_04.Re_Directory.exe.config
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\30 - Strings and Text Processing - Exercises\30 FilesExceptionsExer\04. Re-Directory\bin\Debug\_04.Re_Directory.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\30 - Strings and Text Processing - Exercises\30 FilesExceptionsExer\04. Re-Directory\bin\Debug\_04.Re_Directory.pdb
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\30 - Strings and Text Processing - Exercises\30 FilesExceptionsExer\04. Re-Directory\obj\Debug\04. Re-Directory.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\30 - Strings and Text Processing - Exercises\30 FilesExceptionsExer\04. Re-Directory\obj\Debug\04. Re-Directory.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\30 - Strings and Text Processing - Exercises\30 FilesExceptionsExer\04. Re-Directory\obj\Debug\_04.Re_Directory.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\30 - Strings and Text Processing - Exercises\30 FilesExceptionsExer\04. Re-Directory\obj\Debug\_04.Re_Directory.pdb

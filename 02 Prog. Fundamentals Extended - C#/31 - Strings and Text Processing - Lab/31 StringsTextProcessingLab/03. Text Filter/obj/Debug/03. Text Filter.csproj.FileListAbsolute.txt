@@ -1,6 +1,0 @@
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\31 - Strings and Text Processing - Lab\31 StringsTextProcessingLab\03. Text Filter\bin\Debug\_03.Text_Filter.exe.config
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\31 - Strings and Text Processing - Lab\31 StringsTextProcessingLab\03. Text Filter\bin\Debug\_03.Text_Filter.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\31 - Strings and Text Processing - Lab\31 StringsTextProcessingLab\03. Text Filter\bin\Debug\_03.Text_Filter.pdb
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\31 - Strings and Text Processing - Lab\31 StringsTextProcessingLab\03. Text Filter\obj\Debug\03. Text Filter.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\31 - Strings and Text Processing - Lab\31 StringsTextProcessingLab\03. Text Filter\obj\Debug\_03.Text_Filter.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\31 - Strings and Text Processing - Lab\31 StringsTextProcessingLab\03. Text Filter\obj\Debug\_03.Text_Filter.pdb

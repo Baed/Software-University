@@ -1,6 +1,0 @@
-C:\My Staff\SoftUni\August C# Basics\UROK 7 - Advanced loops\01 Scool\07_Advanced_loops\03. Powers of Two\bin\Debug\_03.Powers_of_Two.exe.config
-C:\My Staff\SoftUni\August C# Basics\UROK 7 - Advanced loops\01 Scool\07_Advanced_loops\03. Powers of Two\bin\Debug\_03.Powers_of_Two.exe
-C:\My Staff\SoftUni\August C# Basics\UROK 7 - Advanced loops\01 Scool\07_Advanced_loops\03. Powers of Two\bin\Debug\_03.Powers_of_Two.pdb
-C:\My Staff\SoftUni\August C# Basics\UROK 7 - Advanced loops\01 Scool\07_Advanced_loops\03. Powers of Two\obj\Debug\03. Powers of Two.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\August C# Basics\UROK 7 - Advanced loops\01 Scool\07_Advanced_loops\03. Powers of Two\obj\Debug\_03.Powers_of_Two.exe
-C:\My Staff\SoftUni\August C# Basics\UROK 7 - Advanced loops\01 Scool\07_Advanced_loops\03. Powers of Two\obj\Debug\_03.Powers_of_Two.pdb

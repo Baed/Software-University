@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\05 OOP Advanced\07 SOLID\07 SOLID\E01 Logger\obj\Debug\E01 Logger.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\05 OOP Advanced\07 SOLID\07 SOLID\E01 Logger\obj\Debug\E01 Logger.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\05 OOP Advanced\07 SOLID\07 SOLID\E01 Logger\bin\Debug\E01 Logger.exe.config
-C:\My Staff\SoftUni\05 OOP Advanced\07 SOLID\07 SOLID\E01 Logger\bin\Debug\E01 Logger.exe
-C:\My Staff\SoftUni\05 OOP Advanced\07 SOLID\07 SOLID\E01 Logger\bin\Debug\E01 Logger.pdb
-C:\My Staff\SoftUni\05 OOP Advanced\07 SOLID\07 SOLID\E01 Logger\obj\Debug\E01 Logger.exe
-C:\My Staff\SoftUni\05 OOP Advanced\07 SOLID\07 SOLID\E01 Logger\obj\Debug\E01 Logger.pdb

@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\03 C# Advanced\15 - Regular Expressions - Lab\15 - Regular Expressions - Lab\03. Non-Digit Count\bin\Debug\_03.Non_Digit_Count.exe.config
-C:\My Staff\SoftUni\03 C# Advanced\15 - Regular Expressions - Lab\15 - Regular Expressions - Lab\03. Non-Digit Count\bin\Debug\_03.Non_Digit_Count.exe
-C:\My Staff\SoftUni\03 C# Advanced\15 - Regular Expressions - Lab\15 - Regular Expressions - Lab\03. Non-Digit Count\bin\Debug\_03.Non_Digit_Count.pdb
-C:\My Staff\SoftUni\03 C# Advanced\15 - Regular Expressions - Lab\15 - Regular Expressions - Lab\03. Non-Digit Count\obj\Debug\03. Non-Digit Count.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\03 C# Advanced\15 - Regular Expressions - Lab\15 - Regular Expressions - Lab\03. Non-Digit Count\obj\Debug\03. Non-Digit Count.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\03 C# Advanced\15 - Regular Expressions - Lab\15 - Regular Expressions - Lab\03. Non-Digit Count\obj\Debug\_03.Non_Digit_Count.exe
-C:\My Staff\SoftUni\03 C# Advanced\15 - Regular Expressions - Lab\15 - Regular Expressions - Lab\03. Non-Digit Count\obj\Debug\_03.Non_Digit_Count.pdb

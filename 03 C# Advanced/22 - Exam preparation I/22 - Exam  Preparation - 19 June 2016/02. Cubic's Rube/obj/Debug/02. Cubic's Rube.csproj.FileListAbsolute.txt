@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\03 C# Advanced\22 - Exam preparation I\22 - Exam  Preparation - 19 June 2016\02. Cubic's Rube\bin\Debug\_02.Cubic_s_Rube.exe.config
-C:\My Staff\SoftUni\03 C# Advanced\22 - Exam preparation I\22 - Exam  Preparation - 19 June 2016\02. Cubic's Rube\bin\Debug\_02.Cubic_s_Rube.exe
-C:\My Staff\SoftUni\03 C# Advanced\22 - Exam preparation I\22 - Exam  Preparation - 19 June 2016\02. Cubic's Rube\bin\Debug\_02.Cubic_s_Rube.pdb
-C:\My Staff\SoftUni\03 C# Advanced\22 - Exam preparation I\22 - Exam  Preparation - 19 June 2016\02. Cubic's Rube\obj\Debug\02. Cubic's Rube.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\03 C# Advanced\22 - Exam preparation I\22 - Exam  Preparation - 19 June 2016\02. Cubic's Rube\obj\Debug\02. Cubic's Rube.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\03 C# Advanced\22 - Exam preparation I\22 - Exam  Preparation - 19 June 2016\02. Cubic's Rube\obj\Debug\_02.Cubic_s_Rube.exe
-C:\My Staff\SoftUni\03 C# Advanced\22 - Exam preparation I\22 - Exam  Preparation - 19 June 2016\02. Cubic's Rube\obj\Debug\_02.Cubic_s_Rube.pdb

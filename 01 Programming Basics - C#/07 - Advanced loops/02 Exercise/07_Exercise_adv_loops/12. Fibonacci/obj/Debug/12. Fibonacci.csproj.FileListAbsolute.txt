@@ -1,6 +1,0 @@
-C:\My Staff\SoftUni\August C# Basics\UROK 7 - Advanced loops\02 Exercise\07_Exercise_adv_loops\12. Fibonacci\bin\Debug\_12.Fibonacci.exe.config
-C:\My Staff\SoftUni\August C# Basics\UROK 7 - Advanced loops\02 Exercise\07_Exercise_adv_loops\12. Fibonacci\bin\Debug\_12.Fibonacci.exe
-C:\My Staff\SoftUni\August C# Basics\UROK 7 - Advanced loops\02 Exercise\07_Exercise_adv_loops\12. Fibonacci\bin\Debug\_12.Fibonacci.pdb
-C:\My Staff\SoftUni\August C# Basics\UROK 7 - Advanced loops\02 Exercise\07_Exercise_adv_loops\12. Fibonacci\obj\Debug\12. Fibonacci.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\August C# Basics\UROK 7 - Advanced loops\02 Exercise\07_Exercise_adv_loops\12. Fibonacci\obj\Debug\_12.Fibonacci.exe
-C:\My Staff\SoftUni\August C# Basics\UROK 7 - Advanced loops\02 Exercise\07_Exercise_adv_loops\12. Fibonacci\obj\Debug\_12.Fibonacci.pdb

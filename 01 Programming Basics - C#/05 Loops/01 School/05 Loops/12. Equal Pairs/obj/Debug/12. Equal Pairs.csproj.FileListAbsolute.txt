@@ -1,6 +1,0 @@
-C:\My Staff\SoftUni\August C# Basics\UROK 5 Loops\01 School\05 Loops\12. Equal Pairs\bin\Debug\_12.Equal_Pairs.exe.config
-C:\My Staff\SoftUni\August C# Basics\UROK 5 Loops\01 School\05 Loops\12. Equal Pairs\bin\Debug\_12.Equal_Pairs.exe
-C:\My Staff\SoftUni\August C# Basics\UROK 5 Loops\01 School\05 Loops\12. Equal Pairs\bin\Debug\_12.Equal_Pairs.pdb
-C:\My Staff\SoftUni\August C# Basics\UROK 5 Loops\01 School\05 Loops\12. Equal Pairs\obj\Debug\12. Equal Pairs.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\August C# Basics\UROK 5 Loops\01 School\05 Loops\12. Equal Pairs\obj\Debug\_12.Equal_Pairs.exe
-C:\My Staff\SoftUni\August C# Basics\UROK 5 Loops\01 School\05 Loops\12. Equal Pairs\obj\Debug\_12.Equal_Pairs.pdb

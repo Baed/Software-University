@@ -1,6 +1,0 @@
-C:\My Staff\SoftUni\August C# Basics\Challange\Programming Basics Exam - 20 November 2016 - Evening\Challange 20.nov.16\03. Bike Race\bin\Debug\_03.Bike_Race.exe.config
-C:\My Staff\SoftUni\August C# Basics\Challange\Programming Basics Exam - 20 November 2016 - Evening\Challange 20.nov.16\03. Bike Race\bin\Debug\_03.Bike_Race.exe
-C:\My Staff\SoftUni\August C# Basics\Challange\Programming Basics Exam - 20 November 2016 - Evening\Challange 20.nov.16\03. Bike Race\bin\Debug\_03.Bike_Race.pdb
-C:\My Staff\SoftUni\August C# Basics\Challange\Programming Basics Exam - 20 November 2016 - Evening\Challange 20.nov.16\03. Bike Race\obj\Debug\03. Bike Race.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\August C# Basics\Challange\Programming Basics Exam - 20 November 2016 - Evening\Challange 20.nov.16\03. Bike Race\obj\Debug\_03.Bike_Race.exe
-C:\My Staff\SoftUni\August C# Basics\Challange\Programming Basics Exam - 20 November 2016 - Evening\Challange 20.nov.16\03. Bike Race\obj\Debug\_03.Bike_Race.pdb

@@ -1,6 +1,0 @@
-C:\My Staff\SoftUni\August C# Basics\UROK 6 - Drawing Figures with Loops\01 School\06 Drawing figures with Loops\04 Triangle of Dollars\bin\Debug\04 Triangle of Dollars.exe.config
-C:\My Staff\SoftUni\August C# Basics\UROK 6 - Drawing Figures with Loops\01 School\06 Drawing figures with Loops\04 Triangle of Dollars\bin\Debug\04 Triangle of Dollars.exe
-C:\My Staff\SoftUni\August C# Basics\UROK 6 - Drawing Figures with Loops\01 School\06 Drawing figures with Loops\04 Triangle of Dollars\bin\Debug\04 Triangle of Dollars.pdb
-C:\My Staff\SoftUni\August C# Basics\UROK 6 - Drawing Figures with Loops\01 School\06 Drawing figures with Loops\04 Triangle of Dollars\obj\Debug\04 Triangle of Dollars.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\August C# Basics\UROK 6 - Drawing Figures with Loops\01 School\06 Drawing figures with Loops\04 Triangle of Dollars\obj\Debug\04 Triangle of Dollars.exe
-C:\My Staff\SoftUni\August C# Basics\UROK 6 - Drawing Figures with Loops\01 School\06 Drawing figures with Loops\04 Triangle of Dollars\obj\Debug\04 Triangle of Dollars.pdb

@@ -1,6 +1,0 @@
-C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\10.01 CenturiesToNonosec\bin\Debug\10.01 CenturiesToNonosec.exe.config
-C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\10.01 CenturiesToNonosec\bin\Debug\10.01 CenturiesToNonosec.exe
-C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\10.01 CenturiesToNonosec\bin\Debug\10.01 CenturiesToNonosec.pdb
-C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\10.01 CenturiesToNonosec\obj\Debug\10.01 CenturiesToNonosec.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\10.01 CenturiesToNonosec\obj\Debug\10.01 CenturiesToNonosec.exe
-C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\10.01 CenturiesToNonosec\obj\Debug\10.01 CenturiesToNonosec.pdb

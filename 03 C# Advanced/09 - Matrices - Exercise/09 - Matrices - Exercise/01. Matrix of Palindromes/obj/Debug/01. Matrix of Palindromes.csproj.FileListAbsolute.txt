@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\03 C# Advanced\09 - Matrices - Exercise\09 - Matrices - Exercise\01. Matrix of Palindromes\bin\Debug\_01.Matrix_of_Palindromes.exe.config
-C:\My Staff\SoftUni\03 C# Advanced\09 - Matrices - Exercise\09 - Matrices - Exercise\01. Matrix of Palindromes\bin\Debug\_01.Matrix_of_Palindromes.exe
-C:\My Staff\SoftUni\03 C# Advanced\09 - Matrices - Exercise\09 - Matrices - Exercise\01. Matrix of Palindromes\bin\Debug\_01.Matrix_of_Palindromes.pdb
-C:\My Staff\SoftUni\03 C# Advanced\09 - Matrices - Exercise\09 - Matrices - Exercise\01. Matrix of Palindromes\obj\Debug\01. Matrix of Palindromes.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\03 C# Advanced\09 - Matrices - Exercise\09 - Matrices - Exercise\01. Matrix of Palindromes\obj\Debug\01. Matrix of Palindromes.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\03 C# Advanced\09 - Matrices - Exercise\09 - Matrices - Exercise\01. Matrix of Palindromes\obj\Debug\_01.Matrix_of_Palindromes.exe
-C:\My Staff\SoftUni\03 C# Advanced\09 - Matrices - Exercise\09 - Matrices - Exercise\01. Matrix of Palindromes\obj\Debug\_01.Matrix_of_Palindromes.pdb

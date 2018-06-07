@@ -1,6 +1,0 @@
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\34 - Regular Expressions (RegEx) - Lab\34 - RegEx - Lab\03. Match Hexadecimal Numbers\bin\Debug\_03.Match_Hexadecimal_Numbers.exe.config
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\34 - Regular Expressions (RegEx) - Lab\34 - RegEx - Lab\03. Match Hexadecimal Numbers\bin\Debug\_03.Match_Hexadecimal_Numbers.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\34 - Regular Expressions (RegEx) - Lab\34 - RegEx - Lab\03. Match Hexadecimal Numbers\bin\Debug\_03.Match_Hexadecimal_Numbers.pdb
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\34 - Regular Expressions (RegEx) - Lab\34 - RegEx - Lab\03. Match Hexadecimal Numbers\obj\Debug\03. Match Hexadecimal Numbers.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\34 - Regular Expressions (RegEx) - Lab\34 - RegEx - Lab\03. Match Hexadecimal Numbers\obj\Debug\_03.Match_Hexadecimal_Numbers.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\34 - Regular Expressions (RegEx) - Lab\34 - RegEx - Lab\03. Match Hexadecimal Numbers\obj\Debug\_03.Match_Hexadecimal_Numbers.pdb

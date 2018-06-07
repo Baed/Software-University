@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\03 C# Advanced\06 - Sets and Dictionaries - Exercise\06 - Sets and DictionariesExercise\12. Legendary Farming\bin\Debug\_12.Legendary_Farming.exe.config
-C:\My Staff\SoftUni\03 C# Advanced\06 - Sets and Dictionaries - Exercise\06 - Sets and DictionariesExercise\12. Legendary Farming\bin\Debug\_12.Legendary_Farming.exe
-C:\My Staff\SoftUni\03 C# Advanced\06 - Sets and Dictionaries - Exercise\06 - Sets and DictionariesExercise\12. Legendary Farming\bin\Debug\_12.Legendary_Farming.pdb
-C:\My Staff\SoftUni\03 C# Advanced\06 - Sets and Dictionaries - Exercise\06 - Sets and DictionariesExercise\12. Legendary Farming\obj\Debug\12. Legendary Farming.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\03 C# Advanced\06 - Sets and Dictionaries - Exercise\06 - Sets and DictionariesExercise\12. Legendary Farming\obj\Debug\12. Legendary Farming.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\03 C# Advanced\06 - Sets and Dictionaries - Exercise\06 - Sets and DictionariesExercise\12. Legendary Farming\obj\Debug\_12.Legendary_Farming.exe
-C:\My Staff\SoftUni\03 C# Advanced\06 - Sets and Dictionaries - Exercise\06 - Sets and DictionariesExercise\12. Legendary Farming\obj\Debug\_12.Legendary_Farming.pdb

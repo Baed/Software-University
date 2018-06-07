@@ -1,3 +1,0 @@
-C:\Users\Jamal\Documents\Visual Studio 2013\Projects\StreamsSandbox\Stream-Writer\bin\Debug\Stream-Writer.exe.config
-C:\Users\Jamal\Documents\Visual Studio 2013\Projects\StreamsSandbox\Stream-Writer\obj\Debug\Stream-Writer.exe
-C:\Users\Jamal\Documents\Visual Studio 2013\Projects\StreamsSandbox\Stream-Writer\obj\Debug\Stream-Writer.pdb

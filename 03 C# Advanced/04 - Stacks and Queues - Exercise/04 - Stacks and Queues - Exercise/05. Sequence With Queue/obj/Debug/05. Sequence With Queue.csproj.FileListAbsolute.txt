@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\03 C# Advanced\04 - Stacks and Queues - Exercise\04 - Stacks and Queues - Exercise\05. Sequence With Queue\bin\Debug\_05.Sequence_With_Queue.exe.config
-C:\My Staff\SoftUni\03 C# Advanced\04 - Stacks and Queues - Exercise\04 - Stacks and Queues - Exercise\05. Sequence With Queue\bin\Debug\_05.Sequence_With_Queue.exe
-C:\My Staff\SoftUni\03 C# Advanced\04 - Stacks and Queues - Exercise\04 - Stacks and Queues - Exercise\05. Sequence With Queue\bin\Debug\_05.Sequence_With_Queue.pdb
-C:\My Staff\SoftUni\03 C# Advanced\04 - Stacks and Queues - Exercise\04 - Stacks and Queues - Exercise\05. Sequence With Queue\obj\Debug\05. Sequence With Queue.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\03 C# Advanced\04 - Stacks and Queues - Exercise\04 - Stacks and Queues - Exercise\05. Sequence With Queue\obj\Debug\05. Sequence With Queue.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\03 C# Advanced\04 - Stacks and Queues - Exercise\04 - Stacks and Queues - Exercise\05. Sequence With Queue\obj\Debug\_05.Sequence_With_Queue.exe
-C:\My Staff\SoftUni\03 C# Advanced\04 - Stacks and Queues - Exercise\04 - Stacks and Queues - Exercise\05. Sequence With Queue\obj\Debug\_05.Sequence_With_Queue.pdb

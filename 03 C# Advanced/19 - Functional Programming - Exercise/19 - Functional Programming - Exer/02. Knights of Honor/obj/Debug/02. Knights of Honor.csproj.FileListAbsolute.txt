@@ -1,6 +1,0 @@
-C:\My Staff\SoftUni\03 C# Advanced\19 - Functional Programming - Exercise\19 - Functional Programming - Exer\02. Knights of Honor\bin\Debug\_02.Knights_of_Honor.exe.config
-C:\My Staff\SoftUni\03 C# Advanced\19 - Functional Programming - Exercise\19 - Functional Programming - Exer\02. Knights of Honor\bin\Debug\_02.Knights_of_Honor.exe
-C:\My Staff\SoftUni\03 C# Advanced\19 - Functional Programming - Exercise\19 - Functional Programming - Exer\02. Knights of Honor\bin\Debug\_02.Knights_of_Honor.pdb
-C:\My Staff\SoftUni\03 C# Advanced\19 - Functional Programming - Exercise\19 - Functional Programming - Exer\02. Knights of Honor\obj\Debug\02. Knights of Honor.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\03 C# Advanced\19 - Functional Programming - Exercise\19 - Functional Programming - Exer\02. Knights of Honor\obj\Debug\_02.Knights_of_Honor.exe
-C:\My Staff\SoftUni\03 C# Advanced\19 - Functional Programming - Exercise\19 - Functional Programming - Exer\02. Knights of Honor\obj\Debug\_02.Knights_of_Honor.pdb

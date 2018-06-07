@@ -1,8 +1,0 @@
-C:\My Staff\SoftUni\04 OOP Basic\04 Polymorphism\04 Polymorphism\L02 Animals\bin\Debug\L02 Animals.exe.config
-C:\My Staff\SoftUni\04 OOP Basic\04 Polymorphism\04 Polymorphism\L02 Animals\bin\Debug\L02 Animals.exe
-C:\My Staff\SoftUni\04 OOP Basic\04 Polymorphism\04 Polymorphism\L02 Animals\bin\Debug\L02 Animals.pdb
-C:\My Staff\SoftUni\04 OOP Basic\04 Polymorphism\04 Polymorphism\L02 Animals\obj\Debug\L02 Animals.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\04 OOP Basic\04 Polymorphism\04 Polymorphism\L02 Animals\obj\Debug\L02 Animals.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\04 OOP Basic\04 Polymorphism\04 Polymorphism\L02 Animals\obj\Debug\L02 Animals.exe
-C:\My Staff\SoftUni\04 OOP Basic\04 Polymorphism\04 Polymorphism\L02 Animals\obj\Debug\L02 Animals.pdb
-C:\My Staff\SoftUni\04 OOP Basic\04 Polymorphism\04 Polymorphism\L02 Animals\bin\Debug\Aspose.Diagram.dll

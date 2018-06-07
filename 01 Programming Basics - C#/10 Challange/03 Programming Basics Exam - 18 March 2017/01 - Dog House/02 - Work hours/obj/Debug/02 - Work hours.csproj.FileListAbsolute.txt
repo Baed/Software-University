@@ -1,6 +1,0 @@
-C:\My Staff\SoftUni\August C# Basics\Challange\03 Programming Basics Exam - 18 March 2017\01 - Dog House\02 - Work hours\bin\Debug\02 - Work hours.exe.config
-C:\My Staff\SoftUni\August C# Basics\Challange\03 Programming Basics Exam - 18 March 2017\01 - Dog House\02 - Work hours\bin\Debug\02 - Work hours.exe
-C:\My Staff\SoftUni\August C# Basics\Challange\03 Programming Basics Exam - 18 March 2017\01 - Dog House\02 - Work hours\bin\Debug\02 - Work hours.pdb
-C:\My Staff\SoftUni\August C# Basics\Challange\03 Programming Basics Exam - 18 March 2017\01 - Dog House\02 - Work hours\obj\Debug\02 - Work hours.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\August C# Basics\Challange\03 Programming Basics Exam - 18 March 2017\01 - Dog House\02 - Work hours\obj\Debug\02 - Work hours.exe
-C:\My Staff\SoftUni\August C# Basics\Challange\03 Programming Basics Exam - 18 March 2017\01 - Dog House\02 - Work hours\obj\Debug\02 - Work hours.pdb

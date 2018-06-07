@@ -1,6 +1,0 @@
-D:\SOFTUNI\UROK 2\13 lice na triugulnik sus zakruglqne\13 lice na triugulnik sus zakruglqne\obj\Debug\13 lice na triugulnik sus zakruglqne.csproj.CoreCompileInputs.cache
-D:\SOFTUNI\UROK 2\13 lice na triugulnik sus zakruglqne\13 lice na triugulnik sus zakruglqne\bin\Debug\13 lice na triugulnik sus zakruglqne.exe.config
-D:\SOFTUNI\UROK 2\13 lice na triugulnik sus zakruglqne\13 lice na triugulnik sus zakruglqne\bin\Debug\13 lice na triugulnik sus zakruglqne.exe
-D:\SOFTUNI\UROK 2\13 lice na triugulnik sus zakruglqne\13 lice na triugulnik sus zakruglqne\bin\Debug\13 lice na triugulnik sus zakruglqne.pdb
-D:\SOFTUNI\UROK 2\13 lice na triugulnik sus zakruglqne\13 lice na triugulnik sus zakruglqne\obj\Debug\13 lice na triugulnik sus zakruglqne.exe
-D:\SOFTUNI\UROK 2\13 lice na triugulnik sus zakruglqne\13 lice na triugulnik sus zakruglqne\obj\Debug\13 lice na triugulnik sus zakruglqne.pdb

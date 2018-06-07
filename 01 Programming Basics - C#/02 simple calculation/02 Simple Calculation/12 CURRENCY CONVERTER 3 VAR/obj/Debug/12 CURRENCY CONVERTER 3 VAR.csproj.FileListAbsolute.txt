@@ -1,6 +1,0 @@
-D:\SOFTUNI\Programming basic c# august 2017\UROK 2 simple calculation\02 Simple Calculation\12 CURRENCY CONVERTER 3 VAR\obj\Debug\12 CURRENCY CONVERTER 3 VAR.csproj.CoreCompileInputs.cache
-D:\SOFTUNI\Programming basic c# august 2017\UROK 2 simple calculation\02 Simple Calculation\12 CURRENCY CONVERTER 3 VAR\bin\Debug\12 CURRENCY CONVERTER 3 VAR.exe.config
-D:\SOFTUNI\Programming basic c# august 2017\UROK 2 simple calculation\02 Simple Calculation\12 CURRENCY CONVERTER 3 VAR\bin\Debug\12 CURRENCY CONVERTER 3 VAR.exe
-D:\SOFTUNI\Programming basic c# august 2017\UROK 2 simple calculation\02 Simple Calculation\12 CURRENCY CONVERTER 3 VAR\bin\Debug\12 CURRENCY CONVERTER 3 VAR.pdb
-D:\SOFTUNI\Programming basic c# august 2017\UROK 2 simple calculation\02 Simple Calculation\12 CURRENCY CONVERTER 3 VAR\obj\Debug\12 CURRENCY CONVERTER 3 VAR.exe
-D:\SOFTUNI\Programming basic c# august 2017\UROK 2 simple calculation\02 Simple Calculation\12 CURRENCY CONVERTER 3 VAR\obj\Debug\12 CURRENCY CONVERTER 3 VAR.pdb

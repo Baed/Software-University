@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\17.01 PrintPartOfACIITabl\bin\Debug\17.01 PrintPartOfACIITabl.exe.config
-C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\17.01 PrintPartOfACIITabl\bin\Debug\17.01 PrintPartOfACIITabl.exe
-C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\17.01 PrintPartOfACIITabl\bin\Debug\17.01 PrintPartOfACIITabl.pdb
-C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\17.01 PrintPartOfACIITabl\obj\Debug\17.01 PrintPartOfACIITabl.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\17.01 PrintPartOfACIITabl\obj\Debug\17.01 PrintPartOfACIITabl.exe
-C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\17.01 PrintPartOfACIITabl\obj\Debug\17.01 PrintPartOfACIITabl.pdb
-C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\17.01 PrintPartOfACIITabl\obj\Debug\17.01 PrintPartOfACIITabl.csprojResolveAssemblyReference.cache

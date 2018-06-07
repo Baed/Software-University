@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\03 C# Advanced\20 - Built-in Query methods - LINQ - Lab\20 -LINQ - Lab\05. Min Even Number\bin\Debug\_05.Min_Even_Number.exe.config
-C:\My Staff\SoftUni\03 C# Advanced\20 - Built-in Query methods - LINQ - Lab\20 -LINQ - Lab\05. Min Even Number\bin\Debug\_05.Min_Even_Number.exe
-C:\My Staff\SoftUni\03 C# Advanced\20 - Built-in Query methods - LINQ - Lab\20 -LINQ - Lab\05. Min Even Number\bin\Debug\_05.Min_Even_Number.pdb
-C:\My Staff\SoftUni\03 C# Advanced\20 - Built-in Query methods - LINQ - Lab\20 -LINQ - Lab\05. Min Even Number\obj\Debug\05. Min Even Number.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\03 C# Advanced\20 - Built-in Query methods - LINQ - Lab\20 -LINQ - Lab\05. Min Even Number\obj\Debug\05. Min Even Number.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\03 C# Advanced\20 - Built-in Query methods - LINQ - Lab\20 -LINQ - Lab\05. Min Even Number\obj\Debug\_05.Min_Even_Number.exe
-C:\My Staff\SoftUni\03 C# Advanced\20 - Built-in Query methods - LINQ - Lab\20 -LINQ - Lab\05. Min Even Number\obj\Debug\_05.Min_Even_Number.pdb

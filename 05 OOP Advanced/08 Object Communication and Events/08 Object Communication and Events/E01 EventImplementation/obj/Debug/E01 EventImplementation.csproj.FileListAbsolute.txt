@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\05 OOP Advanced\08 Object Communication and Events\08 Object Communication and Events\E01 EventImplementation\bin\Debug\E01 EventImplementation.exe.config
-C:\My Staff\SoftUni\05 OOP Advanced\08 Object Communication and Events\08 Object Communication and Events\E01 EventImplementation\bin\Debug\E01 EventImplementation.exe
-C:\My Staff\SoftUni\05 OOP Advanced\08 Object Communication and Events\08 Object Communication and Events\E01 EventImplementation\bin\Debug\E01 EventImplementation.pdb
-C:\My Staff\SoftUni\05 OOP Advanced\08 Object Communication and Events\08 Object Communication and Events\E01 EventImplementation\obj\Debug\E01 EventImplementation.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\05 OOP Advanced\08 Object Communication and Events\08 Object Communication and Events\E01 EventImplementation\obj\Debug\E01 EventImplementation.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\05 OOP Advanced\08 Object Communication and Events\08 Object Communication and Events\E01 EventImplementation\obj\Debug\E01 EventImplementation.exe
-C:\My Staff\SoftUni\05 OOP Advanced\08 Object Communication and Events\08 Object Communication and Events\E01 EventImplementation\obj\Debug\E01 EventImplementation.pdb

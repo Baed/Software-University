@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\August C# Basics\Challange\03 Programming Basics Exam - 18 March 2017\01 - Dog House\05 - SoftUni Logo\bin\Debug\05 - SoftUni Logo.exe.config
-C:\My Staff\SoftUni\August C# Basics\Challange\03 Programming Basics Exam - 18 March 2017\01 - Dog House\05 - SoftUni Logo\bin\Debug\05 - SoftUni Logo.exe
-C:\My Staff\SoftUni\August C# Basics\Challange\03 Programming Basics Exam - 18 March 2017\01 - Dog House\05 - SoftUni Logo\bin\Debug\05 - SoftUni Logo.pdb
-C:\My Staff\SoftUni\August C# Basics\Challange\03 Programming Basics Exam - 18 March 2017\01 - Dog House\05 - SoftUni Logo\obj\Debug\05 - SoftUni Logo.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\August C# Basics\Challange\03 Programming Basics Exam - 18 March 2017\01 - Dog House\05 - SoftUni Logo\obj\Debug\05 - SoftUni Logo.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\August C# Basics\Challange\03 Programming Basics Exam - 18 March 2017\01 - Dog House\05 - SoftUni Logo\obj\Debug\05 - SoftUni Logo.exe
-C:\My Staff\SoftUni\August C# Basics\Challange\03 Programming Basics Exam - 18 March 2017\01 - Dog House\05 - SoftUni Logo\obj\Debug\05 - SoftUni Logo.pdb

@@ -1,6 +1,0 @@
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\18 - Array and List Algorithms - Exercises\18 ArrayAndListAlgorithms\05. DecodeRadioFrequencies\bin\Debug\_05.DecodeRadioFrequencies.exe.config
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\18 - Array and List Algorithms - Exercises\18 ArrayAndListAlgorithms\05. DecodeRadioFrequencies\bin\Debug\_05.DecodeRadioFrequencies.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\18 - Array and List Algorithms - Exercises\18 ArrayAndListAlgorithms\05. DecodeRadioFrequencies\bin\Debug\_05.DecodeRadioFrequencies.pdb
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\18 - Array and List Algorithms - Exercises\18 ArrayAndListAlgorithms\05. DecodeRadioFrequencies\obj\Debug\05. DecodeRadioFrequencies.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\18 - Array and List Algorithms - Exercises\18 ArrayAndListAlgorithms\05. DecodeRadioFrequencies\obj\Debug\_05.DecodeRadioFrequencies.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\18 - Array and List Algorithms - Exercises\18 ArrayAndListAlgorithms\05. DecodeRadioFrequencies\obj\Debug\_05.DecodeRadioFrequencies.pdb

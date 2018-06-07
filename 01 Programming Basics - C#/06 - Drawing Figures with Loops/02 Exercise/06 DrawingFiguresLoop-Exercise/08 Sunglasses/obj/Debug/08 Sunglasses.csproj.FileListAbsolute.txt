@@ -1,6 +1,0 @@
-C:\My Staff\SoftUni\August C# Basics\UROK 6 - Drawing Figures with Loops\02 Exercise\06 DrawingFiguresLoop-Exercise\08 Sunglasses\bin\Debug\08 Sunglasses.exe.config
-C:\My Staff\SoftUni\August C# Basics\UROK 6 - Drawing Figures with Loops\02 Exercise\06 DrawingFiguresLoop-Exercise\08 Sunglasses\bin\Debug\08 Sunglasses.exe
-C:\My Staff\SoftUni\August C# Basics\UROK 6 - Drawing Figures with Loops\02 Exercise\06 DrawingFiguresLoop-Exercise\08 Sunglasses\bin\Debug\08 Sunglasses.pdb
-C:\My Staff\SoftUni\August C# Basics\UROK 6 - Drawing Figures with Loops\02 Exercise\06 DrawingFiguresLoop-Exercise\08 Sunglasses\obj\Debug\08 Sunglasses.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\August C# Basics\UROK 6 - Drawing Figures with Loops\02 Exercise\06 DrawingFiguresLoop-Exercise\08 Sunglasses\obj\Debug\08 Sunglasses.exe
-C:\My Staff\SoftUni\August C# Basics\UROK 6 - Drawing Figures with Loops\02 Exercise\06 DrawingFiguresLoop-Exercise\08 Sunglasses\obj\Debug\08 Sunglasses.pdb

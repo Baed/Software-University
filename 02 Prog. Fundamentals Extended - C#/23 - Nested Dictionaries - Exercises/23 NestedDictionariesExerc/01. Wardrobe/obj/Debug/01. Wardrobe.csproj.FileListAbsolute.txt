@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\23 - Nested Dictionaries - Exercises\23 NestedDictionariesExerc\01. Wardrobe\bin\Debug\_01.Wardrobe.exe.config
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\23 - Nested Dictionaries - Exercises\23 NestedDictionariesExerc\01. Wardrobe\bin\Debug\_01.Wardrobe.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\23 - Nested Dictionaries - Exercises\23 NestedDictionariesExerc\01. Wardrobe\bin\Debug\_01.Wardrobe.pdb
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\23 - Nested Dictionaries - Exercises\23 NestedDictionariesExerc\01. Wardrobe\obj\Debug\01. Wardrobe.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\23 - Nested Dictionaries - Exercises\23 NestedDictionariesExerc\01. Wardrobe\obj\Debug\01. Wardrobe.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\23 - Nested Dictionaries - Exercises\23 NestedDictionariesExerc\01. Wardrobe\obj\Debug\_01.Wardrobe.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\23 - Nested Dictionaries - Exercises\23 NestedDictionariesExerc\01. Wardrobe\obj\Debug\_01.Wardrobe.pdb

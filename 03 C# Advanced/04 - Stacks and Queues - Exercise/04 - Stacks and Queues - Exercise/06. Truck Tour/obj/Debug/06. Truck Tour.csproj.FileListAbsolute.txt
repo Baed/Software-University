@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\03 C# Advanced\04 - Stacks and Queues - Exercise\04 - Stacks and Queues - Exercise\06. Truck Tour\bin\Debug\_06.Truck_Tour.exe.config
-C:\My Staff\SoftUni\03 C# Advanced\04 - Stacks and Queues - Exercise\04 - Stacks and Queues - Exercise\06. Truck Tour\bin\Debug\_06.Truck_Tour.exe
-C:\My Staff\SoftUni\03 C# Advanced\04 - Stacks and Queues - Exercise\04 - Stacks and Queues - Exercise\06. Truck Tour\bin\Debug\_06.Truck_Tour.pdb
-C:\My Staff\SoftUni\03 C# Advanced\04 - Stacks and Queues - Exercise\04 - Stacks and Queues - Exercise\06. Truck Tour\obj\Debug\06. Truck Tour.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\03 C# Advanced\04 - Stacks and Queues - Exercise\04 - Stacks and Queues - Exercise\06. Truck Tour\obj\Debug\06. Truck Tour.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\03 C# Advanced\04 - Stacks and Queues - Exercise\04 - Stacks and Queues - Exercise\06. Truck Tour\obj\Debug\_06.Truck_Tour.exe
-C:\My Staff\SoftUni\03 C# Advanced\04 - Stacks and Queues - Exercise\04 - Stacks and Queues - Exercise\06. Truck Tour\obj\Debug\_06.Truck_Tour.pdb

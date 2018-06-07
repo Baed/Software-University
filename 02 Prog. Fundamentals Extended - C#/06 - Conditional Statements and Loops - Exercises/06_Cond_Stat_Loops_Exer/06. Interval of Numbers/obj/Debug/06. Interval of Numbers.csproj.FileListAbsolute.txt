@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\06 - Conditional Statements and Loops - Exercises\06_Cond_Stat_Loops_Exer\06. Interval of Numbers\bin\Debug\_06.Interval_of_Numbers.exe.config
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\06 - Conditional Statements and Loops - Exercises\06_Cond_Stat_Loops_Exer\06. Interval of Numbers\bin\Debug\_06.Interval_of_Numbers.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\06 - Conditional Statements and Loops - Exercises\06_Cond_Stat_Loops_Exer\06. Interval of Numbers\bin\Debug\_06.Interval_of_Numbers.pdb
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\06 - Conditional Statements and Loops - Exercises\06_Cond_Stat_Loops_Exer\06. Interval of Numbers\obj\Debug\06. Interval of Numbers.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\06 - Conditional Statements and Loops - Exercises\06_Cond_Stat_Loops_Exer\06. Interval of Numbers\obj\Debug\06. Interval of Numbers.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\06 - Conditional Statements and Loops - Exercises\06_Cond_Stat_Loops_Exer\06. Interval of Numbers\obj\Debug\_06.Interval_of_Numbers.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\06 - Conditional Statements and Loops - Exercises\06_Cond_Stat_Loops_Exer\06. Interval of Numbers\obj\Debug\_06.Interval_of_Numbers.pdb

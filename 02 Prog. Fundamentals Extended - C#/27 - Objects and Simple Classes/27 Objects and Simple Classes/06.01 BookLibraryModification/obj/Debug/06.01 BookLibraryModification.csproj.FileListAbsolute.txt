@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\27 - Objects and Simple Classes\27 Objects and Simple Classes\06.01 BookLibraryModification\bin\Debug\06.01 BookLibraryModification.exe.config
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\27 - Objects and Simple Classes\27 Objects and Simple Classes\06.01 BookLibraryModification\bin\Debug\06.01 BookLibraryModification.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\27 - Objects and Simple Classes\27 Objects and Simple Classes\06.01 BookLibraryModification\bin\Debug\06.01 BookLibraryModification.pdb
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\27 - Objects and Simple Classes\27 Objects and Simple Classes\06.01 BookLibraryModification\obj\Debug\06.01 BookLibraryModification.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\27 - Objects and Simple Classes\27 Objects and Simple Classes\06.01 BookLibraryModification\obj\Debug\06.01 BookLibraryModification.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\27 - Objects and Simple Classes\27 Objects and Simple Classes\06.01 BookLibraryModification\obj\Debug\06.01 BookLibraryModification.pdb
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\27 - Objects and Simple Classes\27 Objects and Simple Classes\06.01 BookLibraryModification\obj\Debug\06.01 BookLibraryModification.csprojResolveAssemblyReference.cache

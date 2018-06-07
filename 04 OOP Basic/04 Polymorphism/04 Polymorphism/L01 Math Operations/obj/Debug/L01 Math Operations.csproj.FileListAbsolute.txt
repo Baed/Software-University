@@ -1,8 +1,0 @@
-C:\My Staff\SoftUni\04 OOP Basic\04 Polymorphism\04 Polymorphism\L01 Math Operations\bin\Debug\L01 Math Operations.exe.config
-C:\My Staff\SoftUni\04 OOP Basic\04 Polymorphism\04 Polymorphism\L01 Math Operations\bin\Debug\L01 Math Operations.exe
-C:\My Staff\SoftUni\04 OOP Basic\04 Polymorphism\04 Polymorphism\L01 Math Operations\bin\Debug\L01 Math Operations.pdb
-C:\My Staff\SoftUni\04 OOP Basic\04 Polymorphism\04 Polymorphism\L01 Math Operations\obj\Debug\L01 Math Operations.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\04 OOP Basic\04 Polymorphism\04 Polymorphism\L01 Math Operations\obj\Debug\L01 Math Operations.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\04 OOP Basic\04 Polymorphism\04 Polymorphism\L01 Math Operations\obj\Debug\L01 Math Operations.exe
-C:\My Staff\SoftUni\04 OOP Basic\04 Polymorphism\04 Polymorphism\L01 Math Operations\obj\Debug\L01 Math Operations.pdb
-C:\My Staff\SoftUni\04 OOP Basic\04 Polymorphism\04 Polymorphism\L01 Math Operations\bin\Debug\Aspose.Diagram.dll

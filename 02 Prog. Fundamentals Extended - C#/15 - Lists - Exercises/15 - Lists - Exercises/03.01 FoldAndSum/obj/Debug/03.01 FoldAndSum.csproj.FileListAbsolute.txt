@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\15 - Lists - Exercises\15 - Lists - Exercises\03.01 FoldAndSum\bin\Debug\03.01 FoldAndSum.exe.config
-C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\15 - Lists - Exercises\15 - Lists - Exercises\03.01 FoldAndSum\bin\Debug\03.01 FoldAndSum.exe
-C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\15 - Lists - Exercises\15 - Lists - Exercises\03.01 FoldAndSum\bin\Debug\03.01 FoldAndSum.pdb
-C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\15 - Lists - Exercises\15 - Lists - Exercises\03.01 FoldAndSum\obj\Debug\03.01 FoldAndSum.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\15 - Lists - Exercises\15 - Lists - Exercises\03.01 FoldAndSum\obj\Debug\03.01 FoldAndSum.exe
-C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\15 - Lists - Exercises\15 - Lists - Exercises\03.01 FoldAndSum\obj\Debug\03.01 FoldAndSum.pdb
-C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\15 - Lists - Exercises\15 - Lists - Exercises\03.01 FoldAndSum\obj\Debug\03.01 FoldAndSum.csprojResolveAssemblyReference.cache

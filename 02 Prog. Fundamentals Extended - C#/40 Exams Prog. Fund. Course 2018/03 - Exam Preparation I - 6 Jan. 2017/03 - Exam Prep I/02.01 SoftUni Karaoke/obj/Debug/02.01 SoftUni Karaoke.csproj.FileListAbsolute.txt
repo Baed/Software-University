@@ -1,6 +1,0 @@
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\03 - Exam Preparation I\03 - Exam Prep I\02.01 SoftUni Karaoke\bin\Debug\02.01 SoftUni Karaoke.exe.config
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\03 - Exam Preparation I\03 - Exam Prep I\02.01 SoftUni Karaoke\bin\Debug\02.01 SoftUni Karaoke.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\03 - Exam Preparation I\03 - Exam Prep I\02.01 SoftUni Karaoke\bin\Debug\02.01 SoftUni Karaoke.pdb
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\03 - Exam Preparation I\03 - Exam Prep I\02.01 SoftUni Karaoke\obj\Debug\02.01 SoftUni Karaoke.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\03 - Exam Preparation I\03 - Exam Prep I\02.01 SoftUni Karaoke\obj\Debug\02.01 SoftUni Karaoke.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\03 - Exam Preparation I\03 - Exam Prep I\02.01 SoftUni Karaoke\obj\Debug\02.01 SoftUni Karaoke.pdb

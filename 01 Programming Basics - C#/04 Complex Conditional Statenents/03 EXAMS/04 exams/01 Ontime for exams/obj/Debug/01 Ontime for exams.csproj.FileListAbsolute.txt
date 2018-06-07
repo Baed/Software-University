@@ -1,7 +1,0 @@
-D:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\03 EXAMS\04 exams\01 Ontime for exams\bin\Debug\01 Ontime for exams.exe.config
-D:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\03 EXAMS\04 exams\01 Ontime for exams\bin\Debug\01 Ontime for exams.exe
-D:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\03 EXAMS\04 exams\01 Ontime for exams\bin\Debug\01 Ontime for exams.pdb
-D:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\03 EXAMS\04 exams\01 Ontime for exams\obj\Debug\01 Ontime for exams.csprojResolveAssemblyReference.cache
-D:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\03 EXAMS\04 exams\01 Ontime for exams\obj\Debug\01 Ontime for exams.csproj.CoreCompileInputs.cache
-D:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\03 EXAMS\04 exams\01 Ontime for exams\obj\Debug\01 Ontime for exams.exe
-D:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\03 EXAMS\04 exams\01 Ontime for exams\obj\Debug\01 Ontime for exams.pdb

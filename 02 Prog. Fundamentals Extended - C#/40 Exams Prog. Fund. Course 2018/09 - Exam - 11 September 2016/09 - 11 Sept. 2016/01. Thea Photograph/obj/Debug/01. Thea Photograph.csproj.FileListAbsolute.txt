@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\09 - Exam - 11 September 2016\09 - 11 Sept. 2016\01. Thea Photograph\bin\Debug\_01.Thea_Photograph.exe.config
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\09 - Exam - 11 September 2016\09 - 11 Sept. 2016\01. Thea Photograph\bin\Debug\_01.Thea_Photograph.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\09 - Exam - 11 September 2016\09 - 11 Sept. 2016\01. Thea Photograph\bin\Debug\_01.Thea_Photograph.pdb
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\09 - Exam - 11 September 2016\09 - 11 Sept. 2016\01. Thea Photograph\obj\Debug\01. Thea Photograph.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\09 - Exam - 11 September 2016\09 - 11 Sept. 2016\01. Thea Photograph\obj\Debug\01. Thea Photograph.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\09 - Exam - 11 September 2016\09 - 11 Sept. 2016\01. Thea Photograph\obj\Debug\_01.Thea_Photograph.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\09 - Exam - 11 September 2016\09 - 11 Sept. 2016\01. Thea Photograph\obj\Debug\_01.Thea_Photograph.pdb

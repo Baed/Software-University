@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\27 - Objects and Simple Classes\27 Objects and Simple Classes\10.01 StudentGroups\bin\Debug\10.01 StudentGroups.exe.config
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\27 - Objects and Simple Classes\27 Objects and Simple Classes\10.01 StudentGroups\bin\Debug\10.01 StudentGroups.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\27 - Objects and Simple Classes\27 Objects and Simple Classes\10.01 StudentGroups\bin\Debug\10.01 StudentGroups.pdb
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\27 - Objects and Simple Classes\27 Objects and Simple Classes\10.01 StudentGroups\obj\Debug\10.01 StudentGroups.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\27 - Objects and Simple Classes\27 Objects and Simple Classes\10.01 StudentGroups\obj\Debug\10.01 StudentGroups.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\27 - Objects and Simple Classes\27 Objects and Simple Classes\10.01 StudentGroups\obj\Debug\10.01 StudentGroups.pdb
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\27 - Objects and Simple Classes\27 Objects and Simple Classes\10.01 StudentGroups\obj\Debug\10.01 StudentGroups.csprojResolveAssemblyReference.cache

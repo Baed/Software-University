@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\21 - Dictionaries - Exercises\21 - Dictionaries - Exercises\02.02 PhoneBkUpgrade\bin\Debug\02.02 PhoneBkUpgrade.exe.config
-C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\21 - Dictionaries - Exercises\21 - Dictionaries - Exercises\02.02 PhoneBkUpgrade\bin\Debug\02.02 PhoneBkUpgrade.exe
-C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\21 - Dictionaries - Exercises\21 - Dictionaries - Exercises\02.02 PhoneBkUpgrade\bin\Debug\02.02 PhoneBkUpgrade.pdb
-C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\21 - Dictionaries - Exercises\21 - Dictionaries - Exercises\02.02 PhoneBkUpgrade\obj\Debug\02.02 PhoneBkUpgrade.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\21 - Dictionaries - Exercises\21 - Dictionaries - Exercises\02.02 PhoneBkUpgrade\obj\Debug\02.02 PhoneBkUpgrade.exe
-C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\21 - Dictionaries - Exercises\21 - Dictionaries - Exercises\02.02 PhoneBkUpgrade\obj\Debug\02.02 PhoneBkUpgrade.pdb
-C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\21 - Dictionaries - Exercises\21 - Dictionaries - Exercises\02.02 PhoneBkUpgrade\obj\Debug\02.02 PhoneBkUpgrade.csprojResolveAssemblyReference.cache

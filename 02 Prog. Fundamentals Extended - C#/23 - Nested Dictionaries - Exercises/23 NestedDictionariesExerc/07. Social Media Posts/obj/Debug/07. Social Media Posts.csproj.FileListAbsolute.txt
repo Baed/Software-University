@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\23 - Nested Dictionaries - Exercises\23 NestedDictionariesExerc\07. Social Media Posts\bin\Debug\_07.Social_Media_Posts.exe.config
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\23 - Nested Dictionaries - Exercises\23 NestedDictionariesExerc\07. Social Media Posts\bin\Debug\_07.Social_Media_Posts.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\23 - Nested Dictionaries - Exercises\23 NestedDictionariesExerc\07. Social Media Posts\bin\Debug\_07.Social_Media_Posts.pdb
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\23 - Nested Dictionaries - Exercises\23 NestedDictionariesExerc\07. Social Media Posts\obj\Debug\07. Social Media Posts.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\23 - Nested Dictionaries - Exercises\23 NestedDictionariesExerc\07. Social Media Posts\obj\Debug\07. Social Media Posts.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\23 - Nested Dictionaries - Exercises\23 NestedDictionariesExerc\07. Social Media Posts\obj\Debug\_07.Social_Media_Posts.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\23 - Nested Dictionaries - Exercises\23 NestedDictionariesExerc\07. Social Media Posts\obj\Debug\_07.Social_Media_Posts.pdb

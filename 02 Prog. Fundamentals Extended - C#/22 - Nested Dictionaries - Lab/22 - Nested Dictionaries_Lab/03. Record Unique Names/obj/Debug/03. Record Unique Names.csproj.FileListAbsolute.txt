@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\22 - Nested Dictionaries - Lab\22 - Nested Dictionaries_Lab\03. Record Unique Names\bin\Debug\_03.Record_Unique_Names.exe.config
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\22 - Nested Dictionaries - Lab\22 - Nested Dictionaries_Lab\03. Record Unique Names\bin\Debug\_03.Record_Unique_Names.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\22 - Nested Dictionaries - Lab\22 - Nested Dictionaries_Lab\03. Record Unique Names\bin\Debug\_03.Record_Unique_Names.pdb
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\22 - Nested Dictionaries - Lab\22 - Nested Dictionaries_Lab\03. Record Unique Names\obj\Debug\03. Record Unique Names.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\22 - Nested Dictionaries - Lab\22 - Nested Dictionaries_Lab\03. Record Unique Names\obj\Debug\03. Record Unique Names.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\22 - Nested Dictionaries - Lab\22 - Nested Dictionaries_Lab\03. Record Unique Names\obj\Debug\_03.Record_Unique_Names.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\22 - Nested Dictionaries - Lab\22 - Nested Dictionaries_Lab\03. Record Unique Names\obj\Debug\_03.Record_Unique_Names.pdb

@@ -1,6 +1,0 @@
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\33 - Strings and Text Processing - More Exercises\33 StringsTextProcesMEx\07. Pyramidic\bin\Debug\_07.Pyramidic.exe.config
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\33 - Strings and Text Processing - More Exercises\33 StringsTextProcesMEx\07. Pyramidic\bin\Debug\_07.Pyramidic.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\33 - Strings and Text Processing - More Exercises\33 StringsTextProcesMEx\07. Pyramidic\bin\Debug\_07.Pyramidic.pdb
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\33 - Strings and Text Processing - More Exercises\33 StringsTextProcesMEx\07. Pyramidic\obj\Debug\07. Pyramidic.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\33 - Strings and Text Processing - More Exercises\33 StringsTextProcesMEx\07. Pyramidic\obj\Debug\_07.Pyramidic.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\33 - Strings and Text Processing - More Exercises\33 StringsTextProcesMEx\07. Pyramidic\obj\Debug\_07.Pyramidic.pdb

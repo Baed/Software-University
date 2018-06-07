@@ -1,6 +1,0 @@
-C:\My Staff\SoftUni\03 C# Advanced\08 - Matrices - Lab\08 - Matrices - Lab\02 SquareWithMaximumSum\bin\Debug\02 SquareWithMaximumSum.exe.config
-C:\My Staff\SoftUni\03 C# Advanced\08 - Matrices - Lab\08 - Matrices - Lab\02 SquareWithMaximumSum\bin\Debug\02 SquareWithMaximumSum.exe
-C:\My Staff\SoftUni\03 C# Advanced\08 - Matrices - Lab\08 - Matrices - Lab\02 SquareWithMaximumSum\bin\Debug\02 SquareWithMaximumSum.pdb
-C:\My Staff\SoftUni\03 C# Advanced\08 - Matrices - Lab\08 - Matrices - Lab\02 SquareWithMaximumSum\obj\Debug\02 SquareWithMaximumSum.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\03 C# Advanced\08 - Matrices - Lab\08 - Matrices - Lab\02 SquareWithMaximumSum\obj\Debug\02 SquareWithMaximumSum.exe
-C:\My Staff\SoftUni\03 C# Advanced\08 - Matrices - Lab\08 - Matrices - Lab\02 SquareWithMaximumSum\obj\Debug\02 SquareWithMaximumSum.pdb

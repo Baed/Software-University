@@ -1,2 +1,0 @@
-Treated patients: 136.
-Untreated patients: 5462.

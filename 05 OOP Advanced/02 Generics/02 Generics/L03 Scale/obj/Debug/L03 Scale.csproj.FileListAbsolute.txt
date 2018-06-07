@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\05 OOP Advanced\02 Generics\02 Generics\L03 Scale\bin\Debug\L03 Scale.exe.config
-C:\My Staff\SoftUni\05 OOP Advanced\02 Generics\02 Generics\L03 Scale\bin\Debug\L03 Scale.exe
-C:\My Staff\SoftUni\05 OOP Advanced\02 Generics\02 Generics\L03 Scale\bin\Debug\L03 Scale.pdb
-C:\My Staff\SoftUni\05 OOP Advanced\02 Generics\02 Generics\L03 Scale\obj\Debug\L03 Scale.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\05 OOP Advanced\02 Generics\02 Generics\L03 Scale\obj\Debug\L03 Scale.exe
-C:\My Staff\SoftUni\05 OOP Advanced\02 Generics\02 Generics\L03 Scale\obj\Debug\L03 Scale.pdb
-C:\My Staff\SoftUni\05 OOP Advanced\02 Generics\02 Generics\L03 Scale\obj\Debug\L03 Scale.csprojResolveAssemblyReference.cache

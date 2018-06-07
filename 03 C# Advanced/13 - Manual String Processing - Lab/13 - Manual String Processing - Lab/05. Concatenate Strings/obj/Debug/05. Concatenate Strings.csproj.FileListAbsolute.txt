@@ -1,6 +1,0 @@
-C:\My Staff\SoftUni\03 C# Advanced\13 - Manual String Processing - Lab\13 - Manual String Processing - Lab\05. Concatenate Strings\bin\Debug\_05.Concatenate_Strings.exe.config
-C:\My Staff\SoftUni\03 C# Advanced\13 - Manual String Processing - Lab\13 - Manual String Processing - Lab\05. Concatenate Strings\bin\Debug\_05.Concatenate_Strings.exe
-C:\My Staff\SoftUni\03 C# Advanced\13 - Manual String Processing - Lab\13 - Manual String Processing - Lab\05. Concatenate Strings\bin\Debug\_05.Concatenate_Strings.pdb
-C:\My Staff\SoftUni\03 C# Advanced\13 - Manual String Processing - Lab\13 - Manual String Processing - Lab\05. Concatenate Strings\obj\Debug\05. Concatenate Strings.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\03 C# Advanced\13 - Manual String Processing - Lab\13 - Manual String Processing - Lab\05. Concatenate Strings\obj\Debug\_05.Concatenate_Strings.exe
-C:\My Staff\SoftUni\03 C# Advanced\13 - Manual String Processing - Lab\13 - Manual String Processing - Lab\05. Concatenate Strings\obj\Debug\_05.Concatenate_Strings.pdb

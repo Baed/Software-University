@@ -1,6 +1,0 @@
-C:\My Staff\SoftUni\August C# Basics\UROK 7 - Advanced loops\01 Scool\07_Advanced_loops\02. Numbers N to 1\bin\Debug\_02.Numbers_N_to_1.exe.config
-C:\My Staff\SoftUni\August C# Basics\UROK 7 - Advanced loops\01 Scool\07_Advanced_loops\02. Numbers N to 1\bin\Debug\_02.Numbers_N_to_1.exe
-C:\My Staff\SoftUni\August C# Basics\UROK 7 - Advanced loops\01 Scool\07_Advanced_loops\02. Numbers N to 1\bin\Debug\_02.Numbers_N_to_1.pdb
-C:\My Staff\SoftUni\August C# Basics\UROK 7 - Advanced loops\01 Scool\07_Advanced_loops\02. Numbers N to 1\obj\Debug\02. Numbers N to 1.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\August C# Basics\UROK 7 - Advanced loops\01 Scool\07_Advanced_loops\02. Numbers N to 1\obj\Debug\_02.Numbers_N_to_1.exe
-C:\My Staff\SoftUni\August C# Basics\UROK 7 - Advanced loops\01 Scool\07_Advanced_loops\02. Numbers N to 1\obj\Debug\_02.Numbers_N_to_1.pdb

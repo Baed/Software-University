@@ -1,6 +1,0 @@
-C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\E09.Rectangle Intersection\bin\Debug\E09.Rectangle Intersection.exe.config
-C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\E09.Rectangle Intersection\bin\Debug\E09.Rectangle Intersection.exe
-C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\E09.Rectangle Intersection\bin\Debug\E09.Rectangle Intersection.pdb
-C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\E09.Rectangle Intersection\obj\Debug\E09.Rectangle Intersection.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\E09.Rectangle Intersection\obj\Debug\E09.Rectangle Intersection.exe
-C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\E09.Rectangle Intersection\obj\Debug\E09.Rectangle Intersection.pdb

@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\August C# Basics\Challange\Programming Basics Exam - 20 November 2016 - Evening\Challange 20.nov.16\01. House Price\bin\Debug\_01.House_Price.exe.config
-C:\My Staff\SoftUni\August C# Basics\Challange\Programming Basics Exam - 20 November 2016 - Evening\Challange 20.nov.16\01. House Price\bin\Debug\_01.House_Price.exe
-C:\My Staff\SoftUni\August C# Basics\Challange\Programming Basics Exam - 20 November 2016 - Evening\Challange 20.nov.16\01. House Price\bin\Debug\_01.House_Price.pdb
-C:\My Staff\SoftUni\August C# Basics\Challange\Programming Basics Exam - 20 November 2016 - Evening\Challange 20.nov.16\01. House Price\obj\Debug\01. House Price.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\August C# Basics\Challange\Programming Basics Exam - 20 November 2016 - Evening\Challange 20.nov.16\01. House Price\obj\Debug\01. House Price.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\August C# Basics\Challange\Programming Basics Exam - 20 November 2016 - Evening\Challange 20.nov.16\01. House Price\obj\Debug\_01.House_Price.exe
-C:\My Staff\SoftUni\August C# Basics\Challange\Programming Basics Exam - 20 November 2016 - Evening\Challange 20.nov.16\01. House Price\obj\Debug\_01.House_Price.pdb

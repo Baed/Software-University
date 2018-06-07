@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\August C# Basics\UROK 8 - Preparation\08_Preparation\Exam_03_09_17_task_3_photo_pictures\bin\Debug\Exam_03_09_17_task_3_photo_pictures.exe.config
-C:\My Staff\SoftUni\August C# Basics\UROK 8 - Preparation\08_Preparation\Exam_03_09_17_task_3_photo_pictures\bin\Debug\Exam_03_09_17_task_3_photo_pictures.exe
-C:\My Staff\SoftUni\August C# Basics\UROK 8 - Preparation\08_Preparation\Exam_03_09_17_task_3_photo_pictures\bin\Debug\Exam_03_09_17_task_3_photo_pictures.pdb
-C:\My Staff\SoftUni\August C# Basics\UROK 8 - Preparation\08_Preparation\Exam_03_09_17_task_3_photo_pictures\obj\Debug\Exam_03_09_17_task_3_photo_pictures.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\August C# Basics\UROK 8 - Preparation\08_Preparation\Exam_03_09_17_task_3_photo_pictures\obj\Debug\Exam_03_09_17_task_3_photo_pictures.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\August C# Basics\UROK 8 - Preparation\08_Preparation\Exam_03_09_17_task_3_photo_pictures\obj\Debug\Exam_03_09_17_task_3_photo_pictures.exe
-C:\My Staff\SoftUni\August C# Basics\UROK 8 - Preparation\08_Preparation\Exam_03_09_17_task_3_photo_pictures\obj\Debug\Exam_03_09_17_task_3_photo_pictures.pdb

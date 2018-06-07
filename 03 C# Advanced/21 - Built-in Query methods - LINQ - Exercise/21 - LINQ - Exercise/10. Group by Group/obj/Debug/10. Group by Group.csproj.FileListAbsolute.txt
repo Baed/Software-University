@@ -1,6 +1,0 @@
-C:\My Staff\SoftUni\03 C# Advanced\21 - Built-in Query methods - LINQ - Exercise\21 - LINQ - Exercise\10. Group by Group\bin\Debug\_10.Group_by_Group.exe.config
-C:\My Staff\SoftUni\03 C# Advanced\21 - Built-in Query methods - LINQ - Exercise\21 - LINQ - Exercise\10. Group by Group\bin\Debug\_10.Group_by_Group.exe
-C:\My Staff\SoftUni\03 C# Advanced\21 - Built-in Query methods - LINQ - Exercise\21 - LINQ - Exercise\10. Group by Group\bin\Debug\_10.Group_by_Group.pdb
-C:\My Staff\SoftUni\03 C# Advanced\21 - Built-in Query methods - LINQ - Exercise\21 - LINQ - Exercise\10. Group by Group\obj\Debug\10. Group by Group.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\03 C# Advanced\21 - Built-in Query methods - LINQ - Exercise\21 - LINQ - Exercise\10. Group by Group\obj\Debug\_10.Group_by_Group.exe
-C:\My Staff\SoftUni\03 C# Advanced\21 - Built-in Query methods - LINQ - Exercise\21 - LINQ - Exercise\10. Group by Group\obj\Debug\_10.Group_by_Group.pdb

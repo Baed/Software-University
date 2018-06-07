@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\07 DB Advanced\04 OOP Introduction - Exercises\04 OOP  - Exercises\L01 Oldest Family Member\bin\Debug\L01 Oldest Family Member.exe.config
-C:\My Staff\SoftUni\07 DB Advanced\04 OOP Introduction - Exercises\04 OOP  - Exercises\L01 Oldest Family Member\bin\Debug\L01 Oldest Family Member.exe
-C:\My Staff\SoftUni\07 DB Advanced\04 OOP Introduction - Exercises\04 OOP  - Exercises\L01 Oldest Family Member\bin\Debug\L01 Oldest Family Member.pdb
-C:\My Staff\SoftUni\07 DB Advanced\04 OOP Introduction - Exercises\04 OOP  - Exercises\L01 Oldest Family Member\obj\Debug\E01 Oldest Family Member.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\07 DB Advanced\04 OOP Introduction - Exercises\04 OOP  - Exercises\L01 Oldest Family Member\obj\Debug\E01 Oldest Family Member.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\07 DB Advanced\04 OOP Introduction - Exercises\04 OOP  - Exercises\L01 Oldest Family Member\obj\Debug\L01 Oldest Family Member.exe
-C:\My Staff\SoftUni\07 DB Advanced\04 OOP Introduction - Exercises\04 OOP  - Exercises\L01 Oldest Family Member\obj\Debug\L01 Oldest Family Member.pdb

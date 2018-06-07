@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\03 C# Advanced\16 - Regular Expressions - Exercise\16 - Regular Expressions - Exercise\01. Match Full Name\bin\Debug\_01.Match_Full_Name.exe.config
-C:\My Staff\SoftUni\03 C# Advanced\16 - Regular Expressions - Exercise\16 - Regular Expressions - Exercise\01. Match Full Name\bin\Debug\_01.Match_Full_Name.exe
-C:\My Staff\SoftUni\03 C# Advanced\16 - Regular Expressions - Exercise\16 - Regular Expressions - Exercise\01. Match Full Name\bin\Debug\_01.Match_Full_Name.pdb
-C:\My Staff\SoftUni\03 C# Advanced\16 - Regular Expressions - Exercise\16 - Regular Expressions - Exercise\01. Match Full Name\obj\Debug\01. Match Full Name.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\03 C# Advanced\16 - Regular Expressions - Exercise\16 - Regular Expressions - Exercise\01. Match Full Name\obj\Debug\01. Match Full Name.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\03 C# Advanced\16 - Regular Expressions - Exercise\16 - Regular Expressions - Exercise\01. Match Full Name\obj\Debug\_01.Match_Full_Name.exe
-C:\My Staff\SoftUni\03 C# Advanced\16 - Regular Expressions - Exercise\16 - Regular Expressions - Exercise\01. Match Full Name\obj\Debug\_01.Match_Full_Name.pdb

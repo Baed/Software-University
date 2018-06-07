@@ -1,6 +1,0 @@
-C:\My Staff\SoftUni\07 DB Advanced\04 OOP Introduction - Exercises\04 OOP  - Exercises\E03 Raw Data\bin\Debug\E03 Raw Data.exe.config
-C:\My Staff\SoftUni\07 DB Advanced\04 OOP Introduction - Exercises\04 OOP  - Exercises\E03 Raw Data\bin\Debug\E03 Raw Data.exe
-C:\My Staff\SoftUni\07 DB Advanced\04 OOP Introduction - Exercises\04 OOP  - Exercises\E03 Raw Data\bin\Debug\E03 Raw Data.pdb
-C:\My Staff\SoftUni\07 DB Advanced\04 OOP Introduction - Exercises\04 OOP  - Exercises\E03 Raw Data\obj\Debug\E03 Raw Data.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\07 DB Advanced\04 OOP Introduction - Exercises\04 OOP  - Exercises\E03 Raw Data\obj\Debug\E03 Raw Data.exe
-C:\My Staff\SoftUni\07 DB Advanced\04 OOP Introduction - Exercises\04 OOP  - Exercises\E03 Raw Data\obj\Debug\E03 Raw Data.pdb

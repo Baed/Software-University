@@ -1,6 +1,0 @@
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\24 - Lambda and LINQ - Lab\24 - Lambda and LINQ - Lab\04. Fold and Sum\bin\Debug\_04.Fold_and_Sum.exe.config
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\24 - Lambda and LINQ - Lab\24 - Lambda and LINQ - Lab\04. Fold and Sum\bin\Debug\_04.Fold_and_Sum.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\24 - Lambda and LINQ - Lab\24 - Lambda and LINQ - Lab\04. Fold and Sum\bin\Debug\_04.Fold_and_Sum.pdb
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\24 - Lambda and LINQ - Lab\24 - Lambda and LINQ - Lab\04. Fold and Sum\obj\Debug\04. Fold and Sum.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\24 - Lambda and LINQ - Lab\24 - Lambda and LINQ - Lab\04. Fold and Sum\obj\Debug\_04.Fold_and_Sum.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\24 - Lambda and LINQ - Lab\24 - Lambda and LINQ - Lab\04. Fold and Sum\obj\Debug\_04.Fold_and_Sum.pdb

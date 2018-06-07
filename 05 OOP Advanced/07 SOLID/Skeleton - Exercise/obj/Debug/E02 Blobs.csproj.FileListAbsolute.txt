@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\05 OOP Advanced\07 SOLID\Skeleton - Exercise\bin\Debug\02.Blobs.exe.config
-C:\My Staff\SoftUni\05 OOP Advanced\07 SOLID\Skeleton - Exercise\bin\Debug\02.Blobs.exe
-C:\My Staff\SoftUni\05 OOP Advanced\07 SOLID\Skeleton - Exercise\bin\Debug\02.Blobs.pdb
-C:\My Staff\SoftUni\05 OOP Advanced\07 SOLID\Skeleton - Exercise\obj\Debug\E02 Blobs.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\05 OOP Advanced\07 SOLID\Skeleton - Exercise\obj\Debug\E02 Blobs.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\05 OOP Advanced\07 SOLID\Skeleton - Exercise\obj\Debug\02.Blobs.exe
-C:\My Staff\SoftUni\05 OOP Advanced\07 SOLID\Skeleton - Exercise\obj\Debug\02.Blobs.pdb

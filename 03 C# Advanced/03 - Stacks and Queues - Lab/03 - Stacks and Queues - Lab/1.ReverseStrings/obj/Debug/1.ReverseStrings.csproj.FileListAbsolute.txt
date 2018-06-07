@@ -1,6 +1,0 @@
-C:\My Staff\SoftUni\03 C# Advanced\03 - Stacks and Queues - Lab\03 - Stacks and Queues - Lab\1.ReverseStrings\bin\Debug\1.ReverseStrings.exe.config
-C:\My Staff\SoftUni\03 C# Advanced\03 - Stacks and Queues - Lab\03 - Stacks and Queues - Lab\1.ReverseStrings\bin\Debug\1.ReverseStrings.exe
-C:\My Staff\SoftUni\03 C# Advanced\03 - Stacks and Queues - Lab\03 - Stacks and Queues - Lab\1.ReverseStrings\bin\Debug\1.ReverseStrings.pdb
-C:\My Staff\SoftUni\03 C# Advanced\03 - Stacks and Queues - Lab\03 - Stacks and Queues - Lab\1.ReverseStrings\obj\Debug\1.ReverseStrings.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\03 C# Advanced\03 - Stacks and Queues - Lab\03 - Stacks and Queues - Lab\1.ReverseStrings\obj\Debug\1.ReverseStrings.exe
-C:\My Staff\SoftUni\03 C# Advanced\03 - Stacks and Queues - Lab\03 - Stacks and Queues - Lab\1.ReverseStrings\obj\Debug\1.ReverseStrings.pdb

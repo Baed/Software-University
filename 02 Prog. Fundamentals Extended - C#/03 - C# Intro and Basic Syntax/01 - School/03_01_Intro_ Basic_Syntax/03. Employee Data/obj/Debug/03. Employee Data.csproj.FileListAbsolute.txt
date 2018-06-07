@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\03 - C# Intro and Basic Syntax\01 - School\03_01_Intro_ Basic_Syntax\03. Employee Data\bin\Debug\_03.Employee_Data.exe.config
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\03 - C# Intro and Basic Syntax\01 - School\03_01_Intro_ Basic_Syntax\03. Employee Data\bin\Debug\_03.Employee_Data.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\03 - C# Intro and Basic Syntax\01 - School\03_01_Intro_ Basic_Syntax\03. Employee Data\bin\Debug\_03.Employee_Data.pdb
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\03 - C# Intro and Basic Syntax\01 - School\03_01_Intro_ Basic_Syntax\03. Employee Data\obj\Debug\03. Employee Data.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\03 - C# Intro and Basic Syntax\01 - School\03_01_Intro_ Basic_Syntax\03. Employee Data\obj\Debug\03. Employee Data.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\03 - C# Intro and Basic Syntax\01 - School\03_01_Intro_ Basic_Syntax\03. Employee Data\obj\Debug\_03.Employee_Data.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\03 - C# Intro and Basic Syntax\01 - School\03_01_Intro_ Basic_Syntax\03. Employee Data\obj\Debug\_03.Employee_Data.pdb

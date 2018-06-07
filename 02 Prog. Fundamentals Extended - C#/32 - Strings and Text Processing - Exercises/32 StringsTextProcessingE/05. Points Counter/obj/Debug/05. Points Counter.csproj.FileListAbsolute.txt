@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\32 - Strings and Text Processing - Exercises\32 StringsTextProcessingE\05. Points Counter\bin\Debug\_05.Points_Counter.exe.config
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\32 - Strings and Text Processing - Exercises\32 StringsTextProcessingE\05. Points Counter\bin\Debug\_05.Points_Counter.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\32 - Strings and Text Processing - Exercises\32 StringsTextProcessingE\05. Points Counter\bin\Debug\_05.Points_Counter.pdb
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\32 - Strings and Text Processing - Exercises\32 StringsTextProcessingE\05. Points Counter\obj\Debug\05. Points Counter.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\32 - Strings and Text Processing - Exercises\32 StringsTextProcessingE\05. Points Counter\obj\Debug\05. Points Counter.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\32 - Strings and Text Processing - Exercises\32 StringsTextProcessingE\05. Points Counter\obj\Debug\_05.Points_Counter.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\32 - Strings and Text Processing - Exercises\32 StringsTextProcessingE\05. Points Counter\obj\Debug\_05.Points_Counter.pdb

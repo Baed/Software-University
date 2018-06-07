@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\Repository-GitHub\05 OOP Advanced\06 Unit Testing\Lab\Skeleton\bin\Debug\Skeleton.exe.config
-C:\My Staff\SoftUni\Repository-GitHub\05 OOP Advanced\06 Unit Testing\Lab\Skeleton\bin\Debug\Skeleton.exe
-C:\My Staff\SoftUni\Repository-GitHub\05 OOP Advanced\06 Unit Testing\Lab\Skeleton\bin\Debug\Skeleton.pdb
-C:\My Staff\SoftUni\Repository-GitHub\05 OOP Advanced\06 Unit Testing\Lab\Skeleton\obj\Debug\L01 Skeleton.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\Repository-GitHub\05 OOP Advanced\06 Unit Testing\Lab\Skeleton\obj\Debug\L01 Skeleton.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\Repository-GitHub\05 OOP Advanced\06 Unit Testing\Lab\Skeleton\obj\Debug\Skeleton.exe
-C:\My Staff\SoftUni\Repository-GitHub\05 OOP Advanced\06 Unit Testing\Lab\Skeleton\obj\Debug\Skeleton.pdb

@@ -1,6 +1,0 @@
-C:\My Staff\SoftUni\04 OOP Basic\03 Inheritance\03 Inheritance\E04 Online Radio Database\bin\Debug\E04 Online Radio Database.exe.config
-C:\My Staff\SoftUni\04 OOP Basic\03 Inheritance\03 Inheritance\E04 Online Radio Database\bin\Debug\E04 Online Radio Database.exe
-C:\My Staff\SoftUni\04 OOP Basic\03 Inheritance\03 Inheritance\E04 Online Radio Database\bin\Debug\E04 Online Radio Database.pdb
-C:\My Staff\SoftUni\04 OOP Basic\03 Inheritance\03 Inheritance\E04 Online Radio Database\obj\Debug\E04 Online Radio Database.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\04 OOP Basic\03 Inheritance\03 Inheritance\E04 Online Radio Database\obj\Debug\E04 Online Radio Database.exe
-C:\My Staff\SoftUni\04 OOP Basic\03 Inheritance\03 Inheritance\E04 Online Radio Database\obj\Debug\E04 Online Radio Database.pdb

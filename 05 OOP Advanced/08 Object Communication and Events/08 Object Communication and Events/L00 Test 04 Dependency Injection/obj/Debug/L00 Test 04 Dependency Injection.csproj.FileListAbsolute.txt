@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\05 OOP Advanced\08 Object Communication and Events\08 Object Communication and Events\L00 Test 04 Dependency Injection\obj\Debug\L00 Test 04 Dependency Injection.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\05 OOP Advanced\08 Object Communication and Events\08 Object Communication and Events\L00 Test 04 Dependency Injection\bin\Debug\L00 Test 04 Dependency Injection.exe.config
-C:\My Staff\SoftUni\05 OOP Advanced\08 Object Communication and Events\08 Object Communication and Events\L00 Test 04 Dependency Injection\bin\Debug\L00 Test 04 Dependency Injection.exe
-C:\My Staff\SoftUni\05 OOP Advanced\08 Object Communication and Events\08 Object Communication and Events\L00 Test 04 Dependency Injection\bin\Debug\L00 Test 04 Dependency Injection.pdb
-C:\My Staff\SoftUni\05 OOP Advanced\08 Object Communication and Events\08 Object Communication and Events\L00 Test 04 Dependency Injection\obj\Debug\L00 Test 04 Dependency Injection.exe
-C:\My Staff\SoftUni\05 OOP Advanced\08 Object Communication and Events\08 Object Communication and Events\L00 Test 04 Dependency Injection\obj\Debug\L00 Test 04 Dependency Injection.pdb
-C:\My Staff\SoftUni\05 OOP Advanced\08 Object Communication and Events\08 Object Communication and Events\L00 Test 04 Dependency Injection\obj\Debug\L00 Test 04 Dependency Injection.csprojResolveAssemblyReference.cache

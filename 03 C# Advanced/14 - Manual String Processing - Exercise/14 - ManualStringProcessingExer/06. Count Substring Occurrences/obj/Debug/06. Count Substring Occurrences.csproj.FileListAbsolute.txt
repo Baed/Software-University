@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\03 C# Advanced\14 - Manual String Processing - Exercise\14 - ManualStringProcessingExer\06. Count Substring Occurrences\bin\Debug\_06.Count_Substring_Occurrences.exe.config
-C:\My Staff\SoftUni\03 C# Advanced\14 - Manual String Processing - Exercise\14 - ManualStringProcessingExer\06. Count Substring Occurrences\bin\Debug\_06.Count_Substring_Occurrences.exe
-C:\My Staff\SoftUni\03 C# Advanced\14 - Manual String Processing - Exercise\14 - ManualStringProcessingExer\06. Count Substring Occurrences\bin\Debug\_06.Count_Substring_Occurrences.pdb
-C:\My Staff\SoftUni\03 C# Advanced\14 - Manual String Processing - Exercise\14 - ManualStringProcessingExer\06. Count Substring Occurrences\obj\Debug\06. Count Substring Occurrences.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\03 C# Advanced\14 - Manual String Processing - Exercise\14 - ManualStringProcessingExer\06. Count Substring Occurrences\obj\Debug\06. Count Substring Occurrences.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\03 C# Advanced\14 - Manual String Processing - Exercise\14 - ManualStringProcessingExer\06. Count Substring Occurrences\obj\Debug\_06.Count_Substring_Occurrences.exe
-C:\My Staff\SoftUni\03 C# Advanced\14 - Manual String Processing - Exercise\14 - ManualStringProcessingExer\06. Count Substring Occurrences\obj\Debug\_06.Count_Substring_Occurrences.pdb

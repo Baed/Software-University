@@ -1,6 +1,0 @@
-C:\My Staff\SoftUni\August C# Basics\UROK 7 - Advanced loops\01 Scool\07_Advanced_loops\08. Factorial\bin\Debug\_08.Factorial.exe.config
-C:\My Staff\SoftUni\August C# Basics\UROK 7 - Advanced loops\01 Scool\07_Advanced_loops\08. Factorial\bin\Debug\_08.Factorial.exe
-C:\My Staff\SoftUni\August C# Basics\UROK 7 - Advanced loops\01 Scool\07_Advanced_loops\08. Factorial\bin\Debug\_08.Factorial.pdb
-C:\My Staff\SoftUni\August C# Basics\UROK 7 - Advanced loops\01 Scool\07_Advanced_loops\08. Factorial\obj\Debug\08. Factorial.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\August C# Basics\UROK 7 - Advanced loops\01 Scool\07_Advanced_loops\08. Factorial\obj\Debug\_08.Factorial.exe
-C:\My Staff\SoftUni\August C# Basics\UROK 7 - Advanced loops\01 Scool\07_Advanced_loops\08. Factorial\obj\Debug\_08.Factorial.pdb

@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\03 C# Advanced\16 - Regular Expressions - Exercise\16 - Regular Expressions - Exercise\04. Replace a tag\bin\Debug\_04.Replace_a_tag.exe.config
-C:\My Staff\SoftUni\03 C# Advanced\16 - Regular Expressions - Exercise\16 - Regular Expressions - Exercise\04. Replace a tag\bin\Debug\_04.Replace_a_tag.exe
-C:\My Staff\SoftUni\03 C# Advanced\16 - Regular Expressions - Exercise\16 - Regular Expressions - Exercise\04. Replace a tag\bin\Debug\_04.Replace_a_tag.pdb
-C:\My Staff\SoftUni\03 C# Advanced\16 - Regular Expressions - Exercise\16 - Regular Expressions - Exercise\04. Replace a tag\obj\Debug\04. Replace a tag.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\03 C# Advanced\16 - Regular Expressions - Exercise\16 - Regular Expressions - Exercise\04. Replace a tag\obj\Debug\04. Replace a tag.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\03 C# Advanced\16 - Regular Expressions - Exercise\16 - Regular Expressions - Exercise\04. Replace a tag\obj\Debug\_04.Replace_a_tag.exe
-C:\My Staff\SoftUni\03 C# Advanced\16 - Regular Expressions - Exercise\16 - Regular Expressions - Exercise\04. Replace a tag\obj\Debug\_04.Replace_a_tag.pdb

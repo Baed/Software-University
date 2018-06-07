@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\05 OOP Advanced\05 Reflection\05 Reflection\L04 Collector\bin\Debug\L04 Collector.exe.config
-C:\My Staff\SoftUni\05 OOP Advanced\05 Reflection\05 Reflection\L04 Collector\bin\Debug\L04 Collector.exe
-C:\My Staff\SoftUni\05 OOP Advanced\05 Reflection\05 Reflection\L04 Collector\bin\Debug\L04 Collector.pdb
-C:\My Staff\SoftUni\05 OOP Advanced\05 Reflection\05 Reflection\L04 Collector\obj\Debug\L04 Collector.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\05 OOP Advanced\05 Reflection\05 Reflection\L04 Collector\obj\Debug\L04 Collector.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\05 OOP Advanced\05 Reflection\05 Reflection\L04 Collector\obj\Debug\L04 Collector.exe
-C:\My Staff\SoftUni\05 OOP Advanced\05 Reflection\05 Reflection\L04 Collector\obj\Debug\L04 Collector.pdb

@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\09. Triangle Formations\bin\Debug\_09.Triangle_Formations.exe.config
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\09. Triangle Formations\bin\Debug\_09.Triangle_Formations.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\09. Triangle Formations\bin\Debug\_09.Triangle_Formations.pdb
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\09. Triangle Formations\obj\Debug\09. Triangle Formations.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\09. Triangle Formations\obj\Debug\09. Triangle Formations.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\09. Triangle Formations\obj\Debug\_09.Triangle_Formations.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\09. Triangle Formations\obj\Debug\_09.Triangle_Formations.pdb

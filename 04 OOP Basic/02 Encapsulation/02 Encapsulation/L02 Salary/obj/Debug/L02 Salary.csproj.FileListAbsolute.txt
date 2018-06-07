@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\04 OOP Basic\02 Encapsulation\02 Encapsulation\L02 Salary\bin\Debug\L02 Salary.exe.config
-C:\My Staff\SoftUni\04 OOP Basic\02 Encapsulation\02 Encapsulation\L02 Salary\bin\Debug\L02 Salary.exe
-C:\My Staff\SoftUni\04 OOP Basic\02 Encapsulation\02 Encapsulation\L02 Salary\bin\Debug\L02 Salary.pdb
-C:\My Staff\SoftUni\04 OOP Basic\02 Encapsulation\02 Encapsulation\L02 Salary\obj\Debug\L02 Salary.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\04 OOP Basic\02 Encapsulation\02 Encapsulation\L02 Salary\obj\Debug\L02 Salary.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\04 OOP Basic\02 Encapsulation\02 Encapsulation\L02 Salary\obj\Debug\L02 Salary.exe
-C:\My Staff\SoftUni\04 OOP Basic\02 Encapsulation\02 Encapsulation\L02 Salary\obj\Debug\L02 Salary.pdb

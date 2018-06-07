@@ -1,6 +1,0 @@
-C:\My Staff\SoftUni\August C# Basics\Challange\04 Programming Basics Exam - 19 March 2017 - Morning\Challange_19032017_mor\03 - Vacation\bin\Debug\03 - Vacation.exe.config
-C:\My Staff\SoftUni\August C# Basics\Challange\04 Programming Basics Exam - 19 March 2017 - Morning\Challange_19032017_mor\03 - Vacation\bin\Debug\03 - Vacation.exe
-C:\My Staff\SoftUni\August C# Basics\Challange\04 Programming Basics Exam - 19 March 2017 - Morning\Challange_19032017_mor\03 - Vacation\bin\Debug\03 - Vacation.pdb
-C:\My Staff\SoftUni\August C# Basics\Challange\04 Programming Basics Exam - 19 March 2017 - Morning\Challange_19032017_mor\03 - Vacation\obj\Debug\03 - Vacation.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\August C# Basics\Challange\04 Programming Basics Exam - 19 March 2017 - Morning\Challange_19032017_mor\03 - Vacation\obj\Debug\03 - Vacation.exe
-C:\My Staff\SoftUni\August C# Basics\Challange\04 Programming Basics Exam - 19 March 2017 - Morning\Challange_19032017_mor\03 - Vacation\obj\Debug\03 - Vacation.pdb

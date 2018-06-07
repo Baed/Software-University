@@ -1,6 +1,0 @@
-D:\SOFTUNI\UROK 2\07 proizvedenie\07 proizvedenie\bin\Debug\07 proizvedenie.exe.config
-D:\SOFTUNI\UROK 2\07 proizvedenie\07 proizvedenie\bin\Debug\07 proizvedenie.exe
-D:\SOFTUNI\UROK 2\07 proizvedenie\07 proizvedenie\bin\Debug\07 proizvedenie.pdb
-D:\SOFTUNI\UROK 2\07 proizvedenie\07 proizvedenie\obj\Debug\07 proizvedenie.csproj.CoreCompileInputs.cache
-D:\SOFTUNI\UROK 2\07 proizvedenie\07 proizvedenie\obj\Debug\07 proizvedenie.exe
-D:\SOFTUNI\UROK 2\07 proizvedenie\07 proizvedenie\obj\Debug\07 proizvedenie.pdb

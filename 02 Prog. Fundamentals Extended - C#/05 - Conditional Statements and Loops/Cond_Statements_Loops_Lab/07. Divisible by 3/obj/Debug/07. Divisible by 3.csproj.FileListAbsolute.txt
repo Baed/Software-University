@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\05 - Conditional Statements and Loops\Cond_Statements_Loops_Lab\07. Divisible by 3\bin\Debug\_07.Divisible_by_3.exe.config
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\05 - Conditional Statements and Loops\Cond_Statements_Loops_Lab\07. Divisible by 3\bin\Debug\_07.Divisible_by_3.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\05 - Conditional Statements and Loops\Cond_Statements_Loops_Lab\07. Divisible by 3\bin\Debug\_07.Divisible_by_3.pdb
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\05 - Conditional Statements and Loops\Cond_Statements_Loops_Lab\07. Divisible by 3\obj\Debug\07. Divisible by 3.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\05 - Conditional Statements and Loops\Cond_Statements_Loops_Lab\07. Divisible by 3\obj\Debug\07. Divisible by 3.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\05 - Conditional Statements and Loops\Cond_Statements_Loops_Lab\07. Divisible by 3\obj\Debug\_07.Divisible_by_3.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\05 - Conditional Statements and Loops\Cond_Statements_Loops_Lab\07. Divisible by 3\obj\Debug\_07.Divisible_by_3.pdb

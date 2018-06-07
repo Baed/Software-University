@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\August C# Basics\UROK 8 - Preparation\08_Preparation\Exam_03_09_17_task_1_tailoring_workshop\bin\Debug\Exam_03_09_17_task_1_tailoring_workshop.exe.config
-C:\My Staff\SoftUni\August C# Basics\UROK 8 - Preparation\08_Preparation\Exam_03_09_17_task_1_tailoring_workshop\bin\Debug\Exam_03_09_17_task_1_tailoring_workshop.exe
-C:\My Staff\SoftUni\August C# Basics\UROK 8 - Preparation\08_Preparation\Exam_03_09_17_task_1_tailoring_workshop\bin\Debug\Exam_03_09_17_task_1_tailoring_workshop.pdb
-C:\My Staff\SoftUni\August C# Basics\UROK 8 - Preparation\08_Preparation\Exam_03_09_17_task_1_tailoring_workshop\obj\Debug\Exam_03_09_17_task_1_tailoring_workshop.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\August C# Basics\UROK 8 - Preparation\08_Preparation\Exam_03_09_17_task_1_tailoring_workshop\obj\Debug\Exam_03_09_17_task_1_tailoring_workshop.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\August C# Basics\UROK 8 - Preparation\08_Preparation\Exam_03_09_17_task_1_tailoring_workshop\obj\Debug\Exam_03_09_17_task_1_tailoring_workshop.exe
-C:\My Staff\SoftUni\August C# Basics\UROK 8 - Preparation\08_Preparation\Exam_03_09_17_task_1_tailoring_workshop\obj\Debug\Exam_03_09_17_task_1_tailoring_workshop.pdb

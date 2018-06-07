@@ -1,6 +1,0 @@
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\12 - Arrays and Methods - Exercises\12_Arrays_Methods_Exercises\22. Debugging_Mining Coins\bin\Debug\_22.Debugging_Mining_Coins.exe.config
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\12 - Arrays and Methods - Exercises\12_Arrays_Methods_Exercises\22. Debugging_Mining Coins\bin\Debug\_22.Debugging_Mining_Coins.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\12 - Arrays and Methods - Exercises\12_Arrays_Methods_Exercises\22. Debugging_Mining Coins\bin\Debug\_22.Debugging_Mining_Coins.pdb
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\12 - Arrays and Methods - Exercises\12_Arrays_Methods_Exercises\22. Debugging_Mining Coins\obj\Debug\22. Debugging_Mining Coins.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\12 - Arrays and Methods - Exercises\12_Arrays_Methods_Exercises\22. Debugging_Mining Coins\obj\Debug\_22.Debugging_Mining_Coins.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\12 - Arrays and Methods - Exercises\12_Arrays_Methods_Exercises\22. Debugging_Mining Coins\obj\Debug\_22.Debugging_Mining_Coins.pdb

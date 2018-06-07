@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\03 C# Advanced\13 - Manual String Processing - Lab\13 - Manual String Processing - Lab\01. Students Results\bin\Debug\_01.Students_Results.exe.config
-C:\My Staff\SoftUni\03 C# Advanced\13 - Manual String Processing - Lab\13 - Manual String Processing - Lab\01. Students Results\bin\Debug\_01.Students_Results.exe
-C:\My Staff\SoftUni\03 C# Advanced\13 - Manual String Processing - Lab\13 - Manual String Processing - Lab\01. Students Results\bin\Debug\_01.Students_Results.pdb
-C:\My Staff\SoftUni\03 C# Advanced\13 - Manual String Processing - Lab\13 - Manual String Processing - Lab\01. Students Results\obj\Debug\01. Students Results.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\03 C# Advanced\13 - Manual String Processing - Lab\13 - Manual String Processing - Lab\01. Students Results\obj\Debug\01. Students Results.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\03 C# Advanced\13 - Manual String Processing - Lab\13 - Manual String Processing - Lab\01. Students Results\obj\Debug\_01.Students_Results.exe
-C:\My Staff\SoftUni\03 C# Advanced\13 - Manual String Processing - Lab\13 - Manual String Processing - Lab\01. Students Results\obj\Debug\_01.Students_Results.pdb

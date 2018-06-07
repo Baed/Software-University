@@ -1,6 +1,0 @@
-C:\My Staff\SoftUni\August C# Basics\UROK 6 - Drawing Figures with Loops\02 Exercise\06 DrawingFiguresLoop-Exercise\6 Rhombus of Stars\bin\Debug\6 Rhombus of Stars.exe.config
-C:\My Staff\SoftUni\August C# Basics\UROK 6 - Drawing Figures with Loops\02 Exercise\06 DrawingFiguresLoop-Exercise\6 Rhombus of Stars\bin\Debug\6 Rhombus of Stars.exe
-C:\My Staff\SoftUni\August C# Basics\UROK 6 - Drawing Figures with Loops\02 Exercise\06 DrawingFiguresLoop-Exercise\6 Rhombus of Stars\bin\Debug\6 Rhombus of Stars.pdb
-C:\My Staff\SoftUni\August C# Basics\UROK 6 - Drawing Figures with Loops\02 Exercise\06 DrawingFiguresLoop-Exercise\6 Rhombus of Stars\obj\Debug\6 Rhombus of Stars.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\August C# Basics\UROK 6 - Drawing Figures with Loops\02 Exercise\06 DrawingFiguresLoop-Exercise\6 Rhombus of Stars\obj\Debug\6 Rhombus of Stars.exe
-C:\My Staff\SoftUni\August C# Basics\UROK 6 - Drawing Figures with Loops\02 Exercise\06 DrawingFiguresLoop-Exercise\6 Rhombus of Stars\obj\Debug\6 Rhombus of Stars.pdb

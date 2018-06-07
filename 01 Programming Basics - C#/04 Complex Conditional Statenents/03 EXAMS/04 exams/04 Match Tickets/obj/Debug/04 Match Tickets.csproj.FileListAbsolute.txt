@@ -1,7 +1,0 @@
-D:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\03 EXAMS\04 exams\04 Match Tickets\bin\Debug\04 Match Tickets.exe.config
-D:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\03 EXAMS\04 exams\04 Match Tickets\bin\Debug\04 Match Tickets.exe
-D:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\03 EXAMS\04 exams\04 Match Tickets\bin\Debug\04 Match Tickets.pdb
-D:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\03 EXAMS\04 exams\04 Match Tickets\obj\Debug\04 Match Tickets.csprojResolveAssemblyReference.cache
-D:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\03 EXAMS\04 exams\04 Match Tickets\obj\Debug\04 Match Tickets.csproj.CoreCompileInputs.cache
-D:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\03 EXAMS\04 exams\04 Match Tickets\obj\Debug\04 Match Tickets.exe
-D:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\03 EXAMS\04 exams\04 Match Tickets\obj\Debug\04 Match Tickets.pdb

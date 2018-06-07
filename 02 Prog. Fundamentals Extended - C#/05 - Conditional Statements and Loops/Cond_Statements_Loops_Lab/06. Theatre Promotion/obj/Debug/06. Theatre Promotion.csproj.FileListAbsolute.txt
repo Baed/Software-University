@@ -1,6 +1,0 @@
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\05 - Conditional Statements and Loops\Cond_Statements_Loops_Lab\06. Theatre Promotion\bin\Debug\_06.Theatre_Promotion.exe.config
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\05 - Conditional Statements and Loops\Cond_Statements_Loops_Lab\06. Theatre Promotion\bin\Debug\_06.Theatre_Promotion.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\05 - Conditional Statements and Loops\Cond_Statements_Loops_Lab\06. Theatre Promotion\bin\Debug\_06.Theatre_Promotion.pdb
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\05 - Conditional Statements and Loops\Cond_Statements_Loops_Lab\06. Theatre Promotion\obj\Debug\06. Theatre Promotion.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\05 - Conditional Statements and Loops\Cond_Statements_Loops_Lab\06. Theatre Promotion\obj\Debug\_06.Theatre_Promotion.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\05 - Conditional Statements and Loops\Cond_Statements_Loops_Lab\06. Theatre Promotion\obj\Debug\_06.Theatre_Promotion.pdb

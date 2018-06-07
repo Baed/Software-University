@@ -1,6 +1,0 @@
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\16. Tricky Strings\bin\Debug\_16.Tricky_Strings.exe.config
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\16. Tricky Strings\bin\Debug\_16.Tricky_Strings.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\16. Tricky Strings\bin\Debug\_16.Tricky_Strings.pdb
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\16. Tricky Strings\obj\Debug\16. Tricky Strings.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\16. Tricky Strings\obj\Debug\_16.Tricky_Strings.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\16. Tricky Strings\obj\Debug\_16.Tricky_Strings.pdb

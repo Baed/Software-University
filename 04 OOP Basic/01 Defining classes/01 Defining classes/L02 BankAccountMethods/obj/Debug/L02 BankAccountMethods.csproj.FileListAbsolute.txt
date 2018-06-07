@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\L02 BankAccountMethods\bin\Debug\L02 BankAccountMethods.exe.config
-C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\L02 BankAccountMethods\bin\Debug\L02 BankAccountMethods.exe
-C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\L02 BankAccountMethods\bin\Debug\L02 BankAccountMethods.pdb
-C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\L02 BankAccountMethods\obj\Debug\L02 BankAccountMethods.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\L02 BankAccountMethods\obj\Debug\L02 BankAccountMethods.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\L02 BankAccountMethods\obj\Debug\L02 BankAccountMethods.exe
-C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\L02 BankAccountMethods\obj\Debug\L02 BankAccountMethods.pdb

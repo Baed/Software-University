@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\05 OOP Advanced\01 Interfaces and Abstraction\01 Interfaces and Abstraction\E10 Explicit Interfaces\bin\Debug\E10 Explicit Interfaces.exe.config
-C:\My Staff\SoftUni\05 OOP Advanced\01 Interfaces and Abstraction\01 Interfaces and Abstraction\E10 Explicit Interfaces\bin\Debug\E10 Explicit Interfaces.exe
-C:\My Staff\SoftUni\05 OOP Advanced\01 Interfaces and Abstraction\01 Interfaces and Abstraction\E10 Explicit Interfaces\bin\Debug\E10 Explicit Interfaces.pdb
-C:\My Staff\SoftUni\05 OOP Advanced\01 Interfaces and Abstraction\01 Interfaces and Abstraction\E10 Explicit Interfaces\obj\Debug\E10 Explicit Interfaces.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\05 OOP Advanced\01 Interfaces and Abstraction\01 Interfaces and Abstraction\E10 Explicit Interfaces\obj\Debug\E10 Explicit Interfaces.exe
-C:\My Staff\SoftUni\05 OOP Advanced\01 Interfaces and Abstraction\01 Interfaces and Abstraction\E10 Explicit Interfaces\obj\Debug\E10 Explicit Interfaces.pdb
-C:\My Staff\SoftUni\05 OOP Advanced\01 Interfaces and Abstraction\01 Interfaces and Abstraction\E10 Explicit Interfaces\obj\Debug\E10 Explicit Interfaces.csprojResolveAssemblyReference.cache

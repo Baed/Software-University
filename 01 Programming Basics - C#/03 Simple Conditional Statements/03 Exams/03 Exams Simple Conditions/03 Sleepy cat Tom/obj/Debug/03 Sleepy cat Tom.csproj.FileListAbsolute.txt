@@ -1,7 +1,0 @@
-D:\SOFTUNI\Programming basic c# august 2017\UROK 3 Simple Conditional Statements\03 Exams\03 Exams Simple Conditions\03 Sleepy cat Tom\bin\Debug\03 Sleepy cat Tom.exe.config
-D:\SOFTUNI\Programming basic c# august 2017\UROK 3 Simple Conditional Statements\03 Exams\03 Exams Simple Conditions\03 Sleepy cat Tom\bin\Debug\03 Sleepy cat Tom.exe
-D:\SOFTUNI\Programming basic c# august 2017\UROK 3 Simple Conditional Statements\03 Exams\03 Exams Simple Conditions\03 Sleepy cat Tom\bin\Debug\03 Sleepy cat Tom.pdb
-D:\SOFTUNI\Programming basic c# august 2017\UROK 3 Simple Conditional Statements\03 Exams\03 Exams Simple Conditions\03 Sleepy cat Tom\obj\Debug\03 Sleepy cat Tom.csprojResolveAssemblyReference.cache
-D:\SOFTUNI\Programming basic c# august 2017\UROK 3 Simple Conditional Statements\03 Exams\03 Exams Simple Conditions\03 Sleepy cat Tom\obj\Debug\03 Sleepy cat Tom.csproj.CoreCompileInputs.cache
-D:\SOFTUNI\Programming basic c# august 2017\UROK 3 Simple Conditional Statements\03 Exams\03 Exams Simple Conditions\03 Sleepy cat Tom\obj\Debug\03 Sleepy cat Tom.exe
-D:\SOFTUNI\Programming basic c# august 2017\UROK 3 Simple Conditional Statements\03 Exams\03 Exams Simple Conditions\03 Sleepy cat Tom\obj\Debug\03 Sleepy cat Tom.pdb

@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\03 C# Advanced\06 - Sets and Dictionaries - Exercise\06 - Sets and DictionariesExercise\11. Logs Aggregator\bin\Debug\_11.Logs_Aggregator.exe.config
-C:\My Staff\SoftUni\03 C# Advanced\06 - Sets and Dictionaries - Exercise\06 - Sets and DictionariesExercise\11. Logs Aggregator\bin\Debug\_11.Logs_Aggregator.exe
-C:\My Staff\SoftUni\03 C# Advanced\06 - Sets and Dictionaries - Exercise\06 - Sets and DictionariesExercise\11. Logs Aggregator\bin\Debug\_11.Logs_Aggregator.pdb
-C:\My Staff\SoftUni\03 C# Advanced\06 - Sets and Dictionaries - Exercise\06 - Sets and DictionariesExercise\11. Logs Aggregator\obj\Debug\11. Logs Aggregator.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\03 C# Advanced\06 - Sets and Dictionaries - Exercise\06 - Sets and DictionariesExercise\11. Logs Aggregator\obj\Debug\11. Logs Aggregator.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\03 C# Advanced\06 - Sets and Dictionaries - Exercise\06 - Sets and DictionariesExercise\11. Logs Aggregator\obj\Debug\_11.Logs_Aggregator.exe
-C:\My Staff\SoftUni\03 C# Advanced\06 - Sets and Dictionaries - Exercise\06 - Sets and DictionariesExercise\11. Logs Aggregator\obj\Debug\_11.Logs_Aggregator.pdb

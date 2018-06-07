@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\August C# Basics\Challange\04 Programming Basics Exam - 19 March 2017 - Morning\Challange_19032017_mor\01 - House Painting\bin\Debug\01 - House Painting.exe.config
-C:\My Staff\SoftUni\August C# Basics\Challange\04 Programming Basics Exam - 19 March 2017 - Morning\Challange_19032017_mor\01 - House Painting\bin\Debug\01 - House Painting.exe
-C:\My Staff\SoftUni\August C# Basics\Challange\04 Programming Basics Exam - 19 March 2017 - Morning\Challange_19032017_mor\01 - House Painting\bin\Debug\01 - House Painting.pdb
-C:\My Staff\SoftUni\August C# Basics\Challange\04 Programming Basics Exam - 19 March 2017 - Morning\Challange_19032017_mor\01 - House Painting\obj\Debug\01 - House Painting.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\August C# Basics\Challange\04 Programming Basics Exam - 19 March 2017 - Morning\Challange_19032017_mor\01 - House Painting\obj\Debug\01 - House Painting.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\August C# Basics\Challange\04 Programming Basics Exam - 19 March 2017 - Morning\Challange_19032017_mor\01 - House Painting\obj\Debug\01 - House Painting.exe
-C:\My Staff\SoftUni\August C# Basics\Challange\04 Programming Basics Exam - 19 March 2017 - Morning\Challange_19032017_mor\01 - House Painting\obj\Debug\01 - House Painting.pdb

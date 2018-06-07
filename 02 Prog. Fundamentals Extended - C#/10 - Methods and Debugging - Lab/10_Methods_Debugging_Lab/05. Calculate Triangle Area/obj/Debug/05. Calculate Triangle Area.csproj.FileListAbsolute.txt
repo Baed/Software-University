@@ -1,6 +1,0 @@
-C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\10 - Methods and Debugging - Lab\10_Methods_Debugging_Lab\05. Calculate Triangle Area\bin\Debug\_05.Calculate_Triangle_Area.exe.config
-C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\10 - Methods and Debugging - Lab\10_Methods_Debugging_Lab\05. Calculate Triangle Area\bin\Debug\_05.Calculate_Triangle_Area.exe
-C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\10 - Methods and Debugging - Lab\10_Methods_Debugging_Lab\05. Calculate Triangle Area\bin\Debug\_05.Calculate_Triangle_Area.pdb
-C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\10 - Methods and Debugging - Lab\10_Methods_Debugging_Lab\05. Calculate Triangle Area\obj\Debug\05. Calculate Triangle Area.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\10 - Methods and Debugging - Lab\10_Methods_Debugging_Lab\05. Calculate Triangle Area\obj\Debug\_05.Calculate_Triangle_Area.exe
-C:\My Staff\SoftUni\Repository-GitHub\02 Prog. Fundamentals Extended - C#\10 - Methods and Debugging - Lab\10_Methods_Debugging_Lab\05. Calculate Triangle Area\obj\Debug\_05.Calculate_Triangle_Area.pdb

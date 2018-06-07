@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\16 - Lists - More Exercises\16 - Lists - More Exercises\02. Integer Insertion\bin\Debug\_02.Integer_Insertion.exe.config
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\16 - Lists - More Exercises\16 - Lists - More Exercises\02. Integer Insertion\bin\Debug\_02.Integer_Insertion.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\16 - Lists - More Exercises\16 - Lists - More Exercises\02. Integer Insertion\bin\Debug\_02.Integer_Insertion.pdb
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\16 - Lists - More Exercises\16 - Lists - More Exercises\02. Integer Insertion\obj\Debug\02. Integer Insertion.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\16 - Lists - More Exercises\16 - Lists - More Exercises\02. Integer Insertion\obj\Debug\02. Integer Insertion.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\16 - Lists - More Exercises\16 - Lists - More Exercises\02. Integer Insertion\obj\Debug\_02.Integer_Insertion.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\16 - Lists - More Exercises\16 - Lists - More Exercises\02. Integer Insertion\obj\Debug\_02.Integer_Insertion.pdb

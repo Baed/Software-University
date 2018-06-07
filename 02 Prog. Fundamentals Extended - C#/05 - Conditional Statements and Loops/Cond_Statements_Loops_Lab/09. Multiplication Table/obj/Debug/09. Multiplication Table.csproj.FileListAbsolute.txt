@@ -1,6 +1,0 @@
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\05 - Conditional Statements and Loops\Cond_Statements_Loops_Lab\09. Multiplication Table\bin\Debug\_09.Multiplication_Table.exe.config
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\05 - Conditional Statements and Loops\Cond_Statements_Loops_Lab\09. Multiplication Table\bin\Debug\_09.Multiplication_Table.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\05 - Conditional Statements and Loops\Cond_Statements_Loops_Lab\09. Multiplication Table\bin\Debug\_09.Multiplication_Table.pdb
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\05 - Conditional Statements and Loops\Cond_Statements_Loops_Lab\09. Multiplication Table\obj\Debug\09. Multiplication Table.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\05 - Conditional Statements and Loops\Cond_Statements_Loops_Lab\09. Multiplication Table\obj\Debug\_09.Multiplication_Table.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\05 - Conditional Statements and Loops\Cond_Statements_Loops_Lab\09. Multiplication Table\obj\Debug\_09.Multiplication_Table.pdb

@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\30 - Strings and Text Processing - Exercises\30 FilesExceptionsExer\01. Filter Extensions\bin\Debug\_01.Filter_Extensions.exe.config
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\30 - Strings and Text Processing - Exercises\30 FilesExceptionsExer\01. Filter Extensions\bin\Debug\_01.Filter_Extensions.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\30 - Strings and Text Processing - Exercises\30 FilesExceptionsExer\01. Filter Extensions\bin\Debug\_01.Filter_Extensions.pdb
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\30 - Strings and Text Processing - Exercises\30 FilesExceptionsExer\01. Filter Extensions\obj\Debug\01. Filter Extensions.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\30 - Strings and Text Processing - Exercises\30 FilesExceptionsExer\01. Filter Extensions\obj\Debug\01. Filter Extensions.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\30 - Strings and Text Processing - Exercises\30 FilesExceptionsExer\01. Filter Extensions\obj\Debug\_01.Filter_Extensions.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\30 - Strings and Text Processing - Exercises\30 FilesExceptionsExer\01. Filter Extensions\obj\Debug\_01.Filter_Extensions.pdb

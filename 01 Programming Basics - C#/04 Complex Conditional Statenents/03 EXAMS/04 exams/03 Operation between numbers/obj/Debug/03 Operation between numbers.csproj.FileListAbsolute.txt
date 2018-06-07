@@ -1,7 +1,0 @@
-D:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\03 EXAMS\04 exams\03 Operation between numbers\bin\Debug\03 Operation between numbers.exe.config
-D:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\03 EXAMS\04 exams\03 Operation between numbers\bin\Debug\03 Operation between numbers.exe
-D:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\03 EXAMS\04 exams\03 Operation between numbers\bin\Debug\03 Operation between numbers.pdb
-D:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\03 EXAMS\04 exams\03 Operation between numbers\obj\Debug\03 Operation between numbers.csprojResolveAssemblyReference.cache
-D:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\03 EXAMS\04 exams\03 Operation between numbers\obj\Debug\03 Operation between numbers.csproj.CoreCompileInputs.cache
-D:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\03 EXAMS\04 exams\03 Operation between numbers\obj\Debug\03 Operation between numbers.exe
-D:\SOFTUNI\Programming basic c# august 2017\UROK 4 Complex Conditional Statenents\03 EXAMS\04 exams\03 Operation between numbers\obj\Debug\03 Operation between numbers.pdb

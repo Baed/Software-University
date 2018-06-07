@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\August C# Basics\Challange\05 Programming Basics Exam - 19 March 2017 - Evening\Challange_190317_Evening\03 - Truck Driver\bin\Debug\03 - Truck Driver.exe.config
-C:\My Staff\SoftUni\August C# Basics\Challange\05 Programming Basics Exam - 19 March 2017 - Evening\Challange_190317_Evening\03 - Truck Driver\bin\Debug\03 - Truck Driver.exe
-C:\My Staff\SoftUni\August C# Basics\Challange\05 Programming Basics Exam - 19 March 2017 - Evening\Challange_190317_Evening\03 - Truck Driver\bin\Debug\03 - Truck Driver.pdb
-C:\My Staff\SoftUni\August C# Basics\Challange\05 Programming Basics Exam - 19 March 2017 - Evening\Challange_190317_Evening\03 - Truck Driver\obj\Debug\03 - Truck Driver.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\August C# Basics\Challange\05 Programming Basics Exam - 19 March 2017 - Evening\Challange_190317_Evening\03 - Truck Driver\obj\Debug\03 - Truck Driver.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\August C# Basics\Challange\05 Programming Basics Exam - 19 March 2017 - Evening\Challange_190317_Evening\03 - Truck Driver\obj\Debug\03 - Truck Driver.exe
-C:\My Staff\SoftUni\August C# Basics\Challange\05 Programming Basics Exam - 19 March 2017 - Evening\Challange_190317_Evening\03 - Truck Driver\obj\Debug\03 - Truck Driver.pdb

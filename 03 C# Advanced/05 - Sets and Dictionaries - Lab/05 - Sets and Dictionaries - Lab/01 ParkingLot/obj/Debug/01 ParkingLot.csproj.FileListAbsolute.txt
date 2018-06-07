@@ -1,6 +1,0 @@
-C:\My Staff\SoftUni\03 C# Advanced\05 - Sets and Dictionaries - Lab\05 - Sets and Dictionaries - Lab\01 ParkingLot\bin\Debug\01 ParkingLot.exe.config
-C:\My Staff\SoftUni\03 C# Advanced\05 - Sets and Dictionaries - Lab\05 - Sets and Dictionaries - Lab\01 ParkingLot\bin\Debug\01 ParkingLot.exe
-C:\My Staff\SoftUni\03 C# Advanced\05 - Sets and Dictionaries - Lab\05 - Sets and Dictionaries - Lab\01 ParkingLot\bin\Debug\01 ParkingLot.pdb
-C:\My Staff\SoftUni\03 C# Advanced\05 - Sets and Dictionaries - Lab\05 - Sets and Dictionaries - Lab\01 ParkingLot\obj\Debug\01 ParkingLot.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\03 C# Advanced\05 - Sets and Dictionaries - Lab\05 - Sets and Dictionaries - Lab\01 ParkingLot\obj\Debug\01 ParkingLot.exe
-C:\My Staff\SoftUni\03 C# Advanced\05 - Sets and Dictionaries - Lab\05 - Sets and Dictionaries - Lab\01 ParkingLot\obj\Debug\01 ParkingLot.pdb

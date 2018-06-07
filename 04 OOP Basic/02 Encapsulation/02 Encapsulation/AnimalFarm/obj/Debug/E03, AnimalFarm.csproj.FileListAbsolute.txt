@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\04 OOP Basic\02 Encapsulation\02 Encapsulation\AnimalFarm\bin\Debug\AnimalFarm.exe.config
-C:\My Staff\SoftUni\04 OOP Basic\02 Encapsulation\02 Encapsulation\AnimalFarm\bin\Debug\AnimalFarm.exe
-C:\My Staff\SoftUni\04 OOP Basic\02 Encapsulation\02 Encapsulation\AnimalFarm\bin\Debug\AnimalFarm.pdb
-C:\My Staff\SoftUni\04 OOP Basic\02 Encapsulation\02 Encapsulation\AnimalFarm\obj\Debug\E03, AnimalFarm.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\04 OOP Basic\02 Encapsulation\02 Encapsulation\AnimalFarm\obj\Debug\E03, AnimalFarm.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\04 OOP Basic\02 Encapsulation\02 Encapsulation\AnimalFarm\obj\Debug\AnimalFarm.exe
-C:\My Staff\SoftUni\04 OOP Basic\02 Encapsulation\02 Encapsulation\AnimalFarm\obj\Debug\AnimalFarm.pdb

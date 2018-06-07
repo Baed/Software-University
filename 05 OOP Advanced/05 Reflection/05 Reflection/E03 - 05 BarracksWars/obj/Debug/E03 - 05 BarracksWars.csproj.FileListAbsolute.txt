@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\05 OOP Advanced\05 Reflection\05 Reflection\E03 - 05 BarracksWars\obj\Debug\E03 - 05 BarracksWars.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\05 OOP Advanced\05 Reflection\05 Reflection\E03 - 05 BarracksWars\obj\Debug\E03 - 05 BarracksWars.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\05 OOP Advanced\05 Reflection\05 Reflection\E03 - 05 BarracksWars\bin\Debug\E03 - 05 BarracksWars.exe.config
-C:\My Staff\SoftUni\05 OOP Advanced\05 Reflection\05 Reflection\E03 - 05 BarracksWars\bin\Debug\E03 - 05 BarracksWars.exe
-C:\My Staff\SoftUni\05 OOP Advanced\05 Reflection\05 Reflection\E03 - 05 BarracksWars\bin\Debug\E03 - 05 BarracksWars.pdb
-C:\My Staff\SoftUni\05 OOP Advanced\05 Reflection\05 Reflection\E03 - 05 BarracksWars\obj\Debug\E03 - 05 BarracksWars.exe
-C:\My Staff\SoftUni\05 OOP Advanced\05 Reflection\05 Reflection\E03 - 05 BarracksWars\obj\Debug\E03 - 05 BarracksWars.pdb

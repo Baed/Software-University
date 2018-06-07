@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\03 C# Advanced\19 - Functional Programming - Exercise\19 - Functional Programming - Exer\01. Action Prints\bin\Debug\_01.Action_Prints.exe.config
-C:\My Staff\SoftUni\03 C# Advanced\19 - Functional Programming - Exercise\19 - Functional Programming - Exer\01. Action Prints\bin\Debug\_01.Action_Prints.exe
-C:\My Staff\SoftUni\03 C# Advanced\19 - Functional Programming - Exercise\19 - Functional Programming - Exer\01. Action Prints\bin\Debug\_01.Action_Prints.pdb
-C:\My Staff\SoftUni\03 C# Advanced\19 - Functional Programming - Exercise\19 - Functional Programming - Exer\01. Action Prints\obj\Debug\01. Action Prints.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\03 C# Advanced\19 - Functional Programming - Exercise\19 - Functional Programming - Exer\01. Action Prints\obj\Debug\01. Action Prints.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\03 C# Advanced\19 - Functional Programming - Exercise\19 - Functional Programming - Exer\01. Action Prints\obj\Debug\_01.Action_Prints.exe
-C:\My Staff\SoftUni\03 C# Advanced\19 - Functional Programming - Exercise\19 - Functional Programming - Exer\01. Action Prints\obj\Debug\_01.Action_Prints.pdb

@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\August C# Basics\UROK 5 Loops\03 Exams\05 Exam Loops\03 04. Умната Лили\bin\Debug\_03_04.Умната_Лили.exe.config
-C:\My Staff\SoftUni\August C# Basics\UROK 5 Loops\03 Exams\05 Exam Loops\03 04. Умната Лили\bin\Debug\_03_04.Умната_Лили.exe
-C:\My Staff\SoftUni\August C# Basics\UROK 5 Loops\03 Exams\05 Exam Loops\03 04. Умната Лили\bin\Debug\_03_04.Умната_Лили.pdb
-C:\My Staff\SoftUni\August C# Basics\UROK 5 Loops\03 Exams\05 Exam Loops\03 04. Умната Лили\obj\Debug\03 04. Умната Лили.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\August C# Basics\UROK 5 Loops\03 Exams\05 Exam Loops\03 04. Умната Лили\obj\Debug\03 04. Умната Лили.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\August C# Basics\UROK 5 Loops\03 Exams\05 Exam Loops\03 04. Умната Лили\obj\Debug\_03_04.Умната_Лили.exe
-C:\My Staff\SoftUni\August C# Basics\UROK 5 Loops\03 Exams\05 Exam Loops\03 04. Умната Лили\obj\Debug\_03_04.Умната_Лили.pdb

@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\August C# Basics\UROK 6 - Drawing Figures with Loops\02 Exercise\06 DrawingFiguresLoop-Exercise\05 Square Frame\bin\Debug\05 Square Frame.exe.config
-C:\My Staff\SoftUni\August C# Basics\UROK 6 - Drawing Figures with Loops\02 Exercise\06 DrawingFiguresLoop-Exercise\05 Square Frame\bin\Debug\05 Square Frame.exe
-C:\My Staff\SoftUni\August C# Basics\UROK 6 - Drawing Figures with Loops\02 Exercise\06 DrawingFiguresLoop-Exercise\05 Square Frame\bin\Debug\05 Square Frame.pdb
-C:\My Staff\SoftUni\August C# Basics\UROK 6 - Drawing Figures with Loops\02 Exercise\06 DrawingFiguresLoop-Exercise\05 Square Frame\obj\Debug\05 Square Frame.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\August C# Basics\UROK 6 - Drawing Figures with Loops\02 Exercise\06 DrawingFiguresLoop-Exercise\05 Square Frame\obj\Debug\05 Square Frame.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\August C# Basics\UROK 6 - Drawing Figures with Loops\02 Exercise\06 DrawingFiguresLoop-Exercise\05 Square Frame\obj\Debug\05 Square Frame.exe
-C:\My Staff\SoftUni\August C# Basics\UROK 6 - Drawing Figures with Loops\02 Exercise\06 DrawingFiguresLoop-Exercise\05 Square Frame\obj\Debug\05 Square Frame.pdb

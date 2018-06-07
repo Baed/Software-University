@@ -1,6 +1,0 @@
-C:\My Staff\SoftUni\August C# Basics\Challange\02 Programming Basics Exam - 18 December 2016\Challange_18_Dec_2016\02. Change Tiles\bin\Debug\_02.Change_Tiles.exe.config
-C:\My Staff\SoftUni\August C# Basics\Challange\02 Programming Basics Exam - 18 December 2016\Challange_18_Dec_2016\02. Change Tiles\bin\Debug\_02.Change_Tiles.exe
-C:\My Staff\SoftUni\August C# Basics\Challange\02 Programming Basics Exam - 18 December 2016\Challange_18_Dec_2016\02. Change Tiles\bin\Debug\_02.Change_Tiles.pdb
-C:\My Staff\SoftUni\August C# Basics\Challange\02 Programming Basics Exam - 18 December 2016\Challange_18_Dec_2016\02. Change Tiles\obj\Debug\02. Change Tiles.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\August C# Basics\Challange\02 Programming Basics Exam - 18 December 2016\Challange_18_Dec_2016\02. Change Tiles\obj\Debug\_02.Change_Tiles.exe
-C:\My Staff\SoftUni\August C# Basics\Challange\02 Programming Basics Exam - 18 December 2016\Challange_18_Dec_2016\02. Change Tiles\obj\Debug\_02.Change_Tiles.pdb

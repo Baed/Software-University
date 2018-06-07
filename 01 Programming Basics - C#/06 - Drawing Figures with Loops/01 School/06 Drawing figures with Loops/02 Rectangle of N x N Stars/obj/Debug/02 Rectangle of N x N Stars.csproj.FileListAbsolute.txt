@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\August C# Basics\UROK 6 - Drawing Figures with Loops\01 School\06 Drawing figures with Loops\02 Rectangle of N x N Stars\bin\Debug\02 Rectangle of N x N Stars.exe.config
-C:\My Staff\SoftUni\August C# Basics\UROK 6 - Drawing Figures with Loops\01 School\06 Drawing figures with Loops\02 Rectangle of N x N Stars\bin\Debug\02 Rectangle of N x N Stars.exe
-C:\My Staff\SoftUni\August C# Basics\UROK 6 - Drawing Figures with Loops\01 School\06 Drawing figures with Loops\02 Rectangle of N x N Stars\bin\Debug\02 Rectangle of N x N Stars.pdb
-C:\My Staff\SoftUni\August C# Basics\UROK 6 - Drawing Figures with Loops\01 School\06 Drawing figures with Loops\02 Rectangle of N x N Stars\obj\Debug\02 Rectangle of N x N Stars.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\August C# Basics\UROK 6 - Drawing Figures with Loops\01 School\06 Drawing figures with Loops\02 Rectangle of N x N Stars\obj\Debug\02 Rectangle of N x N Stars.exe
-C:\My Staff\SoftUni\August C# Basics\UROK 6 - Drawing Figures with Loops\01 School\06 Drawing figures with Loops\02 Rectangle of N x N Stars\obj\Debug\02 Rectangle of N x N Stars.pdb
-C:\My Staff\SoftUni\August C# Basics\UROK 6 - Drawing Figures with Loops\01 School\06 Drawing figures with Loops\02 Rectangle of N x N Stars\obj\Debug\02 Rectangle of N x N Stars.csprojResolveAssemblyReference.cache

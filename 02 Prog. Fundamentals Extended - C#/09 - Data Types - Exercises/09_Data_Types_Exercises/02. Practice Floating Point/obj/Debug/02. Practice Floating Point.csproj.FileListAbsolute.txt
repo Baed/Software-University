@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\02. Practice Floating Point\bin\Debug\_02.Practice_Floating_Point.exe.config
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\02. Practice Floating Point\bin\Debug\_02.Practice_Floating_Point.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\02. Practice Floating Point\bin\Debug\_02.Practice_Floating_Point.pdb
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\02. Practice Floating Point\obj\Debug\02. Practice Floating Point.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\02. Practice Floating Point\obj\Debug\02. Practice Floating Point.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\02. Practice Floating Point\obj\Debug\_02.Practice_Floating_Point.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\09 - Data Types - Exercises\09_Data_Types_Exercises\02. Practice Floating Point\obj\Debug\_02.Practice_Floating_Point.pdb

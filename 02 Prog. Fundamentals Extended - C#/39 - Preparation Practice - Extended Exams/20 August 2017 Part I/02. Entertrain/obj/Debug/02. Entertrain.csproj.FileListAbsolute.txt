@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\39 - Preparation Practice - Extended Exams\20 August 2017 Part I\02. Entertrain\obj\Debug\02. Entertrain.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\39 - Preparation Practice - Extended Exams\20 August 2017 Part I\02. Entertrain\obj\Debug\02. Entertrain.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\39 - Preparation Practice - Extended Exams\20 August 2017 Part I\02. Entertrain\bin\Debug\_02.Entertrain.exe.config
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\39 - Preparation Practice - Extended Exams\20 August 2017 Part I\02. Entertrain\bin\Debug\_02.Entertrain.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\39 - Preparation Practice - Extended Exams\20 August 2017 Part I\02. Entertrain\bin\Debug\_02.Entertrain.pdb
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\39 - Preparation Practice - Extended Exams\20 August 2017 Part I\02. Entertrain\obj\Debug\_02.Entertrain.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\39 - Preparation Practice - Extended Exams\20 August 2017 Part I\02. Entertrain\obj\Debug\_02.Entertrain.pdb

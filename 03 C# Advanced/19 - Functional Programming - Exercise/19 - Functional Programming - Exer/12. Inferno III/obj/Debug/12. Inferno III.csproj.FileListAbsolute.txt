@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\03 C# Advanced\19 - Functional Programming - Exercise\19 - Functional Programming - Exer\12. Inferno III\bin\Debug\_12.Inferno_III.exe.config
-C:\My Staff\SoftUni\03 C# Advanced\19 - Functional Programming - Exercise\19 - Functional Programming - Exer\12. Inferno III\bin\Debug\_12.Inferno_III.exe
-C:\My Staff\SoftUni\03 C# Advanced\19 - Functional Programming - Exercise\19 - Functional Programming - Exer\12. Inferno III\bin\Debug\_12.Inferno_III.pdb
-C:\My Staff\SoftUni\03 C# Advanced\19 - Functional Programming - Exercise\19 - Functional Programming - Exer\12. Inferno III\obj\Debug\12. Inferno III.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\03 C# Advanced\19 - Functional Programming - Exercise\19 - Functional Programming - Exer\12. Inferno III\obj\Debug\_12.Inferno_III.exe
-C:\My Staff\SoftUni\03 C# Advanced\19 - Functional Programming - Exercise\19 - Functional Programming - Exer\12. Inferno III\obj\Debug\_12.Inferno_III.pdb
-C:\My Staff\SoftUni\03 C# Advanced\19 - Functional Programming - Exercise\19 - Functional Programming - Exer\12. Inferno III\obj\Debug\12. Inferno III.csprojResolveAssemblyReference.cache

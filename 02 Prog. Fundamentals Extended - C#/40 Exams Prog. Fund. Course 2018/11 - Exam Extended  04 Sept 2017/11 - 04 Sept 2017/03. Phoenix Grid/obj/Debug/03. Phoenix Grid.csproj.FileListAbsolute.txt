@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\11 - Exam Extended  04 Sept 2017\11 - 04 Sept 2017\03. Phoenix Grid\bin\Debug\_03.Phoenix_Grid.exe.config
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\11 - Exam Extended  04 Sept 2017\11 - 04 Sept 2017\03. Phoenix Grid\bin\Debug\_03.Phoenix_Grid.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\11 - Exam Extended  04 Sept 2017\11 - 04 Sept 2017\03. Phoenix Grid\bin\Debug\_03.Phoenix_Grid.pdb
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\11 - Exam Extended  04 Sept 2017\11 - 04 Sept 2017\03. Phoenix Grid\obj\Debug\03. Phoenix Grid.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\11 - Exam Extended  04 Sept 2017\11 - 04 Sept 2017\03. Phoenix Grid\obj\Debug\03. Phoenix Grid.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\11 - Exam Extended  04 Sept 2017\11 - 04 Sept 2017\03. Phoenix Grid\obj\Debug\_03.Phoenix_Grid.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\11 - Exam Extended  04 Sept 2017\11 - 04 Sept 2017\03. Phoenix Grid\obj\Debug\_03.Phoenix_Grid.pdb

@@ -1,6 +1,0 @@
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\27 - Objects and Simple Classes\27 Objects and Simple Classes\02. Randomize Words\bin\Debug\_02.Randomize_Words.exe.config
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\27 - Objects and Simple Classes\27 Objects and Simple Classes\02. Randomize Words\bin\Debug\_02.Randomize_Words.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\27 - Objects and Simple Classes\27 Objects and Simple Classes\02. Randomize Words\bin\Debug\_02.Randomize_Words.pdb
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\27 - Objects and Simple Classes\27 Objects and Simple Classes\02. Randomize Words\obj\Debug\02. Randomize Words.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\27 - Objects and Simple Classes\27 Objects and Simple Classes\02. Randomize Words\obj\Debug\_02.Randomize_Words.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\27 - Objects and Simple Classes\27 Objects and Simple Classes\02. Randomize Words\obj\Debug\_02.Randomize_Words.pdb

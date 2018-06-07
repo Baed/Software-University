@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\30 - Strings and Text Processing - Exercises\30 FilesExceptionsExer\02. HTML Contents\bin\Debug\_02.HTML_Contents.exe.config
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\30 - Strings and Text Processing - Exercises\30 FilesExceptionsExer\02. HTML Contents\bin\Debug\_02.HTML_Contents.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\30 - Strings and Text Processing - Exercises\30 FilesExceptionsExer\02. HTML Contents\bin\Debug\_02.HTML_Contents.pdb
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\30 - Strings and Text Processing - Exercises\30 FilesExceptionsExer\02. HTML Contents\obj\Debug\02. HTML Contents.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\30 - Strings and Text Processing - Exercises\30 FilesExceptionsExer\02. HTML Contents\obj\Debug\02. HTML Contents.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\30 - Strings and Text Processing - Exercises\30 FilesExceptionsExer\02. HTML Contents\obj\Debug\_02.HTML_Contents.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\30 - Strings and Text Processing - Exercises\30 FilesExceptionsExer\02. HTML Contents\obj\Debug\_02.HTML_Contents.pdb

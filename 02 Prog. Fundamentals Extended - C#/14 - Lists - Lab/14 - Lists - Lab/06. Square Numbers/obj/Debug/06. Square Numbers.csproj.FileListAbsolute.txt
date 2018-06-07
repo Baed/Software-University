@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\14 - Lists - Lab\14 - Lists - Lab\06. Square Numbers\bin\Debug\_06.Square_Numbers.exe.config
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\14 - Lists - Lab\14 - Lists - Lab\06. Square Numbers\bin\Debug\_06.Square_Numbers.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\14 - Lists - Lab\14 - Lists - Lab\06. Square Numbers\bin\Debug\_06.Square_Numbers.pdb
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\14 - Lists - Lab\14 - Lists - Lab\06. Square Numbers\obj\Debug\06. Square Numbers.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\14 - Lists - Lab\14 - Lists - Lab\06. Square Numbers\obj\Debug\06. Square Numbers.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\14 - Lists - Lab\14 - Lists - Lab\06. Square Numbers\obj\Debug\_06.Square_Numbers.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\14 - Lists - Lab\14 - Lists - Lab\06. Square Numbers\obj\Debug\_06.Square_Numbers.pdb

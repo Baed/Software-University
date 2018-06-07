@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\03 C# Advanced\20 - Built-in Query methods - LINQ - Lab\20 -LINQ - Lab\02. Upper Strings\bin\Debug\_02.Upper_Strings.exe.config
-C:\My Staff\SoftUni\03 C# Advanced\20 - Built-in Query methods - LINQ - Lab\20 -LINQ - Lab\02. Upper Strings\bin\Debug\_02.Upper_Strings.exe
-C:\My Staff\SoftUni\03 C# Advanced\20 - Built-in Query methods - LINQ - Lab\20 -LINQ - Lab\02. Upper Strings\bin\Debug\_02.Upper_Strings.pdb
-C:\My Staff\SoftUni\03 C# Advanced\20 - Built-in Query methods - LINQ - Lab\20 -LINQ - Lab\02. Upper Strings\obj\Debug\02. Upper Strings.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\03 C# Advanced\20 - Built-in Query methods - LINQ - Lab\20 -LINQ - Lab\02. Upper Strings\obj\Debug\02. Upper Strings.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\03 C# Advanced\20 - Built-in Query methods - LINQ - Lab\20 -LINQ - Lab\02. Upper Strings\obj\Debug\_02.Upper_Strings.exe
-C:\My Staff\SoftUni\03 C# Advanced\20 - Built-in Query methods - LINQ - Lab\20 -LINQ - Lab\02. Upper Strings\obj\Debug\_02.Upper_Strings.pdb

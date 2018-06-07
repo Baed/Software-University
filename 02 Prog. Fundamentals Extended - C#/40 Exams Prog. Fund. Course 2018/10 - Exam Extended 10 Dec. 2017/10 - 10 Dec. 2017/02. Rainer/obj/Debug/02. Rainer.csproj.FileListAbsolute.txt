@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\10 - Exam Extended 10 Dec. 2017\10 - 10 Dec. 2017\02. Rainer\bin\Debug\_02.Rainer.exe.config
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\10 - Exam Extended 10 Dec. 2017\10 - 10 Dec. 2017\02. Rainer\bin\Debug\_02.Rainer.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\10 - Exam Extended 10 Dec. 2017\10 - 10 Dec. 2017\02. Rainer\bin\Debug\_02.Rainer.pdb
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\10 - Exam Extended 10 Dec. 2017\10 - 10 Dec. 2017\02. Rainer\obj\Debug\02. Rainer.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\10 - Exam Extended 10 Dec. 2017\10 - 10 Dec. 2017\02. Rainer\obj\Debug\02. Rainer.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\10 - Exam Extended 10 Dec. 2017\10 - 10 Dec. 2017\02. Rainer\obj\Debug\_02.Rainer.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\10 - Exam Extended 10 Dec. 2017\10 - 10 Dec. 2017\02. Rainer\obj\Debug\_02.Rainer.pdb

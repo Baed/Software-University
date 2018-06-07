@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\August C# Basics\Challange\03 Programming Basics Exam - 18 March 2017\01 - Dog House\06 - Sum of Two Numbers\bin\Debug\06 - Sum of Two Numbers.exe.config
-C:\My Staff\SoftUni\August C# Basics\Challange\03 Programming Basics Exam - 18 March 2017\01 - Dog House\06 - Sum of Two Numbers\bin\Debug\06 - Sum of Two Numbers.exe
-C:\My Staff\SoftUni\August C# Basics\Challange\03 Programming Basics Exam - 18 March 2017\01 - Dog House\06 - Sum of Two Numbers\bin\Debug\06 - Sum of Two Numbers.pdb
-C:\My Staff\SoftUni\August C# Basics\Challange\03 Programming Basics Exam - 18 March 2017\01 - Dog House\06 - Sum of Two Numbers\obj\Debug\06 - Sum of Two Numbers.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\August C# Basics\Challange\03 Programming Basics Exam - 18 March 2017\01 - Dog House\06 - Sum of Two Numbers\obj\Debug\06 - Sum of Two Numbers.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\August C# Basics\Challange\03 Programming Basics Exam - 18 March 2017\01 - Dog House\06 - Sum of Two Numbers\obj\Debug\06 - Sum of Two Numbers.exe
-C:\My Staff\SoftUni\August C# Basics\Challange\03 Programming Basics Exam - 18 March 2017\01 - Dog House\06 - Sum of Two Numbers\obj\Debug\06 - Sum of Two Numbers.pdb

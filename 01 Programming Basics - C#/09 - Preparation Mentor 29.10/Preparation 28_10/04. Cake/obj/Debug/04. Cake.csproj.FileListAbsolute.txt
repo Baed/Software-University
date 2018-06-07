@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\01 Programming Basics - C#\UROK 9 - Preparation Mentor 29.10\Preparation 28_10\04. Cake\bin\Debug\_04.Cake.exe.config
-C:\My Staff\SoftUni\01 Programming Basics - C#\UROK 9 - Preparation Mentor 29.10\Preparation 28_10\04. Cake\bin\Debug\_04.Cake.exe
-C:\My Staff\SoftUni\01 Programming Basics - C#\UROK 9 - Preparation Mentor 29.10\Preparation 28_10\04. Cake\bin\Debug\_04.Cake.pdb
-C:\My Staff\SoftUni\01 Programming Basics - C#\UROK 9 - Preparation Mentor 29.10\Preparation 28_10\04. Cake\obj\Debug\04. Cake.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\01 Programming Basics - C#\UROK 9 - Preparation Mentor 29.10\Preparation 28_10\04. Cake\obj\Debug\04. Cake.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\01 Programming Basics - C#\UROK 9 - Preparation Mentor 29.10\Preparation 28_10\04. Cake\obj\Debug\_04.Cake.exe
-C:\My Staff\SoftUni\01 Programming Basics - C#\UROK 9 - Preparation Mentor 29.10\Preparation 28_10\04. Cake\obj\Debug\_04.Cake.pdb

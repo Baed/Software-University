@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\03 C# Advanced\05 - Sets and Dictionaries - Lab\05 - Sets and Dictionaries - Lab\03 CountSameValuesInArray\bin\Debug\03 CountSameValuesInArray.exe.config
-C:\My Staff\SoftUni\03 C# Advanced\05 - Sets and Dictionaries - Lab\05 - Sets and Dictionaries - Lab\03 CountSameValuesInArray\bin\Debug\03 CountSameValuesInArray.exe
-C:\My Staff\SoftUni\03 C# Advanced\05 - Sets and Dictionaries - Lab\05 - Sets and Dictionaries - Lab\03 CountSameValuesInArray\bin\Debug\03 CountSameValuesInArray.pdb
-C:\My Staff\SoftUni\03 C# Advanced\05 - Sets and Dictionaries - Lab\05 - Sets and Dictionaries - Lab\03 CountSameValuesInArray\obj\Debug\03 CountSameValuesInArray.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\03 C# Advanced\05 - Sets and Dictionaries - Lab\05 - Sets and Dictionaries - Lab\03 CountSameValuesInArray\obj\Debug\03 CountSameValuesInArray.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\03 C# Advanced\05 - Sets and Dictionaries - Lab\05 - Sets and Dictionaries - Lab\03 CountSameValuesInArray\obj\Debug\03 CountSameValuesInArray.exe
-C:\My Staff\SoftUni\03 C# Advanced\05 - Sets and Dictionaries - Lab\05 - Sets and Dictionaries - Lab\03 CountSameValuesInArray\obj\Debug\03 CountSameValuesInArray.pdb

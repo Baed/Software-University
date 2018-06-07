@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\03 C# Advanced\14 - Manual String Processing - Exercise\14 - ManualStringProcessingExer\11. Palindromes\bin\Debug\_11.Palindromes.exe.config
-C:\My Staff\SoftUni\03 C# Advanced\14 - Manual String Processing - Exercise\14 - ManualStringProcessingExer\11. Palindromes\bin\Debug\_11.Palindromes.exe
-C:\My Staff\SoftUni\03 C# Advanced\14 - Manual String Processing - Exercise\14 - ManualStringProcessingExer\11. Palindromes\bin\Debug\_11.Palindromes.pdb
-C:\My Staff\SoftUni\03 C# Advanced\14 - Manual String Processing - Exercise\14 - ManualStringProcessingExer\11. Palindromes\obj\Debug\11. Palindromes.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\03 C# Advanced\14 - Manual String Processing - Exercise\14 - ManualStringProcessingExer\11. Palindromes\obj\Debug\11. Palindromes.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\03 C# Advanced\14 - Manual String Processing - Exercise\14 - ManualStringProcessingExer\11. Palindromes\obj\Debug\_11.Palindromes.exe
-C:\My Staff\SoftUni\03 C# Advanced\14 - Manual String Processing - Exercise\14 - ManualStringProcessingExer\11. Palindromes\obj\Debug\_11.Palindromes.pdb

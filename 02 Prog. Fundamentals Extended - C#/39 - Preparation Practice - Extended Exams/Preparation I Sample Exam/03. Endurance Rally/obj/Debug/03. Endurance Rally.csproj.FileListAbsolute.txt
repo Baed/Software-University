@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\39 - Preparation Practice - Extended Exams\Preparation I Sample Exam\03. Endurance Rally\bin\Debug\_03.Endurance_Rally.exe.config
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\39 - Preparation Practice - Extended Exams\Preparation I Sample Exam\03. Endurance Rally\bin\Debug\_03.Endurance_Rally.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\39 - Preparation Practice - Extended Exams\Preparation I Sample Exam\03. Endurance Rally\bin\Debug\_03.Endurance_Rally.pdb
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\39 - Preparation Practice - Extended Exams\Preparation I Sample Exam\03. Endurance Rally\obj\Debug\03. Endurance Rally.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\39 - Preparation Practice - Extended Exams\Preparation I Sample Exam\03. Endurance Rally\obj\Debug\03. Endurance Rally.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\39 - Preparation Practice - Extended Exams\Preparation I Sample Exam\03. Endurance Rally\obj\Debug\_03.Endurance_Rally.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\39 - Preparation Practice - Extended Exams\Preparation I Sample Exam\03. Endurance Rally\obj\Debug\_03.Endurance_Rally.pdb

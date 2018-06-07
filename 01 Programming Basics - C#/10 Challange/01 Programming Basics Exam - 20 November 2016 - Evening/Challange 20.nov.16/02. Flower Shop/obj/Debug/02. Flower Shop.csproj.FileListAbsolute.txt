@@ -1,6 +1,0 @@
-C:\My Staff\SoftUni\August C# Basics\Challange\Programming Basics Exam - 20 November 2016 - Evening\Challange 20.nov.16\02. Flower Shop\bin\Debug\_02.Flower_Shop.exe.config
-C:\My Staff\SoftUni\August C# Basics\Challange\Programming Basics Exam - 20 November 2016 - Evening\Challange 20.nov.16\02. Flower Shop\bin\Debug\_02.Flower_Shop.exe
-C:\My Staff\SoftUni\August C# Basics\Challange\Programming Basics Exam - 20 November 2016 - Evening\Challange 20.nov.16\02. Flower Shop\bin\Debug\_02.Flower_Shop.pdb
-C:\My Staff\SoftUni\August C# Basics\Challange\Programming Basics Exam - 20 November 2016 - Evening\Challange 20.nov.16\02. Flower Shop\obj\Debug\02. Flower Shop.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\August C# Basics\Challange\Programming Basics Exam - 20 November 2016 - Evening\Challange 20.nov.16\02. Flower Shop\obj\Debug\_02.Flower_Shop.exe
-C:\My Staff\SoftUni\August C# Basics\Challange\Programming Basics Exam - 20 November 2016 - Evening\Challange 20.nov.16\02. Flower Shop\obj\Debug\_02.Flower_Shop.pdb

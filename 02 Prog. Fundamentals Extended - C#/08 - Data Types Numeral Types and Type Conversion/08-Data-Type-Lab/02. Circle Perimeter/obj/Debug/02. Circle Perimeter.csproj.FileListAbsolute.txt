@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\08 - Data Types Numeral Types and Type Conversion\08-Data-Type-Lab\02. Circle Perimeter\bin\Debug\_02.Circle_Perimeter.exe.config
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\08 - Data Types Numeral Types and Type Conversion\08-Data-Type-Lab\02. Circle Perimeter\bin\Debug\_02.Circle_Perimeter.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\08 - Data Types Numeral Types and Type Conversion\08-Data-Type-Lab\02. Circle Perimeter\bin\Debug\_02.Circle_Perimeter.pdb
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\08 - Data Types Numeral Types and Type Conversion\08-Data-Type-Lab\02. Circle Perimeter\obj\Debug\02. Circle Perimeter.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\08 - Data Types Numeral Types and Type Conversion\08-Data-Type-Lab\02. Circle Perimeter\obj\Debug\02. Circle Perimeter.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\08 - Data Types Numeral Types and Type Conversion\08-Data-Type-Lab\02. Circle Perimeter\obj\Debug\_02.Circle_Perimeter.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\08 - Data Types Numeral Types and Type Conversion\08-Data-Type-Lab\02. Circle Perimeter\obj\Debug\_02.Circle_Perimeter.pdb

@@ -1,6 +1,0 @@
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\12 - Arrays and Methods - Exercises\12_Arrays_Methods_Exercises\15. CountCapitalLettersArray\bin\Debug\_15.CountCapitalLettersArray.exe.config
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\12 - Arrays and Methods - Exercises\12_Arrays_Methods_Exercises\15. CountCapitalLettersArray\bin\Debug\_15.CountCapitalLettersArray.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\12 - Arrays and Methods - Exercises\12_Arrays_Methods_Exercises\15. CountCapitalLettersArray\bin\Debug\_15.CountCapitalLettersArray.pdb
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\12 - Arrays and Methods - Exercises\12_Arrays_Methods_Exercises\15. CountCapitalLettersArray\obj\Debug\15. CountCapitalLettersArray.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\12 - Arrays and Methods - Exercises\12_Arrays_Methods_Exercises\15. CountCapitalLettersArray\obj\Debug\_15.CountCapitalLettersArray.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\12 - Arrays and Methods - Exercises\12_Arrays_Methods_Exercises\15. CountCapitalLettersArray\obj\Debug\_15.CountCapitalLettersArray.pdb

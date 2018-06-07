@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\05 OOP Advanced\02 Generics\02 Generics\L01 Boxes\bin\Debug\L01 Boxes.exe.config
-C:\My Staff\SoftUni\05 OOP Advanced\02 Generics\02 Generics\L01 Boxes\bin\Debug\L01 Boxes.exe
-C:\My Staff\SoftUni\05 OOP Advanced\02 Generics\02 Generics\L01 Boxes\bin\Debug\L01 Boxes.pdb
-C:\My Staff\SoftUni\05 OOP Advanced\02 Generics\02 Generics\L01 Boxes\obj\Debug\L01 Boxes.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\05 OOP Advanced\02 Generics\02 Generics\L01 Boxes\obj\Debug\L01 Boxes.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\05 OOP Advanced\02 Generics\02 Generics\L01 Boxes\obj\Debug\L01 Boxes.exe
-C:\My Staff\SoftUni\05 OOP Advanced\02 Generics\02 Generics\L01 Boxes\obj\Debug\L01 Boxes.pdb

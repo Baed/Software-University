@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\07 DB Advanced\02 Encapsulation and Validation\02 Encapsulation and Validation\L01 - 04 Problems solved\bin\Debug\L01 - 04 Problems solved.exe.config
-C:\My Staff\SoftUni\07 DB Advanced\02 Encapsulation and Validation\02 Encapsulation and Validation\L01 - 04 Problems solved\bin\Debug\L01 - 04 Problems solved.exe
-C:\My Staff\SoftUni\07 DB Advanced\02 Encapsulation and Validation\02 Encapsulation and Validation\L01 - 04 Problems solved\bin\Debug\L01 - 04 Problems solved.pdb
-C:\My Staff\SoftUni\07 DB Advanced\02 Encapsulation and Validation\02 Encapsulation and Validation\L01 - 04 Problems solved\obj\Debug\L01 - 04 Problems solved.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\07 DB Advanced\02 Encapsulation and Validation\02 Encapsulation and Validation\L01 - 04 Problems solved\obj\Debug\L01 - 04 Problems solved.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\07 DB Advanced\02 Encapsulation and Validation\02 Encapsulation and Validation\L01 - 04 Problems solved\obj\Debug\L01 - 04 Problems solved.exe
-C:\My Staff\SoftUni\07 DB Advanced\02 Encapsulation and Validation\02 Encapsulation and Validation\L01 - 04 Problems solved\obj\Debug\L01 - 04 Problems solved.pdb

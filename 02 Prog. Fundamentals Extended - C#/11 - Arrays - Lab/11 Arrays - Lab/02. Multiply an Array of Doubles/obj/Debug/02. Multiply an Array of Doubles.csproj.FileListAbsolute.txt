@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\11 - Arrays - Lab\11 Arrays - Lab\02. Multiply an Array of Doubles\bin\Debug\_02.Multiply_an_Array_of_Doubles.exe.config
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\11 - Arrays - Lab\11 Arrays - Lab\02. Multiply an Array of Doubles\bin\Debug\_02.Multiply_an_Array_of_Doubles.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\11 - Arrays - Lab\11 Arrays - Lab\02. Multiply an Array of Doubles\bin\Debug\_02.Multiply_an_Array_of_Doubles.pdb
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\11 - Arrays - Lab\11 Arrays - Lab\02. Multiply an Array of Doubles\obj\Debug\02. Multiply an Array of Doubles.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\11 - Arrays - Lab\11 Arrays - Lab\02. Multiply an Array of Doubles\obj\Debug\02. Multiply an Array of Doubles.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\11 - Arrays - Lab\11 Arrays - Lab\02. Multiply an Array of Doubles\obj\Debug\_02.Multiply_an_Array_of_Doubles.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\11 - Arrays - Lab\11 Arrays - Lab\02. Multiply an Array of Doubles\obj\Debug\_02.Multiply_an_Array_of_Doubles.pdb

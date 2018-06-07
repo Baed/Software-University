@@ -1,6 +1,0 @@
-C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\E11. Pokemon Trainer\bin\Debug\E11.Pokemon_Trainer.exe.config
-C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\E11. Pokemon Trainer\bin\Debug\E11.Pokemon_Trainer.exe
-C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\E11. Pokemon Trainer\bin\Debug\E11.Pokemon_Trainer.pdb
-C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\E11. Pokemon Trainer\obj\Debug\E11. Pokemon Trainer.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\E11. Pokemon Trainer\obj\Debug\E11.Pokemon_Trainer.exe
-C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\E11. Pokemon Trainer\obj\Debug\E11.Pokemon_Trainer.pdb

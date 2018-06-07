@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\03 C# Advanced\21 - Built-in Query methods - LINQ - Exercise\21 - LINQ - Exercise\01. Students by Group\bin\Debug\_01.Students_by_Group.exe.config
-C:\My Staff\SoftUni\03 C# Advanced\21 - Built-in Query methods - LINQ - Exercise\21 - LINQ - Exercise\01. Students by Group\bin\Debug\_01.Students_by_Group.exe
-C:\My Staff\SoftUni\03 C# Advanced\21 - Built-in Query methods - LINQ - Exercise\21 - LINQ - Exercise\01. Students by Group\bin\Debug\_01.Students_by_Group.pdb
-C:\My Staff\SoftUni\03 C# Advanced\21 - Built-in Query methods - LINQ - Exercise\21 - LINQ - Exercise\01. Students by Group\obj\Debug\01. Students by Group.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\03 C# Advanced\21 - Built-in Query methods - LINQ - Exercise\21 - LINQ - Exercise\01. Students by Group\obj\Debug\01. Students by Group.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\03 C# Advanced\21 - Built-in Query methods - LINQ - Exercise\21 - LINQ - Exercise\01. Students by Group\obj\Debug\_01.Students_by_Group.exe
-C:\My Staff\SoftUni\03 C# Advanced\21 - Built-in Query methods - LINQ - Exercise\21 - LINQ - Exercise\01. Students by Group\obj\Debug\_01.Students_by_Group.pdb

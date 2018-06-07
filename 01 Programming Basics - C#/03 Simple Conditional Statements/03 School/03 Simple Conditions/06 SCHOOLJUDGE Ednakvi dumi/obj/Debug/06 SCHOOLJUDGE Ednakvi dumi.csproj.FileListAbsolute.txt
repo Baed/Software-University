@@ -1,6 +1,0 @@
-D:\SOFTUNI\Programming basic c# august 2017\UROK 3 Simple Conditional Statements\03 School\03 Simple Conditions\06 SCHOOLJUDGE Ednakvi dumi\bin\Debug\06 SCHOOLJUDGE Ednakvi dumi.exe.config
-D:\SOFTUNI\Programming basic c# august 2017\UROK 3 Simple Conditional Statements\03 School\03 Simple Conditions\06 SCHOOLJUDGE Ednakvi dumi\bin\Debug\06 SCHOOLJUDGE Ednakvi dumi.exe
-D:\SOFTUNI\Programming basic c# august 2017\UROK 3 Simple Conditional Statements\03 School\03 Simple Conditions\06 SCHOOLJUDGE Ednakvi dumi\bin\Debug\06 SCHOOLJUDGE Ednakvi dumi.pdb
-D:\SOFTUNI\Programming basic c# august 2017\UROK 3 Simple Conditional Statements\03 School\03 Simple Conditions\06 SCHOOLJUDGE Ednakvi dumi\obj\Debug\06 SCHOOLJUDGE Ednakvi dumi.csproj.CoreCompileInputs.cache
-D:\SOFTUNI\Programming basic c# august 2017\UROK 3 Simple Conditional Statements\03 School\03 Simple Conditions\06 SCHOOLJUDGE Ednakvi dumi\obj\Debug\06 SCHOOLJUDGE Ednakvi dumi.exe
-D:\SOFTUNI\Programming basic c# august 2017\UROK 3 Simple Conditional Statements\03 School\03 Simple Conditions\06 SCHOOLJUDGE Ednakvi dumi\obj\Debug\06 SCHOOLJUDGE Ednakvi dumi.pdb

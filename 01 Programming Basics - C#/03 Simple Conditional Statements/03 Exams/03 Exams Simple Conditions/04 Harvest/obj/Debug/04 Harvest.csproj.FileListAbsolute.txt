@@ -1,7 +1,0 @@
-D:\SOFTUNI\Programming basic c# august 2017\UROK 3 Simple Conditional Statements\03 Exams\03 Exams Simple Conditions\04 Harvest\bin\Debug\04 Harvest.exe.config
-D:\SOFTUNI\Programming basic c# august 2017\UROK 3 Simple Conditional Statements\03 Exams\03 Exams Simple Conditions\04 Harvest\bin\Debug\04 Harvest.exe
-D:\SOFTUNI\Programming basic c# august 2017\UROK 3 Simple Conditional Statements\03 Exams\03 Exams Simple Conditions\04 Harvest\bin\Debug\04 Harvest.pdb
-D:\SOFTUNI\Programming basic c# august 2017\UROK 3 Simple Conditional Statements\03 Exams\03 Exams Simple Conditions\04 Harvest\obj\Debug\04 Harvest.csprojResolveAssemblyReference.cache
-D:\SOFTUNI\Programming basic c# august 2017\UROK 3 Simple Conditional Statements\03 Exams\03 Exams Simple Conditions\04 Harvest\obj\Debug\04 Harvest.csproj.CoreCompileInputs.cache
-D:\SOFTUNI\Programming basic c# august 2017\UROK 3 Simple Conditional Statements\03 Exams\03 Exams Simple Conditions\04 Harvest\obj\Debug\04 Harvest.exe
-D:\SOFTUNI\Programming basic c# august 2017\UROK 3 Simple Conditional Statements\03 Exams\03 Exams Simple Conditions\04 Harvest\obj\Debug\04 Harvest.pdb

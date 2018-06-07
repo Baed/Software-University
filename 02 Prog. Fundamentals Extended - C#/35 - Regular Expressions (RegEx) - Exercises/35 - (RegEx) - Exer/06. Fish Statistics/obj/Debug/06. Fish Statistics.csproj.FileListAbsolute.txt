@@ -1,6 +1,0 @@
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\35 - Regular Expressions (RegEx) - Exercises\35 - (RegEx) - Exer\06. Fish Statistics\bin\Debug\_06.Fish_Statistics.exe.config
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\35 - Regular Expressions (RegEx) - Exercises\35 - (RegEx) - Exer\06. Fish Statistics\bin\Debug\_06.Fish_Statistics.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\35 - Regular Expressions (RegEx) - Exercises\35 - (RegEx) - Exer\06. Fish Statistics\bin\Debug\_06.Fish_Statistics.pdb
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\35 - Regular Expressions (RegEx) - Exercises\35 - (RegEx) - Exer\06. Fish Statistics\obj\Debug\06. Fish Statistics.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\35 - Regular Expressions (RegEx) - Exercises\35 - (RegEx) - Exer\06. Fish Statistics\obj\Debug\_06.Fish_Statistics.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\35 - Regular Expressions (RegEx) - Exercises\35 - (RegEx) - Exer\06. Fish Statistics\obj\Debug\_06.Fish_Statistics.pdb

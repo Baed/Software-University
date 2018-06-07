@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\03 C# Advanced\19 - Functional Programming - Exercise\19 - Functional Programming - Exer\10. Predicate Party!\bin\Debug\_10.Predicate_Party_.exe.config
-C:\My Staff\SoftUni\03 C# Advanced\19 - Functional Programming - Exercise\19 - Functional Programming - Exer\10. Predicate Party!\bin\Debug\_10.Predicate_Party_.exe
-C:\My Staff\SoftUni\03 C# Advanced\19 - Functional Programming - Exercise\19 - Functional Programming - Exer\10. Predicate Party!\bin\Debug\_10.Predicate_Party_.pdb
-C:\My Staff\SoftUni\03 C# Advanced\19 - Functional Programming - Exercise\19 - Functional Programming - Exer\10. Predicate Party!\obj\Debug\10. Predicate Party!.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\03 C# Advanced\19 - Functional Programming - Exercise\19 - Functional Programming - Exer\10. Predicate Party!\obj\Debug\10. Predicate Party!.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\03 C# Advanced\19 - Functional Programming - Exercise\19 - Functional Programming - Exer\10. Predicate Party!\obj\Debug\_10.Predicate_Party_.exe
-C:\My Staff\SoftUni\03 C# Advanced\19 - Functional Programming - Exercise\19 - Functional Programming - Exer\10. Predicate Party!\obj\Debug\_10.Predicate_Party_.pdb

@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\04 OOP Basic\04 Polymorphism\04 Polymorphism\E01 Vehicles\bin\Debug\E01 Vehicles.exe.config
-C:\My Staff\SoftUni\04 OOP Basic\04 Polymorphism\04 Polymorphism\E01 Vehicles\bin\Debug\E01 Vehicles.exe
-C:\My Staff\SoftUni\04 OOP Basic\04 Polymorphism\04 Polymorphism\E01 Vehicles\bin\Debug\E01 Vehicles.pdb
-C:\My Staff\SoftUni\04 OOP Basic\04 Polymorphism\04 Polymorphism\E01 Vehicles\obj\Debug\E01 Vehicles.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\04 OOP Basic\04 Polymorphism\04 Polymorphism\E01 Vehicles\obj\Debug\E01 Vehicles.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\04 OOP Basic\04 Polymorphism\04 Polymorphism\E01 Vehicles\obj\Debug\E01 Vehicles.exe
-C:\My Staff\SoftUni\04 OOP Basic\04 Polymorphism\04 Polymorphism\E01 Vehicles\obj\Debug\E01 Vehicles.pdb

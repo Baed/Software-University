@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\03 C# Advanced\04 - Stacks and Queues - Exercise\04 - Stacks and Queues - Exercise\07. Balanced Parenthesis\bin\Debug\_07.Balanced_Parenthesis.exe.config
-C:\My Staff\SoftUni\03 C# Advanced\04 - Stacks and Queues - Exercise\04 - Stacks and Queues - Exercise\07. Balanced Parenthesis\bin\Debug\_07.Balanced_Parenthesis.exe
-C:\My Staff\SoftUni\03 C# Advanced\04 - Stacks and Queues - Exercise\04 - Stacks and Queues - Exercise\07. Balanced Parenthesis\bin\Debug\_07.Balanced_Parenthesis.pdb
-C:\My Staff\SoftUni\03 C# Advanced\04 - Stacks and Queues - Exercise\04 - Stacks and Queues - Exercise\07. Balanced Parenthesis\obj\Debug\07. Balanced Parenthesis.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\03 C# Advanced\04 - Stacks and Queues - Exercise\04 - Stacks and Queues - Exercise\07. Balanced Parenthesis\obj\Debug\07. Balanced Parenthesis.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\03 C# Advanced\04 - Stacks and Queues - Exercise\04 - Stacks and Queues - Exercise\07. Balanced Parenthesis\obj\Debug\_07.Balanced_Parenthesis.exe
-C:\My Staff\SoftUni\03 C# Advanced\04 - Stacks and Queues - Exercise\04 - Stacks and Queues - Exercise\07. Balanced Parenthesis\obj\Debug\_07.Balanced_Parenthesis.pdb

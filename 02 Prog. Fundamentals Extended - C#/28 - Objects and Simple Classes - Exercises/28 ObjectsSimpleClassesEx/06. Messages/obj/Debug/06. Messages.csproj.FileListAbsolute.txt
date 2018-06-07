@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\28 - Objects and Simple Classes - Exercises\28 ObjectsSimpleClassesEx\06. Messages\bin\Debug\_06.Messages.exe.config
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\28 - Objects and Simple Classes - Exercises\28 ObjectsSimpleClassesEx\06. Messages\bin\Debug\_06.Messages.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\28 - Objects and Simple Classes - Exercises\28 ObjectsSimpleClassesEx\06. Messages\bin\Debug\_06.Messages.pdb
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\28 - Objects and Simple Classes - Exercises\28 ObjectsSimpleClassesEx\06. Messages\obj\Debug\06. Messages.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\28 - Objects and Simple Classes - Exercises\28 ObjectsSimpleClassesEx\06. Messages\obj\Debug\06. Messages.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\28 - Objects and Simple Classes - Exercises\28 ObjectsSimpleClassesEx\06. Messages\obj\Debug\_06.Messages.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\28 - Objects and Simple Classes - Exercises\28 ObjectsSimpleClassesEx\06. Messages\obj\Debug\_06.Messages.pdb

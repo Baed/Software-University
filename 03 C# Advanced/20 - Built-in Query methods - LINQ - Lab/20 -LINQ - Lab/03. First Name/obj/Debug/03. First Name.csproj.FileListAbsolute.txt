@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\03 C# Advanced\20 - Built-in Query methods - LINQ - Lab\20 -LINQ - Lab\03. First Name\bin\Debug\_03.First_Name.exe.config
-C:\My Staff\SoftUni\03 C# Advanced\20 - Built-in Query methods - LINQ - Lab\20 -LINQ - Lab\03. First Name\bin\Debug\_03.First_Name.exe
-C:\My Staff\SoftUni\03 C# Advanced\20 - Built-in Query methods - LINQ - Lab\20 -LINQ - Lab\03. First Name\bin\Debug\_03.First_Name.pdb
-C:\My Staff\SoftUni\03 C# Advanced\20 - Built-in Query methods - LINQ - Lab\20 -LINQ - Lab\03. First Name\obj\Debug\03. First Name.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\03 C# Advanced\20 - Built-in Query methods - LINQ - Lab\20 -LINQ - Lab\03. First Name\obj\Debug\03. First Name.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\03 C# Advanced\20 - Built-in Query methods - LINQ - Lab\20 -LINQ - Lab\03. First Name\obj\Debug\_03.First_Name.exe
-C:\My Staff\SoftUni\03 C# Advanced\20 - Built-in Query methods - LINQ - Lab\20 -LINQ - Lab\03. First Name\obj\Debug\_03.First_Name.pdb

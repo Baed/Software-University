@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\05 OOP Advanced\01 Interfaces and Abstraction\01 Interfaces and Abstraction\E01 Define an Interface IPerson\bin\Debug\E01 Define an Interface IPerson.exe.config
-C:\My Staff\SoftUni\05 OOP Advanced\01 Interfaces and Abstraction\01 Interfaces and Abstraction\E01 Define an Interface IPerson\bin\Debug\E01 Define an Interface IPerson.exe
-C:\My Staff\SoftUni\05 OOP Advanced\01 Interfaces and Abstraction\01 Interfaces and Abstraction\E01 Define an Interface IPerson\bin\Debug\E01 Define an Interface IPerson.pdb
-C:\My Staff\SoftUni\05 OOP Advanced\01 Interfaces and Abstraction\01 Interfaces and Abstraction\E01 Define an Interface IPerson\obj\Debug\E01 Define an Interface IPerson.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\05 OOP Advanced\01 Interfaces and Abstraction\01 Interfaces and Abstraction\E01 Define an Interface IPerson\obj\Debug\E01 Define an Interface IPerson.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\05 OOP Advanced\01 Interfaces and Abstraction\01 Interfaces and Abstraction\E01 Define an Interface IPerson\obj\Debug\E01 Define an Interface IPerson.exe
-C:\My Staff\SoftUni\05 OOP Advanced\01 Interfaces and Abstraction\01 Interfaces and Abstraction\E01 Define an Interface IPerson\obj\Debug\E01 Define an Interface IPerson.pdb

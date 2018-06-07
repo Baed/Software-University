@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\August C# Basics\Challange\03 Programming Basics Exam - 18 March 2017\01 - Dog House\Problem 03 - Car To Go\bin\Debug\Problem 03 - Car To Go.exe.config
-C:\My Staff\SoftUni\August C# Basics\Challange\03 Programming Basics Exam - 18 March 2017\01 - Dog House\Problem 03 - Car To Go\bin\Debug\Problem 03 - Car To Go.exe
-C:\My Staff\SoftUni\August C# Basics\Challange\03 Programming Basics Exam - 18 March 2017\01 - Dog House\Problem 03 - Car To Go\bin\Debug\Problem 03 - Car To Go.pdb
-C:\My Staff\SoftUni\August C# Basics\Challange\03 Programming Basics Exam - 18 March 2017\01 - Dog House\Problem 03 - Car To Go\obj\Debug\03 - Car To Go.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\August C# Basics\Challange\03 Programming Basics Exam - 18 March 2017\01 - Dog House\Problem 03 - Car To Go\obj\Debug\Problem 03 - Car To Go.exe
-C:\My Staff\SoftUni\August C# Basics\Challange\03 Programming Basics Exam - 18 March 2017\01 - Dog House\Problem 03 - Car To Go\obj\Debug\Problem 03 - Car To Go.pdb
-C:\My Staff\SoftUni\August C# Basics\Challange\03 Programming Basics Exam - 18 March 2017\01 - Dog House\Problem 03 - Car To Go\obj\Debug\03 - Car To Go.csprojResolveAssemblyReference.cache

@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\August C# Basics\UROK 5 Loops\02 Excersice\05 Loops\11. Odd or Even Position\bin\Debug\_11.Odd_or_Even_Position.exe.config
-C:\My Staff\SoftUni\August C# Basics\UROK 5 Loops\02 Excersice\05 Loops\11. Odd or Even Position\bin\Debug\_11.Odd_or_Even_Position.exe
-C:\My Staff\SoftUni\August C# Basics\UROK 5 Loops\02 Excersice\05 Loops\11. Odd or Even Position\bin\Debug\_11.Odd_or_Even_Position.pdb
-C:\My Staff\SoftUni\August C# Basics\UROK 5 Loops\02 Excersice\05 Loops\11. Odd or Even Position\obj\Debug\11. Odd or Even Position.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\August C# Basics\UROK 5 Loops\02 Excersice\05 Loops\11. Odd or Even Position\obj\Debug\11. Odd or Even Position.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\August C# Basics\UROK 5 Loops\02 Excersice\05 Loops\11. Odd or Even Position\obj\Debug\_11.Odd_or_Even_Position.exe
-C:\My Staff\SoftUni\August C# Basics\UROK 5 Loops\02 Excersice\05 Loops\11. Odd or Even Position\obj\Debug\_11.Odd_or_Even_Position.pdb

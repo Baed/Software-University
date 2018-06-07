@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\33 - Strings and Text Processing - More Exercises\33 StringsTextProcesMEx\02. Diamond Problem\bin\Debug\_02.Diamond_Problem.exe.config
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\33 - Strings and Text Processing - More Exercises\33 StringsTextProcesMEx\02. Diamond Problem\bin\Debug\_02.Diamond_Problem.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\33 - Strings and Text Processing - More Exercises\33 StringsTextProcesMEx\02. Diamond Problem\bin\Debug\_02.Diamond_Problem.pdb
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\33 - Strings and Text Processing - More Exercises\33 StringsTextProcesMEx\02. Diamond Problem\obj\Debug\02. Diamond Problem.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\33 - Strings and Text Processing - More Exercises\33 StringsTextProcesMEx\02. Diamond Problem\obj\Debug\02. Diamond Problem.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\33 - Strings and Text Processing - More Exercises\33 StringsTextProcesMEx\02. Diamond Problem\obj\Debug\_02.Diamond_Problem.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\33 - Strings and Text Processing - More Exercises\33 StringsTextProcesMEx\02. Diamond Problem\obj\Debug\_02.Diamond_Problem.pdb

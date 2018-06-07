@@ -1,6 +1,0 @@
-C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\E03.Oldest Family Member\bin\Debug\E03.Oldest Family Member.exe.config
-C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\E03.Oldest Family Member\bin\Debug\E03.Oldest Family Member.exe
-C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\E03.Oldest Family Member\bin\Debug\E03.Oldest Family Member.pdb
-C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\E03.Oldest Family Member\obj\Debug\E03.Oldest Family Member.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\E03.Oldest Family Member\obj\Debug\E03.Oldest Family Member.exe
-C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\E03.Oldest Family Member\obj\Debug\E03.Oldest Family Member.pdb

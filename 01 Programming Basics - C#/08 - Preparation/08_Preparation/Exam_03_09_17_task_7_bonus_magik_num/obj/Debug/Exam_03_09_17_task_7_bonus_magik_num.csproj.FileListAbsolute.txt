@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\August C# Basics\UROK 8 - Preparation\08_Preparation\Exam_03_09_17_task_7_bonus_magik_num\bin\Debug\Exam_03_09_17_task_7_bonus_magik_num.exe.config
-C:\My Staff\SoftUni\August C# Basics\UROK 8 - Preparation\08_Preparation\Exam_03_09_17_task_7_bonus_magik_num\bin\Debug\Exam_03_09_17_task_7_bonus_magik_num.exe
-C:\My Staff\SoftUni\August C# Basics\UROK 8 - Preparation\08_Preparation\Exam_03_09_17_task_7_bonus_magik_num\bin\Debug\Exam_03_09_17_task_7_bonus_magik_num.pdb
-C:\My Staff\SoftUni\August C# Basics\UROK 8 - Preparation\08_Preparation\Exam_03_09_17_task_7_bonus_magik_num\obj\Debug\Exam_03_09_17_task_7_bonus_magik_num.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\August C# Basics\UROK 8 - Preparation\08_Preparation\Exam_03_09_17_task_7_bonus_magik_num\obj\Debug\Exam_03_09_17_task_7_bonus_magik_num.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\August C# Basics\UROK 8 - Preparation\08_Preparation\Exam_03_09_17_task_7_bonus_magik_num\obj\Debug\Exam_03_09_17_task_7_bonus_magik_num.exe
-C:\My Staff\SoftUni\August C# Basics\UROK 8 - Preparation\08_Preparation\Exam_03_09_17_task_7_bonus_magik_num\obj\Debug\Exam_03_09_17_task_7_bonus_magik_num.pdb

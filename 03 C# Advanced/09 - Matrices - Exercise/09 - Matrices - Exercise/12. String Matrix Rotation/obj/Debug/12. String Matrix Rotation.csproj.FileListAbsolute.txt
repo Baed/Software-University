@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\03 C# Advanced\09 - Matrices - Exercise\09 - Matrices - Exercise\12. String Matrix Rotation\bin\Debug\_12.String_Matrix_Rotation.exe.config
-C:\My Staff\SoftUni\03 C# Advanced\09 - Matrices - Exercise\09 - Matrices - Exercise\12. String Matrix Rotation\bin\Debug\_12.String_Matrix_Rotation.exe
-C:\My Staff\SoftUni\03 C# Advanced\09 - Matrices - Exercise\09 - Matrices - Exercise\12. String Matrix Rotation\bin\Debug\_12.String_Matrix_Rotation.pdb
-C:\My Staff\SoftUni\03 C# Advanced\09 - Matrices - Exercise\09 - Matrices - Exercise\12. String Matrix Rotation\obj\Debug\12. String Matrix Rotation.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\03 C# Advanced\09 - Matrices - Exercise\09 - Matrices - Exercise\12. String Matrix Rotation\obj\Debug\12. String Matrix Rotation.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\03 C# Advanced\09 - Matrices - Exercise\09 - Matrices - Exercise\12. String Matrix Rotation\obj\Debug\_12.String_Matrix_Rotation.exe
-C:\My Staff\SoftUni\03 C# Advanced\09 - Matrices - Exercise\09 - Matrices - Exercise\12. String Matrix Rotation\obj\Debug\_12.String_Matrix_Rotation.pdb

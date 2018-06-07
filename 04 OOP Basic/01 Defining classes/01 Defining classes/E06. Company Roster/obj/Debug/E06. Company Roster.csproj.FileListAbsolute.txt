@@ -1,6 +1,0 @@
-C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\E06. Company Roster\bin\Debug\E06.Company_Roster.exe.config
-C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\E06. Company Roster\bin\Debug\E06.Company_Roster.exe
-C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\E06. Company Roster\bin\Debug\E06.Company_Roster.pdb
-C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\E06. Company Roster\obj\Debug\E06. Company Roster.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\E06. Company Roster\obj\Debug\E06.Company_Roster.exe
-C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\E06. Company Roster\obj\Debug\E06.Company_Roster.pdb

@@ -1,9 +1,0 @@
-C:\My Staff\SoftUni\07 DB Advanced\12 C# Auto Mapping Objects\12.AutoMappingObjects\EmployeesModels\bin\Debug\netcoreapp2.0\Employees.Models.deps.json
-C:\My Staff\SoftUni\07 DB Advanced\12 C# Auto Mapping Objects\12.AutoMappingObjects\EmployeesModels\bin\Debug\netcoreapp2.0\Employees.Models.dll
-C:\My Staff\SoftUni\07 DB Advanced\12 C# Auto Mapping Objects\12.AutoMappingObjects\EmployeesModels\bin\Debug\netcoreapp2.0\Employees.Models.pdb
-C:\My Staff\SoftUni\07 DB Advanced\12 C# Auto Mapping Objects\12.AutoMappingObjects\EmployeesModels\obj\Debug\netcoreapp2.0\Employees.Models.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\07 DB Advanced\12 C# Auto Mapping Objects\12.AutoMappingObjects\EmployeesModels\obj\Debug\netcoreapp2.0\Employees.Models.AssemblyInfoInputs.cache
-C:\My Staff\SoftUni\07 DB Advanced\12 C# Auto Mapping Objects\12.AutoMappingObjects\EmployeesModels\obj\Debug\netcoreapp2.0\Employees.Models.AssemblyInfo.cs
-C:\My Staff\SoftUni\07 DB Advanced\12 C# Auto Mapping Objects\12.AutoMappingObjects\EmployeesModels\obj\Debug\netcoreapp2.0\Employees.Models.dll
-C:\My Staff\SoftUni\07 DB Advanced\12 C# Auto Mapping Objects\12.AutoMappingObjects\EmployeesModels\obj\Debug\netcoreapp2.0\Employees.Models.pdb
-C:\My Staff\SoftUni\07 DB Advanced\12 C# Auto Mapping Objects\12.AutoMappingObjects\EmployeesModels\obj\Debug\netcoreapp2.0\Employees.Models.csprojResolveAssemblyReference.cache

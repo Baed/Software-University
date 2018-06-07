@@ -1,6 +1,0 @@
-C:\My Staff\SoftUni\03 C# Advanced\06 - Sets and Dictionaries - Exercise\06 - Sets and DictionariesExercise\02. Sets Of Elements\bin\Debug\_02.Sets_Of_Elements.exe.config
-C:\My Staff\SoftUni\03 C# Advanced\06 - Sets and Dictionaries - Exercise\06 - Sets and DictionariesExercise\02. Sets Of Elements\bin\Debug\_02.Sets_Of_Elements.exe
-C:\My Staff\SoftUni\03 C# Advanced\06 - Sets and Dictionaries - Exercise\06 - Sets and DictionariesExercise\02. Sets Of Elements\bin\Debug\_02.Sets_Of_Elements.pdb
-C:\My Staff\SoftUni\03 C# Advanced\06 - Sets and Dictionaries - Exercise\06 - Sets and DictionariesExercise\02. Sets Of Elements\obj\Debug\02. Sets Of Elements.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\03 C# Advanced\06 - Sets and Dictionaries - Exercise\06 - Sets and DictionariesExercise\02. Sets Of Elements\obj\Debug\_02.Sets_Of_Elements.exe
-C:\My Staff\SoftUni\03 C# Advanced\06 - Sets and Dictionaries - Exercise\06 - Sets and DictionariesExercise\02. Sets Of Elements\obj\Debug\_02.Sets_Of_Elements.pdb

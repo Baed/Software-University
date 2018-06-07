@@ -1,6 +1,0 @@
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\12 - Arrays and Methods - Exercises\12_Arrays_Methods_Exercises\20. Debugging_TriangleForm\bin\Debug\_20.Debugging_TriangleForm.exe.config
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\12 - Arrays and Methods - Exercises\12_Arrays_Methods_Exercises\20. Debugging_TriangleForm\bin\Debug\_20.Debugging_TriangleForm.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\12 - Arrays and Methods - Exercises\12_Arrays_Methods_Exercises\20. Debugging_TriangleForm\bin\Debug\_20.Debugging_TriangleForm.pdb
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\12 - Arrays and Methods - Exercises\12_Arrays_Methods_Exercises\20. Debugging_TriangleForm\obj\Debug\20. Debugging_TriangleForm.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\12 - Arrays and Methods - Exercises\12_Arrays_Methods_Exercises\20. Debugging_TriangleForm\obj\Debug\_20.Debugging_TriangleForm.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\12 - Arrays and Methods - Exercises\12_Arrays_Methods_Exercises\20. Debugging_TriangleForm\obj\Debug\_20.Debugging_TriangleForm.pdb

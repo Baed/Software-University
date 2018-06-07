@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\18 - Array and List Algorithms - Exercises\18 ArrayAndListAlgorithms\06. Batteries\bin\Debug\_06.Batteries.exe.config
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\18 - Array and List Algorithms - Exercises\18 ArrayAndListAlgorithms\06. Batteries\bin\Debug\_06.Batteries.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\18 - Array and List Algorithms - Exercises\18 ArrayAndListAlgorithms\06. Batteries\bin\Debug\_06.Batteries.pdb
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\18 - Array and List Algorithms - Exercises\18 ArrayAndListAlgorithms\06. Batteries\obj\Debug\06. Batteries.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\18 - Array and List Algorithms - Exercises\18 ArrayAndListAlgorithms\06. Batteries\obj\Debug\06. Batteries.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\18 - Array and List Algorithms - Exercises\18 ArrayAndListAlgorithms\06. Batteries\obj\Debug\_06.Batteries.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\18 - Array and List Algorithms - Exercises\18 ArrayAndListAlgorithms\06. Batteries\obj\Debug\_06.Batteries.pdb

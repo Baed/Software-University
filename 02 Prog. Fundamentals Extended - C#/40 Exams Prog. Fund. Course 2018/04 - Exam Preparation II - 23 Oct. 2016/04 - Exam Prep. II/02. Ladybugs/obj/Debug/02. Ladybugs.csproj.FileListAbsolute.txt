@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\04 - Exam Preparation II\04 - Exam Prep. II\02. Ladybugs\bin\Debug\_02.Ladybugs.exe.config
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\04 - Exam Preparation II\04 - Exam Prep. II\02. Ladybugs\bin\Debug\_02.Ladybugs.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\04 - Exam Preparation II\04 - Exam Prep. II\02. Ladybugs\bin\Debug\_02.Ladybugs.pdb
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\04 - Exam Preparation II\04 - Exam Prep. II\02. Ladybugs\obj\Debug\02. Ladybugs.csprojResolveAssemblyReference.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\04 - Exam Preparation II\04 - Exam Prep. II\02. Ladybugs\obj\Debug\02. Ladybugs.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\04 - Exam Preparation II\04 - Exam Prep. II\02. Ladybugs\obj\Debug\_02.Ladybugs.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\40 Exams Prog. Fund. Course 2018\04 - Exam Preparation II\04 - Exam Prep. II\02. Ladybugs\obj\Debug\_02.Ladybugs.pdb

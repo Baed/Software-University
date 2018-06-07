@@ -1,6 +1,0 @@
-C:\My Staff\SoftUni\05 OOP Advanced\01 Interfaces and Abstraction\01 Interfaces and Abstraction\E06 Birthday Celebrations\bin\Debug\E06 Birthday Celebrations.exe.config
-C:\My Staff\SoftUni\05 OOP Advanced\01 Interfaces and Abstraction\01 Interfaces and Abstraction\E06 Birthday Celebrations\bin\Debug\E06 Birthday Celebrations.exe
-C:\My Staff\SoftUni\05 OOP Advanced\01 Interfaces and Abstraction\01 Interfaces and Abstraction\E06 Birthday Celebrations\bin\Debug\E06 Birthday Celebrations.pdb
-C:\My Staff\SoftUni\05 OOP Advanced\01 Interfaces and Abstraction\01 Interfaces and Abstraction\E06 Birthday Celebrations\obj\Debug\E06 Birthday Celebrations.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\05 OOP Advanced\01 Interfaces and Abstraction\01 Interfaces and Abstraction\E06 Birthday Celebrations\obj\Debug\E06 Birthday Celebrations.exe
-C:\My Staff\SoftUni\05 OOP Advanced\01 Interfaces and Abstraction\01 Interfaces and Abstraction\E06 Birthday Celebrations\obj\Debug\E06 Birthday Celebrations.pdb

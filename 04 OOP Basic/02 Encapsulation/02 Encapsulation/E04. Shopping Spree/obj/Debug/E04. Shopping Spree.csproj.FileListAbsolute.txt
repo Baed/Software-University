@@ -1,6 +1,0 @@
-C:\My Staff\SoftUni\04 OOP Basic\02 Encapsulation\02 Encapsulation\E04. Shopping Spree\bin\Debug\E04.Shopping_Spree.exe.config
-C:\My Staff\SoftUni\04 OOP Basic\02 Encapsulation\02 Encapsulation\E04. Shopping Spree\bin\Debug\E04.Shopping_Spree.exe
-C:\My Staff\SoftUni\04 OOP Basic\02 Encapsulation\02 Encapsulation\E04. Shopping Spree\bin\Debug\E04.Shopping_Spree.pdb
-C:\My Staff\SoftUni\04 OOP Basic\02 Encapsulation\02 Encapsulation\E04. Shopping Spree\obj\Debug\E04. Shopping Spree.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\04 OOP Basic\02 Encapsulation\02 Encapsulation\E04. Shopping Spree\obj\Debug\E04.Shopping_Spree.exe
-C:\My Staff\SoftUni\04 OOP Basic\02 Encapsulation\02 Encapsulation\E04. Shopping Spree\obj\Debug\E04.Shopping_Spree.pdb

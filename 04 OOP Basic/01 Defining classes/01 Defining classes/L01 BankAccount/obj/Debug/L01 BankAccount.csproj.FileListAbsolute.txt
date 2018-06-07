@@ -1,6 +1,0 @@
-C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\L01 BankAccount\bin\Debug\L01 BankAccount.exe.config
-C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\L01 BankAccount\bin\Debug\L01 BankAccount.exe
-C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\L01 BankAccount\bin\Debug\L01 BankAccount.pdb
-C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\L01 BankAccount\obj\Debug\L01 BankAccount.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\L01 BankAccount\obj\Debug\L01 BankAccount.exe
-C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\L01 BankAccount\obj\Debug\L01 BankAccount.pdb

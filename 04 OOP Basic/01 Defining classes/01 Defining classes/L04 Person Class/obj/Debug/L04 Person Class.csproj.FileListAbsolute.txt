@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\L04 Person Class\bin\Debug\L04 Person Class.exe.config
-C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\L04 Person Class\bin\Debug\L04 Person Class.exe
-C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\L04 Person Class\bin\Debug\L04 Person Class.pdb
-C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\L04 Person Class\obj\Debug\L04 Person Class.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\L04 Person Class\obj\Debug\L04 Person Class.exe
-C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\L04 Person Class\obj\Debug\L04 Person Class.pdb
-C:\My Staff\SoftUni\04 OOP Basic\01 Defining classes\01 Defining classes\L04 Person Class\obj\Debug\L04 Person Class.csprojResolveAssemblyReference.cache

@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\05 OOP Advanced\04 Enums and Attributes\04 Enums and Attributes\L00 Test 01\bin\Debug\L00 Test 01.exe.config
-C:\My Staff\SoftUni\05 OOP Advanced\04 Enums and Attributes\04 Enums and Attributes\L00 Test 01\bin\Debug\L00 Test 01.exe
-C:\My Staff\SoftUni\05 OOP Advanced\04 Enums and Attributes\04 Enums and Attributes\L00 Test 01\bin\Debug\L00 Test 01.pdb
-C:\My Staff\SoftUni\05 OOP Advanced\04 Enums and Attributes\04 Enums and Attributes\L00 Test 01\obj\Debug\L00 Test 01.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\05 OOP Advanced\04 Enums and Attributes\04 Enums and Attributes\L00 Test 01\obj\Debug\L00 Test 01.exe
-C:\My Staff\SoftUni\05 OOP Advanced\04 Enums and Attributes\04 Enums and Attributes\L00 Test 01\obj\Debug\L00 Test 01.pdb
-C:\My Staff\SoftUni\05 OOP Advanced\04 Enums and Attributes\04 Enums and Attributes\L00 Test 01\obj\Debug\L00 Test 01.csprojResolveAssemblyReference.cache

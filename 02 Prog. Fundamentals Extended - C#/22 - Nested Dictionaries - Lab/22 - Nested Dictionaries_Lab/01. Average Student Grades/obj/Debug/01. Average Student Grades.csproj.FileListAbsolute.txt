@@ -1,7 +1,0 @@
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\22 - Nested Dictionaries - Lab\22 - Nested Dictionaries_Lab\01. Average Student Grades\obj\Debug\01. Average Student Grades.csproj.CoreCompileInputs.cache
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\22 - Nested Dictionaries - Lab\22 - Nested Dictionaries_Lab\01. Average Student Grades\bin\Debug\_01.Average_Student_Grades.exe.config
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\22 - Nested Dictionaries - Lab\22 - Nested Dictionaries_Lab\01. Average Student Grades\bin\Debug\_01.Average_Student_Grades.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\22 - Nested Dictionaries - Lab\22 - Nested Dictionaries_Lab\01. Average Student Grades\bin\Debug\_01.Average_Student_Grades.pdb
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\22 - Nested Dictionaries - Lab\22 - Nested Dictionaries_Lab\01. Average Student Grades\obj\Debug\_01.Average_Student_Grades.exe
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\22 - Nested Dictionaries - Lab\22 - Nested Dictionaries_Lab\01. Average Student Grades\obj\Debug\_01.Average_Student_Grades.pdb
-C:\My Staff\SoftUni\02 Prog. Fundamentals Extended - C#\22 - Nested Dictionaries - Lab\22 - Nested Dictionaries_Lab\01. Average Student Grades\obj\Debug\01. Average Student Grades.csprojResolveAssemblyReference.cache
