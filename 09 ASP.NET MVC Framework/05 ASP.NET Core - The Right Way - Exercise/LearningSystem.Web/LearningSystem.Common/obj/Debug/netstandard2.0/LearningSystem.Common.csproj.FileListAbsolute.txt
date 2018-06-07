@@ -1,0 +1,9 @@
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\05 ASP.NET Core - The Right Way - Exercise\LearningSystem.Web\LearningSystem.Common\bin\Debug\netstandard2.0\LearningSystem.Common.deps.json
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\05 ASP.NET Core - The Right Way - Exercise\LearningSystem.Web\LearningSystem.Common\bin\Debug\netstandard2.0\LearningSystem.Common.dll
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\05 ASP.NET Core - The Right Way - Exercise\LearningSystem.Web\LearningSystem.Common\obj\Debug\netstandard2.0\LearningSystem.Common.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\05 ASP.NET Core - The Right Way - Exercise\LearningSystem.Web\LearningSystem.Common\obj\Debug\netstandard2.0\LearningSystem.Common.AssemblyInfoInputs.cache
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\05 ASP.NET Core - The Right Way - Exercise\LearningSystem.Web\LearningSystem.Common\obj\Debug\netstandard2.0\LearningSystem.Common.AssemblyInfo.cs
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\05 ASP.NET Core - The Right Way - Exercise\LearningSystem.Web\LearningSystem.Common\bin\Debug\netstandard2.0\LearningSystem.Common.pdb
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\05 ASP.NET Core - The Right Way - Exercise\LearningSystem.Web\LearningSystem.Common\obj\Debug\netstandard2.0\LearningSystem.Common.dll
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\05 ASP.NET Core - The Right Way - Exercise\LearningSystem.Web\LearningSystem.Common\obj\Debug\netstandard2.0\LearningSystem.Common.pdb
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\05 ASP.NET Core - The Right Way - Exercise\LearningSystem.Web\LearningSystem.Common\obj\Debug\netstandard2.0\LearningSystem.Common.csprojResolveAssemblyReference.cache

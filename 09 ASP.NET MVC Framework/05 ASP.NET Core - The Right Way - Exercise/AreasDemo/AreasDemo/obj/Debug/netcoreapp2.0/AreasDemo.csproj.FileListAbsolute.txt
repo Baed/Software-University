@@ -1,0 +1,12 @@
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\05 ASP.NET Core - The Right Way - Exercise\AreasDemo\AreasDemo\bin\Debug\netcoreapp2.0\AreasDemo.deps.json
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\05 ASP.NET Core - The Right Way - Exercise\AreasDemo\AreasDemo\bin\Debug\netcoreapp2.0\AreasDemo.runtimeconfig.json
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\05 ASP.NET Core - The Right Way - Exercise\AreasDemo\AreasDemo\bin\Debug\netcoreapp2.0\AreasDemo.runtimeconfig.dev.json
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\05 ASP.NET Core - The Right Way - Exercise\AreasDemo\AreasDemo\bin\Debug\netcoreapp2.0\AreasDemo.dll
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\05 ASP.NET Core - The Right Way - Exercise\AreasDemo\AreasDemo\bin\Debug\netcoreapp2.0\AreasDemo.pdb
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\05 ASP.NET Core - The Right Way - Exercise\AreasDemo\AreasDemo\obj\Debug\netcoreapp2.0\AreasDemo.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\05 ASP.NET Core - The Right Way - Exercise\AreasDemo\AreasDemo\obj\Debug\netcoreapp2.0\AreasDemo.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\05 ASP.NET Core - The Right Way - Exercise\AreasDemo\AreasDemo\obj\Debug\netcoreapp2.0\AreasDemo.AssemblyInfoInputs.cache
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\05 ASP.NET Core - The Right Way - Exercise\AreasDemo\AreasDemo\obj\Debug\netcoreapp2.0\AreasDemo.AssemblyInfo.cs
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\05 ASP.NET Core - The Right Way - Exercise\AreasDemo\AreasDemo\obj\Debug\netcoreapp2.0\AreasDemo.dll
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\05 ASP.NET Core - The Right Way - Exercise\AreasDemo\AreasDemo\obj\Debug\netcoreapp2.0\AreasDemo.pdb
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\05 ASP.NET Core - The Right Way - Exercise\AreasDemo\AreasDemo\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs

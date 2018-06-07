@@ -1,0 +1,12 @@
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\05 ASP.NET Core - The Right Way - Exercise\LearningSystem.Web\LearningSystem.Data\bin\Debug\netstandard2.0\LearningSystem.Data.deps.json
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\05 ASP.NET Core - The Right Way - Exercise\LearningSystem.Web\LearningSystem.Data\bin\Debug\netstandard2.0\LearningSystem.Data.dll
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\05 ASP.NET Core - The Right Way - Exercise\LearningSystem.Web\LearningSystem.Data\obj\Debug\netstandard2.0\LearningSystem.Data.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\05 ASP.NET Core - The Right Way - Exercise\LearningSystem.Web\LearningSystem.Data\obj\Debug\netstandard2.0\LearningSystem.Data.AssemblyInfoInputs.cache
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\05 ASP.NET Core - The Right Way - Exercise\LearningSystem.Web\LearningSystem.Data\obj\Debug\netstandard2.0\LearningSystem.Data.AssemblyInfo.cs
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\05 ASP.NET Core - The Right Way - Exercise\LearningSystem.Web\LearningSystem.Data\bin\Debug\netstandard2.0\LearningSystem.Data.pdb
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\05 ASP.NET Core - The Right Way - Exercise\LearningSystem.Web\LearningSystem.Data\obj\Debug\netstandard2.0\LearningSystem.Data.dll
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\05 ASP.NET Core - The Right Way - Exercise\LearningSystem.Web\LearningSystem.Data\obj\Debug\netstandard2.0\LearningSystem.Data.pdb
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\05 ASP.NET Core - The Right Way - Exercise\LearningSystem.Web\LearningSystem.Data\bin\Debug\netstandard2.0\LearningSystem.Constants.dll
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\05 ASP.NET Core - The Right Way - Exercise\LearningSystem.Web\LearningSystem.Data\bin\Debug\netstandard2.0\LearningSystem.Constants.pdb
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\05 ASP.NET Core - The Right Way - Exercise\LearningSystem.Web\LearningSystem.Data\obj\Debug\netstandard2.0\LearningSystem.Data.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\05 ASP.NET Core - The Right Way - Exercise\LearningSystem.Web\LearningSystem.Data\obj\Debug\netstandard2.0\LearningSystem.Data.csproj.CopyComplete
