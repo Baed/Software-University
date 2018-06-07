@@ -1,0 +1,44 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div>
+    User:
+    <input type="text" id="user" />
+    <br />
+    Message:
+    <input type="text" id="message" />
+    <br />
+    <input type="button" value="Send" onclick="send()"/>
+</div>
+
+<div id="messages"></div>
+
+@section Scripts {
+    <script>
+        var transportType = signalR.TransportType.WebSockets;
+        //can also be ServerSentEvents or LongPolling
+        var logger = new signalR.ConsoleLogger(signalR.LogLevel.Information);
+        var chatHub = new signalR.HttpConnection(`http://${document.location.host}/chat`, { transport: transportType, logger: logger });
+        var chatConnection = new signalR.HubConnection(chatHub, logger);
+
+        chatConnection.onClosed = e => {
+            console.log('connection closed');
+        };
+
+        chatConnection.on('Send', (message) => {
+            document.getElementById('messages').innerHTML += '<div>' + message + '</div>';
+        });
+
+        chatConnection.start().catch(err => {
+            console.log('connection error');
+        });
+
+        function send() {
+            var user = document.getElementById('user').value;
+            var message = user + ': ' + document.getElementById('message').value;
+
+            chatConnection.invoke('Send', message);
+        }
+    </script>
+}
