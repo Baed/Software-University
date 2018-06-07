@@ -1,0 +1,12 @@
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\01 ASP.NET Core Introduction\01 DemoIntroduction\01 DemoIntroduction\bin\Debug\netcoreapp2.0\01 DemoIntroduction.deps.json
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\01 ASP.NET Core Introduction\01 DemoIntroduction\01 DemoIntroduction\bin\Debug\netcoreapp2.0\01 DemoIntroduction.runtimeconfig.json
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\01 ASP.NET Core Introduction\01 DemoIntroduction\01 DemoIntroduction\bin\Debug\netcoreapp2.0\01 DemoIntroduction.runtimeconfig.dev.json
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\01 ASP.NET Core Introduction\01 DemoIntroduction\01 DemoIntroduction\bin\Debug\netcoreapp2.0\01 DemoIntroduction.dll
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\01 ASP.NET Core Introduction\01 DemoIntroduction\01 DemoIntroduction\bin\Debug\netcoreapp2.0\01 DemoIntroduction.pdb
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\01 ASP.NET Core Introduction\01 DemoIntroduction\01 DemoIntroduction\obj\Debug\netcoreapp2.0\01 DemoIntroduction.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\01 ASP.NET Core Introduction\01 DemoIntroduction\01 DemoIntroduction\obj\Debug\netcoreapp2.0\01 DemoIntroduction.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\01 ASP.NET Core Introduction\01 DemoIntroduction\01 DemoIntroduction\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\01 ASP.NET Core Introduction\01 DemoIntroduction\01 DemoIntroduction\obj\Debug\netcoreapp2.0\01 DemoIntroduction.AssemblyInfoInputs.cache
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\01 ASP.NET Core Introduction\01 DemoIntroduction\01 DemoIntroduction\obj\Debug\netcoreapp2.0\01 DemoIntroduction.AssemblyInfo.cs
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\01 ASP.NET Core Introduction\01 DemoIntroduction\01 DemoIntroduction\obj\Debug\netcoreapp2.0\01 DemoIntroduction.dll
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\01 ASP.NET Core Introduction\01 DemoIntroduction\01 DemoIntroduction\obj\Debug\netcoreapp2.0\01 DemoIntroduction.pdb
