@@ -1,0 +1,17 @@
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\03 ASP.NET Core - Razor Engine and Filters\CameraBazaar.Web\CameraBazaar.Web\bin\Debug\netcoreapp2.0\CameraBazaar.Web.deps.json
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\03 ASP.NET Core - Razor Engine and Filters\CameraBazaar.Web\CameraBazaar.Web\bin\Debug\netcoreapp2.0\CameraBazaar.Web.runtimeconfig.json
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\03 ASP.NET Core - Razor Engine and Filters\CameraBazaar.Web\CameraBazaar.Web\bin\Debug\netcoreapp2.0\CameraBazaar.Web.runtimeconfig.dev.json
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\03 ASP.NET Core - Razor Engine and Filters\CameraBazaar.Web\CameraBazaar.Web\bin\Debug\netcoreapp2.0\CameraBazaar.Web.dll
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\03 ASP.NET Core - Razor Engine and Filters\CameraBazaar.Web\CameraBazaar.Web\bin\Debug\netcoreapp2.0\CameraBazaar.Web.pdb
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\03 ASP.NET Core - Razor Engine and Filters\CameraBazaar.Web\CameraBazaar.Web\bin\Debug\netcoreapp2.0\CameraBazaar.Data.dll
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\03 ASP.NET Core - Razor Engine and Filters\CameraBazaar.Web\CameraBazaar.Web\bin\Debug\netcoreapp2.0\CameraBazaar.Data.pdb
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\03 ASP.NET Core - Razor Engine and Filters\CameraBazaar.Web\CameraBazaar.Web\obj\Debug\netcoreapp2.0\CameraBazaar.Web.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\03 ASP.NET Core - Razor Engine and Filters\CameraBazaar.Web\CameraBazaar.Web\obj\Debug\netcoreapp2.0\CameraBazaar.Web.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\03 ASP.NET Core - Razor Engine and Filters\CameraBazaar.Web\CameraBazaar.Web\obj\Debug\netcoreapp2.0\CameraBazaar.Web.AssemblyInfoInputs.cache
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\03 ASP.NET Core - Razor Engine and Filters\CameraBazaar.Web\CameraBazaar.Web\obj\Debug\netcoreapp2.0\CameraBazaar.Web.AssemblyInfo.cs
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\03 ASP.NET Core - Razor Engine and Filters\CameraBazaar.Web\CameraBazaar.Web\obj\Debug\netcoreapp2.0\CameraBazaar.Web.csproj.CopyComplete
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\03 ASP.NET Core - Razor Engine and Filters\CameraBazaar.Web\CameraBazaar.Web\obj\Debug\netcoreapp2.0\CameraBazaar.Web.dll
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\03 ASP.NET Core - Razor Engine and Filters\CameraBazaar.Web\CameraBazaar.Web\obj\Debug\netcoreapp2.0\CameraBazaar.Web.pdb
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\03 ASP.NET Core - Razor Engine and Filters\CameraBazaar.Web\CameraBazaar.Web\bin\Debug\netcoreapp2.0\CameraBazaar.Service.dll
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\03 ASP.NET Core - Razor Engine and Filters\CameraBazaar.Web\CameraBazaar.Web\bin\Debug\netcoreapp2.0\CameraBazaar.Service.pdb
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\03 ASP.NET Core - Razor Engine and Filters\CameraBazaar.Web\CameraBazaar.Web\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs

@@ -1,0 +1,12 @@
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\03 ASP.NET Core - Razor Engine and Filters\CameraBazaar.Web\CameraBazaar.Service\bin\Debug\netstandard2.0\CameraBazaar.Service.deps.json
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\03 ASP.NET Core - Razor Engine and Filters\CameraBazaar.Web\CameraBazaar.Service\bin\Debug\netstandard2.0\CameraBazaar.Service.dll
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\03 ASP.NET Core - Razor Engine and Filters\CameraBazaar.Web\CameraBazaar.Service\bin\Debug\netstandard2.0\CameraBazaar.Service.pdb
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\03 ASP.NET Core - Razor Engine and Filters\CameraBazaar.Web\CameraBazaar.Service\obj\Debug\netstandard2.0\CameraBazaar.Service.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\03 ASP.NET Core - Razor Engine and Filters\CameraBazaar.Web\CameraBazaar.Service\obj\Debug\netstandard2.0\CameraBazaar.Service.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\03 ASP.NET Core - Razor Engine and Filters\CameraBazaar.Web\CameraBazaar.Service\obj\Debug\netstandard2.0\CameraBazaar.Service.AssemblyInfoInputs.cache
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\03 ASP.NET Core - Razor Engine and Filters\CameraBazaar.Web\CameraBazaar.Service\obj\Debug\netstandard2.0\CameraBazaar.Service.AssemblyInfo.cs
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\03 ASP.NET Core - Razor Engine and Filters\CameraBazaar.Web\CameraBazaar.Service\obj\Debug\netstandard2.0\CameraBazaar.Service.dll
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\03 ASP.NET Core - Razor Engine and Filters\CameraBazaar.Web\CameraBazaar.Service\obj\Debug\netstandard2.0\CameraBazaar.Service.pdb
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\03 ASP.NET Core - Razor Engine and Filters\CameraBazaar.Web\CameraBazaar.Service\bin\Debug\netstandard2.0\CameraBazaar.Data.dll
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\03 ASP.NET Core - Razor Engine and Filters\CameraBazaar.Web\CameraBazaar.Service\bin\Debug\netstandard2.0\CameraBazaar.Data.pdb
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\03 ASP.NET Core - Razor Engine and Filters\CameraBazaar.Web\CameraBazaar.Service\obj\Debug\netstandard2.0\CameraBazaar.Service.csproj.CopyComplete
