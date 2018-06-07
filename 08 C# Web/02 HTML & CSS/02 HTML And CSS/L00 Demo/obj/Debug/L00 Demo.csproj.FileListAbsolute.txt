@@ -1,0 +1,57 @@
+C:\My Staff\SoftUni\08 C# Web Dev\02 HTML & CSS\02 HTML And CSS\L00 Demo\bin\L00 Demo.dll.config
+C:\My Staff\SoftUni\08 C# Web Dev\02 HTML & CSS\02 HTML And CSS\L00 Demo\bin\L00 Demo.dll
+C:\My Staff\SoftUni\08 C# Web Dev\02 HTML & CSS\02 HTML And CSS\L00 Demo\bin\L00 Demo.pdb
+C:\My Staff\SoftUni\08 C# Web Dev\02 HTML & CSS\02 HTML And CSS\L00 Demo\bin\roslyn\csc.exe
+C:\My Staff\SoftUni\08 C# Web Dev\02 HTML & CSS\02 HTML And CSS\L00 Demo\bin\roslyn\csc.exe.config
+C:\My Staff\SoftUni\08 C# Web Dev\02 HTML & CSS\02 HTML And CSS\L00 Demo\bin\roslyn\csc.rsp
+C:\My Staff\SoftUni\08 C# Web Dev\02 HTML & CSS\02 HTML And CSS\L00 Demo\bin\roslyn\csi.exe
+C:\My Staff\SoftUni\08 C# Web Dev\02 HTML & CSS\02 HTML And CSS\L00 Demo\bin\roslyn\csi.exe.config
+C:\My Staff\SoftUni\08 C# Web Dev\02 HTML & CSS\02 HTML And CSS\L00 Demo\bin\roslyn\csi.rsp
+C:\My Staff\SoftUni\08 C# Web Dev\02 HTML & CSS\02 HTML And CSS\L00 Demo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\My Staff\SoftUni\08 C# Web Dev\02 HTML & CSS\02 HTML And CSS\L00 Demo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\My Staff\SoftUni\08 C# Web Dev\02 HTML & CSS\02 HTML And CSS\L00 Demo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\My Staff\SoftUni\08 C# Web Dev\02 HTML & CSS\02 HTML And CSS\L00 Demo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\My Staff\SoftUni\08 C# Web Dev\02 HTML & CSS\02 HTML And CSS\L00 Demo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\My Staff\SoftUni\08 C# Web Dev\02 HTML & CSS\02 HTML And CSS\L00 Demo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\My Staff\SoftUni\08 C# Web Dev\02 HTML & CSS\02 HTML And CSS\L00 Demo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\My Staff\SoftUni\08 C# Web Dev\02 HTML & CSS\02 HTML And CSS\L00 Demo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\My Staff\SoftUni\08 C# Web Dev\02 HTML & CSS\02 HTML And CSS\L00 Demo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\My Staff\SoftUni\08 C# Web Dev\02 HTML & CSS\02 HTML And CSS\L00 Demo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\My Staff\SoftUni\08 C# Web Dev\02 HTML & CSS\02 HTML And CSS\L00 Demo\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\My Staff\SoftUni\08 C# Web Dev\02 HTML & CSS\02 HTML And CSS\L00 Demo\bin\roslyn\System.AppContext.dll
+C:\My Staff\SoftUni\08 C# Web Dev\02 HTML & CSS\02 HTML And CSS\L00 Demo\bin\roslyn\System.Collections.Immutable.dll
+C:\My Staff\SoftUni\08 C# Web Dev\02 HTML & CSS\02 HTML And CSS\L00 Demo\bin\roslyn\System.Console.dll
+C:\My Staff\SoftUni\08 C# Web Dev\02 HTML & CSS\02 HTML And CSS\L00 Demo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\My Staff\SoftUni\08 C# Web Dev\02 HTML & CSS\02 HTML And CSS\L00 Demo\bin\roslyn\System.Diagnostics.Process.dll
+C:\My Staff\SoftUni\08 C# Web Dev\02 HTML & CSS\02 HTML And CSS\L00 Demo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\My Staff\SoftUni\08 C# Web Dev\02 HTML & CSS\02 HTML And CSS\L00 Demo\bin\roslyn\System.IO.Compression.dll
+C:\My Staff\SoftUni\08 C# Web Dev\02 HTML & CSS\02 HTML And CSS\L00 Demo\bin\roslyn\System.IO.FileSystem.dll
+C:\My Staff\SoftUni\08 C# Web Dev\02 HTML & CSS\02 HTML And CSS\L00 Demo\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\My Staff\SoftUni\08 C# Web Dev\02 HTML & CSS\02 HTML And CSS\L00 Demo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\My Staff\SoftUni\08 C# Web Dev\02 HTML & CSS\02 HTML And CSS\L00 Demo\bin\roslyn\System.IO.Pipes.dll
+C:\My Staff\SoftUni\08 C# Web Dev\02 HTML & CSS\02 HTML And CSS\L00 Demo\bin\roslyn\System.Reflection.Metadata.dll
+C:\My Staff\SoftUni\08 C# Web Dev\02 HTML & CSS\02 HTML And CSS\L00 Demo\bin\roslyn\System.Security.AccessControl.dll
+C:\My Staff\SoftUni\08 C# Web Dev\02 HTML & CSS\02 HTML And CSS\L00 Demo\bin\roslyn\System.Security.Claims.dll
+C:\My Staff\SoftUni\08 C# Web Dev\02 HTML & CSS\02 HTML And CSS\L00 Demo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\My Staff\SoftUni\08 C# Web Dev\02 HTML & CSS\02 HTML And CSS\L00 Demo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\My Staff\SoftUni\08 C# Web Dev\02 HTML & CSS\02 HTML And CSS\L00 Demo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\My Staff\SoftUni\08 C# Web Dev\02 HTML & CSS\02 HTML And CSS\L00 Demo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\My Staff\SoftUni\08 C# Web Dev\02 HTML & CSS\02 HTML And CSS\L00 Demo\bin\roslyn\System.Security.Principal.Windows.dll
+C:\My Staff\SoftUni\08 C# Web Dev\02 HTML & CSS\02 HTML And CSS\L00 Demo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\My Staff\SoftUni\08 C# Web Dev\02 HTML & CSS\02 HTML And CSS\L00 Demo\bin\roslyn\System.Threading.Thread.dll
+C:\My Staff\SoftUni\08 C# Web Dev\02 HTML & CSS\02 HTML And CSS\L00 Demo\bin\roslyn\System.ValueTuple.dll
+C:\My Staff\SoftUni\08 C# Web Dev\02 HTML & CSS\02 HTML And CSS\L00 Demo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\My Staff\SoftUni\08 C# Web Dev\02 HTML & CSS\02 HTML And CSS\L00 Demo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\My Staff\SoftUni\08 C# Web Dev\02 HTML & CSS\02 HTML And CSS\L00 Demo\bin\roslyn\System.Xml.XPath.dll
+C:\My Staff\SoftUni\08 C# Web Dev\02 HTML & CSS\02 HTML And CSS\L00 Demo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\My Staff\SoftUni\08 C# Web Dev\02 HTML & CSS\02 HTML And CSS\L00 Demo\bin\roslyn\vbc.exe
+C:\My Staff\SoftUni\08 C# Web Dev\02 HTML & CSS\02 HTML And CSS\L00 Demo\bin\roslyn\vbc.exe.config
+C:\My Staff\SoftUni\08 C# Web Dev\02 HTML & CSS\02 HTML And CSS\L00 Demo\bin\roslyn\vbc.rsp
+C:\My Staff\SoftUni\08 C# Web Dev\02 HTML & CSS\02 HTML And CSS\L00 Demo\bin\roslyn\VBCSCompiler.exe
+C:\My Staff\SoftUni\08 C# Web Dev\02 HTML & CSS\02 HTML And CSS\L00 Demo\bin\roslyn\VBCSCompiler.exe.config
+C:\My Staff\SoftUni\08 C# Web Dev\02 HTML & CSS\02 HTML And CSS\L00 Demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\My Staff\SoftUni\08 C# Web Dev\02 HTML & CSS\02 HTML And CSS\L00 Demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\My Staff\SoftUni\08 C# Web Dev\02 HTML & CSS\02 HTML And CSS\L00 Demo\obj\Debug\L00 Demo.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\08 C# Web Dev\02 HTML & CSS\02 HTML And CSS\L00 Demo\obj\Debug\L00 Demo.csproj.CopyComplete
+C:\My Staff\SoftUni\08 C# Web Dev\02 HTML & CSS\02 HTML And CSS\L00 Demo\obj\Debug\L00 Demo.dll
+C:\My Staff\SoftUni\08 C# Web Dev\02 HTML & CSS\02 HTML And CSS\L00 Demo\obj\Debug\L00 Demo.pdb
