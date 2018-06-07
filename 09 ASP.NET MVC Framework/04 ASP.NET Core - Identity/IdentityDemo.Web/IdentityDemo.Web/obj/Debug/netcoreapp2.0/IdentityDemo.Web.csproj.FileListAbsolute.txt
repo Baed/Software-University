@@ -1,0 +1,12 @@
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\04 ASP.NET Core - Identity\IdentityDemo.Web\IdentityDemo.Web\bin\Debug\netcoreapp2.0\IdentityDemo.Web.deps.json
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\04 ASP.NET Core - Identity\IdentityDemo.Web\IdentityDemo.Web\bin\Debug\netcoreapp2.0\IdentityDemo.Web.runtimeconfig.json
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\04 ASP.NET Core - Identity\IdentityDemo.Web\IdentityDemo.Web\bin\Debug\netcoreapp2.0\IdentityDemo.Web.runtimeconfig.dev.json
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\04 ASP.NET Core - Identity\IdentityDemo.Web\IdentityDemo.Web\bin\Debug\netcoreapp2.0\IdentityDemo.Web.dll
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\04 ASP.NET Core - Identity\IdentityDemo.Web\IdentityDemo.Web\bin\Debug\netcoreapp2.0\IdentityDemo.Web.pdb
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\04 ASP.NET Core - Identity\IdentityDemo.Web\IdentityDemo.Web\obj\Debug\netcoreapp2.0\IdentityDemo.Web.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\04 ASP.NET Core - Identity\IdentityDemo.Web\IdentityDemo.Web\obj\Debug\netcoreapp2.0\IdentityDemo.Web.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\04 ASP.NET Core - Identity\IdentityDemo.Web\IdentityDemo.Web\obj\Debug\netcoreapp2.0\IdentityDemo.Web.AssemblyInfoInputs.cache
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\04 ASP.NET Core - Identity\IdentityDemo.Web\IdentityDemo.Web\obj\Debug\netcoreapp2.0\IdentityDemo.Web.AssemblyInfo.cs
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\04 ASP.NET Core - Identity\IdentityDemo.Web\IdentityDemo.Web\obj\Debug\netcoreapp2.0\IdentityDemo.Web.dll
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\04 ASP.NET Core - Identity\IdentityDemo.Web\IdentityDemo.Web\obj\Debug\netcoreapp2.0\IdentityDemo.Web.pdb
+C:\My Staff\SoftUni\09 ASP.NET MVC Framework\04 ASP.NET Core - Identity\IdentityDemo.Web\IdentityDemo.Web\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
