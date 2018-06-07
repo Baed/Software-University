@@ -1,0 +1,11 @@
+C:\My Staff\SoftUni\08 C# Web Dev\04 Web Server - Asynchronous Processing\04 WebServer Exercise\Webserver\bin\Debug\netcoreapp2.0\Webserver.deps.json
+C:\My Staff\SoftUni\08 C# Web Dev\04 Web Server - Asynchronous Processing\04 WebServer Exercise\Webserver\bin\Debug\netcoreapp2.0\Webserver.runtimeconfig.json
+C:\My Staff\SoftUni\08 C# Web Dev\04 Web Server - Asynchronous Processing\04 WebServer Exercise\Webserver\bin\Debug\netcoreapp2.0\Webserver.runtimeconfig.dev.json
+C:\My Staff\SoftUni\08 C# Web Dev\04 Web Server - Asynchronous Processing\04 WebServer Exercise\Webserver\bin\Debug\netcoreapp2.0\Webserver.dll
+C:\My Staff\SoftUni\08 C# Web Dev\04 Web Server - Asynchronous Processing\04 WebServer Exercise\Webserver\bin\Debug\netcoreapp2.0\Webserver.pdb
+C:\My Staff\SoftUni\08 C# Web Dev\04 Web Server - Asynchronous Processing\04 WebServer Exercise\Webserver\obj\Debug\netcoreapp2.0\Webserver.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\08 C# Web Dev\04 Web Server - Asynchronous Processing\04 WebServer Exercise\Webserver\obj\Debug\netcoreapp2.0\Webserver.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\08 C# Web Dev\04 Web Server - Asynchronous Processing\04 WebServer Exercise\Webserver\obj\Debug\netcoreapp2.0\Webserver.AssemblyInfoInputs.cache
+C:\My Staff\SoftUni\08 C# Web Dev\04 Web Server - Asynchronous Processing\04 WebServer Exercise\Webserver\obj\Debug\netcoreapp2.0\Webserver.AssemblyInfo.cs
+C:\My Staff\SoftUni\08 C# Web Dev\04 Web Server - Asynchronous Processing\04 WebServer Exercise\Webserver\obj\Debug\netcoreapp2.0\Webserver.dll
+C:\My Staff\SoftUni\08 C# Web Dev\04 Web Server - Asynchronous Processing\04 WebServer Exercise\Webserver\obj\Debug\netcoreapp2.0\Webserver.pdb

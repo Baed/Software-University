@@ -1,0 +1,11 @@
+C:\My Staff\SoftUni\08 C# Web Dev\04 Web Server - Asynchronous Processing\04 Asynchronous Processing\L03 Simple Web Server\bin\Debug\netcoreapp2.0\L03 Simple Web Server.deps.json
+C:\My Staff\SoftUni\08 C# Web Dev\04 Web Server - Asynchronous Processing\04 Asynchronous Processing\L03 Simple Web Server\bin\Debug\netcoreapp2.0\L03 Simple Web Server.runtimeconfig.json
+C:\My Staff\SoftUni\08 C# Web Dev\04 Web Server - Asynchronous Processing\04 Asynchronous Processing\L03 Simple Web Server\bin\Debug\netcoreapp2.0\L03 Simple Web Server.runtimeconfig.dev.json
+C:\My Staff\SoftUni\08 C# Web Dev\04 Web Server - Asynchronous Processing\04 Asynchronous Processing\L03 Simple Web Server\bin\Debug\netcoreapp2.0\L03 Simple Web Server.dll
+C:\My Staff\SoftUni\08 C# Web Dev\04 Web Server - Asynchronous Processing\04 Asynchronous Processing\L03 Simple Web Server\bin\Debug\netcoreapp2.0\L03 Simple Web Server.pdb
+C:\My Staff\SoftUni\08 C# Web Dev\04 Web Server - Asynchronous Processing\04 Asynchronous Processing\L03 Simple Web Server\obj\Debug\netcoreapp2.0\L03 Simple Web Server.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\08 C# Web Dev\04 Web Server - Asynchronous Processing\04 Asynchronous Processing\L03 Simple Web Server\obj\Debug\netcoreapp2.0\L03 Simple Web Server.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\08 C# Web Dev\04 Web Server - Asynchronous Processing\04 Asynchronous Processing\L03 Simple Web Server\obj\Debug\netcoreapp2.0\L03 Simple Web Server.AssemblyInfoInputs.cache
+C:\My Staff\SoftUni\08 C# Web Dev\04 Web Server - Asynchronous Processing\04 Asynchronous Processing\L03 Simple Web Server\obj\Debug\netcoreapp2.0\L03 Simple Web Server.AssemblyInfo.cs
+C:\My Staff\SoftUni\08 C# Web Dev\04 Web Server - Asynchronous Processing\04 Asynchronous Processing\L03 Simple Web Server\obj\Debug\netcoreapp2.0\L03 Simple Web Server.dll
+C:\My Staff\SoftUni\08 C# Web Dev\04 Web Server - Asynchronous Processing\04 Asynchronous Processing\L03 Simple Web Server\obj\Debug\netcoreapp2.0\L03 Simple Web Server.pdb
