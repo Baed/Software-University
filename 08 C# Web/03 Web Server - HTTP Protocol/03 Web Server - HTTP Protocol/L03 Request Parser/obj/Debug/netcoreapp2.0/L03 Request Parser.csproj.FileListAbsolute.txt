@@ -1,0 +1,11 @@
+C:\My Staff\SoftUni\08 C# Web Dev\03 Web Server - HTTP Protocol\03 Web Server - HTTP Protocol\L03 Request Parser\bin\Debug\netcoreapp2.0\L03 Request Parser.deps.json
+C:\My Staff\SoftUni\08 C# Web Dev\03 Web Server - HTTP Protocol\03 Web Server - HTTP Protocol\L03 Request Parser\bin\Debug\netcoreapp2.0\L03 Request Parser.runtimeconfig.json
+C:\My Staff\SoftUni\08 C# Web Dev\03 Web Server - HTTP Protocol\03 Web Server - HTTP Protocol\L03 Request Parser\bin\Debug\netcoreapp2.0\L03 Request Parser.runtimeconfig.dev.json
+C:\My Staff\SoftUni\08 C# Web Dev\03 Web Server - HTTP Protocol\03 Web Server - HTTP Protocol\L03 Request Parser\bin\Debug\netcoreapp2.0\L03 Request Parser.dll
+C:\My Staff\SoftUni\08 C# Web Dev\03 Web Server - HTTP Protocol\03 Web Server - HTTP Protocol\L03 Request Parser\bin\Debug\netcoreapp2.0\L03 Request Parser.pdb
+C:\My Staff\SoftUni\08 C# Web Dev\03 Web Server - HTTP Protocol\03 Web Server - HTTP Protocol\L03 Request Parser\obj\Debug\netcoreapp2.0\L03 Request Parser.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\08 C# Web Dev\03 Web Server - HTTP Protocol\03 Web Server - HTTP Protocol\L03 Request Parser\obj\Debug\netcoreapp2.0\L03 Request Parser.AssemblyInfoInputs.cache
+C:\My Staff\SoftUni\08 C# Web Dev\03 Web Server - HTTP Protocol\03 Web Server - HTTP Protocol\L03 Request Parser\obj\Debug\netcoreapp2.0\L03 Request Parser.AssemblyInfo.cs
+C:\My Staff\SoftUni\08 C# Web Dev\03 Web Server - HTTP Protocol\03 Web Server - HTTP Protocol\L03 Request Parser\obj\Debug\netcoreapp2.0\L03 Request Parser.dll
+C:\My Staff\SoftUni\08 C# Web Dev\03 Web Server - HTTP Protocol\03 Web Server - HTTP Protocol\L03 Request Parser\obj\Debug\netcoreapp2.0\L03 Request Parser.pdb
+C:\My Staff\SoftUni\08 C# Web Dev\03 Web Server - HTTP Protocol\03 Web Server - HTTP Protocol\L03 Request Parser\obj\Debug\netcoreapp2.0\L03 Request Parser.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\My Staff\SoftUni\08 C# Web Dev\03 Web Server - HTTP Protocol\03 Web Server - HTTP Protocol\L01 Url Decoder\bin\Debug\netcoreapp2.0\L01 Url Decoder.deps.json
+C:\My Staff\SoftUni\08 C# Web Dev\03 Web Server - HTTP Protocol\03 Web Server - HTTP Protocol\L01 Url Decoder\bin\Debug\netcoreapp2.0\L01 Url Decoder.runtimeconfig.json
+C:\My Staff\SoftUni\08 C# Web Dev\03 Web Server - HTTP Protocol\03 Web Server - HTTP Protocol\L01 Url Decoder\bin\Debug\netcoreapp2.0\L01 Url Decoder.runtimeconfig.dev.json
+C:\My Staff\SoftUni\08 C# Web Dev\03 Web Server - HTTP Protocol\03 Web Server - HTTP Protocol\L01 Url Decoder\bin\Debug\netcoreapp2.0\L01 Url Decoder.dll
+C:\My Staff\SoftUni\08 C# Web Dev\03 Web Server - HTTP Protocol\03 Web Server - HTTP Protocol\L01 Url Decoder\bin\Debug\netcoreapp2.0\L01 Url Decoder.pdb
+C:\My Staff\SoftUni\08 C# Web Dev\03 Web Server - HTTP Protocol\03 Web Server - HTTP Protocol\L01 Url Decoder\obj\Debug\netcoreapp2.0\L01 Url Decoder.csprojResolveAssemblyReference.cache
+C:\My Staff\SoftUni\08 C# Web Dev\03 Web Server - HTTP Protocol\03 Web Server - HTTP Protocol\L01 Url Decoder\obj\Debug\netcoreapp2.0\L01 Url Decoder.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\08 C# Web Dev\03 Web Server - HTTP Protocol\03 Web Server - HTTP Protocol\L01 Url Decoder\obj\Debug\netcoreapp2.0\L01 Url Decoder.AssemblyInfoInputs.cache
+C:\My Staff\SoftUni\08 C# Web Dev\03 Web Server - HTTP Protocol\03 Web Server - HTTP Protocol\L01 Url Decoder\obj\Debug\netcoreapp2.0\L01 Url Decoder.AssemblyInfo.cs
+C:\My Staff\SoftUni\08 C# Web Dev\03 Web Server - HTTP Protocol\03 Web Server - HTTP Protocol\L01 Url Decoder\obj\Debug\netcoreapp2.0\L01 Url Decoder.dll
+C:\My Staff\SoftUni\08 C# Web Dev\03 Web Server - HTTP Protocol\03 Web Server - HTTP Protocol\L01 Url Decoder\obj\Debug\netcoreapp2.0\L01 Url Decoder.pdb

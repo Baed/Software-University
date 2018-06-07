@@ -1,0 +1,10 @@
+C:\My Staff\SoftUni\08 C# Web Dev\03 Web Server - HTTP Protocol\03 Web Server - HTTP Protocol\L02 Validate URL\bin\Debug\netcoreapp2.0\L02 Validate URL.deps.json
+C:\My Staff\SoftUni\08 C# Web Dev\03 Web Server - HTTP Protocol\03 Web Server - HTTP Protocol\L02 Validate URL\bin\Debug\netcoreapp2.0\L02 Validate URL.runtimeconfig.json
+C:\My Staff\SoftUni\08 C# Web Dev\03 Web Server - HTTP Protocol\03 Web Server - HTTP Protocol\L02 Validate URL\bin\Debug\netcoreapp2.0\L02 Validate URL.runtimeconfig.dev.json
+C:\My Staff\SoftUni\08 C# Web Dev\03 Web Server - HTTP Protocol\03 Web Server - HTTP Protocol\L02 Validate URL\bin\Debug\netcoreapp2.0\L02 Validate URL.dll
+C:\My Staff\SoftUni\08 C# Web Dev\03 Web Server - HTTP Protocol\03 Web Server - HTTP Protocol\L02 Validate URL\bin\Debug\netcoreapp2.0\L02 Validate URL.pdb
+C:\My Staff\SoftUni\08 C# Web Dev\03 Web Server - HTTP Protocol\03 Web Server - HTTP Protocol\L02 Validate URL\obj\Debug\netcoreapp2.0\L02 Validate URL.csproj.CoreCompileInputs.cache
+C:\My Staff\SoftUni\08 C# Web Dev\03 Web Server - HTTP Protocol\03 Web Server - HTTP Protocol\L02 Validate URL\obj\Debug\netcoreapp2.0\L02 Validate URL.AssemblyInfoInputs.cache
+C:\My Staff\SoftUni\08 C# Web Dev\03 Web Server - HTTP Protocol\03 Web Server - HTTP Protocol\L02 Validate URL\obj\Debug\netcoreapp2.0\L02 Validate URL.AssemblyInfo.cs
+C:\My Staff\SoftUni\08 C# Web Dev\03 Web Server - HTTP Protocol\03 Web Server - HTTP Protocol\L02 Validate URL\obj\Debug\netcoreapp2.0\L02 Validate URL.dll
+C:\My Staff\SoftUni\08 C# Web Dev\03 Web Server - HTTP Protocol\03 Web Server - HTTP Protocol\L02 Validate URL\obj\Debug\netcoreapp2.0\L02 Validate URL.pdb
